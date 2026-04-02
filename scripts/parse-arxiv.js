@@ -3,8 +3,10 @@ async function fetchPapers() {
     // Fetch latest version
     const res = await fetch("https://raw.githubusercontent.com/Gabriel-p/arxiv/refs/heads/main/arxiv.json");
     // Fetch local version for testing
-    // const res = await fetch("arxiv.json");
+    // const res = await fetch("arxiv_py.json");
     const data = await res.json();
+
+    const scoreFilter = document.getElementById('score-filter');
 
     // Extract fetched_at value
     const fetchedAt = data.fetched_at ? new Date(data.fetched_at) : null;
@@ -60,11 +62,15 @@ async function fetchPapers() {
       });
     }
 
-    // Sorting handler
-    sortOptions.addEventListener('change', (event) => {
-      const sortBy = event.target.value;
+    function updateDisplay() {
+      const sortBy = document.querySelector('input[name="sort"]:checked').value;
+      const minScore = parseInt(scoreFilter.value) || 0;
 
-      const sortedEntries = [...entries].sort((a, b) => {
+      // 1. Filter
+      let processedEntries = entries.filter(entry => (entry.score || 0) >= minScore);
+
+      // 2. Sort
+      processedEntries.sort((a, b) => {
         if (sortBy === 'updated') {
           return new Date(b.updated) - new Date(a.updated);
         } else if (sortBy === 'score') {
@@ -73,11 +79,18 @@ async function fetchPapers() {
         return 0;
       });
 
-      renderEntries(sortedEntries);
-    });
+      renderEntries(processedEntries);
+    }
+
+    // Event Listeners
+    sortOptions.addEventListener('change', updateDisplay);
+    scoreFilter.addEventListener('input', updateDisplay);
 
     // Initial render
-    renderEntries(entries);
+    updateDisplay();
+
+
+
   } catch (err) {
     console.error('Error fetching or parsing arXiv data:', err.message, err);
   }

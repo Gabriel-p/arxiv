@@ -79,19 +79,34 @@ async function main() {
       let summary = (entry.summary || "").toLowerCase().replace(/\n/g, ' ');
 
       let score = 0;
+      // Existing Keyword logic
       KEYWORDS.forEach(({ term, weight }) => {
-        const titleCount = (title.match(new RegExp(term, 'g')) || []).length;
-        const summaryCount = (summary.match(new RegExp(term, 'g')) || []).length;
+        const titleCount = (title.match(new RegExp(term, 'gi')) || []).length;
+        const summaryCount = (summary.match(new RegExp(term, 'gi')) || []).length;
         score += (titleCount * weight * 3) + (summaryCount * weight);
       });
 
-      const numericPattern = /(\d{2,})\s+(?:open\s+)?clusters/g;
-      let match;
-      while ((match = numericPattern.exec(summary)) !== null) {
-        const count = parseInt(match[1]);
-        if (count > 100) score += 10;
-        else if (count > 10) score += 5;
-      }
+      // Updated Numeric pattern: handles "new", "star", and singular "cluster"
+      const numericPattern = /(\d{2,})\s+(?:(?:new\s+)?(?:open|star)\s+)?clusters?/gi;
+      
+      const targets = [
+        { text: title, multiplier: 1.5 }, // Title hits weighted higher
+        { text: summary, multiplier: 1 }
+      ];
+      targets.forEach(({ text, multiplier }) => {
+        if (!text) return;
+        let match;
+        // Reset lastIndex because of the 'g' flag if reusing the regex
+        numericPattern.lastIndex = 0; 
+        while ((match = numericPattern.exec(text)) !== null) {
+          const count = parseInt(match[1], 10);
+          let points = 0;
+          if (count > 100) points = 10;
+          else if (count > 10) points = 5;
+          score += points * multiplier;
+        }
+      });
+
 
       return { ...entry, score };
     })

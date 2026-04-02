@@ -20,7 +20,7 @@ KEYWORDS = [
     {"term": "star cluster", "weight": 1},
     {"term": "stellar cluster", "weight": 0.5},
 ]
-N_DAYS_BACK = 90
+N_DAYS_BACK = 30
 FILE_NAME = "arxiv_py.json"
 
 
@@ -126,14 +126,15 @@ def main():
             score += (title_count * weight * 3) + (summary_count * weight)
 
         # Numeric pattern detection (e.g., "500 open clusters")
-        numeric_pattern = r"(\d{2,})\s+(?:open\s+)?clusters"
-        matches = re.findall(numeric_pattern, summary)
-        for match in matches:
-            count = int(match)
-            if count > 100:
-                score += 10
-            elif count > 10:
-                score += 5
+        numeric_pattern = r"(\d{2,})\s+(?:(?:new\s+)?(?:open|star)\s+)?clusters?"
+        for txt in (title, summary):
+            matches = re.findall(numeric_pattern, txt)
+            for match in matches:
+                count = int(match)
+                if count > 100:
+                    score += 10
+                elif count > 10:
+                    score += 5
 
         if score > 0:
             entry["score"] = score
