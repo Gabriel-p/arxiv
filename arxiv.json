@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-02T18:24:41.641Z",
+  "fetched_at": "2026-04-02T19:17:10.000Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.01123v1",
@@ -572,7 +572,7 @@
           "name": "F. F. S. Maia"
         }
       ],
-      "score": 6
+      "score": 11
     },
     {
       "id": "http://arxiv.org/abs/2603.24697v1",
@@ -878,6 +878,62 @@
       "score": 2
     },
     {
+      "id": "http://arxiv.org/abs/2603.22410v1",
+      "title": "Detailed Analysis of the NGC 2168 Cluster, Leveraging Gaia DR3",
+      "updated": "2026-03-23T18:00:15Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2603.22410v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2603.22410v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "NGC 2168 (M35) serves as a fundamental benchmark for studying stellar evolution and dynamical environments at the transition between young and intermediate-age populations. We present a comprehensive analysis of the cluster's kinematic, structural, and astrophysical properties utilizing high-precision astrometry and photometry data from Gaia Data Release 3 (DR3), complemented by 2MASS data. A statistical membership assessment yields a clean sample of probable members (N ~ 1397), with mean proper motion components of mu_alpha cos(delta) = 2.278 +/- 0.006 mas/yr and mu_delta = -2.893 +/- 0.006 mas/yr, along with a mean trigonometric parallax of varpi = 1.154 +/- 0.052 mas. We derived the cluster's fundamental parameters via isochrone fitting, determining an age of 190 +/- 12 Myr, a metallicity of [M/H] = -0.048 dex, and a probabilistic distance of 840 +/- 54 pc. The radial density profile is well described by a generalized King model with beta = 1 (rc = 7.97', rcl = 36.69'), revealing the presence of a loosely bound, extended stellar halo. Furthermore, we detect a spatial elongation oriented perpendicular to the Galactic plane, likely a signature of vertical tidal heating or disk shocking. The mass function analysis exhibits a multimodal Gaussian structure, suggesting a complex dynamical formation history beyond a simple power-law distribution. Finally, orbital integration confirms NGC 2168 as a thin disk object with a maximum vertical excursion of ~171 pc, consistent with the observed vertical morphological deformation.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2026-03-23T18:00:15Z",
+      "arxiv:comment": "23 pages, including 21 figures and 7 tables accepted for publication in the Advances in Space Research",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Nasser M. Ahmed"
+        },
+        {
+          "name": "Remziye Canbay"
+        },
+        {
+          "name": "Deniz Cennet Çınar"
+        }
+      ],
+      "score": 15
+    },
+    {
       "id": "http://arxiv.org/abs/2603.22234v2",
       "title": "Axionlike dark-matter winds driven by galactic baryon redistribution",
       "updated": "2026-03-25T16:18:09Z",
@@ -916,6 +972,68 @@
         "name": "A. V. Nazarenko"
       },
       "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.20760v1",
+      "title": "Radiative Compression of Dense Cores in the Pillars of Creation as Revealed by JWST Extinction Mapping",
+      "updated": "2026-03-21T11:15:06Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2603.20760v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2603.20760v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The Pillars of Creation in M16 represent an iconic star-forming region where stellar feedback shapes molecular cloud evolution. We present a detailed investigation of dust extinction and density structure in the Pillars of Creation using multiband photometric observations from \\emph{JWST} NIRCam. A high-resolution (2\\arcsec) extinction map reaching depths of $A_V\\sim 100$ mag has been constructed using NIRCam filters F090W, F200W, F335M, and F444W. This map clearly reveals the intricate structure of dense gas within the molecular cloud in the Pillars of Creation region. Analysis of the column density probability distribution function (N-PDF) exhibits a characteristic lognormal distribution at intermediate extinctions ($A_V\\approx10-30$\\,mag), which transitions to a power-law tail at high extinctions ($A_V\\gtrsim$ 30\\,mag) where star-forming cores reside. The power-law slope $α$ displays significant spatial variation, steepening from $α\\approx 2.0$ at the pillar tips facing the NGC 6611 cluster to $α\\approx$4.0 in regions distant from the cluster. This systematic gradient demonstrates that stellar feedback not only disperses molecular clouds but can also locally enhance the formation of dense, self-gravitating structures through radiative compression.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2026-03-21T11:15:06Z",
+      "arxiv:comment": "8 pages, 5 Figures, 1 table, accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Jun Li"
+        },
+        {
+          "name": "Bingqiu Chen"
+        },
+        {
+          "name": "He Zhao"
+        },
+        {
+          "name": "Jian Gao"
+        },
+        {
+          "name": "Xi Chen"
+        }
+      ],
+      "score": 10
     },
     {
       "id": "http://arxiv.org/abs/2603.20430v1",
@@ -1598,6 +1716,68 @@
       ],
       "arxiv:doi": "10.1051/0004-6361/202556123",
       "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.14330v1",
+      "title": "Hidden Connections: Tracing the BCG Stellar Mass-Halo Mass Relation in the SDSS-GalWCat19 Cluster Catalog",
+      "updated": "2026-03-15T11:36:40Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2603.14330v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2603.14330v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The stellar-to-halo mass (SMHM) relation of brightest cluster galaxies (BCGs) provides key insight into the connection between BCG growth and the assembly of their host halos. We analyze this relation using the spectroscopic SDSS GalWCat19 cluster catalog, selecting 996 systems with log(M200) >= 13.6, log(Mstar) >= 10.5, and 0.02 <= z <= 0.125 to limit evolutionary effects and ensure stellar-mass completeness. We fit lognormal scaling relations with a Markov Chain Monte Carlo (MCMC) framework that accounts for measurement uncertainties and intrinsic scatter. For the fiducial SMHM relation, <log Mstar | M200> = alpha + beta log(M200/Mpiv) with log(Mpiv) = 14.2, we find a shallow slope beta = 0.17 +/- 0.03, normalization alpha = 11.04 +/- 0.01, and intrinsic scatter sigma_int = 0.19 +/- 0.01 dex. Recasting the relation in normalized form reduces the scatter to 0.16 +/- 0.01 dex, while including the magnitude gap M14 further reduces it to 0.14 +/- 0.01 dex. Variations in richness, redshift, and mass thresholds produce systematic shifts that are small compared to the statistical uncertainties, indicating that our inferred relations are robust to plausible selection choices. The reduced scatter when including M14 supports a picture in which BCG stellar mass reflects both halo mass and halo assembly history.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2026-03-15T11:36:40Z",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Mohamed H. Abdullah"
+        },
+        {
+          "name": "Rasha M. Samir"
+        },
+        {
+          "name": "Nouran E. Abdelhamid"
+        },
+        {
+          "name": "Shrouk Abdulshafy"
+        },
+        {
+          "name": "Gillian Wilson"
+        },
+        {
+          "name": "Anatoly Klypin"
+        },
+        {
+          "name": "SH. M. Shehata"
+        },
+        {
+          "name": "Ashraf A. Shaker"
+        }
+      ],
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2603.12379v1",
