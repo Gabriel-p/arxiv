@@ -11,7 +11,7 @@ const keywords = [
   { term: 'stellar cluster', weight: 0.5 },
 ];
 
-const NDaysBack = 30;
+const NDaysBack = 60;
 
 
 async function main() {
@@ -25,7 +25,7 @@ async function main() {
   dateNDaysBack.setDate(dateNDaysBack.getDate() - NDaysBack);
   const dateNDaysBackStr = dateNDaysBack.toISOString().split('T')[0];
 
-  // Filter out entries older than 7 days from the existing data
+  // Filter out entries older than N days from the existing data
   existingEntries = existingEntries.entries.filter(entry => entry.published >= dateNDaysBackStr);
 
   // Fetch XML data from arXiv
@@ -47,8 +47,17 @@ async function main() {
       keywords.forEach(({ term, weight }) => {
         const titleCount = (title.match(new RegExp(term, 'g')) || []).length;
         const summaryCount = (summary.match(new RegExp(term, 'g')) || []).length;
-        score += titleCount *weight * 3 + summaryCount * weight;
+        score += titleCount * weight * 3 + summaryCount * weight;
       });
+
+      // Detect patterns like "sample of 500 open clusters" or "120 clusters"
+      const numericPattern = /(\d{2,})\s+(open\s+)?clusters/g;
+      let match;
+      while ((match = numericPattern.exec(summary)) !== null) {
+          const count = parseInt(match[1]);
+          if (count > 10) score += 5;  // Flat bonus for multi-object studies
+          if (count > 100) score += 10; // Extra bonus for large catalogs
+      }
 
       return { ...entry, score };
     })
