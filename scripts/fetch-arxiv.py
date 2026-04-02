@@ -32,7 +32,6 @@ numeric_pattern = (
     r"(?<!\d)\b(\d{2,})\b\s+(?:(?:new\s+)?(?:open|star)\s+)?clusters?"
 )
 
-
 N_DAYS_BACK = 30
 FILE_NAME = "arxiv.json"
 
@@ -41,8 +40,6 @@ def main():
     """ """
     # Fetch data from arXiv with Chunking and Caching
     entries_raw = fetch_arxiv()
-
-    # Print the oldest entry from the total pool
     if entries_raw:
         dates = [e.get("published") for e in entries_raw if e.get("published")]
         if dates:
@@ -52,39 +49,8 @@ def main():
     # Filter and score new entries
     new_entries = filter_score(entries_raw)
 
-    # Merge and Deduplicate
-    all_entries_map = {}
-    for e in new_entries:
-        all_entries_map[e["id"]] = e
-    unique_entries = list(all_entries_map.values())
-
-    # Filter out placeholder and Sort
-    filtered_entries = [
-        e for e in unique_entries if e.get("title", "").lower() != "no articles found"
-    ]
-    filtered_entries.sort(key=lambda x: x.get("published", ""), reverse=True)
-
-    # Prepare Save Data
-    if not filtered_entries:
-        entries_to_save = [
-            {
-                "title": "No articles found",
-                "id": "#",
-                "author": [{"name": " "}],
-                "updated": datetime.now().strftime("%Y-%m-%d"),
-                "score": 0,
-                "summary": "No articles matching the filters were found in the current submissions.",
-            }
-        ]
-    else:
-        entries_to_save = filtered_entries
-
-    fetch_timestamp = datetime.now().isoformat()
-    output_data = {"fetched_at": fetch_timestamp, "entries": entries_to_save}
-
-    # Write to file
-    with open(FILE_NAME, "w", encoding="utf-8") as f:
-        json.dump(output_data, f, indent=2, ensure_ascii=False)
+    # Save results to file
+    save_to_file(new_entries)
 
 
 def fetch_arxiv():
@@ -164,7 +130,7 @@ def filter_score(entries_raw):
         title = entry.get("title", "").lower().replace("\n", " ")
         summary = entry.get("summary", "").lower().replace("\n", " ")
 
-        # Exclusion Check: If galaxy cluster terms are present, weight 0
+        # Exclusion Check: If galaxy cluster terms are present, exclude
         if any(ex in title or ex in summary for ex in EXCLUSION_TERMS):
             # print(title)
             continue
@@ -189,7 +155,9 @@ def filter_score(entries_raw):
             matches = re.findall(numeric_pattern, txt, flags=re.IGNORECASE)
             for match in matches:
                 count = int(match)
-                if count > 100:
+                if count > 1000:
+                    score += 50
+                elif count > 100:
                     score += 10
                 elif count > 10:
                     score += 5
@@ -200,6 +168,43 @@ def filter_score(entries_raw):
 
     print(f"Identified {len(new_entries)} new relevant entries after keyword scoring.")
     return new_entries
+
+
+def save_to_file(new_entries):
+    """ """
+    # De-duplicate and filter
+    unique_map = {
+        e["id"]: e
+        for e in new_entries
+        if e.get("title", "").lower() != "no articles found"
+    }
+
+    # Sort the resulting values
+    filtered_entries = sorted(
+        unique_map.values(), key=lambda x: x.get("published", ""), reverse=True
+    )
+
+    # Prepare Save Data
+    if not filtered_entries:
+        entries_to_save = [
+            {
+                "title": "No articles found",
+                "id": "#",
+                "author": [{"name": " "}],
+                "updated": datetime.now().strftime("%Y-%m-%d"),
+                "score": 0,
+                "summary": "No articles matching the filters were found in the current submissions.",
+            }
+        ]
+    else:
+        entries_to_save = filtered_entries
+
+    fetch_timestamp = datetime.now().isoformat()
+    output_data = {"fetched_at": fetch_timestamp, "entries": entries_to_save}
+
+    # Write to file
+    with open(FILE_NAME, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
