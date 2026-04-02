@@ -1,0 +1,185 @@
+{
+  "fetched_at": "2026-01-08T06:44:17.725Z",
+  "entries": [
+    {
+      "id": "http://arxiv.org/abs/2601.03456v1",
+      "title": "The steep redshift evolution of the hierarchical merger rate may cause the $z$-$χ_{\\rm eff}$ correlation",
+      "updated": "2026-01-06T23:00:49Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2601.03456v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2601.03456v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "There is growing evidence from gravitational-wave observations that some merging black holes are created from previous mergers. Using the prediction that these hierarchically-merged black holes have dimensionless spin magnitudes of $χ\\approx 0.69$, we identify a subpopulation in the gravitational-wave data consistent with a hierarchical-merger origin in dense star clusters. This subpopulation's primary mass distribution peaks at $16.7^{+3.1}_{-4.6},\\mathrm{M}_{\\odot}$, which is approximately twice as large as its secondary mass distribution's mode ($8.0^{+29.7}_{-2.3},\\mathrm{M}_{\\odot}$), and its spin tilt distribution is consistent with isotropy. Our inferred secondary mass distributions imply that isolated binary evolution may still be needed to explain the entirety of the $9\\,\\mathrm{M}_{\\odot}$ peak. Surprisingly, we find that the rate of hierarchical mergers may evolve more steeply with redshift than the rest of the population ($98.5\\%$ credibility): the fraction of all binary black holes that are hierarchically formed at $z=0.1$ is $0.05^{+0.05}_{-0.04}$, compared to $0.17^{+0.13}_{-0.12}$ at $z=1$. This provides an explanation for the previously-discovered broadening of the effective spin distribution with redshift. Our results have implications for star cluster formation histories, as they suggest the potential existence of a high-redshift population of massive, compact clusters.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2026-01-06T23:00:49Z",
+      "arxiv:comment": "9 pages, 4 figures (with appendices: 18 pages, 12 figures). Also see Vijaykumar et al., posted simultaneously",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.HE"
+        }
+      },
+      "author": [
+        {
+          "name": "Amanda M. Farah"
+        },
+        {
+          "name": "Aditya Vijaykumar"
+        },
+        {
+          "name": "Maya Fishbach"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2601.01867v1",
+      "title": "How our proto-nuclear star cluster formed and grew due to early globular cluster disruption. I. Case of low masses",
+      "updated": "2026-01-05T07:55:23Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2601.01867v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2601.01867v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        },
+        {
+          "$": {
+            "rel": "related",
+            "href": "https://doi.org/10.1051/0004-6361/202556182",
+            "title": "doi"
+          }
+        }
+      ],
+      "summary": "We investigate the accretion of globular cluster stars on early cosmological timescales through detailed N-body simulations of theoretical GC models to assess the role of this mechanism in Milky Way-like galaxies. For the dynamical modelling, we used the updated parallel N-body code phi-GPU, including stellar evolution. We prepared three sets of GC models with different half-mass radii (r_hm), each consisting of 50 full N-body GC models, and integrated these models in an external, time-variable MW-like potential taken from the cosmological database IllustrisTNG-100. The simulations cover the time interval from -10 Gyr to -5 Gyr, enabling us to assess the rate of early stellar accretion onto the proto-NSC. We find that GC models with average orbital eccentricities of 0.4-0.5 and orbits oriented perpendicular to the galactic disc contribute most significantly to the mass of the proto-NSC formation. Accretion is especially efficient in the first billion years and in compact GC models with r_hm = 1 pc. In all sets, the dominant accreted stellar population consists of low-mass stars (~0.33 Msun). However, the accreted mass alone is insufficient to fully account for the current NSC mass. Based on our extended set of numerical simulations, we obtained an average lower limit of mass contribution (~6 percent) to the NSC from investigated GCs. The fraction of mass contribution from individual disrupted GCs can significantly vary from 0.1 percent up to 90 percent. Generally, we conclude that the GC stellar accretion channel alone might not be sufficient to ensure the present-day MW galaxy NSC mass budget.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2026-01-05T07:55:23Z",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "D. Kuvatova"
+        },
+        {
+          "name": "M. Ishchenko"
+        },
+        {
+          "name": "P. Berczik"
+        },
+        {
+          "name": "O. Veles"
+        },
+        {
+          "name": "O. Sobodar"
+        },
+        {
+          "name": "T. Panamarev"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202556182",
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2601.01597v1",
+      "title": "The effects of star-gas interactions on binary evolution in open clusters",
+      "updated": "2026-01-04T16:52:56Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2601.01597v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2601.01597v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Star-gas interactions can provide gravitational feedback that influences the dynamical evolution of stellar clusters, through processes such as dynamical friction (DF) and its non-dissipative counterpart, negative dynamical friction (NDF). Using the \\texttt{PeTar} code, we perform direct $N$-body simulations of an open cluster initially containing $10^4$ stars, evolving within a gaseous medium spanning a range of ambient densities. Our results demonstrate that NDF associated with stellar outflows interacting with the surrounding gas can enhance the rate of cluster expansion, preferentially transporting stars toward the cluster outskirts. This behavior is accompanied by a more rapid decline in the number of binaries composed of a neutron star and a main-sequence star. A statistical analysis of binary orbital parameters further indicates that, compared to DF-dominated evolution, NDF tends to retain systems with larger semi-major axes and lower eccentricities. Outflow-ambient gas interactions can modify the dynamical processing of binaries in star clusters, leading to changes in the survival fraction and composition of the remaining binary population.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2026-01-04T16:52:56Z",
+      "arxiv:comment": "17 pages, 13 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Jixuan Yang"
+        },
+        {
+          "name": "Lile Wang"
+        },
+        {
+          "name": "Xinyu Li"
+        },
+        {
+          "name": "Meng Sun"
+        },
+        {
+          "name": "Rainer Spurzem"
+        }
+      ],
+      "score": 7.5
+    }
+  ]
+}
