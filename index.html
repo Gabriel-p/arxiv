@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>arXiv open cluster articles</title>
+
+  <link rel="stylesheet" href="style.css">
+  <script defer src="scripts/parse-arxiv.js"></script>
+</head>
+
+<body>
+
+  <div class="wrapper-main">
+    <div id="main" role="main" class="container">
+
+      <article class="page">
+
+        <div class="entry">
+
+          <p>
+            A list of 
+            <a href="https://arxiv.org/list/astro-ph.GA/new">
+              arXiv's astro-ph.GA
+            </a> 
+            submissions from the past 7 days,
+            <span class="hover-text"
+              data-hover="A simple filter is applied to each submission adding a score associated to certain keywords like 'open cluster'.">
+              filtered
+            </span>
+            to show only those related to open clusters.
+          </p>
+
+          <div id="fetched-at" class="fetched-at"></div>
+
+          <hr>
+
+          <div id="arxivsort" class="sort-box">
+            Sort by:
+            <label>
+              <input type="radio" name="sort" value="updated" checked>
+              Date
+            </label>
+
+            <label>
+              <input type="radio" name="sort" value="score">
+              Score
+            </label>
+          </div>
+
+          <!-- articles inserted by JS -->
+          <ul id="papers"></ul>
+
+        </div>
+
+      </article>
+
+    </div>
+  </div>
+
+</body>
+</html>

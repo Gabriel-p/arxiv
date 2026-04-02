@@ -1,0 +1,315 @@
+/* ============================================================
+   arXiv Open Cluster Browser — style.css
+   Aesthetic: editorial dark, astronomy-lab feel
+   Fonts: DM Serif Display (headings) + Source Serif 4 (body)
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&display=swap');
+
+/* ── Variables ─────────────────────────────────────────────── */
+:root {
+  --bg:          #06070c;
+  --surface:     #0f111a;
+  --surface-2:   #171a26;
+  --border:      #363c56;
+  --border-soft: #272c40;
+
+  --text:        #ffffff;
+  --text-muted:  #bdc5e8;
+  --text-dim:    #8891b8;
+
+  --accent:      #4dd8ff;
+  --accent-warm: #ffb347;
+  --accent-glow: rgba(77, 216, 255, 0.10);
+
+  --radius:      6px;
+  --max-width:   740px;
+
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body:    'Source Serif 4', Georgia, serif;
+}
+
+/* ── Reset / Base ───────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 18px; scroll-behavior: smooth; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-optical-sizing: auto;
+  line-height: 1.7;
+  min-height: 100vh;
+
+  /* subtle starfield grain */
+  background-image:
+    radial-gradient(ellipse 80% 60% at 50% -10%, rgba(77,216,255,0.07) 0%, transparent 70%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+}
+
+/* ── Layout ────────────────────────────────────────────────── */
+.wrapper-main {
+  padding: 3rem 1.25rem 5rem;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.page {}
+
+.entry {}
+
+/* ── Page header paragraph ──────────────────────────────────── */
+.entry > p {
+  font-size: 1rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+  margin-bottom: 0.6rem;
+}
+
+.entry > p a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: rgba(77, 216, 255, 0.4);
+  text-underline-offset: 3px;
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+.entry > p a:hover {
+  color: #8de8ff;
+  text-decoration-color: var(--accent);
+}
+
+/* ── Site title (synthesised from <title>) ──────────────────── */
+/* We add a visual heading via ::before on .entry */
+.entry::before {
+  content: "arXiv · Open Clusters";
+  display: block;
+  font-family: var(--font-display);
+  font-size: 2.6rem;
+  font-style: italic;
+  color: var(--accent);
+  letter-spacing: 0.01em;
+  margin-bottom: 1.1rem;
+  line-height: 1.1;
+}
+
+/* ── Divider ────────────────────────────────────────────────── */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.25rem 0 1.5rem;
+}
+
+/* ── Fetched-at timestamp ───────────────────────────────────── */
+.fetched-at {
+  font-style: italic;
+  font-size: 0.82rem;
+  color: var(--text-dim);
+  letter-spacing: 0.02em;
+}
+
+/* ── Sort controls ──────────────────────────────────────────── */
+#arxivsort {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-family: var(--font-body);
+  color: var(--text-muted);
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background-color: var(--surface);
+  width: fit-content;
+  margin-bottom: 1.75rem;
+  transition: border-color 0.2s;
+}
+#arxivsort:hover { border-color: var(--accent); }
+
+#arxivsort label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  color: var(--text-muted);
+  transition: color 0.15s;
+}
+#arxivsort label:hover { color: var(--text); }
+
+#arxivsort input[type="radio"] {
+  width: auto;
+  margin: 0;
+  display: inline-block;
+  padding: 0;
+  border: none;
+  background: none;
+  font-size: inherit;
+  box-sizing: content-box;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+/* ── Paper list ─────────────────────────────────────────────── */
+#papers {
+  list-style: none;
+  padding: 0;
+}
+
+li.paper {
+  margin-bottom: 0;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border-soft);
+  transition: background 0.15s;
+  position: relative;
+}
+
+/* left accent bar on hover */
+li.paper::before {
+  content: '';
+  position: absolute;
+  left: -1.25rem;   /* bleeds to wrapper edge */
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--accent);
+  opacity: 0;
+  transition: opacity 0.2s;
+  border-radius: 2px;
+}
+li.paper:hover::before { opacity: 1; }
+
+/* ── Title ──────────────────────────────────────────────────── */
+.paper a.title {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: var(--text);
+  text-decoration: none;
+  display: block;
+  margin-bottom: 0.35rem;
+  transition: color 0.15s;
+}
+.paper a.title:hover {
+  color: var(--accent);
+}
+
+/* ── Authors ────────────────────────────────────────────────── */
+.paper .authors {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin-top: 0.1rem;
+  line-height: 1.45;
+}
+
+/* ── Meta (date + score) ────────────────────────────────────── */
+.paper .meta {
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  margin-top: 0.35rem;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* highlight score value */
+.paper .meta::after { }  /* no pseudo needed — score is inline */
+
+/* ── Abstract ───────────────────────────────────────────────── */
+.paper .abstract {
+  white-space: normal;
+  overflow: hidden;
+  text-align: justify;
+  margin-top: 0.65rem;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--text-muted);
+  line-height: 1.68;
+}
+.paper .abstract.expanded {
+  white-space: normal;
+}
+
+/* ── Toggle button ──────────────────────────────────────────── */
+.paper .toggle-button {
+  display: inline-block;
+  margin-top: 0.55rem;
+  color: var(--accent-warm);
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-style: normal;
+  font-family: var(--font-body);
+  transition: color 0.15s, opacity 0.15s;
+  opacity: 0.8;
+  user-select: none;
+}
+.paper .toggle-button:hover {
+  color: #ffc96b;
+  opacity: 1;
+}
+
+/* ── Hover tooltip ──────────────────────────────────────────── */
+.hover-text {
+  color: var(--accent);
+  position: relative;
+  cursor: pointer;
+  text-decoration: underline dotted rgba(77,216,255,0.5);
+  text-underline-offset: 3px;
+}
+
+.hover-text::after {
+  content: attr(data-hover);
+  visibility: hidden;
+  position: absolute;
+  background-color: var(--surface-2);
+  color: var(--text);
+  padding: 0.45rem 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  top: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+  font-size: 0.82rem;
+  font-style: normal;
+  width: auto;
+  z-index: 10;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.hover-text:hover::after {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* ── Scrollbar (Webkit) ─────────────────────────────────────── */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
+
+/* ── Selection ──────────────────────────────────────────────── */
+::selection {
+  background: rgba(77, 216, 255, 0.28);
+  color: var(--text);
+}
+
+/* ── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .entry::before { font-size: 1.9rem; }
+  .paper a.title  { font-size: 1.15rem; }
+  .wrapper-main   { padding: 2rem 1rem 4rem; }
+}
