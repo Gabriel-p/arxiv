@@ -15,7 +15,6 @@ permissions:
   contents: write
 
 jobs:
-
   fetch-arxiv:
     runs-on: ubuntu-latest
 
@@ -26,54 +25,26 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 2) Prepare Node
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      # 1) Setup Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '18'
+          python-version: '3.10'
 
-      # 3) Ensure package-lock.json exists
-      - name: Generate package-lock.json if missing
-        run: |
-          if [ ! -f package-lock.json ]; then
-            npm install
-          fi
-
-      # 4) Install dependencies
+      # 2) Install dependencies
+      # This assumes a requirements.txt file exists; otherwise, 
+      # use 'pip install requests' or other specific libraries.
       - name: Install dependencies
-        run: npm ci
-
-      - name: Debug installed dependencies
         run: |
-          echo "Checking installed dependencies"
-          npm list
-          echo "Checking node-fetch version"
-          npm list node-fetch
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 5) Run the fetch script & fail early if it errors
+      # 3) Run the Python script
       - name: Run fetch-arxiv script
-        run: |
-          echo "running fetch-arxiv.js"
-          node scripts/fetch-arxiv.js
+        run: python scripts/fetch-arxiv.py
         shell: bash
 
-      # # Debug: show the folder tree so we know arxiv.json is there
-      # - name: List repository contents
-      #   run: ls -R .
-
-      # # Debug: print the first few lines of the JSON (or note if missing)
-      # - name: Show arxiv.json
-      #   if: always()
-      #   run: |
-      #     if [ -f arxiv.json ]; then
-      #       echo "--- arxiv.json exists, head of file: ---"
-      #       head -n 20 arxiv.json
-      #     else
-      #       echo "⚠️ arxiv.json not found!"
-      #       exit 1
-      #     fi
-
-      # 6) Detect whether arxiv.json changed
+      # 4) Detect whether arxiv.json changed
       - name: Check for changes in data
         id: check-changes
         run: |
@@ -85,7 +56,7 @@ jobs:
             echo "changes=true"  >> "$GITHUB_OUTPUT"
           fi
 
-      # 7) Commit & push only when JSON changed
+      # 5) Commit & push only when JSON changed
       - name: Commit and push if changes
         if: steps.check-changes.outputs.changes == 'true'
         env:
