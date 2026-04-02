@@ -54,7 +54,7 @@ jobs:
       - name: Run fetch-arxiv script
         run: |
           echo "running fetch-arxiv.js"
-          node fetch-arxiv.js
+          node scripts/fetch-arxiv.js
         shell: bash
 
       # # Debug: show the folder tree so we know arxiv.json is there
