@@ -23,7 +23,12 @@ KEYWORDS = [
     {"term": "stellar cluster", "weight": 0.5},
 ]
 # Terms to effectively nullify the score (Extragalactic/Cosmological context)
-EXCLUSION_TERMS = ["galaxy cluster", "cluster of galaxies", "cluster galaxies"]
+EXCLUSION_TERMS = [
+    "galaxy cluster",
+    "cluster galaxy",
+    "cluster galaxies",
+    "cluster of galaxies",
+]
 
 # Numeric pattern refined with negative lookbehind to ignore catalog prefixes
 # This prevents "Ruprecht 147" or "NGC 2516" from triggering the "count > N" logic.
