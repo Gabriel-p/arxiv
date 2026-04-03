@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T00:29:01.002062",
+  "fetched_at": "2026-04-03T12:15:28.854405",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.01123v1",
@@ -263,17 +263,17 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2603.28878v2",
+      "id": "http://arxiv.org/abs/2603.28878v3",
       "title": "Formation and disruption of wide binaries in star clusters revealed by N-body simulations",
-      "updated": "2026-04-01T03:54:44Z",
+      "updated": "2026-04-02T01:29:47Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2603.28878v2",
+          "@href": "https://arxiv.org/abs/2603.28878v3",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2603.28878v2",
+          "@href": "https://arxiv.org/pdf/2603.28878v3",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -291,6 +291,7 @@
         }
       ],
       "published": "2026-03-30T18:01:18Z",
+      "arxiv:comment": "Accepted to the Astrophysical Journal Letters",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
