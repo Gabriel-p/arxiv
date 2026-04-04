@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T12:15:28.854405",
+  "fetched_at": "2026-04-04T00:27:06.909581",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.01123v1",
@@ -2266,103 +2266,6 @@
         }
       ],
       "score": 7.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.04507v1",
-      "title": "Low-resolution spectroscopic characterisation of five poorly known Galactic stellar clusters",
-      "updated": "2026-03-04T19:00:07Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.04507v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.04507v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Stellar clusters preserve crucial information on the formation and evolutionary processes that shaped the Milky Way (MW) as we see it today. Yet, several MW clusters still lack sufficient data to constrain their metallicity, ages, and, in some cases, even their basic kinematic properties. We present low-resolution MODS@LBT spectroscopy for five such systems (i.e. Koposov 1, Koposov 2, Muñoz 1, Pfleiderer 2, and RLGC2) from which we derive systemic line-of-sight velocities ($V_{\\rm sys}$) with typical uncertainties of $10-20$ km/s per star, and metallicities based on the equivalent widths of the infrared Ca II triplet measured in red giant branch members. For Pfleiderer 2 and RLGC2, we provide the first spectroscopic determinations of their systemic velocities and metallicities, finding $V_{\\rm sys}= 3 \\pm 3$ km/s and $-316 \\pm 4$ km/s, and $\\mathrm{[Fe/H]}= -0.76 \\pm 0.09$ dex and $-2.33 \\pm 0.04$ dex, respectively. For the other three clusters we find results consistent with the existing literature. Thanks to our new spectroscopic measurements, we perform an orbital analysis to investigate their origin. We find that Pfleiderer 2 likely formed within the MW, RLGC2 is dynamically associated to the Gaia-Sausage-Enceladus accretion event, Koposov 1 was likely stripped from the Sagittarius dwarf spheroidal, while Muñoz 1 is only tentatively associated with the latter system. In the end, Koposov 2 at high orbital energy does not show a clear association with any known progenitor system.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-04T19:00:07Z",
-      "arxiv:comment": "Main paper: 9 pages and 4 figures. Appendix: 6 pages and 4 figures. Submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "E. Ceccarelli"
-        },
-        {
-          "name": "M. Bellazzini"
-        },
-        {
-          "name": "D. Massari"
-        },
-        {
-          "name": "A. Mucciarelli"
-        },
-        {
-          "name": "M. De Leo"
-        },
-        {
-          "name": "M. Libralato"
-        },
-        {
-          "name": "E. Dodd"
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.04492v1",
-      "title": "When self-similarity meets mass spectrum and anisotropy",
-      "updated": "2026-03-04T19:00:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.04492v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.04492v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1051/0004-6361/202658921",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Self-similar evolution is widely used in the theory of collisional stellar dynamics, but its applicability to systems with multiple stellar masses is not well established. We investigate the structural stability of self-similar evolution in multi-mass star clusters and assess the roles of mass segregation and velocity anisotropy. Using a gaseous-model approximation, we develop a theoretical framework to describe the response of a self-similar background to mass-dependent perturbations with isotropic and anisotropic velocity distributions. We show analytically that mass-dependent relaxation leads to a separation of characteristic similarity scales and renders the single-scale solution structurally unstable. In the presence of velocity anisotropy, this similarity-breaking instability splits into distinct radial and tangential modes whose growth rates are modified in a direction-dependent manner. Radial anisotropy reduces the instability through enhanced radial kinetic support, whereas tangential anisotropy increases the effective growth rates and enables faster central evolution. In systems with a mass spectrum, this instability drives mass segregation and the emergence of a multi-scale, near-homologous evolution. Together, these results place self-similar evolution in a consistent theoretical context for collisional star clusters with multiple stellar masses and anisotropic velocity distributions.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-04T19:00:01Z",
-      "arxiv:comment": "5 pages + 3 appendicies (no figures or tables but lots of equations); accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "arxiv:journal_ref": "A&A 708, A69 (2026)",
-      "author": {
-        "name": "Václav Pavlík"
-      },
-      "arxiv:doi": "10.1051/0004-6361/202658921",
-      "score": 2.0
     }
   ]
 }
