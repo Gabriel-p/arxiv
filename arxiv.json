@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-04T12:12:11.759730",
+  "fetched_at": "2026-04-05T00:30:11.716561",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.01123v1",
@@ -2220,52 +2220,6 @@
       ],
       "arxiv:doi": "10.3847/1538-4357/ae4bda",
       "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.04687v1",
-      "title": "3D Rotation of the Open Cluster NGC 2516",
-      "updated": "2026-03-05T00:02:51Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.04687v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.04687v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We have combined Gaia astrometry with Gaia-ESO Survey radial velocities to measure the 3D rotation of the open cluster NGC 2516. We compiled a sample of 430 members with astrometry and spectroscopy and use these to determine a distance to the cluster of 406.3 +/- 0.8 pc, which we then use to infer the 3D positions and velocities of all stars in the cluster using a Bayesian model. We identify the axis of maximum cluster rotation and measure a median rotational velocity of 0.12 +/- 0.02 km/s. We find the axis of maximum cluster rotation to be 74 +/- 17 degrees to the plane of our galaxy. We compare this rotation rate to measurements of cluster rotation in other open clusters and find that it is inconsistent with the expected dependences on cluster age and mass.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-05T00:02:51Z",
-      "arxiv:comment": "6 pages, 3 figures, submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Nicholas J. Wright"
-        },
-        {
-          "name": "R. D. Jeffries"
-        },
-        {
-          "name": "M. A. Whalley"
-        }
-      ],
-      "score": 7.5
     }
   ]
 }
