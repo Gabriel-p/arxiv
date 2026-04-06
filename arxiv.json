@@ -1,6 +1,168 @@
 {
-  "fetched_at": "2026-04-06T00:30:26.793805",
+  "fetched_at": "2026-04-06T12:20:12.930406",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.03230v1",
+      "title": "Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo",
+      "updated": "2026-04-03T17:59:50Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.03230v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.03230v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Galaxies evolve in tandem with their environments -- mergers and gas inflows drive galaxy growth while galactic outflows launched by supernovae may seed the galactic environment with gas, metals, and energy, fueling star-formation far from the main bodies of galaxies. The formation histories of young stars in the stellar halos of nearby galaxies can help understand this interplay. We thus present the most detailed map to date of young stars in the stellar halo of M82, a starburst galaxy in the M81 Group that hosts a prototypical outflow, using Hubble Space Telescope (HST) and Subaru Hyper-Suprime Cam observations. We find widespread extraplanar populations of stars with ages $\\lesssim630$ Myr, with clear detections of stars up to $\\sim5$ kpc to the south in unique arc-like stellar features (Southern Arcs) and in a new stellar trail up to $\\sim20$ kpc to the east (M82's Tail), originating from the Southern Arcs. We estimate a total halo star formation of $\\sim4\\times10^6\\,M_\\odot$ in the last $630$ Myr. Overall, the star formation history (SFH) of the M82 Tail is correlated with periods of heightened star cluster formation in the M82 disk, which suggests the influence of the starburst outflow. Further, the fraction of young stars decreases as we move away from M82 to the east. We forward a picture where the M82 Tail formed from ram pressure stripped gas arising from M82's westward motion, triggered by shocks from the outflow.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-03T17:59:50Z",
+      "arxiv:comment": "26 pages, 10 figures, 1 table; submitted for review to The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Vaishnav V. Rao"
+        },
+        {
+          "name": "Eric F. Bell"
+        },
+        {
+          "name": "Adam Smercina"
+        },
+        {
+          "name": "Elliott Besirli"
+        },
+        {
+          "name": "Andrew Dolphin"
+        },
+        {
+          "name": "Antonela Monachesi"
+        },
+        {
+          "name": "Benjamin Williams"
+        },
+        {
+          "name": "Julianne J. Dalcanton"
+        },
+        {
+          "name": "Roelof S. de Jong"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.03142v1",
+      "title": "Isochrone-cloud fitting and asteroseismology of the Kepler open cluster NGC6866",
+      "updated": "2026-04-03T16:04:04Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.03142v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.03142v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate how isochrones computed with different input physics and initial conditions affect the age dating of the open cluster NGC 6866, and compare the results with asteroseismic ages derived from Kepler photometry. Using Gaia DR3 data, we identified 180 cluster members with a clustering algorithm. We then developed an isochrone-cloud fitting method that accounts for a range of free parameters in the input physics. Variable stars were subsequently identified among the cluster members. For 19 g-mode pulsators, we carried out modelling with a dedicated grid of rotating stellar models, constrained by spectroscopic and photometric parameters, the asymptotic gravity-mode period spacing, and the near-core rotation rate. We considered two cases: modelling each pulsator individually and modelling them under the assumption of a common cluster age. PARSEC and MIST isochrones yield discrepant ages of 690 and 467 Myr, respectively. The isochrone-cloud fit indicates an initial critical rotation distribution peaking at 0.6, about a factor of two higher than inferred from asteroseismology. The seismic modelling shows agreement between seismic and isochronal masses, but substantial differences in the derived ages due to differences in internal mixing. When the g-mode pulsators are modelled with a shared cluster age, we obtain 759 Myr, consistent with the PARSEC isochronal age. We conclude that age dating of open clusters is sensitive to the adopted input physics and initial conditions, highlighting the need for better calibrated stellar evolutionary models.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-03T16:04:04Z",
+      "arxiv:comment": "Accepted for publication on A&A, 29/03/2026. Total 13 pages of main text with 13 figures, 3 pages of appendix with 5 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Haotian Wang"
+        },
+        {
+          "name": "Gang Li"
+        },
+        {
+          "name": "Dario J. Fritzewski"
+        },
+        {
+          "name": "Timothy Van Reeth"
+        },
+        {
+          "name": "Conny Aerts"
+        }
+      ],
+      "score": 17.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.02717v1",
+      "title": "The Stellar \"Snake\"-III: Co-evolution of Stars and Molecular Clouds Unveiled by Gaia, MWISP, and LAMOST",
+      "updated": "2026-04-03T04:20:40Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.02717v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.02717v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "By combining multi-band data from Gaia DR3, MWISP CO, and LAMOST DR11 LSR/MSR, we investigate the co-evolution of stars and their parent molecular cloud in a snake-like stellar structure, named Snake III. Based on 5-D phase-space selection, we identified 5683 member stars (median age 7.6 Myr) across approximately $300 \\times 500 \\times 175$ pc$^3$ volume, along with 12 embedded open clusters. Then we use BEEP distances combined with $^{12}$CO velocities to clearly identify the molecular clouds associated with the stellar complex in spatial and kinematics. The molecular cloud density increases with Galactic longitude, with older open clusters forming in cavities near higher-density regions (except ASCC 125), while young field stars currently form preferentially in present-day high-density environments, indicating that cloud density regulates the star-formation sequence. $^{12}$CO excitation temperature, centroid velocity, velocity dispersion and H$α$ emission reveal that early feedback first compresses cloud edges to trigger new stars, then sweeps and disperses the parent clouds. The extremely young cluster (ASCC 125, 4.4 Myr) lies near the densest region yet is surrounded by a shell with bidirectional density-velocity perturbations, consistent with a delayed-triggering scenario under the combined influence of UBC 178 stellar-wind feedback and a suspected supernova blast. Our results naturally demonstrate that snake-like stellar structures are filamentary relics of hierarchical star formation within giant molecular clouds. They provide direct observational evidence that cloud density and early feedback jointly modulate the progression of star formation, offering a clear and young laboratory for studying star-cloud co-evolution.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-03T04:20:40Z",
+      "arxiv:comment": "19 pages, 14 figures, 2 tables, accepted for publication in ApJS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jia-Peng Li"
+        },
+        {
+          "name": "Hai-Jun Tian"
+        },
+        {
+          "name": "Chen Wang"
+        },
+        {
+          "name": "Xiang-Ming Yang"
+        },
+        {
+          "name": "Fan Wang"
+        }
+      ],
+      "score": 3.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.01123v1",
       "title": "First results of AMBRA: Abundant Seeds and Early Mergers as a Pathway to the First Massive Black Holes",
