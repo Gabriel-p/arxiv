@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T12:12:33.650207",
+  "fetched_at": "2026-04-06T00:30:26.793805",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.01123v1",
@@ -2120,106 +2120,6 @@
         }
       ],
       "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.06510v1",
-      "title": "Galaxy UV Legacy Project: Survey Description and First Insights Into NGC 4449 Recent History of Star Formation",
-      "updated": "2026-03-06T17:45:36Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.06510v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.06510v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-4357/ae4bda",
-          "@title": "doi"
-        }
-      ],
-      "summary": "The Galaxy UV Legacy Project (GULP) is a Cycle 28 Treasury program with the Hubble Space Telescope (HST) designed to characterize resolved massive stars, OB associations, and young star clusters (YSCs) in 26 nearby star-forming galaxies. Utilizing the ACS/SBC F150LP and WFC3/UVIS F218W filters, combined with extensive archival observations, GULP provides an unprecedented panchromatic 8-band view from the Far-UV to the I-band. The target galaxies were carefully selected to span a broad range of metallicities, masses, morphological types, and star formation rates, thereby enabling detailed studies of star formation processes across different galactic environments. This paper introduces the GULP survey, detailing its observational strategy, data processing, and initial scientific results for the irregular barred starburst dwarf galaxy NGC 4449, used as a test case. We derived the physical parameters and ages for thousands of stars using the Binary Populations And Spectral Synthesis (BPASS) models, and found that the younger stars and clusters are predominantly concentrated along the galaxy's central bar, and that over the past <50 Myr star formation progressively migrated from northeast to southwest. We used the F150LP, F218W, and F275W filters to investigate how the UV-bump at lambda 2175 A correlates with the intensity of the UV radiation. The UV-bump is detected in many areas of the galaxy, but is absent in the regions of most intense and recent star formation. This strongly supports the scenario where UV radiation from young, massive stars effectively destroys the small dust grains responsible for the UV-bump.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-06T17:45:36Z",
-      "arxiv:comment": "33 pages, 18 figures, Accepted for publication on ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "E. Sabbi"
-        },
-        {
-          "name": "B. Meena"
-        },
-        {
-          "name": "P. Zeidler"
-        },
-        {
-          "name": "V. Bajaj"
-        },
-        {
-          "name": "D. Calzetti"
-        },
-        {
-          "name": "J. J. Eldridge"
-        },
-        {
-          "name": "P. Facchini"
-        },
-        {
-          "name": "S. Linden"
-        },
-        {
-          "name": "P. A. Crowther"
-        },
-        {
-          "name": "A. Adamo"
-        },
-        {
-          "name": "L. Bianchi"
-        },
-        {
-          "name": "M. Cignoni"
-        },
-        {
-          "name": "B. G. Elmegreen"
-        },
-        {
-          "name": "D. M. Elmegreen"
-        },
-        {
-          "name": "J. S. Gallagher"
-        },
-        {
-          "name": "M. Gennaro"
-        },
-        {
-          "name": "E. K. Grebel"
-        },
-        {
-          "name": "R. S. Klessen"
-        },
-        {
-          "name": "A. Pasquali"
-        },
-        {
-          "name": "L. J. Smith"
-        },
-        {
-          "name": "A. Wofford"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae4bda",
-      "score": 1.0
     }
   ]
 }
