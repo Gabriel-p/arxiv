@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T12:20:12.930406",
+  "fetched_at": "2026-04-07T00:30:17.726754",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.03230v1",
@@ -2197,88 +2197,6 @@
         },
         {
           "name": "Brian Reville"
-        }
-      ],
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.07289v1",
-      "title": "To What Extent Are Star Cluster Ages Encoded in Their Environments? Exploring the Spatial Distribution of Age-Related Information with PHANGS-HST Imaging and Convolutional Neural Networks",
-      "updated": "2026-03-07T17:14:24Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.07289v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.07289v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The environments around star clusters evolve as stellar feedback reshapes the interstellar medium and dynamical processes reorganize the structure of the surrounding stellar field. As approximately single-age populations, star clusters can serve as clocks to trace these environmental changes. In this exploratory study, we test whether convolutional neural networks (CNNs) can identify age-dependent changes in cluster environments. We take cluster ages as given from basic SED fitting of five-band UV-optical aperture photometry from the PHANGS (Physics at High Angular resolution in Nearby GalaxieS) HST survey. We first show that CNNs can be trained on image cutouts centered on clusters to recover ages directly from imaging. This demonstration provides the foundation for this study, which examines whether the information used by CNNs to predict age is coherent and physically meaningful. We perform controlled image occlusion experiments as an explainable AI method. These show that the CNNs extract age-predictive environmental cues in the absence of cluster light and when information on SED shape is removed by combining the five filters into one image. We find that reliance on environmental information increases at the youngest (<10 Myr) and oldest (>1 Gyr) ages, where clusters can exhibit similarly red colors. Our results are consistent with the long-recognized picture that cluster environments evolve systematically with age. We demonstrate that this information is encoded at a level detectable by machine-learning and recoverable from broadband imaging. This establishes a path for using new techniques to connect image-based age inference to the physical evolution of cluster environments.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-07T17:14:24Z",
-      "arxiv:comment": "22 pages, 8 figures, 2 tables. Submitted to The Astrophysical Journal (ApJ)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Javier Viaña"
-        },
-        {
-          "name": "Janice C. Lee"
-        },
-        {
-          "name": "Andrew Vanderburg"
-        },
-        {
-          "name": "John F. Wu"
-        },
-        {
-          "name": "M. Jimena Rodríguez"
-        },
-        {
-          "name": "Remy Indebetouw"
-        },
-        {
-          "name": "Médéric Boquien"
-        },
-        {
-          "name": "Ralf S. Klessen"
-        },
-        {
-          "name": "Sophia Rivera"
-        },
-        {
-          "name": "Erik Rosolowsky"
-        },
-        {
-          "name": "Oleg Y. Gnedin"
-        },
-        {
-          "name": "Daniel A. Dale"
-        },
-        {
-          "name": "Kirsten L. Larson"
-        },
-        {
-          "name": "David A. Thilker"
-        },
-        {
-          "name": "Gagandeep Anand"
         }
       ],
       "score": 5.0
