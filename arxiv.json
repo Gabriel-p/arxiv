@@ -1,17 +1,2305 @@
 {
-  "fetched_at": "2026-04-08T00:31:02.934531",
+  "fetched_at": "2026-04-08T12:21:32.664566",
   "entries": [
     {
-      "title": "No articles found",
-      "id": "#",
-      "author": [
+      "id": "http://arxiv.org/abs/2604.05291v1",
+      "title": "The Cluster Completeness Correction Calculator (C-4): A Neural-Network framework and pilot application to the LEGUS Survey of NGC 628",
+      "updated": "2026-04-07T00:52:44Z",
+      "link": [
         {
-          "name": " "
+          "@href": "https://arxiv.org/abs/2604.05291v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.05291v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
         }
       ],
-      "updated": "2026-04-08",
-      "score": 0,
-      "summary": "No articles matching the filters were found in the current submissions."
+      "summary": "Integrated-light star cluster catalogues in external galaxies are subject to complex, often poorly-characterised selection effects that can bias inferred cluster demographics and introduce significant uncertainties, limiting the physical parameter space accessible to analysis. To mitigate this problem, here we introduce the Cluster Completeness Correction Calculator (C-4): a new software tool to quantify and predict these effects in both physical and photometric parameter spaces. C-4 adds artificial star clusters to observed galaxy images, processes these images through the same detection and filtering steps used to construct the original cluster catalogue, and then trains multilayer perceptron neural networks to learn the resulting selection function. The trained neural networks provide continuous, differentiable completeness functions that can be used for direct completeness corrections or incorporated into forward models. We present a pilot application of C-4 to NGC~628, demonstrating that the learned selection operator is highly accurate and successfully captures the strongly non-separable dependence of completeness on mass, age, and extinction. Applying the completeness correction to NGC 628 extends the range of cluster demographic analyses by roughly an order of magnitude in both mass and age, and removes artificial flattening in the observed cluster mass and age distributions. These results establish neural-network-based completeness modelling as a powerful and general approach for recovering intrinsic cluster populations, and provide a scalable framework for modelling high-dimensional selection functions in resolved stellar population studies.",
+      "category": [
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-07T00:52:44Z",
+      "arxiv:comment": "17 pages, 16 figures, submitted to MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.IM"
+      },
+      "author": [
+        {
+          "name": "Jianling Tang"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Tomasz Różański"
+        },
+        {
+          "name": "Mark R. Krumholz"
+        },
+        {
+          "name": "Alan Zhang"
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.03746v1",
+      "title": "Investigating Extended Main-Sequence Turnoffs in Galactic Open Clusters",
+      "updated": "2026-04-04T14:22:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.03746v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.03746v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The extended main sequence (eMS) and extended main sequence turnoff (eMSTO) phenomena have been observed in some young and intermediate-age star clusters in the Milky Way and in the Magellanic Clouds. In this study, we conduct a survey of 53 galactic open clusters (OCs) to investigate the roles of stellar rotation, differential extinction, and cluster properties in the emergence of eMS and eMSTO. The projected rotational velocities are taken from the Gaia ESO spectroscopic survey and the Gaia DR3 line-broadening velocities. Stellar members of each OC are identified using the ML-MOC algorithm with Gaia DR3 astrometry. We divide clusters into four classes based on the color-rotation distribution, extinction, and MSTO morphology and report 14 clusters ($A_{\\rm v} \\lesssim 0.15$ mag, Class I) that exhibit split MS with fast and slow rotators populating the redder and bluer parts of MSTO. For the remaining clusters, differential extinction hampers the color-rotation distinction and also inflates MSTO width and therefore introduces a systematic offset in the MSTO-age relation. We also quantify the fraction of slow rotators among MSTO stars, finding a median value of $f_{\\rm slow\\, rot}^{v \\sin i<100} \\approx 0.41$ and the fraction reaching the spin-down limit, $f_{\\rm slow\\, rot}^{v \\sin i<30}$, is $ \\approx 0.08$. We find no statistically significant correlation between $f_{\\rm slow\\, rot}$ and either the binary fraction or cluster age.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-04T14:22:02Z",
+      "arxiv:comment": "Accepted for publication at ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Khushboo K Rao",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
+        },
+        {
+          "name": "Wen-Ping Chen",
+          "arxiv:affiliation": [
+            "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan",
+            "Department of Physics, National Central University, 320317 Taoyuan, Taiwan"
+          ]
+        }
+      ],
+      "score": 12.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.03230v1",
+      "title": "Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo",
+      "updated": "2026-04-03T17:59:50Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.03230v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.03230v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Galaxies evolve in tandem with their environments -- mergers and gas inflows drive galaxy growth while galactic outflows launched by supernovae may seed the galactic environment with gas, metals, and energy, fueling star-formation far from the main bodies of galaxies. The formation histories of young stars in the stellar halos of nearby galaxies can help understand this interplay. We thus present the most detailed map to date of young stars in the stellar halo of M82, a starburst galaxy in the M81 Group that hosts a prototypical outflow, using Hubble Space Telescope (HST) and Subaru Hyper-Suprime Cam observations. We find widespread extraplanar populations of stars with ages $\\lesssim630$ Myr, with clear detections of stars up to $\\sim5$ kpc to the south in unique arc-like stellar features (Southern Arcs) and in a new stellar trail up to $\\sim20$ kpc to the east (M82's Tail), originating from the Southern Arcs. We estimate a total halo star formation of $\\sim4\\times10^6\\,M_\\odot$ in the last $630$ Myr. Overall, the star formation history (SFH) of the M82 Tail is correlated with periods of heightened star cluster formation in the M82 disk, which suggests the influence of the starburst outflow. Further, the fraction of young stars decreases as we move away from M82 to the east. We forward a picture where the M82 Tail formed from ram pressure stripped gas arising from M82's westward motion, triggered by shocks from the outflow.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-03T17:59:50Z",
+      "arxiv:comment": "26 pages, 10 figures, 1 table; submitted for review to The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Vaishnav V. Rao"
+        },
+        {
+          "name": "Eric F. Bell"
+        },
+        {
+          "name": "Adam Smercina"
+        },
+        {
+          "name": "Elliott Besirli"
+        },
+        {
+          "name": "Andrew Dolphin"
+        },
+        {
+          "name": "Antonela Monachesi"
+        },
+        {
+          "name": "Benjamin Williams"
+        },
+        {
+          "name": "Julianne J. Dalcanton"
+        },
+        {
+          "name": "Roelof S. de Jong"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.03142v1",
+      "title": "Isochrone-cloud fitting and asteroseismology of the Kepler open cluster NGC6866",
+      "updated": "2026-04-03T16:04:04Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.03142v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.03142v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate how isochrones computed with different input physics and initial conditions affect the age dating of the open cluster NGC 6866, and compare the results with asteroseismic ages derived from Kepler photometry. Using Gaia DR3 data, we identified 180 cluster members with a clustering algorithm. We then developed an isochrone-cloud fitting method that accounts for a range of free parameters in the input physics. Variable stars were subsequently identified among the cluster members. For 19 g-mode pulsators, we carried out modelling with a dedicated grid of rotating stellar models, constrained by spectroscopic and photometric parameters, the asymptotic gravity-mode period spacing, and the near-core rotation rate. We considered two cases: modelling each pulsator individually and modelling them under the assumption of a common cluster age. PARSEC and MIST isochrones yield discrepant ages of 690 and 467 Myr, respectively. The isochrone-cloud fit indicates an initial critical rotation distribution peaking at 0.6, about a factor of two higher than inferred from asteroseismology. The seismic modelling shows agreement between seismic and isochronal masses, but substantial differences in the derived ages due to differences in internal mixing. When the g-mode pulsators are modelled with a shared cluster age, we obtain 759 Myr, consistent with the PARSEC isochronal age. We conclude that age dating of open clusters is sensitive to the adopted input physics and initial conditions, highlighting the need for better calibrated stellar evolutionary models.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-03T16:04:04Z",
+      "arxiv:comment": "Accepted for publication on A&A, 29/03/2026. Total 13 pages of main text with 13 figures, 3 pages of appendix with 5 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Haotian Wang"
+        },
+        {
+          "name": "Gang Li"
+        },
+        {
+          "name": "Dario J. Fritzewski"
+        },
+        {
+          "name": "Timothy Van Reeth"
+        },
+        {
+          "name": "Conny Aerts"
+        }
+      ],
+      "score": 17.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.02717v1",
+      "title": "The Stellar \"Snake\"-III: Co-evolution of Stars and Molecular Clouds Unveiled by Gaia, MWISP, and LAMOST",
+      "updated": "2026-04-03T04:20:40Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.02717v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.02717v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "By combining multi-band data from Gaia DR3, MWISP CO, and LAMOST DR11 LSR/MSR, we investigate the co-evolution of stars and their parent molecular cloud in a snake-like stellar structure, named Snake III. Based on 5-D phase-space selection, we identified 5683 member stars (median age 7.6 Myr) across approximately $300 \\times 500 \\times 175$ pc$^3$ volume, along with 12 embedded open clusters. Then we use BEEP distances combined with $^{12}$CO velocities to clearly identify the molecular clouds associated with the stellar complex in spatial and kinematics. The molecular cloud density increases with Galactic longitude, with older open clusters forming in cavities near higher-density regions (except ASCC 125), while young field stars currently form preferentially in present-day high-density environments, indicating that cloud density regulates the star-formation sequence. $^{12}$CO excitation temperature, centroid velocity, velocity dispersion and H$α$ emission reveal that early feedback first compresses cloud edges to trigger new stars, then sweeps and disperses the parent clouds. The extremely young cluster (ASCC 125, 4.4 Myr) lies near the densest region yet is surrounded by a shell with bidirectional density-velocity perturbations, consistent with a delayed-triggering scenario under the combined influence of UBC 178 stellar-wind feedback and a suspected supernova blast. Our results naturally demonstrate that snake-like stellar structures are filamentary relics of hierarchical star formation within giant molecular clouds. They provide direct observational evidence that cloud density and early feedback jointly modulate the progression of star formation, offering a clear and young laboratory for studying star-cloud co-evolution.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-03T04:20:40Z",
+      "arxiv:comment": "19 pages, 14 figures, 2 tables, accepted for publication in ApJS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jia-Peng Li"
+        },
+        {
+          "name": "Hai-Jun Tian"
+        },
+        {
+          "name": "Chen Wang"
+        },
+        {
+          "name": "Xiang-Ming Yang"
+        },
+        {
+          "name": "Fan Wang"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.01123v2",
+      "title": "First results of AMBRA: Abundant Seeds and Early Mergers as a Pathway to the First Massive Black Holes",
+      "updated": "2026-04-05T17:48:24Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.01123v2",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.01123v2",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "AMBRA combines the large cosmological volume and statistical power of ASTRID with the physically motivated gas-based black hole seeding models from BRAHMA. Motivated by JWST's discoveries of massive black holes (BHs) at $z\\gtrsim 9$, AMBRA adopts a lenient heavy-seed prescription from the BRAHMA suite, allowing for the formation of $4\\times 10^{4-5}\\ M_{\\odot}$ seeds in halos with star-forming, metal-poor gas. The seeding model is motivated by scenarios in which heavy seeds form through stellar collisions in star clusters or from the rapid growth of Population III remnants. The improved seeding model enables AMBRA to form BH seeds much earlier and more efficiently compared to ASTRID. This significantly enhances early BH growth, producing a $z=8$ BH number density more than an order of magnitude higher than that in ASTRID over the mass range $10^{5-7}\\ M_{\\odot}$. BHs reaching masses consistent with GN-z11 and CEERS-1019 typically originate in highly compact density peaks and undergo multiple early mergers. In these systems, $\\sim50\\%$ of BH masses by $z=11$ is from BH mergers, after which gas accretion becomes the dominant growth channel. Without this early merger-driven assembly, ASTRID cannot reproduce the high-mass BH detected by JWST. Our results indicate that abundant early seed formation combined with frequent mergers can explain several JWST massive BH candidates without requiring sustained super-Eddington accretion. As a testable prediction, AMBRA yields $\\approx4$ LISA detectable BH merger events per year at $z\\geq8$, which is three orders of magnitude higher than that in ASTRID.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-01T16:47:19Z",
+      "arxiv:comment": "22 pages, 13 figures, submitted to ApJ. Comments are welcome!",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yihao Zhou"
+        },
+        {
+          "name": "Aklant Kumar Bhowmick"
+        },
+        {
+          "name": "Tiziana Di Matteo"
+        },
+        {
+          "name": "Patrick LaChance"
+        },
+        {
+          "name": "Rupert Croft"
+        },
+        {
+          "name": "Laura Blecha"
+        },
+        {
+          "name": "Simeon Bird"
+        },
+        {
+          "name": "Paul Torrey"
+        },
+        {
+          "name": "Lars Hernquist"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.00126v1",
+      "title": "The Star Formation Factory revisited I. The impact of metallicity on collapsing star-forming clouds",
+      "updated": "2026-03-31T18:31:11Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.00126v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.00126v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Context. Stellar feedback regulates star formation and shapes the interstellar medium, yet its role during the collapse of molecular clouds remains uncertain over a wide range of initial conditions. Aims. We explore how stellar winds and supernovae influence star formation in collapsing gas clouds that span a broad parameter space in mass, size, and metallicity. Methods. Using a one-dimensional numerical model, we follow the evolution of feedback-driven bubbles produced by embedded clusters, incorporating time-dependent energy and mass injection, self-gravity, integrated cloud collapse, radiative cooling, shell instabilities, and triggered star formation. Our treatment of gas cooling in the hot bubble explicitly accounts for heat transfer across the bubble-shell interface. Results. We find that metallicity acts as a key regulator of feedback, comparable in importance to cloud mass and radius. In low-metallicity clouds, reduced radiative cooling is offset by weaker stellar winds, leading to prolonged star formation and higher efficiencies. Across a substantial portion of parameter space, the expanding shell undergoes a stalling phase that further enhances the star formation efficiency, an outcome that is not observed at higher metallicities. Conclusions. Our results suggest that the diverse properties of star clusters across cosmic time may arise from the metallicity-dependent interplay between stellar feedback and gas cooling.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-31T18:31:11Z",
+      "arxiv:comment": "Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "S. Jiménez"
+        },
+        {
+          "name": "D. Kománek"
+        },
+        {
+          "name": "R. Wünsch"
+        },
+        {
+          "name": "J. Palouš"
+        },
+        {
+          "name": "S. Ehlerová"
+        },
+        {
+          "name": "S. Martínez-González"
+        },
+        {
+          "name": "A. Srbljanović"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.29657v1",
+      "title": "Direct N-body simulations of rotating and extremely massive Population III star clusters",
+      "updated": "2026-03-31T12:21:13Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.29657v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.29657v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Aims. We present eight direct N-body simulations with NBODY6++GPU of extremely massive, initially rotating Population III star clusters with 1.01 x 10^5 stars.\n  Methods. Our models include primordial binaries, a continuous initial mass function, differential rotation, tidal mass loss, updated fitting formulae for extremely massive metal-poor Population III stars, and general-relativistic merger recoil kicks. We assess their impact on cluster dynamics.\n  Results. All runs form black holes below, within, and above the pair-instability gap, with multi-generation growth. Faster-rotating clusters core-collapse earlier; post-collapse clusters host a rotating, axisymmetric subsystem of intermediate-mass black holes (IMBHs) at the centre and an expanding halo of lower-mass objects. Pair-instability supernovae and compact-object formation at ~2-3 Myr sharply reduce total mass and a large fraction of the cluster's angular momentum. All Population III clusters in our simulations have the gravothermal-gravogyro catastrophe phase.\n  Conclusions. We confirm two of the hypothesized formation channels of galactic nuclei seed black holes: gravitational runaway mergers of black holes and of Population III stars, which core-collapse into IMBHs thereafter. Higher initial star cluster bulk rotation correlates with earlier core collapse and, in the event counts reported here, with more coalescences/collisions and lower retained (compact) binary abundances. Initial bulk rotation is a primary control parameter of cluster evolution: faster rotation accelerates early angular-momentum transport, gravothermal collapse, mass segregation, and amplifies post-collapse expansion, which also favours the formation of a compact central IMBH subsystem.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-31T12:21:13Z",
+      "arxiv:comment": "20 pages, 14 figures, 5 tables, accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Kai Wu"
+        },
+        {
+          "name": "Ataru Tanikawa"
+        },
+        {
+          "name": "Francesco Flammini Dotti"
+        },
+        {
+          "name": "Marcelo C. Vergara"
+        },
+        {
+          "name": "Boyuan Liu"
+        },
+        {
+          "name": "Albrecht W. H. Kamlah"
+        },
+        {
+          "name": "Manuel Arca Sedda"
+        },
+        {
+          "name": "Nadine Neumayer"
+        },
+        {
+          "name": "Rainer Spurzem"
+        }
+      ],
+      "score": 5.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.29502v1",
+      "title": "Distribution function-based modelling of discrete kinematic datasets, in application to the Milky Way nuclear star cluster",
+      "updated": "2026-03-31T09:44:14Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.29502v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.29502v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a method for constructing dynamical models of stellar systems described by distribution functions and constrained by discrete-kinematic data. We implement various improvements compared to earlier applications of this approach, demonstrating with several examples that it can deliver meaningful constraints on the mass distribution even in situations when the density profile of tracers and the selection function of the kinematic catalogue are unknown. We then apply this method to the Milky Way nuclear star cluster, using kinematic data (line-of-sight velocities and proper motions) for a few thousand stars within 10 pc from the central black hole, accounting for the contributions of the nuclear stellar disc and the Galactic bar. We measure the mass of the black hole to be 4x10^6 Msun with a 10% uncertainty, which agrees with the more precise value obtained by the GRAVITY instrument. The inferred stellar mass profile depends on the choice of kinematic data, but the total mass within 10 pc is well constrained in all models to be (2.0-2.3)x10^7 Msun. We make our models publicly available as part of the Agama software framework for galactic dynamics.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-31T09:44:14Z",
+      "arxiv:comment": "accepted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Eugene Vasiliev"
+        },
+        {
+          "name": "Anja Feldmeier-Krause"
+        },
+        {
+          "name": "Mattia C. Sormani"
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.29360v1",
+      "title": "Constraining the Galactic bar and spiral pattern speeds with the Hyades tidal stream",
+      "updated": "2026-03-31T07:33:52Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.29360v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.29360v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a suite of direct $N$-body simulations of the Hyades open cluster and its tidal stream in a Milky Way potential that includes a rotating bar and spiral arms. Using the high-resolution code PETAR and an AGAMA-based multi-component Galactic model, we vary the bar and spiral pattern speeds ($Ω_b$, $Ω_s$) on a discrete grid and quantify the resulting changes in stream orientation, length, and internal density structure. We compare the simulations to Gaia EDR3 using the convergent point (CP) and compact convergent point (CCP) methods, followed by an adaptive three-dimensional nearest-neighbor matching in Cartesian space $(x,y,z)$. The Gaia candidate members exhibit a pronounced longitudinal density peak at $Y_{\\mathrm{rot}} \\approx 0.1\\,\\mathrm{kpc}$ in a stream-aligned coordinate system. Models with $Ω_s = 22.5\\,\\mathrm{km\\,s^{-1}\\,kpc^{-1}}$ and $Ω_b \\simeq 40$--$45\\,\\mathrm{km\\,s^{-1}\\,kpc^{-1}}$ best reproduce this feature, while faster-bar models fail to match the observed density structure. These models are consistent with recent constraints favoring a relatively slow Galactic bar, and they illustrate how nearby open-cluster streams can provide an independent, local constraint on non-axisymmetric Galactic dynamics.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-31T07:33:52Z",
+      "arxiv:comment": "15 pages, 11 figures, accepted for publication in APJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Zi-yi Zhou"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Tereza Jerabkova"
+        },
+        {
+          "name": "Zhenghao He"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.28878v3",
+      "title": "Formation and disruption of wide binaries in star clusters revealed by N-body simulations",
+      "updated": "2026-04-02T01:29:47Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.28878v3",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.28878v3",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Wide (soft) binaries are expected to be rapidly disrupted in dense stellar environments, yet they are observed in both the Galactic field and open clusters (OCs). In this paper, we investigate the formation and disruption of wide binaries in star clusters using direct N-body simulations. We perform simulations containing 10,000 objects with varying binary fractions and initial bulk rotation to give an in-depth look into the dynamical evolution of wide binaries in star clusters. We find that wide binaries dominate early disruption and formation processes during the initial high-density phase of cluster evolution. We propose two semi-analytical models to reproduce the evolution of the wide-binary population in simulations. The exponential model consists of an early, rapid-disruption phase with a time less than 10 Myr, driven by frequent encounters at high density, and a longer, relaxation-driven phase between 200 and 300 Myr. The broken power-law model provides break timescales when the decrease of wide binaries slows down during the early and long-term disruption. All timescales from both models agree with each other and decrease with increasing stellar density induced by high primordial binary fraction and cluster rotation. Wide binary disruption is mostly responsible for the early decline in the total binary fraction of the cluster. Such disruption leads to the decrease of radial binary fraction toward the cluster center until 500 Myr. Our results suggest low-density OCs or stellar groups younger than 10 Myr as the optimal environments for detecting wide binaries and provide a physical framework for understanding their contribution to the Galactic field population.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-30T18:01:18Z",
+      "arxiv:comment": "Accepted to the Astrophysical Journal Letters",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Abylay Bissekenov"
+        },
+        {
+          "name": "Xiaoying Pang"
+        },
+        {
+          "name": "Rainer Spurzem"
+        },
+        {
+          "name": "Bekdaulet Shukirgaliyev"
+        },
+        {
+          "name": "Mukhagali Kalambay"
+        },
+        {
+          "name": "Peter Berczik"
+        }
+      ],
+      "score": 6.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.28866v1",
+      "title": "The Depletion of Collisionless Dark Matter Spikes",
+      "updated": "2026-03-30T18:00:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.28866v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.28866v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Dense concentrations of dark matter (DM) surrounding black holes provide a compelling opportunity to probe the nature of DM. In the classic Gondolo-Silk model, the adiabatic growth of a massive black hole (MBH) in a DM cusp produces a steep density spike ($ρ\\propto r^{-7/3}$), potentially inducing measurable gravitational-wave dephasings in intermediate and extreme mass-ratio inspirals (IMRIs/EMRIs). We challenge this paradigm by considering a collisionless spike embedded in a realistic nuclear star cluster (NSC). Using 1D orbit-averaged Fokker-Planck (FP) simulations of isotropic NSCs, we show that mass segregation in a multi-mass stellar cusp accelerates relaxation, relative to single-mass models, thereby driving the DM to the lower density $r^{-3/2}$ Bahcall-Wolf profile within $\\lesssim 1 \\mathrm{Gyr}$. In the inner regions, where the FP description breaks down, we model strong triple interactions between DM particles and EMRIs using post-Newtonian 3-body simulations. We show that EMRIs eject DM particles via slingshots, depleting the inner spike over a few Gyrs. Because EMRI number densities are too low to drive two-body relaxation, and collisionless DM cannot efficiently repopulate the depleted phase space, this depletion is irreversible. While the extent of EMRI-induced depletion depends on the EMRI rate and mass, we find reductions in DM densities by several orders of magnitude. Hence, DM-induced dephasings for EMRIs may fall below the detectability threshold of LISA for MBHs at $z = 3$ (2.14 Gyr) with masses $\\lesssim 10^{5}\\,M_\\odot$ (for an $\\mathcal{O}(10) \\, \\mathrm{Gyr}^{-1}$ EMRI rate), extending to $\\lesssim 10^6\\,M_\\odot$ for more optimistic rates of $\\mathcal{O}(300-1000) \\, \\mathrm{Gyr}^{-1}$. Our findings substantially reduce the parameter space over which MBHs can host detectable collisionless DM spikes.",
+      "category": [
+        {
+          "@term": "gr-qc",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-30T18:00:06Z",
+      "arxiv:primary_category": {
+        "@term": "gr-qc"
+      },
+      "author": [
+        {
+          "name": "Charlie Sharpe"
+        },
+        {
+          "name": "Yonadav Barry Ginat"
+        },
+        {
+          "name": "Thomas F. M. Spieksma"
+        },
+        {
+          "name": "Bence Kocsis"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.26872v1",
+      "title": "A cosmological framework for stellar collisions at high redshift in proto-globular clusters, nuclear star clusters, and Little Red Dots",
+      "updated": "2026-03-27T18:00:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.26872v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.26872v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Observations and cosmological simulations indicate that the early Universe hosted numerous compact, high-density stellar systems, where close encounters and physical collisions between stars were likely common. We develop a bottom-up framework for stellar dynamics in such environments, spanning systems with and without intermediate- and supermassive black holes, and covering regimes where stellar collisions may or may not dominate the evolution. This radially-resolved analytic model connects dense star clusters in their cosmological context to observable outcomes mediated by stellar collisions. Initial conditions and environmental properties are drawn from high-resolution cosmological simulations, enabling exploration across a broad region of parameter space. The analytic predictions are validated against Monte Carlo simulations, demonstrating good agreement across key regimes. We find that stellar collisions are ubiquitous in many high-redshift environments, with runaway sequences naturally leading to the formation of very massive stars at early times. Finally, we show that high rates of destructive collisions can rapidly build up extremely dense gaseous environments around massive black holes, potentially providing an analogue to the observed population of Little Red Dots.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-27T18:00:02Z",
+      "arxiv:comment": "25 pages, 8 figures. Comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Claire E. Williams"
+        },
+        {
+          "name": "Smadar Naoz"
+        },
+        {
+          "name": "Sanaea C. Rose"
+        },
+        {
+          "name": "Blakesley Burkhart"
+        },
+        {
+          "name": "Naoki Yoshida"
+        },
+        {
+          "name": "Avi Chen"
+        },
+        {
+          "name": "Kyle Kremer"
+        },
+        {
+          "name": "William Lake"
+        },
+        {
+          "name": "Federico Marinacci"
+        },
+        {
+          "name": "Shyam H. Menon"
+        },
+        {
+          "name": "Mark Vogelsberger"
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.26572v1",
+      "title": "New star clusters discovered towards the Galactic anticentre direction using Gaia DR3 data",
+      "updated": "2026-03-27T16:34:18Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.26572v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.26572v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We report the discovery of 31 new open clusters (OCs) identified in \\textit{Gaia}~DR3 data through a systematic search over 220 adjacent $1^\\circ\\times1^\\circ$ fields towards the Galactic anticentre, in the direction of the Perseus arm gap. Eight of them display low-density structures, possibly indicating open cluster remnants properties. The objects were identified and characterized through a combined analysis of photometric, kinematic, and spatial distributions, a methodology successfully applied in our previous works. Their structural properties, mean proper motions, ages, distances and reddening were derived and their centres cross-matched with the available catalogues. The clusters are low-concentrated systems and are mostly located within $3<d<5$ kpc, exhibiting reddening up to $E(B-V)\\approx1.5$, and ages from $\\sim$20 Myr to 1 Gyr. The new OCs represent a significant increase in the anticentre cluster census: $31\\%$ for $3<d<4$ kpc and $12\\%$ for $d>4$ kpc. They do not belong to the Perseus arm, but may be associated with the Outer Norma arm. The Gulf of Camelopardalis region appears as an interruption in the Perseus arm, possibly reflecting low star-formation activity, dust obscuration, or that the Milky Way is a flocculent, rather than a grand-design spiral galaxy.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-27T16:34:18Z",
+      "arxiv:comment": "20 pages, 16 figures. Accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "F. A. Ferreira"
+        },
+        {
+          "name": "M. S. Angelo"
+        },
+        {
+          "name": "J. F. C. Santos"
+        },
+        {
+          "name": "W. J. B. Corradi"
+        },
+        {
+          "name": "F. F. S. Maia"
+        }
+      ],
+      "score": 11.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.24697v1",
+      "title": "The mmax-Mecl relation in the LEGUS clusters",
+      "updated": "2026-03-25T18:20:13Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.24697v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.24697v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The relation between the maximum stellar mass in a very young cluster (mmax) and the total stellar mass of the cluster (Mecl), known as the mmax-Mecl relation, remains debated in the literature. To test the validity of this relation, we modelled young star clusters with masses between 102.5 and 105.0 M_sun and ages of 1-4 Myr using the galIMF code, in which stellar masses are optimally sampled from a varying initial stellar mass function. We compared the results with literature observations of extragalactic young star clusters. We incorporated stellar evolution via PARSEC and COLIBRI tracks and computed Halpha luminosities using the Pegase code. To account for dynamical ejections, we stochastically removed stars based on their spectral type, following previous N-body simulations. Additional sources of scatter, including uncertainties in age determination and contamination by field stars, were considered. Our results indicate that, under the assumptions explored here, optimal sampling is consistent with the extragalactic star cluster observations considered, whereas purely random sampling produces distributions that are not in agreement. These findings support a highly self-regulated interpretation of cluster formation in which stellar masses align optimally with the initial mass function rather than being drawn independently at random.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-25T18:20:13Z",
+      "arxiv:comment": "17 pages, 13 figures, accepted by A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Marie Zinnkann"
+        },
+        {
+          "name": "Tereza Jerabkova"
+        },
+        {
+          "name": "Zhiqiang Yan"
+        },
+        {
+          "name": "Pavel Kroupa"
+        },
+        {
+          "name": "Yannik Ostermann"
+        },
+        {
+          "name": "Eda Gjergo"
+        },
+        {
+          "name": "Akram Hasani Zonoozi"
+        },
+        {
+          "name": "Hosein Haghi"
+        },
+        {
+          "name": "Jan Pflamm-Altenburg"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.24550v1",
+      "title": "Massive star clusters detected by JWST as natural birth places to form intermediate-mass black holes",
+      "updated": "2026-03-25T17:25:44Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.24550v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.24550v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The James Webb Space Telescope (JWST) has detected, through gravitational lensing, several young massive star clusters (YMCs), which are considered as relevant building blocks of high redshift galaxies. In this work, we show how a significant fraction of these YMCs could act as relevant birth places for intermediate-mass black holes. We first consider the formation of massive clusters and show that the population of YMCs is consistent with a steep mass-radius relation, which includes a relevant spread of roughly an order of magnitude. We pursue a comparison of this population with young star clusters in the local Universe and Milky Way globular clusters, including an analysis of the characteristic timescales. The YMCs show a wide spread over these properties, but include systems with both short relaxation times as well as relatively short collision timescales, implying they could go through efficient core collapse, which would lead to runaway collisions. We provide quantitative estimates of the sizes of the clusters that could efficiently form intermediate-mass black holes through a runaway collision-based channel, suggesting that these roughly correspond to the systems beyond the $1σ$ scatter in the mass-radius relation. This implies a fraction of ~16% of YMCs as candidates to form intermediate-mass black holes. We show that above a mass limit of ~6x10^6 M_sun, compact star clusters are likely to retain gas even in the presence of strong supernova feedback, altering the dynamics in the central core and providing the possibility to rapidly grow the central object both via gas dynamical friction and Bondi accretion. Finally, we consider the possibility of a gas-dominated regime, in which strong gravitational torques may inhibit star cluster formation and instead directly form a high-mass black holes, as suggested to have occurred in the infinity galaxy.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-25T17:25:44Z",
+      "arxiv:comment": "13 pages, 5 figures, submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Dominik R. G. Schleicher"
+        },
+        {
+          "name": "Matías Liempi"
+        },
+        {
+          "name": "Mirek Giersz"
+        },
+        {
+          "name": "Marcelo C. Vergara"
+        },
+        {
+          "name": "Francesco Flammini Dotti"
+        },
+        {
+          "name": "Paulo Solar"
+        },
+        {
+          "name": "Andrés Escala"
+        },
+        {
+          "name": "Muhammad A. Latif"
+        },
+        {
+          "name": "Bastián Reinoso"
+        },
+        {
+          "name": "Abbas Askar"
+        },
+        {
+          "name": "Raffaella Schneider"
+        },
+        {
+          "name": "Roberto Capuzzo-Dolcetta"
+        },
+        {
+          "name": "Jorge Saavedra-Bastidas"
+        },
+        {
+          "name": "Fernando Cuevas"
+        }
+      ],
+      "score": 7.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.23594v1",
+      "title": "Direct Evidence for Stellar Initial Mass Function Variation in the Milky Way",
+      "updated": "2026-03-24T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.23594v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.23594v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Because direct measurements require resolved stellar populations including low-mass stars, determining the stellar initial mass function (IMF) has been a historically difficult problem even within our own Galaxy and impossible everywhere else. As a result, even though it is predicted that the IMF should vary depending upon the properties of each individual star-forming molecular cloud, it is standard to assume a Universal IMF. Using recent observations from {\\em Gaia}, it is now possible to test for IMF variation using resolved stellar populations in open clusters and a parameterization that separates properties of the IMF from subsequent dynamical evolution. Here, we show that the IMF is not Universal but instead varies across individual Galactic stellar populations, reflecting evolution in the average conditions of molecular clouds over cosmic time. This evolution is consistent with the predictions of a simple astrophysical model in which the IMF is environmentally-dependent and the Milky Way reflects typical galactic behavior in recent cosmic history. Thus, observational evidence now agrees with long-standing theoretical and numerical predictions.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-24T18:00:00Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Charles L. Steinhardt"
+        },
+        {
+          "name": "Carter Meyerhoff"
+        },
+        {
+          "name": "Alexander J. Luening"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.23589v1",
+      "title": "oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri",
+      "updated": "2026-03-24T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.23589v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.23589v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Omega Centauri ($ω\\,$Cen) is the most massive and chemically complex star cluster in the Milky Way and is widely regarded as the surviving nuclear star cluster of an accreted dwarf galaxy. However, its parent host remains uncertain. Here, we investigate a scenario in which Sequoia, Thamnos, and Gaia--Enceladus (GE) are debris from a single disrupted progenitor, the $ω\\,$Dwarf, whose nucleus survives today as $ω\\,$Cen. Using APOGEE and GALAH abundances together with Gaia astrometry, we reconstruct the chemical structure across this progenitor adopting orbital energy as a proxy for pre-merger radius. We find that the chemically evolved (younger Al-N-He-rich) population is strongly concentrated toward the inner regions, representing a population formed after/during the merger, while the primordial population represents a dwarf-galaxy-like population, supporting a common dwarf-galaxy origin for its components. The metallicity profile shows an inverted U-shaped gradient similar to those observed in present-day nucleated dwarf galaxies. At the same time, the inner regions ($ω\\,$Cen+Thamnos) are more $α$-enhanced than the outskirts, pointing to shorter and more efficient star formation and indicating that the nucleus may have assembled through the merger of inspiraling globular clusters. Neutron-capture abundances reveal a Eu-rich, r-process-dominated outskirts and inner regions enhanced in [Ba/Eu] and [La/Eu], requiring delayed enrichment and more complex chemical evolution. Finally, our analysis shows that Sequoia and Thamnos naturally fit an outside-in stripping sequence around $ω\\,$Cen, whereas the connection with GE remains unsure.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-24T18:00:00Z",
+      "arxiv:comment": "25 pages, 17 figures, 1 table, and 1 appendix. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Stefano Souza"
+        },
+        {
+          "name": "Nadine Neumayer"
+        },
+        {
+          "name": "Anil C. Seth"
+        },
+        {
+          "name": "Zixian Wang"
+        },
+        {
+          "name": "Callie Clontz"
+        },
+        {
+          "name": "Maximilian Häberle"
+        },
+        {
+          "name": "Maria S. Nitschai"
+        },
+        {
+          "name": "Peter J. Smith"
+        },
+        {
+          "name": "Tadafumi Matsuno"
+        },
+        {
+          "name": "Guillaume Guiglion"
+        },
+        {
+          "name": "Anja Feldmeier-Krause"
+        },
+        {
+          "name": "Nikolay Kacharov"
+        },
+        {
+          "name": "Glenn van de Ven"
+        },
+        {
+          "name": "Jiadong Li"
+        },
+        {
+          "name": "Mattia Libralato"
+        },
+        {
+          "name": "Andrea Bellini"
+        },
+        {
+          "name": "Antonino P. Milone"
+        },
+        {
+          "name": "Mayte Alfaro-Cuello"
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.22234v2",
+      "title": "Axionlike dark-matter winds driven by galactic baryon redistribution",
+      "updated": "2026-03-25T16:18:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.22234v2",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.22234v2",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We examine solutions of the hydrodynamic equations for dark matter (DM) modeled as a Bose-Einstein condensate (BEC) with axionlike interaction, forming a spherically symmetric halo in dwarf galaxies. Small perturbations and decoherence of the BEC DM arise from changes in the gravitational background induced by subgalactic baryonic processes. Focusing on the events in the central region of a galaxy, overlapping with the stable DM core, we consider three scenarios: (i) expansion of a gaseous shell mimicking stellar explosions, (ii) collapse of a shell modeling star formation, and (iii) contraction of a stellar cluster toward the galactic center, driven by dynamical friction within a gaseous shell. Numerical parameters are extracted from observational data for NGC 2366. Our results show central DM density increases of 0.01 percent and DM wind velocities of up to several meters per second. A greater increase in density is observed at lower wind speeds and vice versa. These results raise the question of whether minor DM variations significantly affect star formation. In analyzing the fate of the cumulative impact of baryonic processes, we turn to the quantum excitation model with a discrete spectrum in finite volume. In the inhomogeneous DM halo, including unstable phase, metastable excitations associated with false vacuum states decay over 32 million years. This induces the decay of the system's evolutionary operator. Meanwhile, the Beliaev damping, originating from the decay of stable quasiparticles, emerges in the next order of perturbation.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-23T17:30:39Z",
+      "arxiv:comment": "31 pages, 10 figures, 4 tables; new refs. added",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "A. V. Nazarenko"
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.20430v1",
+      "title": "Isolated or Dynamical? Tracing Black Hole Binary Formation through the Population of Gravitational-Wave Sources",
+      "updated": "2026-03-20T19:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.20430v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.20430v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The population of binary black hole (BBH) mergers observed by the LIGO-Virgo-KAGRA (LVK) collaboration offers a window into the cosmic evolution of compact binaries and their formation. We employ the semi-analytic population-synthesis code B-POP to model BBHs assembled through isolated binary evolution and dynamical interactions in young, globular, and nuclear star clusters. Our framework incorporates star formation history, metallicity evolution, and single and binary stellar evolution to quantify their impact on the observable properties of the BBH population and on the relative contribution of distinct formation channels. Our models are characterized by a merger rate, $\\mathcal{R} = 17.5-24.1\\mathrm{Gpc}^{-3}\\mathrm{yr}^{-1}$, broadly consistent with LVK constraints. Moreover, the predicted distributions of primary mass, mass ratio, and effective inspiral spin parameter are compatible with those inferred from current LVK observations. Our primary-mass distribution is dominated by isolated binaries at $m_1 < 20$ M$_\\odot$, while dynamically assembled first- and higher-generation mergers dominate at larger masses. As a consequence, the sub-population of mergers with $m_1 > 45$ M$_\\odot$ exhibits a nearly flat mass-ratio distribution and distinctive spin properties. We leverage our models to explore how: (i) the fraction of stars in isolated binaries and the fraction of stellar mass bound in clusters regulate the merger rate; (ii) common-envelope physics shapes the primary-mass distribution and its redshift evolution; (iii) the inclusion of stellar-collision products enhances the formation of higher-generation mergers; and (iv) the natal spin distribution influences the effective spin. Using our models to assess possible origins of selected GW events, we illustrate how the complexity of the underlying astrophysical processes can hinder the possibility to draw definitive conclusions.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "gr-qc",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-20T19:00:00Z",
+      "arxiv:comment": "22 pages of main text, 7 pages of appendices, subm. to PRD",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Manuel Arca Sedda"
+        },
+        {
+          "name": "Lavinia Paiella"
+        },
+        {
+          "name": "Cristiano Ugolini"
+        },
+        {
+          "name": "Filippo Santoliquido"
+        },
+        {
+          "name": "Benedetta Mestichelli"
+        },
+        {
+          "name": "Ilaria Usai"
+        },
+        {
+          "name": "Filippo Simonato"
+        },
+        {
+          "name": "Marica Branchesi"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.18883v1",
+      "title": "Luminosity functions and IMF variations from large samples of HII regions and molecular clouds",
+      "updated": "2026-03-19T13:24:51Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.18883v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.18883v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Large high-quality samples of HII regions and their parent Giant Molecular Clouds (GMC) are now available for local galaxies. It is therefore possible to investigate links between the CO and H$α$ luminosity functions and whether massive stars form in GMCs of all masses. The CO luminosity functions (LF), representing the distribution of GMC masses, are consistently steeper than the H$α$ luminosity functions. The CO LF invariably steepens in the outer disk where fewer massive GMCs are present beyond the median cloud galactocentric distance. The H$α$ LF also steepens in the outer disk for most of the galaxies examined. Using Salpeter, Kroupa, and Chabrier Initial Mass Functions (IMF) along with stellar mass-luminosity-radius relations, we compute numerically the bolometric luminosity and H$α$ emission from young star clusters. The cluster masses are linked to the GMC mass by assuming that the cluster mass is a constant fraction (3\\%) of the parent cloud mass. In particular, results for a fully stochastic IMF are compared to suggestions that very massive stars only form in massive clusters or clouds. Within the limits of the observations -- no small molecular clouds or low-luminosity HII regions can be detected at the typical $\\sim 10$~Mpc distance of the sample galaxies -- we find no evidence for a maximum stellar mass which varies with cloud or cluster mass.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-19T13:24:51Z",
+      "arxiv:comment": "12 pages, 11 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jonathan Braine"
+        },
+        {
+          "name": "Edvige Corbelli"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.18857v1",
+      "title": "Spin-up and spin distribution of stellar black holes grown by gas accretion in proto-stellar clusters",
+      "updated": "2026-03-19T13:02:20Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.18857v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.18857v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Proto-stellar clusters, likely progenitors of globular clusters, are compact with typical mass $\\sim 10^6\\,{\\rm M}_\\odot$ and size $\\sim 1\\,{\\rm pc}$, as revealed recently by JWST observations at $z\\sim 10$. Sufficiently high compactness can provide a time window for early-formed stellar black holes (BHs) to accrete primordial gas. We develop a model to determine the final spin distribution of stellar BHs which grow in mass via gas accretion within compact gaseous proto-stellar clusters. The velocity shear within a BH's sphere of influence induces the formation of an accretion disk which is repeatedly disrupted by stochastic perturbations to the BH motion. We assume low initial BH spins $a_{*,{\\rm ini}} = 0.01$, and restrict initial BH masses below the upper BH mass gap, $m_{\\rm BH,ini} < 55\\,{\\rm M}_\\odot$. Our analysis shows a strong BH spin-mass correlation, obtained within $\\sim 10 \\,{\\rm Myr}$ when gas is depleted. Low-spin BHs, $a_{*} \\leq 0.3$, are predominantly low-mass, $m_{\\rm BH} \\lesssim 25\\,{\\rm M}_\\odot$, in contrast to high-spin black holes, $a_{*} \\geq 0.7$, which are predominantly high-mass, $m_{\\rm BH} \\gtrsim 65\\,{\\rm M}_\\odot$. Notably, there exist also low-spin, high-mass outliers with $\\sim 1$ mass-gap BH per cluster expected to have $a_{*} \\sim 0.1$. The general trend, however, expressed by the median spin as a function of final BH mass is well fit by a high-spin saturating exponential with transition mass $\\sim 50\\,{\\rm M}_{\\odot}$. For $m_{\\rm BH} \\geq 100\\,{\\rm M}_\\odot$ the median spin is $\\bar{a}_{*} \\sim 0.90$ with the central $68\\%$ of the distribution spanning $a_{*} \\sim 0.70 - 0.96$, in striking agreement with the estimated spins of the gravitational-wave signal GW231123. These spin values persist up to the highest masses generated by our mechanism, $m_{\\rm BH} \\sim 10^3\\,{\\rm M}_\\odot$.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-19T13:02:20Z",
+      "arxiv:comment": "to appear in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Zacharias Roupas"
+      },
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.18242v1",
+      "title": "Evolution of Nuclear Star Cluster in Dwarf Galaxy through Mergers and In-Situ Star Formation",
+      "updated": "2026-03-18T19:56:15Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.18242v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.18242v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Nuclear Star Clusters (NSCs) are dense stellar systems located at the centers of galaxies. Employing Enzo-Abyss, which integrates hydrodynamics with a direct N-body solver, we introduce a simulation capable of resolving the evolution of NSCs within a live galaxy. This includes live dark matter, gaseous dynamics, star formation and feedback, collisional dynamics for star clusters. The evolution of NSCs is typically shaped by two main processes: mergers of star clusters and in-situ star formation. Our simulation enables investigation of the contributions of these mechanisms to the growth of NSCs. This work focuses on the impact of stellar physics and gas content on the growth of NSCs within a dwarf galaxy. To this end, we carry out four simulations, a fiducial simulation, one without supernova feedback, one with low star formation efficiency, and one with higher galactic gas content. This study shows a likelihood that both mergers and in-situ star formation contribute to NSC evolution comparably. In addition, mergers result in disruption of dense gas clumps within star clusters, indicating that in-situ star formation is suppressed when mergers occur. However, the limitations -- such as the lack of individual star physics and limited spatial/particle mass resolution -- hinder drawing a definite conclusion. Nevertheless, with further development, our simulations will serve as a cornerstone that untangles the complex interplay between mergers and in-situ star formation in shaping the structure and mass of NSCs, thereby providing insights into their formation and evolution.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-18T19:56:15Z",
+      "arxiv:comment": "30 pages, 17 pages, 2 tables, accepted in ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yongseok Jo"
+        },
+        {
+          "name": "Minyong Jung"
+        },
+        {
+          "name": "Greg L. Bryan"
+        },
+        {
+          "name": "Seoyoung Kim"
+        },
+        {
+          "name": "Ji-hoon Kim"
+        },
+        {
+          "name": "Ahram Lee"
+        }
+      ],
+      "score": 7.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.18151v1",
+      "title": "The Spectroscopic and Photometric Study of a Star Cluster Sample in Andromeda Halo",
+      "updated": "2026-03-18T18:00:07Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.18151v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.18151v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Halo star clusters serve as vital tracers for the formation and evolution of the Andromeda galaxy. In this work, we present physical parameters for 29 M31 halo star clusters, derived from a combination of spectroscopic and photometric data. Low-resolution spectra were acquired using the BFOSC spectrograph on the NAOC Xinglong 2.16-m telescope. For the photometric analysis, we utilized uSC and vSAGE bands from the SAGE survey, complemented by archival data from GALEX(NUV, FUV), PAN-STARRS(grizy) and the 2MASS(JHK). Ages and metallicities were determined via ULySS (Vazdekis et al. and pegase-hr) SSP model and the Bruzual & Charlot (2003) (BC03) stellar population synthesis models. The derived parameters show good agreement with literature values. Notably, for three of these clusters, this study represents the first combined photometric and spectroscopic analysis.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-18T18:00:07Z",
+      "arxiv:comment": "18 pages, 11 figures, 6 tables. Accepted for publication in AJ. Spectroscopic and photometric data are available",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Hongrui Gu"
+        },
+        {
+          "name": "Zhou Fan"
+        },
+        {
+          "name": "Bingqiu Chen"
+        },
+        {
+          "name": "Xiaoying Pang"
+        },
+        {
+          "name": "Juanjuan Ren"
+        },
+        {
+          "name": "Ruizheng Jiang"
+        },
+        {
+          "name": "Song Wang"
+        },
+        {
+          "name": "Kefeng Tan"
+        },
+        {
+          "name": "Nan Song"
+        },
+        {
+          "name": "Chun Li"
+        },
+        {
+          "name": "Jie Zheng"
+        },
+        {
+          "name": "Gang Zhao"
+        },
+        {
+          "name": "Wei Wang"
+        },
+        {
+          "name": "Yuqin Chen"
+        },
+        {
+          "name": "Jingkun Zhao"
+        },
+        {
+          "name": "Haining Li"
+        },
+        {
+          "name": "Yihan Song"
+        },
+        {
+          "name": "Haibo Yuan"
+        },
+        {
+          "name": "Ali Luo"
+        },
+        {
+          "name": "Yujuan Liu"
+        },
+        {
+          "name": "Yaqian Wu"
+        }
+      ],
+      "score": 5.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.18135v1",
+      "title": "The MOND Depth Index and Dynamical Maturity Clock: Toward a Universal Classification of Galaxies and Star Clusters",
+      "updated": "2026-03-18T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.18135v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.18135v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3390/galaxies14020022",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Mass discrepancies in galaxies are empirically known to appear only below a characteristic acceleration scale a0. Here we show that this behaviour is not limited to galaxies: it extends continuously across the full hierarchy of self-gravitating stellar systems, from gas-rich dwarfs and spirals to massive early-type galaxies, and further down to compact stellar clusters. We introduce the Milgromian dynamics (MOND) depth index DM, together with dynamical maturity index T = tcross/tH, dynamical collisionality index T1 = tcross/trelax, with tcross being the crossing time, tH the Hubble time and trelax the median two-body relaxation time, and the MOND acceleration index A = abar/a0. We uncover a well-defined two-dimensional dividing surface in dynamical space. The \"dark matter phenomenon\" is found only in systems that are both in the deep-MOND regime (abar < a0) and collisionless (trelax > tH), while high-acceleration, collisional systems (abar > a0, trelax << tH), including globular clusters and UCDs, show no evidence for a mass discrepancy. This clean dynamical separation defines a new, physically motivated classification scheme for stellar systems, unifying galaxies and clusters under one framework. The observed division emerges naturally within the MOND framework and provides a useful diagnostic for examining how different gravitational paradigms account for the origin of the mass discrepancy.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-18T18:00:00Z",
+      "arxiv:comment": "17 pages, 5 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "arxiv:journal_ref": "Galaxies 2026, 14(2), 22",
+      "author": [
+        {
+          "name": "Robin Eappen"
+        },
+        {
+          "name": "Pavel Kroupa"
+        }
+      ],
+      "arxiv:doi": "10.3390/galaxies14020022",
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.17254v1",
+      "title": "When turbulence beats magnetism: origin of massive star cluster seeds",
+      "updated": "2026-03-18T01:24:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.17254v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.17254v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "High-mass stars form in protoclusters, where gravo-magnetic processes shape collapsing clouds and clumps to be elongated preferentially perpendicular to magnetic (B) fields. Yet it remains unclear whether gravo-magnetic processes still govern the formation of smaller-scale condensations in massive-star-forming protoclusters, which are crucial for understanding the stellar initial mass function and multiplicity. Here we report the first statistical evidence that the condensation elongations are preferentially aligned with local B fields, based on high-resolution data from the largest dust polarization survey toward 30 massive star-forming regions with the Atacama Large Millimeter/submillimeter Array (ALMA). Our clustered massive star formation simulations reveal that this more parallel alignment is exclusively observed in models where initial turbulence dominates B fields. In contrast, models with initial B fields dominating turbulence distinctly exhibit a more perpendicular alignment. The comparison between observations and simulations suggests that turbulence could play a more important role than B fields in the formation of condensations in the context of clustered massive star formation, contradicting the prediction of classical magnetically regulated models. Moreover, we find a possibly turbulence-induced preferential misalignment between the B field and rotation axis of condensations, which may potentially reduce the magnetic braking efficiency and facilitate the formation of large protostellar disks.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-18T01:24:35Z",
+      "arxiv:comment": "30 pages, 13 figures. Initially submitted to Nature Astronomy on October 27, 2025. The uploaded arXiv version is before the final revision",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Junhao Liu"
+        },
+        {
+          "name": "Patricio Sanhueza"
+        },
+        {
+          "name": "Piyali Saha"
+        },
+        {
+          "name": "Kaho Morii"
+        },
+        {
+          "name": "Josep Miquel Girart"
+        },
+        {
+          "name": "Qizhou Zhang"
+        },
+        {
+          "name": "Fumitaka Nakamura"
+        },
+        {
+          "name": "Paulo C. Cortes"
+        },
+        {
+          "name": "Valeska Valdivia"
+        },
+        {
+          "name": "Benoit Commercon"
+        },
+        {
+          "name": "Patrick M. Koch"
+        },
+        {
+          "name": "Kate Pattle"
+        },
+        {
+          "name": "Xing Lu"
+        },
+        {
+          "name": "Janik Karoly"
+        },
+        {
+          "name": "Manuel Fernandez-Lopez"
+        },
+        {
+          "name": "Ian W. Stephens"
+        },
+        {
+          "name": "Huei-Ru Vivien Chen"
+        },
+        {
+          "name": "Chi-Yan Law"
+        },
+        {
+          "name": "Keping Qiu"
+        },
+        {
+          "name": "Shanghuo Li"
+        },
+        {
+          "name": "Henrik Beuther"
+        },
+        {
+          "name": "Eun Jung Chung"
+        },
+        {
+          "name": "Jia-Wei Wang"
+        },
+        {
+          "name": "Fernando A. Olguin"
+        },
+        {
+          "name": "Yu Cheng"
+        },
+        {
+          "name": "Jihye Hwang"
+        },
+        {
+          "name": "Sandhyarani Panigrahy"
+        },
+        {
+          "name": "Chakali Eswaraiah"
+        },
+        {
+          "name": "Maria T. Beltran"
+        },
+        {
+          "name": "Qiuyi Luo"
+        },
+        {
+          "name": "Spandan Choudhury"
+        },
+        {
+          "name": "Ji-hyun Kang"
+        },
+        {
+          "name": "Wenyu Jiao"
+        },
+        {
+          "name": "Luis A. Zapata"
+        },
+        {
+          "name": "A. -Ran Lyo"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.16183v1",
+      "title": "Evolution of fractality in centrally concentrated young clusters",
+      "updated": "2026-03-17T07:09:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.16183v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.16183v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate the structural evolution of young star clusters forming within centrally concentrated molecular clouds. Our simulations use the Torch framework, which integrates the FLASH magnetohydrodynamics code with the AMUSE environment, enabling a self-consistent treatment of gas dynamics, star formation, stellar evolution, radiative transfer, and gravitational interactions. We quantify cluster structure using the $Q$ parameter for fractality and compute fractal dimensions via two methods: box-counting and correlation dimension. Our results show that clusters generally inherit fractal substructure from their parental clouds, which is typically erased within $\\sim 2.5\\,t_\\mathrm{ff}$ through dynamical relaxation. Massive stars can induce the formation of secondary subclusters via feedback, with outcomes strongly dependent on stellar mass and formation timing. Interactions among subclusters, including mergers and dispersal, can extend fractal structure beyond $4\\,t_\\mathrm{ff}$. We also find systematic correlations between the fractality parameter $Q$ and the fractal dimension: fractality is positively correlated with both the correlation and box-counting dimensions, with the correlation dimension exhibiting a stronger correlation. These results demonstrate how stellar feedback and internal dynamics jointly shape the measurable fractal properties of embedded star clusters.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-17T07:09:06Z",
+      "arxiv:comment": "Submitted to A&A. Comments are welcome!",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Almat Akhmetali"
+        },
+        {
+          "name": "Adilkhan Assilkhan"
+        },
+        {
+          "name": "Mordecai-Mark Mac Low"
+        },
+        {
+          "name": "Nurzhan Ussipov"
+        },
+        {
+          "name": "Marat Zaidyn"
+        },
+        {
+          "name": "Ernazar Abdikamalov"
+        },
+        {
+          "name": "Alison Sills"
+        },
+        {
+          "name": "Xiaoying Pang"
+        },
+        {
+          "name": "Bekdaulet Shukirgaliyev"
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.15450v1",
+      "title": "Kinematical and dynamical properties of recently discovered bulge and disc star clusters with WINERED",
+      "updated": "2026-03-16T15:49:58Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.15450v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.15450v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1051/0004-6361/202556123",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Context. Galactic globular clusters are a very important tool in explaining the characteristics of the Milky Way. Therefore it is essential to determine the kinematical and dynamical properties of the new star cluster candidates, especially at the low-latitude regions that suffer from heavy extinction and crowding. Aims. In this work, we report the first spectroscopic analysis for seven recently identified star cluster candidates: CWNU 4193, FSR 1700, Garro 02, Patchick 98, FSR 1767, Mercer 08, and BH 140. Our aim is to determine the kinematical properties, such as the mean cluster radial velocity, and the dynamical properties, such as the orbital parameters and the global dynamical mass, of these clusters in order to spectroscopically confirm the nature of these seven stellar systems. Methods. We collected the high-resolution infrared spectra of 33 candidate members of these clusters using the WINERED spectrograph mounted on the Magellan Clay 6.5 m telescope. Using the WINERED spectra, we measured the radial velocity of each individual star to confirm its membership in the clusters. From the confirmed members, we derived the mean cluster radial velocity of each cluster. In addition, for these clusters, we computed the orbital elements using the GravPot16 model and estimated their global dynamical masses based on the virial theorem. Results. As a result, we confirmed enough member stars (from three to seven stars per cluster) to reliably derive the mean cluster radial velocity and compute the orbital parameters of the clusters CWNU 4193, FSR 1700, Garro 02, and BH 140. For clusters CWNU 4193, FSR 1700, and BH 140, the number of confirmed members also allowed us to estimate their global dynamical masses. Therefore, we successfully derived key kinematical and dynamical properties for four of the most obscured star clusters in the Milky Way.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-16T15:49:58Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Ilaria Petralia"
+        },
+        {
+          "name": "Dante Minniti"
+        },
+        {
+          "name": "José G. Fernández-Trincado"
+        },
+        {
+          "name": "Noriyuki Matsunaga"
+        },
+        {
+          "name": "Daisuke Taniguchi"
+        },
+        {
+          "name": "Sasi Saroon"
+        },
+        {
+          "name": "Elisa R. Garro"
+        },
+        {
+          "name": "Hiroaki Sameshima"
+        },
+        {
+          "name": "Shogo Otsubo"
+        },
+        {
+          "name": "Yuki Sarugaku"
+        },
+        {
+          "name": "Tomomi Takeuchi"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202556123",
+      "score": 6.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.12379v1",
+      "title": "The SMUGGLE-Ring project: Bar and bulge effects on nuclear disk and ring formation",
+      "updated": "2026-03-12T18:59:03Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.12379v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.12379v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the first results from the SMUGGLE-Ring project, a suite of simulations employing the SMUGGLE ISM and stellar feedback model to explore nuclear structures in Milky Way-mass galaxies. We discuss results from three simulations evolved for 5 Gyr in isolation, in which we vary the classical bulge mass, while keeping the disk and halo structures identical. Nuclear stellar disks and rings emerge exclusively in our bulge models, with more massive bulges associated with earlier formation and more extended initial gas reservoirs shortly after bar formation. After gas depletion via active star formation, the nuclear stellar disks bifurcate into pressure-supported nuclear star clusters (NSCs, $v_φ/σ_R < 0.7$) and rotationally supported nuclear stellar rings (NSRs, $v_φ/σ_R = 1.2$--1.7, radii 0.64--0.76 kpc). The bulgeless model fails to build up and sustain stable nuclear gas disks against feedback disruptions. The enclosed stellar mass of NSCs ($\\sim10^{9}\\Msun$) dominates over that of NSRs ($\\sim10^{8}\\Msun$). The star formation rates decline over time due to gas depletion (NSCs 0.1--1 $\\Msun$/yr, NSRs 0.01--$0.1 \\Msun$/yr). Kinematics reveal outward-shifting rotation peaks with $σ$-drops in NSRs, while a fraction of stars in NSCs exhibits radial shift after 3 Gyr. These findings support inside-out NSD formation via secular bar evolution, with NSRs tracing the star-forming outer edge of the nuclear gas disk and NSCs forming the kinematically hotter inner component. The range of nuclear stellar disk sizes (0.25--0.76 kpc) falls within the observationally inferred ranges, but the existence of larger rings would require external gas flow and/or a longer period of evolution. Future SMUGGLE-Ring extensions will incorporate varying gas fractions, tidal/merger effects, and the circumgalactic medium to further elucidate nuclear diversity and outliers.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-12T18:59:03Z",
+      "arxiv:comment": "21 pages, 17 figures, submitted",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "SungWon Kwak"
+        },
+        {
+          "name": "Federico Marinacci"
+        },
+        {
+          "name": "Matthias Steinmetz"
+        },
+        {
+          "name": "Ivan Minchev"
+        },
+        {
+          "name": "Cristina Chiappini"
+        },
+        {
+          "name": "Mathias Schultheis"
+        },
+        {
+          "name": "Woong-Tae Kim"
+        },
+        {
+          "name": "Mark Vogelsberger"
+        },
+        {
+          "name": "Laura V. Sales"
+        },
+        {
+          "name": "Hui Li"
+        },
+        {
+          "name": "Seungwon Baek"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.11994v1",
+      "title": "The Cold Debris Disk Surveys I. Host Star Properties",
+      "updated": "2026-03-12T14:45:42Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.11994v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.11994v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/1538-3881/ae46a2;",
+          "@title": "doi"
+        }
+      ],
+      "summary": "We describe the dynamical, photometric, and spectroscopic data available for stars targeted by Spitzer and Herschel to search for cold circumstellar dust emission from debris disks, a collection that we name the Cold Debris Disk Surveys (CDDS). These data include Hipparcos and Gaia parallaxes, 0.4-1250 micron photometry, spectral types, effective temperatures, gravities, bolometric luminosities, visual extinctions, metallicities, lithium abundances, rotational periods, projected rotational velocities, the Ca~II HK and IR triplet activity indicators, and X-ray luminosities for 3675 stars. Within this sample, we investigate the frequency of stellar and planetary companions (including potential new proper motion companions); use the data to assign CDDS stars to the field or one of many moving groups, open clusters, or stellar associations; and investigate correlations between stellar activity indicators. In future papers, we plan to explore the magnitude and frequency of infrared excess emission as a function of host star properties; to search for new companions with Gaia; and to examine the evolution of infrared excesses with the ages of stars in clusters and the field.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.EP",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-12T14:45:42Z",
+      "arxiv:comment": "61 pages, 8 tables, and 21 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "arxiv:journal_ref": "Astronomical Journal, 171, 223, 2026",
+      "author": [
+        {
+          "name": "Scott J. Kenyon"
+        },
+        {
+          "name": "Benjamin C. Bromley"
+        },
+        {
+          "name": "Joan R. Najita"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-3881/ae46a2;",
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.11803v1",
+      "title": "Binary disruption during the early phase of open clusters",
+      "updated": "2026-03-12T11:08:15Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.11803v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.11803v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The binary fraction in young open clusters exceeds that of field stars, making the study of binary dynamical evolution in clusters essential for understanding the origins and evolution of field binaries. Using N-body simulations based on Gaia DR3 open cluster observations and assuming a 100\\% primordial binary fraction, we investigated the early evolution of binary survival fractions in open clusters. We find that binary disruption has two stages, an initial rapid decline followed by a slower decrease, well described by two piecewise linear functions. The early disruption rate, $k_1$, follows a power-law relation with the cluster's initial density ($ ρ_\\mathrm{0} $), with an index of approximately 0.56, driven by the disruption of wide binaries via close encounters. The transition time between the two phases, $t_\\mathrm{b}$, also exhibits a power-law dependence on $ρ_\\mathrm{0}$ with an index of about -0.46. The disruption rate also depends on binary parameters: high-$q$ and wide binaries are disrupted faster, while the dependence on eccentricity $e$ is less clear, likely due to its strong evolution. We developed and publicly released a Python tool to predict binary survival fraction evolution based on $ρ_0$, $P$ and $q$. Additionally, we also investigate how open cluster binaries contribute to the field population, and find that the escaped stars have a systematically lower binary fraction, likely due to mass segregation. Both populations show similar distributions of $ P $ and $e$, but lower-$q$ systems preferentially remain bound within clusters, the origin of which remains uncertain.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-12T11:08:15Z",
+      "arxiv:comment": "19 pages, 15 figures, 1 table, Accepted for publication in ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Zepeng Zheng"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Holger Baumgardt"
+        }
+      ],
+      "score": 10.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.11782v1",
+      "title": "Origin of open clusters revealed by the evolution of the m_max$-$M_ecl relation",
+      "updated": "2026-03-12T10:40:45Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.11782v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.11782v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Using the Gaia DR3 open cluster catalog, we identified the most massive star in each observed cluster. Examining the m_max$-$M_cluster relations across different age ranges, we find that as clusters age, the relation gradually deviates from the initial m_max$-$M_ecl relation and eventually exhibits clear age stratification. We conducted N$-$body simulations for both individual cluster evolution and subcluster coalescence. Four gas expulsion modes were tested for individual clusters, and two scenarios were modeled for cluster coalescence. Under all four gas expulsion modes, the evolution of the m_max$-$M_cluster relation follows a similar trajectory, differing mainly in evolutionary speed. The coalescence simulations show comparable behavior but align better with the observations, as both exhibit systematically lower m_max$-$M_cluster relations than individual cluster simulations. This systematically lower observed m_max$-$M_cluster relation suggests slower cluster mass loss and smaller masses for the most massive stars$-$both conditions reproduced in the coalescence simulations. Observations also show that clusters older than 5 Myr have most massive stars significantly deviating from the initial m_max$-$M_ecl relation. From this perspective, the coalescence simulations also provide a better match to the observations. In conclusion, the evolution of the m_max$-$M_ecl relation supports subcluster coalescence as a dominant pathway for open cluster formation, consistent with our previous work.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-12T10:40:45Z",
+      "arxiv:comment": "Accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "J. W. Zhou"
+        },
+        {
+          "name": "Sami Dib"
+        },
+        {
+          "name": "Pavel Kroupa"
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.10607v1",
+      "title": "Star formation in the circumgalactic high-velocity cloud Complex H",
+      "updated": "2026-03-11T10:09:11Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.10607v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.10607v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1038/s41550-026-02814-9",
+          "@title": "doi"
+        }
+      ],
+      "summary": "The accretion of metal-poor gas sustains galactic star formation. In the Milky Way, this process is fueled by high-velocity clouds (HVCs), yet their fundamental properties have remained elusive in the absence of stellar tracers. Here we report a binary open cluster within HVC Complex H. With an age of 11.2 +- 0.6 Myr and a subsolar metallicity of 0.05(+0.05-0.02) Zsun, the clusters provide a direct stellar distance anchor to the cloud at 13.8 +- 0.6 kpc. Their proper motions indicate Complex H is on a prograde, south-to-north orbit through the outer Galactic disk. The resulting interaction produces a 'slow-fast-slow' velocity gradient, with the cloud's outer layers decelerating as they merge into the disk. Orbit integration suggests the clusters formed from an internal cloud-cloud collision. This triggering mechanism implies other HVCs could similarly produce high-velocity stars. The scarcity of previous stellar detections in HVCs is explained by the rapid escape of young stars (< 20 Myr), while CO non-detections may stem from weak emission due to low metallicity and gas dispersal. This work reveals that the circumgalactic medium can sustain star formation, offering a tangible laboratory to probe the physical conditions of accreting gas before it merges with the Galactic disk.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-11T10:09:11Z",
+      "arxiv:comment": "31 pages, 10 figures, published on Nature Astronomy (https://www.nature.com/articles/s41550-026-02814-9)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Zhihong He"
+        },
+        {
+          "name": "Wenkang Pang"
+        },
+        {
+          "name": "Kun Wang"
+        },
+        {
+          "name": "Yangping Luo"
+        },
+        {
+          "name": "Qian Cui"
+        }
+      ],
+      "arxiv:doi": "10.1038/s41550-026-02814-9",
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.10581v1",
+      "title": "The in-situ growth of stellar-mass \"light\" seed black holes in nuclear star clusters",
+      "updated": "2026-03-11T09:38:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.10581v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.10581v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Remnant black holes (BHs) of massive stars (``light seeds'') are a potential origin for supermassive black holes (SMBHs). We use magnetohydrodynamic simulations to study the formation and growth of light seeds in star-forming giant molecular clouds (GMCs) with masses $10^5$--$10^9\\,M_\\odot$, which evolve for $\\sim 10$--$30\\,\\rm Myr$ and form compact star clusters, akin to high-redshift nuclear star clusters. In particular, the simulations resolve very massive stars (VMSs, 100--$300\\,M_\\odot$), including their radiative and mechanical feedback, and model feedback-regulated accretion onto remnant BHs. We find that, even in compact GMCs capable of forming deep potential wells, the gas reservoir is expelled by sustained stellar feedback and rapidly dispersed after supernova explosions. Remnant BH populations emerge $\\sim 3\\,\\rm Myr$ after the starburst and concentrate at the cluster center (where $ρ_{\\rm BH}\\sim 10^4$--$10^6\\,M_\\odot\\,{\\rm pc}^{-3}$). With our fiducial sub-grid BH accretion/feedback model, in-situ BH accretion is inefficient for forming heavy seeds: some direct-collapse BHs briefly accrete at $\\sim$\\,(1--10)$\\times$ the Eddington rate, but they reach only $\\sim 400$--$500\\,M_\\odot$. A top-heavy initial mass function or natal kicks do not change this conclusion. Runaway accretion is only possible if the sub-grid BH model allows a high fraction of Bondi inflow to reach the BH, in which case a few seeds can grow to $\\sim 10^6\\,M_\\odot$. We also discuss multiple-generation star formation that may be intrinsically correlated with remnant BH accretion.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-11T09:38:01Z",
+      "arxiv:comment": "12 pages, 8 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yanlong Shi"
+        },
+        {
+          "name": "Norman Murray"
+        }
+      ],
+      "score": 5.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.10109v1",
+      "title": "Right round: onset and long-term evolution of rotation in star clusters",
+      "updated": "2026-03-10T18:00:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.10109v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.10109v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the results of a detailed kinematic analysis of a significant fraction of the known population of Galactic star clusters aimed at constraining the physical mechanisms driving the onset and evolution of cluster rotation. Our study reveals for the very first time the presence of rotation in clusters at any age, with about $25\\%-30\\%$ of systems in the sample showing significant evidence of rotation. This result increases by a factor of $\\sim5$ the number of clusters identified as rotators so far and it finally enables an observational reading of cluster rotation as a function of time. Young ($<500$ Myr) clusters show a larger range of rotation velocities than older systems. In addition, at young ages we observe a significantly larger fraction ($50\\%-60\\%$) of rotating systems than at older ones ($\\sim 15\\%$). These purely empirical results are compatible with rotation being imprinted during the very early stages of cluster formation and early evolution and then being progressively erased by the long-term effects of dynamical evolution. For the sub-sample of clusters for which we were able to perform a full 3D analysis, we calculated the angle between the internal rotation axis and that of the cluster orbital motion. Interestingly, while for clusters with an age smaller than their orbital period we observe similar fractions of prograde and retrograde systems, more evolved clusters appear to be preferentially prograde. We argue that such a behavior is in qualitative agreement with the expectations for the evolution of systems in which primordial rotation was imprinted by the parent molecular cloud and/or by the following hierarchical cluster assembly processes, and in which internal cluster dynamics and interactions with the Galactic field have induced a torque-driven alignment between cluster rotation and orbital motion.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-10T18:00:01Z",
+      "arxiv:comment": "13 pages, 9 figures; accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "E. Dalessandro"
+        },
+        {
+          "name": "A. Della Croce"
+        },
+        {
+          "name": "E. Vesperini"
+        },
+        {
+          "name": "M. Cadelano"
+        },
+        {
+          "name": "S. Leanza"
+        },
+        {
+          "name": "G. Ettorre"
+        },
+        {
+          "name": "M. Hughes"
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.09867v1",
+      "title": "Mass regulates the emerging timescale of young star clusters",
+      "updated": "2026-03-10T16:33:23Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.09867v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.09867v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Quantifying the timescales of star cluster emergence from their natal clouds remains one of the main challenges in our understanding of the star formation process. These timescales are fundamental measurements of the star formation cycle within galaxies, yet they are difficult to constrain due to the complex interplay between stellar feedback and star formation across a vast range of physical scales. Here we present HST and JWST observations of thousands of young star clusters in four nearby galaxies (M51, M83, NGC 628, and NGC 4449). A substantial fraction of these clusters are still embedded within their natal gas and remain invisible at optical wavelengths. We constrain their emergence process by measuring the timescales required to disperse the surrounding material. We find a strong correlation between dispersal timescale and cluster stellar mass, with massive clusters emerging more rapidly than their lower mass counterparts. This is a critical constraint on simulations of star formation and stellar feedback, which struggle to fully reproduce the formation and emergence of star clusters. Our results emphasize the central role of massive clusters in driving the escape of ionizing radiation into the galactic medium. Finally, they impose important limitations to the time available for planet formation in massive cluster environments where disks get exposed to UV irradiation and further gas infall is shut off.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-10T16:33:23Z",
+      "arxiv:comment": "4 main figures; 2 extended data figures; 1 extended data table; accepted for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Alex Pedrini"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Thomas J. Haworth"
+        },
+        {
+          "name": "Bruce G. Elmegreen"
+        },
+        {
+          "name": "Mark R. Krumholz"
+        },
+        {
+          "name": "Sean T. Linden"
+        },
+        {
+          "name": "Benjamin Gregg"
+        },
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "Varun Bajaj"
+        },
+        {
+          "name": "Jenna E. Ryon"
+        },
+        {
+          "name": "Ahmad A. Ali"
+        },
+        {
+          "name": "Eric P. Andersson"
+        },
+        {
+          "name": "Giacomo Bortolini"
+        },
+        {
+          "name": "Michele Cignoni"
+        },
+        {
+          "name": "Ana Duarte-Cabral"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Natalia Lahén"
+        },
+        {
+          "name": "Thomas S. -Y. Lai"
+        },
+        {
+          "name": "Drew Lapeer"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Göran Östlin"
+        },
+        {
+          "name": "Elena Sabbi"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Monica Tosi"
+        }
+      ],
+      "score": 6.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.09866v1",
+      "title": "FEAST: a NIRSpec/MOS survey of emerging young star clusters in NGC 628",
+      "updated": "2026-03-10T16:33:23Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.09866v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.09866v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "JWST can pierce through dusty molecular clouds to study the early stages of star formation, where young star clusters are actively driving stellar feedback and still emerging from their natal cloud. We present a first look of the JWST/NIRSpec multiplex spectroscopy observations acquired by the Feedback in Emerging extrAgalactic Star clusTers (FEAST) program for the nearby spiral galaxy NGC628. We showcase JWST's ability to resolve the spectral properties of emerging young star clusters (eYSCs) and their immediate interstellar medium (ISM) by focusing on a bright star-forming complex ($0.5\\times0.5~\\mathrm{kpc}^2$) in the northern spiral arm as a science proof-of-concept. The eYSC spectra are rich in ionized gas (from HII regions), as well as warm H$_2$ and polycyclic aromatic hydrocarbon (PAH) emission from photodissociation regions (PDRs), consistent with young star formation. $\\mathrm{Pa}α$ equivalent widths and H/He ionizing photon fluxes both indicate the presence of hot, young massive stars (O8.5V-O8V), consistent with photometry SED estimates. The ionized gas is highly correlated with H$_2$ and PAH emission, suggesting that the PDR morphology evolves as clusters emerge from their natal cloud. We find a photoionization-dominated regime from independent line diagnostics, with little contribution from Supernovae-driven shocks, highlighting the importance of pre-Supernovae feedback when massive stars are present. This pilot study showcases how JWST's multiplex spectroscopy mode can disentangle the mechanisms present in the youngest stages of star formation for the first time outside the Local Group.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-10T16:33:23Z",
+      "arxiv:comment": "27 pages, 16 figures. Re-submitted to ApJ after minor revisions",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Neville Shane"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Thomas S. -Y. Lai"
+        },
+        {
+          "name": "Alex Pedrini"
+        },
+        {
+          "name": "Leslie K. Hunt"
+        },
+        {
+          "name": "Sean T. Linden"
+        },
+        {
+          "name": "Giacomo Bortolini"
+        },
+        {
+          "name": "Anne S. Buckner"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Matteo Correnti"
+        },
+        {
+          "name": "Ana Duarte-Cabral"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Kelsey E. Johnson"
+        },
+        {
+          "name": "Drew Lapeer"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Göran Östlin"
+        },
+        {
+          "name": "Linn Roos"
+        },
+        {
+          "name": "Elena Sabbi"
+        }
+      ],
+      "score": 6.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.09540v2",
+      "title": "Stellar age determination using deep neural networks: Isochrone ages for 1.3 million stars, based on BaSTI, MIST, PARSEC, Dartmouth and SYCLIST evolutionary grids",
+      "updated": "2026-03-16T11:43:24Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.09540v2",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.09540v2",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We aim to develop a model-driven deep learning approach to age determination, by training neural networks on stellar evolutionary grids. Contrary to the usual data-driven deep learning approach of using prior age estimates as training data, our method has the potential for a wider and less biased range of application. The low computational cost of deep learning methods compared to bayesian isochrone-fitting allows for a broad analysis of large spectroscopic catalogues.\n  We train multilayer perceptrons on different stellar evolutionary grids to map [M/H], MG, (GBP - GRP) to stellar age $τ$. We combine Gaia photometry and parallaxes, metallicities and $α$ elements from spectroscopic surveys and extinction maps, which are passed through the neural networks to estimate stellar ages.\n  We apply our method to the LAMOST DR10, GALAH DR3 & DR4 and APOGEE DR17 spectroscopic surveys, for which we estimate the ages using the BaSTI tracks, along with other stellar evolutionary models. We leverage this novel technique to study, for the first time, differences in age estimates from several evolutionary grids applied on very large datasets. In addition, we date 13 open clusters and one globular cluster and find a median absolute deviation with literature ages of 0.20 Gyr. Along with the stellar ages catalogues from our estimates, we release NEST (Neural Estimator of Stellar Times), a python package to estimate stellar age based on this work, as well as a web interface.\n  We show that, when using the same evolutionary grid, our method retrieves the same ages as a bayesian approach like SPInS, for only a fraction of the computational cost, with a 60,000 speedup factor for a typical star. This model-driven deep learning technique thus opens up the way for broad galactic archeology studies on the largest datasets available today and in the near future with upcoming surveys such as 4MOST.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-03-10T11:50:54Z",
+      "arxiv:comment": "17 pages, 13 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "T. Boin"
+        },
+        {
+          "name": "L. Casamiquela"
+        },
+        {
+          "name": "M. Haywood"
+        },
+        {
+          "name": "P. Di Matteo"
+        },
+        {
+          "name": "Y. Lebreton"
+        },
+        {
+          "name": "M. Uddin"
+        },
+        {
+          "name": "D. R. Reese"
+        }
+      ],
+      "score": 6.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2603.08435v1",
+      "title": "How interacting winds shape the mechanical feedback of massive star clusters over millions of years",
+      "updated": "2026-03-09T14:32:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2603.08435v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2603.08435v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In recent years, massive star cluster environments have proved to be bright sources of very-high energy gamma-rays, in particular young clusters which are powered by the winds interacting in their cores. In order to understand how these winds can accelerate particles up to very-high energies, it is necessary to model their interactions from small (sub-pc) to large (10s of pc) scales over several millions of years. A key open question concerns the structure and properties of the resulting wind termination shock. By performing 3D magnetohydrodynamic simulations of clustered winds embedded in a superbubble cavity, we demonstrate that the dynamics of stellar wind interactions and the resulting shock structure solely depends on the density and pressure of the cavity. This implies that the initial conditions of the simulation can be tuned in order to simulate star clusters of arbitrary age at a reduced computational cost. This novel method is validated using a toy cluster hosting 30 identical stars. We discuss the properties of the resulting cluster-wind termination shock under various assumptions. In particular, we are able for the first time to obtain a fully decoupled spherical wind termination shock for a 5 Myr old cluster. We further show that radiative cooling increases the sphericity of the shock. In general, the morphology of the outflow depends on the number of dominant stars, on the power of the stars sitting at the edge of the cluster core, and on the compactness of the cluster. We additionally show how a semi-analytical model can be used in order to estimate key morphological properties of the outflow without relying on large-scale simulations.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-03-09T14:32:19Z",
+      "arxiv:comment": "accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": [
+        {
+          "name": "Thibault Vieu"
+        },
+        {
+          "name": "Lucia Härer"
+        },
+        {
+          "name": "Brian Reville"
+        }
+      ],
+      "score": 5.0
     }
   ]
 }
