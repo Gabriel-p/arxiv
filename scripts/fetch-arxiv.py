@@ -25,17 +25,65 @@ KEYWORDS = [
 # Terms to effectively nullify the score (Extragalactic/Cosmological context)
 EXCLUSION_TERMS = [
     "galaxy cluster",
-    "cluster galaxy",
     "cluster galaxies",
+    "cluster galaxy",
     "cluster of galaxies",
+    "clusters of galaxies",
+    "dwarf galaxy",
+    "dwarf galaxies",
+    "radio galaxy",
+    "radio galaxies",
+    "spheroidal galaxy",
+    "spheroidal galaxies",
+    "starburst galaxy",
+    "starburst galaxies",
+    "magellanic cloud",
+    "magellanic clouds",
+    "legus galaxy",
+    "legus galaxies",
+    "red galaxy",
+    "red galaxies",
+    "galaxy survey",
+    "survey of galaxies",
+    "survey galaxies",
+    "cluster redshift",
+    "spiral galaxies",
+    "abell",
+    "m82",
+    "m51",
+    "m33",
+    "m31",
+    "ngc 1275",
+    "ngc 628",
 ]
 
 # Numeric pattern refined with negative lookbehind to ignore catalog prefixes
 # This prevents "Ruprecht 147" or "NGC 2516" from triggering the "count > N" logic.
-numeric_pattern = (
-    r"(?<!NGC\s)(?<!IC\s)(?<!Berkeley\s)(?<!Ruprecht\s)(?<!Trumpler\s)(?<!Melotte\s)"
-    r"(?<!\d)\b(\d{2,})\b\s+(?:(?:new\s+)?(?:open|star)\s+)?clusters?"
+# catalogs to exclude
+catalogs = (
+    "NGC",
+    "IC",
+    "Berkeley",
+    "Ruprecht",
+    "Trumpler",
+    "Melotte",
+    "HD",
 )
+
+# build the negative lookbehind block
+neg_lookbehinds = "".join(f"(?<!{name}\\s)" for name in catalogs)
+#
+number_pattern = r"\d{2,3}(?:,\d{3})+|\d{2,}"
+# Final pattern
+numeric_pattern = (
+    rf"{neg_lookbehinds}"
+    r"(?<!\d)"
+    rf"\b({number_pattern})\b\s+"
+    r"(?:(?:new\s+)?(?:open|star)\s+)?"
+    r"clusters?\b"
+    r"(?!\s+members\b|\s+stars\b)"
+)
+
 
 N_DAYS_BACK = 30
 FILE_NAME = "arxiv.json"
