@@ -37,8 +37,6 @@ EXCLUSION_TERMS = [
     "spheroidal galaxies",
     "starburst galaxy",
     "starburst galaxies",
-    "magellanic cloud",
-    "magellanic clouds",
     "legus galaxy",
     "legus galaxies",
     "red galaxy",

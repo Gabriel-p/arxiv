@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2026-04-09T14:12:38.591553",
+  "fetched_at": "2026-04-09T11:23:38.361821",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.03746v1",
+      "title": "Investigating Extended Main-Sequence Turnoffs in Galactic Open Clusters",
+      "updated": "2026-04-04T14:22:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.03746v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.03746v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The extended main sequence (eMS) and extended main sequence turnoff (eMSTO) phenomena have been observed in some young and intermediate-age star clusters in the Milky Way and in the Magellanic Clouds. In this study, we conduct a survey of 53 galactic open clusters (OCs) to investigate the roles of stellar rotation, differential extinction, and cluster properties in the emergence of eMS and eMSTO. The projected rotational velocities are taken from the Gaia ESO spectroscopic survey and the Gaia DR3 line-broadening velocities. Stellar members of each OC are identified using the ML-MOC algorithm with Gaia DR3 astrometry. We divide clusters into four classes based on the color-rotation distribution, extinction, and MSTO morphology and report 14 clusters ($A_{\\rm v} \\lesssim 0.15$ mag, Class I) that exhibit split MS with fast and slow rotators populating the redder and bluer parts of MSTO. For the remaining clusters, differential extinction hampers the color-rotation distinction and also inflates MSTO width and therefore introduces a systematic offset in the MSTO-age relation. We also quantify the fraction of slow rotators among MSTO stars, finding a median value of $f_{\\rm slow\\, rot}^{v \\sin i<100} \\approx 0.41$ and the fraction reaching the spin-down limit, $f_{\\rm slow\\, rot}^{v \\sin i<30}$, is $ \\approx 0.08$. We find no statistically significant correlation between $f_{\\rm slow\\, rot}$ and either the binary fraction or cluster age.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-04T14:22:02Z",
+      "arxiv:comment": "Accepted for publication at ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Khushboo K Rao",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
+        },
+        {
+          "name": "Wen-Ping Chen",
+          "arxiv:affiliation": [
+            "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan",
+            "Department of Physics, National Central University, 320317 Taoyuan, Taiwan"
+          ]
+        }
+      ],
+      "score": 12.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.03142v1",
       "title": "Isochrone-cloud fitting and asteroseismology of the Kepler open cluster NGC6866",
