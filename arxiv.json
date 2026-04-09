@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T12:21:32.664566",
+  "fetched_at": "2026-04-09T00:25:17.029680",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.05291v1",
@@ -2250,56 +2250,6 @@
         }
       ],
       "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.08435v1",
-      "title": "How interacting winds shape the mechanical feedback of massive star clusters over millions of years",
-      "updated": "2026-03-09T14:32:19Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.08435v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.08435v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In recent years, massive star cluster environments have proved to be bright sources of very-high energy gamma-rays, in particular young clusters which are powered by the winds interacting in their cores. In order to understand how these winds can accelerate particles up to very-high energies, it is necessary to model their interactions from small (sub-pc) to large (10s of pc) scales over several millions of years. A key open question concerns the structure and properties of the resulting wind termination shock. By performing 3D magnetohydrodynamic simulations of clustered winds embedded in a superbubble cavity, we demonstrate that the dynamics of stellar wind interactions and the resulting shock structure solely depends on the density and pressure of the cavity. This implies that the initial conditions of the simulation can be tuned in order to simulate star clusters of arbitrary age at a reduced computational cost. This novel method is validated using a toy cluster hosting 30 identical stars. We discuss the properties of the resulting cluster-wind termination shock under various assumptions. In particular, we are able for the first time to obtain a fully decoupled spherical wind termination shock for a 5 Myr old cluster. We further show that radiative cooling increases the sphericity of the shock. In general, the morphology of the outflow depends on the number of dominant stars, on the power of the stars sitting at the edge of the cluster core, and on the compactness of the cluster. We additionally show how a semi-analytical model can be used in order to estimate key morphological properties of the outflow without relying on large-scale simulations.",
-      "category": [
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-09T14:32:19Z",
-      "arxiv:comment": "accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.HE"
-      },
-      "author": [
-        {
-          "name": "Thibault Vieu"
-        },
-        {
-          "name": "Lucia Härer"
-        },
-        {
-          "name": "Brian Reville"
-        }
-      ],
-      "score": 5.0
     }
   ]
 }
