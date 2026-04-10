@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T11:23:38.361821",
+  "fetched_at": "2026-04-10T00:29:17.110899",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.03746v1",
@@ -1561,116 +1561,6 @@
         }
       ],
       "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.10109v1",
-      "title": "Right round: onset and long-term evolution of rotation in star clusters",
-      "updated": "2026-03-10T18:00:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.10109v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.10109v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the results of a detailed kinematic analysis of a significant fraction of the known population of Galactic star clusters aimed at constraining the physical mechanisms driving the onset and evolution of cluster rotation. Our study reveals for the very first time the presence of rotation in clusters at any age, with about $25\\%-30\\%$ of systems in the sample showing significant evidence of rotation. This result increases by a factor of $\\sim5$ the number of clusters identified as rotators so far and it finally enables an observational reading of cluster rotation as a function of time. Young ($<500$ Myr) clusters show a larger range of rotation velocities than older systems. In addition, at young ages we observe a significantly larger fraction ($50\\%-60\\%$) of rotating systems than at older ones ($\\sim 15\\%$). These purely empirical results are compatible with rotation being imprinted during the very early stages of cluster formation and early evolution and then being progressively erased by the long-term effects of dynamical evolution. For the sub-sample of clusters for which we were able to perform a full 3D analysis, we calculated the angle between the internal rotation axis and that of the cluster orbital motion. Interestingly, while for clusters with an age smaller than their orbital period we observe similar fractions of prograde and retrograde systems, more evolved clusters appear to be preferentially prograde. We argue that such a behavior is in qualitative agreement with the expectations for the evolution of systems in which primordial rotation was imprinted by the parent molecular cloud and/or by the following hierarchical cluster assembly processes, and in which internal cluster dynamics and interactions with the Galactic field have induced a torque-driven alignment between cluster rotation and orbital motion.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-10T18:00:01Z",
-      "arxiv:comment": "13 pages, 9 figures; accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "E. Dalessandro"
-        },
-        {
-          "name": "A. Della Croce"
-        },
-        {
-          "name": "E. Vesperini"
-        },
-        {
-          "name": "M. Cadelano"
-        },
-        {
-          "name": "S. Leanza"
-        },
-        {
-          "name": "G. Ettorre"
-        },
-        {
-          "name": "M. Hughes"
-        }
-      ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.09540v2",
-      "title": "Stellar age determination using deep neural networks: Isochrone ages for 1.3 million stars, based on BaSTI, MIST, PARSEC, Dartmouth and SYCLIST evolutionary grids",
-      "updated": "2026-03-16T11:43:24Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.09540v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.09540v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We aim to develop a model-driven deep learning approach to age determination, by training neural networks on stellar evolutionary grids. Contrary to the usual data-driven deep learning approach of using prior age estimates as training data, our method has the potential for a wider and less biased range of application. The low computational cost of deep learning methods compared to bayesian isochrone-fitting allows for a broad analysis of large spectroscopic catalogues.\n  We train multilayer perceptrons on different stellar evolutionary grids to map [M/H], MG, (GBP - GRP) to stellar age $τ$. We combine Gaia photometry and parallaxes, metallicities and $α$ elements from spectroscopic surveys and extinction maps, which are passed through the neural networks to estimate stellar ages.\n  We apply our method to the LAMOST DR10, GALAH DR3 & DR4 and APOGEE DR17 spectroscopic surveys, for which we estimate the ages using the BaSTI tracks, along with other stellar evolutionary models. We leverage this novel technique to study, for the first time, differences in age estimates from several evolutionary grids applied on very large datasets. In addition, we date 13 open clusters and one globular cluster and find a median absolute deviation with literature ages of 0.20 Gyr. Along with the stellar ages catalogues from our estimates, we release NEST (Neural Estimator of Stellar Times), a python package to estimate stellar age based on this work, as well as a web interface.\n  We show that, when using the same evolutionary grid, our method retrieves the same ages as a bayesian approach like SPInS, for only a fraction of the computational cost, with a 60,000 speedup factor for a typical star. This model-driven deep learning technique thus opens up the way for broad galactic archeology studies on the largest datasets available today and in the near future with upcoming surveys such as 4MOST.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-10T11:50:54Z",
-      "arxiv:comment": "17 pages, 13 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "T. Boin"
-        },
-        {
-          "name": "L. Casamiquela"
-        },
-        {
-          "name": "M. Haywood"
-        },
-        {
-          "name": "P. Di Matteo"
-        },
-        {
-          "name": "Y. Lebreton"
-        },
-        {
-          "name": "M. Uddin"
-        },
-        {
-          "name": "D. R. Reese"
-        }
-      ],
-      "score": 6.5
     }
   ]
 }
