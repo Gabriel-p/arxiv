@@ -1,6 +1,204 @@
 {
-  "fetched_at": "2026-04-10T00:29:17.110899",
+  "fetched_at": "2026-04-10T12:19:01.345999",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.08348v1",
+      "title": "3D kinematics of SMC star clusters: residual velocities disentangle kinematically perturbed clusters",
+      "updated": "2026-04-09T15:17:21Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.08348v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.08348v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Understanding the kinematic behaviour of the Small Magellanic Cloud (SMC) remains a challenge addressed by many authors using diverse approaches. Over time, increasing observational evidence has accumulated for tidal perturbations induced by the Large Magellanic Cloud (LMC) on the SMC, especially in its outer regions. In this study, we adopt star clusters as kinematic tracers of the SMC. We analyse 36 clusters distributed across the galaxy's structural regions (Northern Bridge, Southern Bridge, Wing/Bridge, West Halo, Main Body and Counter-Bridge). From each cluster's proper motions, radial velocity and heliocentric distance we estimate Cartesian velocities \\((V_x,\\,V_y,\\,V_z)\\) in the SMC reference frame. We also compute the same velocity components under the assumption that the SMC behaves as a rotating disc. We then define the residual velocity \\(ΔV\\) for each cluster as the difference between the two velocities derived. Additionally, we perform a kinematic anisotropy analysis to characterise the distribution of kinetic energy across the SMC.\n  We find that increasing values of \\(ΔV\\) correlate with increasing cluster distance from the SMC center, and that \\(ΔV \\approx 60\\ \\mathrm{km\\,s^{-1}}\\) it appears to be a lower limit that separates, in kinematic terms, the areas of tidal origin from those with the best behavior.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-09T15:17:21Z",
+      "arxiv:comment": "11 pages",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Denis M. F. Illesca"
+        },
+        {
+          "name": "Andrés E. Piatti"
+        },
+        {
+          "name": "Matías Chiarpotti"
+        },
+        {
+          "name": "Roberto Butrón"
+        }
+      ],
+      "score": 9.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.07571v1",
+      "title": "Two young open clusters in Cygnus and their vicinity: combining multicolor photometry with Gaia DR3 astrometry",
+      "updated": "2026-04-08T20:15:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.07571v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.07571v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate two neighboring clusters in the Cygnus complex, Berkeley 86 and Berkeley 87, with a primary emphasis on the evaluation of extinction in the field of view towards and across the clusters. We also analyze their kinematic behavior in space and time to discern their possible common origin and relation to the Cyg~OB1 association.\n  New CCD photometry in the Vilnius seven-color system, obtained down to V=19.0 mag in the fields of these two clusters, is used to classify stars in terms of spectral and luminosity classes and to determine the individual values of interstellar extinction. The probable cluster members are identified in a 5-parameter space based on Gaia DR3. The cluster ages and stellar masses are derived through the use of the HR diagrams. To obtain the 3D kinematics of the clusters and trace their orbits back in time, we combine the Gaia-based proper-motions and distances with radial velocities from the literature.\n  The estimated cluster properties show that both clusters are almost equidistant (1.7 kpc) and nearly coeval, with average ages of 6.1$\\pm$0.5 and 6.5$\\pm$0.4 Myr, respectively, and age dispersion of 3 Myr. The nonuniformity of extinction is evident within each cluster, especially pronounced across the face of Berkeley 86 where the most-massive stars show substantial substructure. By extrapolating the observed mass function to a minimum stellar mass, we obtain cluster masses of 519 M(Sun) and 1551 M(Sun) for Berkeley 86 and 87, respectively. Although both clusters share very similar properties, their orbital paths show no indication that they had a common birthplace, however Berkeley 87 and its neighbor NGC 6913 are very likely to have been born in pair.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-08T20:15:35Z",
+      "arxiv:comment": "19 pages, 14 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "S. Raudeliūnas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "R. P. Boyle",
+          "arxiv:affiliation": "Vatican Observatory Research Group, Steward Observatory"
+        },
+        {
+          "name": "R. Janusz",
+          "arxiv:affiliation": "Vatican Observatory"
+        },
+        {
+          "name": "J. Zdanavičius",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "M. Maskoliūnas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "D. Semionov",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "K. Černis",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "V. Čepas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "A. Kazlauskas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.07431v1",
+      "title": "Detection and Evolution of Linear Polarization of the Galactic Center Transient MAXI J1744-294",
+      "updated": "2026-04-08T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.07431v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.07431v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "MAXI J1744$-$294, likely a low-mass X-ray binary system, is a Galactic-center transient source, detected at radio and X-ray wavelengths, located approximately $19''$ southeast of Sgr A*. We report the first detection of its variable linear polarization in four epochs spanning 2025 Apr 04--09. The normalized 33 and 43 GHz Stokes parameters $q$ and $u$ over the four epochs imply a common Faraday rotation screen with a rotation measure RM $=-63\\,606^{+844}_{-861}$ radians m$^{-2}$, the third largest RM detected within the Galaxy. The RM is consistent with that of the Galactic center magnetar PSR J1745$-$2900, giving the first direct evidence that MAXI J1744 lies within the Galactic center region, is bound to Sgr A*, and therefore, is part of the nuclear star cluster. The uniformity in the Galactic center Faraday screen suggests that Sgr A*'s $\\approx-10^5$ rad m$^{-2}$ RM is intrinsic rather than originating from an unrelated line-of-sight source. On 2025 Apr 06, we detected a secondary polarized component with an additional RM $\\approx-6000$ rad m$^{-2}$, which was not seen at any other epoch. Assuming this secondary component primarily cools by synchrotron radiation, the implied local magnetic field strength is $\\sim$15--30 gauss. In the context of a jetted X-ray binary progenitor, the additional RM screen and magnetic field strength are explainable with a short-lived knot in a putative jet.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-08T18:00:00Z",
+      "arxiv:comment": "15 pages, 6 figures, 4 tables, accepted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": [
+        {
+          "name": "Joseph M. Michail"
+        },
+        {
+          "name": "Sebastiano D. von Fellenberg"
+        },
+        {
+          "name": "Mayura Balakrishnan"
+        },
+        {
+          "name": "Geoffrey C. Bower"
+        },
+        {
+          "name": "Nicole M. Ford"
+        },
+        {
+          "name": "Zach Sumners"
+        },
+        {
+          "name": "Giovanni G. Fazio"
+        },
+        {
+          "name": "Daryl Haggard"
+        },
+        {
+          "name": "Joseph L. Hora"
+        },
+        {
+          "name": "Garrett K. Keating"
+        },
+        {
+          "name": "J. D. Livingston"
+        },
+        {
+          "name": "Sera Markoff"
+        },
+        {
+          "name": "Bart Ripperda"
+        },
+        {
+          "name": "Sophia Sánchez-Maes"
+        },
+        {
+          "name": "Howard A. Smith"
+        },
+        {
+          "name": "S. P. Willner"
+        },
+        {
+          "name": "Jun-Hui Zhao"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.03746v1",
       "title": "Investigating Extended Main-Sequence Turnoffs in Galactic Open Clusters",
