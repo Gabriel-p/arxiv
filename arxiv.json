@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T12:19:01.345999",
+  "fetched_at": "2026-04-11T00:28:04.272520",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.08348v1",
@@ -1670,95 +1670,6 @@
         }
       ],
       "score": 7.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.10607v1",
-      "title": "Star formation in the circumgalactic high-velocity cloud Complex H",
-      "updated": "2026-03-11T10:09:11Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.10607v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.10607v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1038/s41550-026-02814-9",
-          "@title": "doi"
-        }
-      ],
-      "summary": "The accretion of metal-poor gas sustains galactic star formation. In the Milky Way, this process is fueled by high-velocity clouds (HVCs), yet their fundamental properties have remained elusive in the absence of stellar tracers. Here we report a binary open cluster within HVC Complex H. With an age of 11.2 +- 0.6 Myr and a subsolar metallicity of 0.05(+0.05-0.02) Zsun, the clusters provide a direct stellar distance anchor to the cloud at 13.8 +- 0.6 kpc. Their proper motions indicate Complex H is on a prograde, south-to-north orbit through the outer Galactic disk. The resulting interaction produces a 'slow-fast-slow' velocity gradient, with the cloud's outer layers decelerating as they merge into the disk. Orbit integration suggests the clusters formed from an internal cloud-cloud collision. This triggering mechanism implies other HVCs could similarly produce high-velocity stars. The scarcity of previous stellar detections in HVCs is explained by the rapid escape of young stars (< 20 Myr), while CO non-detections may stem from weak emission due to low metallicity and gas dispersal. This work reveals that the circumgalactic medium can sustain star formation, offering a tangible laboratory to probe the physical conditions of accreting gas before it merges with the Galactic disk.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-11T10:09:11Z",
-      "arxiv:comment": "31 pages, 10 figures, published on Nature Astronomy (https://www.nature.com/articles/s41550-026-02814-9)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Zhihong He"
-        },
-        {
-          "name": "Wenkang Pang"
-        },
-        {
-          "name": "Kun Wang"
-        },
-        {
-          "name": "Yangping Luo"
-        },
-        {
-          "name": "Qian Cui"
-        }
-      ],
-      "arxiv:doi": "10.1038/s41550-026-02814-9",
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.10581v1",
-      "title": "The in-situ growth of stellar-mass \"light\" seed black holes in nuclear star clusters",
-      "updated": "2026-03-11T09:38:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.10581v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.10581v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Remnant black holes (BHs) of massive stars (``light seeds'') are a potential origin for supermassive black holes (SMBHs). We use magnetohydrodynamic simulations to study the formation and growth of light seeds in star-forming giant molecular clouds (GMCs) with masses $10^5$--$10^9\\,M_\\odot$, which evolve for $\\sim 10$--$30\\,\\rm Myr$ and form compact star clusters, akin to high-redshift nuclear star clusters. In particular, the simulations resolve very massive stars (VMSs, 100--$300\\,M_\\odot$), including their radiative and mechanical feedback, and model feedback-regulated accretion onto remnant BHs. We find that, even in compact GMCs capable of forming deep potential wells, the gas reservoir is expelled by sustained stellar feedback and rapidly dispersed after supernova explosions. Remnant BH populations emerge $\\sim 3\\,\\rm Myr$ after the starburst and concentrate at the cluster center (where $ρ_{\\rm BH}\\sim 10^4$--$10^6\\,M_\\odot\\,{\\rm pc}^{-3}$). With our fiducial sub-grid BH accretion/feedback model, in-situ BH accretion is inefficient for forming heavy seeds: some direct-collapse BHs briefly accrete at $\\sim$\\,(1--10)$\\times$ the Eddington rate, but they reach only $\\sim 400$--$500\\,M_\\odot$. A top-heavy initial mass function or natal kicks do not change this conclusion. Runaway accretion is only possible if the sub-grid BH model allows a high fraction of Bondi inflow to reach the BH, in which case a few seeds can grow to $\\sim 10^6\\,M_\\odot$. We also discuss multiple-generation star formation that may be intrinsically correlated with remnant BH accretion.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-11T09:38:01Z",
-      "arxiv:comment": "12 pages, 8 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Yanlong Shi"
-        },
-        {
-          "name": "Norman Murray"
-        }
-      ],
-      "score": 5.0
     }
   ]
 }
