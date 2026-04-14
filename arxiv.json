@@ -1,6 +1,221 @@
 {
-  "fetched_at": "2026-04-14T00:34:46.942814",
+  "fetched_at": "2026-04-14T12:24:12.938241",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.11765v1",
+      "title": "NGC 1647: A young open cluster with a broad main sequence observed with LAMOST",
+      "updated": "2026-04-13T17:39:10Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11765v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11765v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In this work we present the results of our analysis of medium-resolution LAMOST spectra of candidate members of the cluster NGC 1647 with the aim of determining the stellar parameters, activity level, lithium abundance, and to study the cluster properties. We used the code ROTFIT to determine the atmospheric parameters (Teff, logg, and [Fe/H]), radial velocity (Vr), and projected rotation velocity (vsini) for 158 cluster members. Moreover, for solar-type and cooler stars (Teff< 6500 K), we calculated the H-alpha and LiI-6708 net equivalent width by means of the subtraction of inactive photospheric templates. We determined the rotation periods for 160 stars by analyzing the available TESS photometry. We found four double-lined spectroscopic systems for which we provide the radial velocities of the two components. The Vr distribution of the cluster members peaks at -5.3 km/s with a dispersion of 1.6 km/s, while the average metallicity is [Fe/H]=-0.08$\\pm$0.08 dex, in line with previous determinations. From the fitting of the spectral energy distribution of 160 likely members we infer the existence of a differential reddening across the cluster field with an average value of $A_V$=1.1 mag. The $A_V$ values show a distinct correlation with the color offset from the lower boundary of the main sequence; conversely, this offset appears to be uncorrelated with vsini. These two findings confirm that differential reddening is the primary driver behind the observed extended Main-Sequence Turn-Off (eMSTO) in this cluster. The age of NGC 1647, obtained from the lithium abundance, is 203$\\pm$27 Myr, which is compatible with the values inferred from a gyrochronological approach and the isochrone fitting.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T17:39:10Z",
+      "arxiv:comment": "17 pages, 20 figures, accepted by Astronomy & Astrophysics for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "A. Frasca"
+        },
+        {
+          "name": "M. Qin"
+        },
+        {
+          "name": "J. ALonso-Santiago"
+        },
+        {
+          "name": "G. Catanzaro"
+        },
+        {
+          "name": "J. N. Fu"
+        },
+        {
+          "name": "J. Y. Zhang"
+        },
+        {
+          "name": "A. Bragaglia"
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11291v1",
+      "title": "The high-altitude, inner-disc, and chemically peculiar open cluster UBC 1052",
+      "updated": "2026-04-13T10:55:16Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11291v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11291v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Out of all the discovered open clusters (OCs) that are located in the inner part of the Galaxy, only a small fraction has been observed with high-resolution spectroscopy. An intriguing population of inner-disc OCs at relatively high altitudes ($Z$) from the Galactic plane remains poorly studied. There are few reliable detections of such OCs, and their occurrence rate, dynamical origin and survival mechanism remain uncertain. We perform a detailed spectroscopic analysis of UBC 1052, located at a cylindrical galactocentric radius $R_{GC} = 6.1$ kpc and $Z = 340$ pc, which stands out as the oldest and highest-|$Z$| inner-disc OC studied at high resolution to date. We used FLAMES/VLT to acquire high signal-to-noise ratio UVES spectra of four red clump (RC) members ($G\\sim14$ mag). From them we derived high-precision radial velocities ($v_{r}$) and local thermodynamic equilibrium chemical abundances for 23 elements through a strict line-by-line differential analysis, achieving a median precision in [X/H] of $\\simeq0.06$ dex for each star. The four RC stars have fully compatible chemical abundances, with [X/H] dispersions among them <$0.03$ dex for 20 elements. We also acquired GIRAFFE spectra of other candidate members and derived their $v_{r}$. We find that UBC 1052 has an age of $2.25\\pm0.25$ Gyr, a distance of $3.11\\pm0.07$ kpc, an extinction $A_{V} =1.23$ mag, a mean radial velocity of $34.0\\pm0.6$ $km$ ${s}^{-1}$, and a slightly super-solar [Fe/H] = $0.05\\pm0.01$ dex. Such relatively low [Fe/H] at its $R_{GC}$ suggests that UBC 1052 is a rare candidate for an inward-migrated OC in the inner disc. Its detailed abundance pattern (e.g. [Ba/Zr] and [Nd/Y]) shows some interesting features that appear to be unique in the current census of OCs studied at high resolution, making it an interesting object for potential strong chemical-tagging searches for already dispersed member stars. [Abridged]",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T10:55:16Z",
+      "arxiv:comment": "23 pages (15 pages main text, 8 pages appendix) and 15 figures. Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Judit Donada"
+        },
+        {
+          "name": "Laia Casamiquela"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Lola Balaguer-Núñez"
+        },
+        {
+          "name": "Sergi Blanco-Cuaresma"
+        },
+        {
+          "name": "Xavier Luri"
+        },
+        {
+          "name": "Ditte Slumstrup"
+        },
+        {
+          "name": "Carme Jordi"
+        },
+        {
+          "name": "Alfred Castro-Ginard"
+        },
+        {
+          "name": "Ricardo Carrera"
+        },
+        {
+          "name": "Josep Manel Carrasco"
+        }
+      ],
+      "score": 6.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.10119v1",
+      "title": "Starbursts at Cosmic Dawn: Formation of Globular Clusters, Ultra-Faint Dwarfs, and Population III star clusters at z > 6",
+      "updated": "2026-04-11T09:28:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.10119v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.10119v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In the standard model of cosmology ($Λ$CDM) the first stars, star clusters, and galaxies are expected to have formed in low-mass dark matter halos at high redshifts ($z \\sim 6 - 30$). Attempts to predict the properties and abundances of these objects have mainly relied on numerically expensive cosmological simulations, which often lack the sub-parsec resolution needed to resolve compact star clusters and/or neglect potentially important stellar feedback processes. Motivated by this, I introduce Anaxagoras, a detailed analytical ab initio model of starbursts in low-mass halos. The model includes gas cooling, central gas accretion and disk formation, and stellar feedback from direct radiation pressure, Ly$α$ scattering and IR photons, stellar winds, expanding H II regions, and (crudely) supernovae.\n  I apply Anaxagoras to star formation at $z > 6$ in satellite halos of the Milky Way, as well as to Population III (Pop III) star formation in minihalos. For the Milky Way setup, hundreds of galaxies are predicted to form with luminosities, half-mass radii, mass-to-light ratios, and ages in good agreement with the observed local population of Ultra-Faint Dwarfs. Furthermore, at least $\\sim 40$ old globular cluster candidates with initial stellar masses $10^5 - 10^6\\,M_\\odot$ are predicted to form at the centers of low-mass halos. Finally, if Pop III stars are not overly massive ($25\\,M_\\odot$), between $\\sim 1 - 30$ stars could form per minihalo at $z > 20$, increasing to $\\sim 10 - 500$ at $z < 15$ as Lyman-Werner feedback delays star formation until halos reach larger masses; if Pop III stars are more massive ($140\\,M_\\odot$), most minihalos form just a single star.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-11T09:28:01Z",
+      "arxiv:comment": "153 pages, 27 figures. M.Sc. thesis defended in 2022 at Stockholm University (supervisor: Garrelt Mellema). For more recent modelling of the critical halo mass for star formation, and Ly$α$ stellar feedback, see arXiv:2303.08024 and arXiv:2409.19288, respectively. Original thesis can also be found at: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1667717&dswid=-6362",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Olof Nebrin"
+      },
+      "score": 5.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.09856v1",
+      "title": "Kozai-driven mass loss of the circumbinary disk in D9 in orbit around the supermassive black hole Sgr A*",
+      "updated": "2026-04-10T19:35:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.09856v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.09856v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The supermassive black hole (Sgr A*) in the Galactic center is surrounded by the S-star cluster consisting of young stars on eccentric orbits. Recently, the S-star binary, called D9, was found to be orbited by a circumbinary disk. Due to the gravitational interaction between Sgr A* and the binary, the disk could be short-lived. We investigate the evolution of the disk around a stellar binary while orbiting Sgr A*. We use the \\texttt{AMUSE} framework for coupling a gravity solver (for the binary and Sgr. A*) with a hydrodynamics solver (for the disk). We find that, the disk eventually settles between 5.2$a_{\\rm in}$ and 0.28 Hill radii of the binary. Here, $a_{\\rm in}$ is the semi-major axis of D9. The inclination of the circumbinary disk follows the binary's, which evolves due to the von Zeipel-Lidov-Kozai (vZLK) mechanism induced by Sgr A*. The mean eccentricity of the disk is approximately in anti-phase with the eccentricity evolution of the binary. We find a vZLK timescale of $T_\\text{vZLK}\\approx62.5\\,$kyr, which is two orders of magnitude shorter than the value reported by Peisker etal. (2024). As a consequence, D9 has undergone multiple vZLK oscillations in its lifetime of 2.7 Myr. We find the disk shows periodic bursts of mass loss on the vZLK timescale, suggesting that the mass loss itself is in part driven by the vZLK mechanism. The secular evolution observed in both the binary and the disk are consistent with theoretical predictions. We find the disk loses $\\sim$7\\% $\\pm$ 2\\% of its mass every vZLK cycle. If we extrapolate this mass loss, the disk will have 1\\% of its current mass left after another $\\sim$4 Myr. D9 will then be $\\sim$6.7 Myr old, which is on the same order as the current average age of S cluster members. The vZLK-driven mass loss could, therefore, explain the absence of Br$γ$ emission from other S cluster members.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-10T19:35:46Z",
+      "arxiv:comment": "submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yannick Badoux"
+        },
+        {
+          "name": "Lucas Pouw"
+        },
+        {
+          "name": "Tim van der Vuurst"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.08348v1",
       "title": "3D kinematics of SMC star clusters: residual velocities disentangle kinematically perturbed clusters",
@@ -462,23 +677,23 @@
       "score": 1.0
     },
     {
-      "id": "http://arxiv.org/abs/2603.29657v1",
+      "id": "http://arxiv.org/abs/2603.29657v2",
       "title": "Direct N-body simulations of rotating and extremely massive Population III star clusters",
-      "updated": "2026-03-31T12:21:13Z",
+      "updated": "2026-04-13T14:13:26Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2603.29657v1",
+          "@href": "https://arxiv.org/abs/2603.29657v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2603.29657v1",
+          "@href": "https://arxiv.org/pdf/2603.29657v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "Aims. We present eight direct N-body simulations with NBODY6++GPU of extremely massive, initially rotating Population III star clusters with 1.01 x 10^5 stars.\n  Methods. Our models include primordial binaries, a continuous initial mass function, differential rotation, tidal mass loss, updated fitting formulae for extremely massive metal-poor Population III stars, and general-relativistic merger recoil kicks. We assess their impact on cluster dynamics.\n  Results. All runs form black holes below, within, and above the pair-instability gap, with multi-generation growth. Faster-rotating clusters core-collapse earlier; post-collapse clusters host a rotating, axisymmetric subsystem of intermediate-mass black holes (IMBHs) at the centre and an expanding halo of lower-mass objects. Pair-instability supernovae and compact-object formation at ~2-3 Myr sharply reduce total mass and a large fraction of the cluster's angular momentum. All Population III clusters in our simulations have the gravothermal-gravogyro catastrophe phase.\n  Conclusions. We confirm two of the hypothesized formation channels of galactic nuclei seed black holes: gravitational runaway mergers of black holes and of Population III stars, which core-collapse into IMBHs thereafter. Higher initial star cluster bulk rotation correlates with earlier core collapse and, in the event counts reported here, with more coalescences/collisions and lower retained (compact) binary abundances. Initial bulk rotation is a primary control parameter of cluster evolution: faster rotation accelerates early angular-momentum transport, gravothermal collapse, mass segregation, and amplifies post-collapse expansion, which also favours the formation of a compact central IMBH subsystem.",
+      "summary": "Aims. We present eight direct N-body simulations with NBODY6++GPU of extremely massive, initially rotating Population III star clusters with 1.01 x 10^5 stars.\n  Methods. Our models include primordial binaries, a continuous initial mass function, differential rotation, tidal mass loss, updated fitting formulae for extremely massive metal-poor Population III stars, and general-relativistic merger recoil kicks. We assess their impact on cluster dynamics.\n  Results. All runs form black holes below, within, and above the pair-instability gap, with multi-generation growth. Faster-rotating clusters core-collapse earlier; post-collapse clusters host a rotating, axisymmetric subsystem of intermediate-mass black holes (IMBHs) at the centre and an expanding halo of lower-mass objects. Pair-instability supernovae and compact-object formation at ~2-3 Myr sharply reduce total mass and a large fraction of the cluster's angular momentum. All Population III clusters in our simulations have the gravothermal-gravogyro catastrophe phase.\n  Conclusions. We confirm two of the hypothesized formation channels of galactic nucleus seed black holes: gravitational runaway mergers of black holes and of Population III stars, which core-collapse into IMBHs thereafter. A higher initial star cluster bulk rotation correlates with earlier core collapse and, in the event counts reported here, with more coalescences and collisions, as well as lower retained (compact) binary abundances. Initial bulk rotation is a primary control parameter of cluster evolution: faster rotation accelerates early angular-momentum transport, gravothermal collapse, mass segregation, and amplifies post-collapse expansion, which also favours the formation of a compact central IMBH subsystem.",
       "category": [
         {
           "@term": "astro-ph.GA",
@@ -494,7 +709,7 @@
         }
       ],
       "published": "2026-03-31T12:21:13Z",
-      "arxiv:comment": "20 pages, 14 figures, 5 tables, accepted for publication in A&A",
+      "arxiv:comment": "20 pages, 14 figures, 5 tables, accepted for publication in A&A; revised for minor language correction",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
