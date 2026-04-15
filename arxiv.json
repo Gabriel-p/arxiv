@@ -1,6 +1,222 @@
 {
-  "fetched_at": "2026-04-15T00:35:10.645312",
+  "fetched_at": "2026-04-15T12:24:09.093961",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.12494v1",
+      "title": "Multiwavelength Study of Blue Straggler Stars in Tombaugh 2: Evidence for Binary Mass Transfer and Constraints on Cluster Dynamical State",
+      "updated": "2026-04-14T09:19:08Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.12494v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.12494v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a focused multiwavelength study of blue straggler stars (BSSs) in the intermediate-age open cluster Tombaugh 2, located in the outer Galactic disk, to constrain the dominant formation pathways of BSSs in a low-density environment. Cluster members are identified using Gaia DR3 astrometry through a Gaussian Mixture Model, yielding a clean sample of high-probability members. Color-magnitude diagram analysis indicates an age of 1.74 Gyr. The radial surface density profile is well described by a King model, indicating a centrally concentrated overall structure, while the cluster exhibits only weak or no clear evidence of mass segregation among its stellar populations. We identify 26 BSS candidates and 2 YSS candidates. Spectral energy distributions constructed from ultraviolet, optical, and infrared photometry reveal that 9 BSSs (32%) exhibit significant ultraviolet excess, indicating an additional hot component. Binary SED decomposition identifies stripped companions with effective temperatures Teff $\\sim$ (1.5-8) $\\times$ 10$^4$ K and radii R $\\sim$ 0.04-0.28 R_$\\odot$, consistent with proto-white dwarfs, extremely low-mass pre-helium white dwarfs, and young hot remnants formed through recent mass transfer. A slight central concentration of BSSs, together with stripped companions, suggests that binary mass transfer is an important formation channel, with no evidence for merger-driven formation. Multi-epoch VLT/FLAMES spectroscopy reveals radial-velocity variability in several systems, providing independent evidence for binarity. Our results highlight that optical-infrared photometric analyses alone may fail to detect hot compact companions, while spectroscopy and ultraviolet observations provide complementary constraints, with ultraviolet data offering a direct probe of such companions in intermediate-age open clusters.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-14T09:19:08Z",
+      "arxiv:comment": "22 pages, 10 figures, 7 tables; Accepted for publication in The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ing-Guey Jiang"
+        },
+        {
+          "name": "K. Belwal"
+        },
+        {
+          "name": "D. C. Cınar"
+        },
+        {
+          "name": "Arvind K. Dattatrey"
+        },
+        {
+          "name": "Geeta Rangwal"
+        },
+        {
+          "name": "A. Raj"
+        },
+        {
+          "name": "Shraddha Biswas"
+        },
+        {
+          "name": "Mohit Singh Bisht"
+        },
+        {
+          "name": "Alok Durgapal"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11988v1",
+      "title": "OB runaway stars originating in the Vel OB1 association",
+      "updated": "2026-04-13T19:28:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11988v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11988v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1051/0004-6361/202659021",
+          "@title": "doi"
+        }
+      ],
+      "summary": "OB runaway stars are massive stars moving through interstellar space at high velocities (up to 200 km/s), produced by dynamical ejections in young massive clusters or supernova explosions in massive binaries. They can travel several hundred parsec before exploding as supernovae, affecting the dynamical and chemical evolution of the Galaxy. The Vel OB1 association, one of the largest OB associations, hosts about 20 O-type and more than 50 B-type stars. We aimed to identify OB runaways in this region, quantify their number, identify their parent clusters, and understand their production channels and impact on the surrounding medium. Using Gaia DR3 coordinates, parallaxes, and proper motions, we identified OB runaways by measuring their peculiar velocity. We inspected infrared WISE images to identify wind bow shocks and reconstructed runaway trajectories to locate parent clusters and estimate travel times. We identified six young stellar clusters hosting most of the massive-star population in Vel OB1 (distance 1.6-2.1 kpc; age 1-10 Myr) and derived a threshold velocity of 15 km/s to classify runaways. We identified 25 OB runaways (including HMXB VelaX-1) and one F-type runaway. We detected 16 arc-like features, six associated with runaways selected by peculiar velocity, and ten bow shocks aligned with runaway proper motions. Parent clusters are identified for seven runaways, most likely ejected dynamically. The runaway fraction is about 30%. Wind bow shocks from OB runaways reveal valuable information on local ISM conditions.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T19:28:46Z",
+      "arxiv:comment": "22 pages, 16 figures, 5 tables",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "N. Azatyan"
+        },
+        {
+          "name": "L. Kaper"
+        },
+        {
+          "name": "A. Samsonyan"
+        },
+        {
+          "name": "M. Stoop"
+        },
+        {
+          "name": "D. Andreasyan"
+        },
+        {
+          "name": "J. van den Eijnden"
+        },
+        {
+          "name": "E. Nikoghosyan"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202659021",
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11955v1",
+      "title": "No Country for Old Stars -Spectroscopic confirmation of the first intermediate-age RR Lyrae in the open cluster Trumpler 5",
+      "updated": "2026-04-13T18:48:56Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11955v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11955v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "RR Lyrae stars are widely considered tracers of ancient (greater than 10 Gyr), metal-poor stellar populations. However, recent kinematic and photometric studies suggest the existence of a metal-rich RRL sub-population associated with the thin disc and intermediate ages (approximately 2-5 Gyr), challenging canonical evolutionary models. We aim to provide the first spectroscopic confirmation of a member of this elusive population. Specifically, we target a metal-rich RRL candidate recently identified photometrically as a member of the intermediate-age open cluster Trumpler 5. We obtained high-resolution spectroscopy using PEPSI at the LBT and GHOST at Gemini-South Telescope. We measured radial velocities from multiple epochs to constrain cluster membership and derived detailed chemical abundances (Mg, Ca, Sc, Ti, Mn, Fe, Cu, Zn, Y, and Ba) to compare the RRL's composition with that of red clump stars in the cluster. The RRL's systemic velocity Vgamma = 50.57 +0.78/-0.36 km/s is in excellent agreement with the cluster mean V = 50.76 +/- 0.49 km/s. Combining RVs, proper motions, and parallax, the probability of the star being a background interloper is negligible (approximately 0.002%, better than 4 sigma). We derived a metallicity of [Fe/H] = -0.40 +/- 0.05, matching the cluster value. While most abundance ratios (Mg, Ti, Mn, Cu, and Zn) align with cluster members, the RRL exhibits significant depletion in Ca, Sc, Y, and Ba. Notably, [Sc/Fe] is under-abundant by approximately 0.6 dex relative to the cluster stars, following trends seen in field metal-rich RRLs. We provide strong constraints on the membership status between an RRL variable and an intermediate-age open cluster [...]",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T18:48:56Z",
+      "arxiv:comment": "Accepted for publication in A&A. Abstract shortened",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Valentina D'Orazi"
+        },
+        {
+          "name": "Cecilia Mateu"
+        },
+        {
+          "name": "Giuliano Iorio"
+        },
+        {
+          "name": "Alexey Bobrick"
+        },
+        {
+          "name": "Zdenek Prudil"
+        },
+        {
+          "name": "Ricardo Salinas"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Lyudmila Mashonkina"
+        },
+        {
+          "name": "Raffaele Gratton"
+        },
+        {
+          "name": "Ilya Ilyn"
+        },
+        {
+          "name": "Natalia Alvarez Baena"
+        },
+        {
+          "name": "Vittorio F. Braga"
+        },
+        {
+          "name": "Antonino Nunnari"
+        },
+        {
+          "name": "Venu Kalari"
+        },
+        {
+          "name": "Felice Cusano"
+        },
+        {
+          "name": "Silvia Tosi"
+        }
+      ],
+      "score": 7.5
+    },
     {
       "id": "http://arxiv.org/abs/2604.11765v1",
       "title": "NGC 1647: A young open cluster with a broad main sequence observed with LAMOST",
@@ -828,17 +1044,17 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2603.28878v3",
+      "id": "http://arxiv.org/abs/2603.28878v4",
       "title": "Formation and disruption of wide binaries in star clusters revealed by N-body simulations",
-      "updated": "2026-04-02T01:29:47Z",
+      "updated": "2026-04-14T08:13:54Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2603.28878v3",
+          "@href": "https://arxiv.org/abs/2603.28878v4",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2603.28878v3",
+          "@href": "https://arxiv.org/pdf/2603.28878v4",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
