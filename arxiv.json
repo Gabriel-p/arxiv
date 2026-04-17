@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-16T12:25:58.706521",
+  "fetched_at": "2026-04-17T00:33:32.730014",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.13655v1",
@@ -1813,64 +1813,6 @@
         }
       ],
       "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.16183v1",
-      "title": "Evolution of fractality in centrally concentrated young clusters",
-      "updated": "2026-03-17T07:09:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.16183v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.16183v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate the structural evolution of young star clusters forming within centrally concentrated molecular clouds. Our simulations use the Torch framework, which integrates the FLASH magnetohydrodynamics code with the AMUSE environment, enabling a self-consistent treatment of gas dynamics, star formation, stellar evolution, radiative transfer, and gravitational interactions. We quantify cluster structure using the $Q$ parameter for fractality and compute fractal dimensions via two methods: box-counting and correlation dimension. Our results show that clusters generally inherit fractal substructure from their parental clouds, which is typically erased within $\\sim 2.5\\,t_\\mathrm{ff}$ through dynamical relaxation. Massive stars can induce the formation of secondary subclusters via feedback, with outcomes strongly dependent on stellar mass and formation timing. Interactions among subclusters, including mergers and dispersal, can extend fractal structure beyond $4\\,t_\\mathrm{ff}$. We also find systematic correlations between the fractality parameter $Q$ and the fractal dimension: fractality is positively correlated with both the correlation and box-counting dimensions, with the correlation dimension exhibiting a stronger correlation. These results demonstrate how stellar feedback and internal dynamics jointly shape the measurable fractal properties of embedded star clusters.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-17T07:09:06Z",
-      "arxiv:comment": "Submitted to A&A. Comments are welcome!",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Almat Akhmetali"
-        },
-        {
-          "name": "Adilkhan Assilkhan"
-        },
-        {
-          "name": "Mordecai-Mark Mac Low"
-        },
-        {
-          "name": "Nurzhan Ussipov"
-        },
-        {
-          "name": "Marat Zaidyn"
-        },
-        {
-          "name": "Ernazar Abdikamalov"
-        },
-        {
-          "name": "Alison Sills"
-        },
-        {
-          "name": "Xiaoying Pang"
-        },
-        {
-          "name": "Bekdaulet Shukirgaliyev"
-        }
-      ],
-      "score": 2.0
     }
   ]
 }
