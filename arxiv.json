@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T12:13:51.436106",
+  "fetched_at": "2026-04-19T00:33:24.769476",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.13655v1",
@@ -1552,81 +1552,6 @@
         }
       ],
       "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.18883v1",
-      "title": "Luminosity functions and IMF variations from large samples of HII regions and molecular clouds",
-      "updated": "2026-03-19T13:24:51Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.18883v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.18883v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Large high-quality samples of HII regions and their parent Giant Molecular Clouds (GMC) are now available for local galaxies. It is therefore possible to investigate links between the CO and H$α$ luminosity functions and whether massive stars form in GMCs of all masses. The CO luminosity functions (LF), representing the distribution of GMC masses, are consistently steeper than the H$α$ luminosity functions. The CO LF invariably steepens in the outer disk where fewer massive GMCs are present beyond the median cloud galactocentric distance. The H$α$ LF also steepens in the outer disk for most of the galaxies examined. Using Salpeter, Kroupa, and Chabrier Initial Mass Functions (IMF) along with stellar mass-luminosity-radius relations, we compute numerically the bolometric luminosity and H$α$ emission from young star clusters. The cluster masses are linked to the GMC mass by assuming that the cluster mass is a constant fraction (3\\%) of the parent cloud mass. In particular, results for a fully stochastic IMF are compared to suggestions that very massive stars only form in massive clusters or clouds. Within the limits of the observations -- no small molecular clouds or low-luminosity HII regions can be detected at the typical $\\sim 10$~Mpc distance of the sample galaxies -- we find no evidence for a maximum stellar mass which varies with cloud or cluster mass.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-19T13:24:51Z",
-      "arxiv:comment": "12 pages, 11 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jonathan Braine"
-        },
-        {
-          "name": "Edvige Corbelli"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.18857v1",
-      "title": "Spin-up and spin distribution of stellar black holes grown by gas accretion in proto-stellar clusters",
-      "updated": "2026-03-19T13:02:20Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.18857v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.18857v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Proto-stellar clusters, likely progenitors of globular clusters, are compact with typical mass $\\sim 10^6\\,{\\rm M}_\\odot$ and size $\\sim 1\\,{\\rm pc}$, as revealed recently by JWST observations at $z\\sim 10$. Sufficiently high compactness can provide a time window for early-formed stellar black holes (BHs) to accrete primordial gas. We develop a model to determine the final spin distribution of stellar BHs which grow in mass via gas accretion within compact gaseous proto-stellar clusters. The velocity shear within a BH's sphere of influence induces the formation of an accretion disk which is repeatedly disrupted by stochastic perturbations to the BH motion. We assume low initial BH spins $a_{*,{\\rm ini}} = 0.01$, and restrict initial BH masses below the upper BH mass gap, $m_{\\rm BH,ini} < 55\\,{\\rm M}_\\odot$. Our analysis shows a strong BH spin-mass correlation, obtained within $\\sim 10 \\,{\\rm Myr}$ when gas is depleted. Low-spin BHs, $a_{*} \\leq 0.3$, are predominantly low-mass, $m_{\\rm BH} \\lesssim 25\\,{\\rm M}_\\odot$, in contrast to high-spin black holes, $a_{*} \\geq 0.7$, which are predominantly high-mass, $m_{\\rm BH} \\gtrsim 65\\,{\\rm M}_\\odot$. Notably, there exist also low-spin, high-mass outliers with $\\sim 1$ mass-gap BH per cluster expected to have $a_{*} \\sim 0.1$. The general trend, however, expressed by the median spin as a function of final BH mass is well fit by a high-spin saturating exponential with transition mass $\\sim 50\\,{\\rm M}_{\\odot}$. For $m_{\\rm BH} \\geq 100\\,{\\rm M}_\\odot$ the median spin is $\\bar{a}_{*} \\sim 0.90$ with the central $68\\%$ of the distribution spanning $a_{*} \\sim 0.70 - 0.96$, in striking agreement with the estimated spins of the gravitational-wave signal GW231123. These spin values persist up to the highest masses generated by our mechanism, $m_{\\rm BH} \\sim 10^3\\,{\\rm M}_\\odot$.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-19T13:02:20Z",
-      "arxiv:comment": "to appear in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Zacharias Roupas"
-      },
-      "score": 2.5
     }
   ]
 }
