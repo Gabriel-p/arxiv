@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-19T12:14:03.084526",
+  "fetched_at": "2026-04-20T00:33:17.170305",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.13655v1",
@@ -1491,67 +1491,6 @@
         }
       ],
       "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.20430v1",
-      "title": "Isolated or Dynamical? Tracing Black Hole Binary Formation through the Population of Gravitational-Wave Sources",
-      "updated": "2026-03-20T19:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.20430v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.20430v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The population of binary black hole (BBH) mergers observed by the LIGO-Virgo-KAGRA (LVK) collaboration offers a window into the cosmic evolution of compact binaries and their formation. We employ the semi-analytic population-synthesis code B-POP to model BBHs assembled through isolated binary evolution and dynamical interactions in young, globular, and nuclear star clusters. Our framework incorporates star formation history, metallicity evolution, and single and binary stellar evolution to quantify their impact on the observable properties of the BBH population and on the relative contribution of distinct formation channels. Our models are characterized by a merger rate, $\\mathcal{R} = 17.5-24.1\\mathrm{Gpc}^{-3}\\mathrm{yr}^{-1}$, broadly consistent with LVK constraints. Moreover, the predicted distributions of primary mass, mass ratio, and effective inspiral spin parameter are compatible with those inferred from current LVK observations. Our primary-mass distribution is dominated by isolated binaries at $m_1 < 20$ M$_\\odot$, while dynamically assembled first- and higher-generation mergers dominate at larger masses. As a consequence, the sub-population of mergers with $m_1 > 45$ M$_\\odot$ exhibits a nearly flat mass-ratio distribution and distinctive spin properties. We leverage our models to explore how: (i) the fraction of stars in isolated binaries and the fraction of stellar mass bound in clusters regulate the merger rate; (ii) common-envelope physics shapes the primary-mass distribution and its redshift evolution; (iii) the inclusion of stellar-collision products enhances the formation of higher-generation mergers; and (iv) the natal spin distribution influences the effective spin. Using our models to assess possible origins of selected GW events, we illustrate how the complexity of the underlying astrophysical processes can hinder the possibility to draw definitive conclusions.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "gr-qc",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-20T19:00:00Z",
-      "arxiv:comment": "22 pages of main text, 7 pages of appendices, subm. to PRD",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Manuel Arca Sedda"
-        },
-        {
-          "name": "Lavinia Paiella"
-        },
-        {
-          "name": "Cristiano Ugolini"
-        },
-        {
-          "name": "Filippo Santoliquido"
-        },
-        {
-          "name": "Benedetta Mestichelli"
-        },
-        {
-          "name": "Ilaria Usai"
-        },
-        {
-          "name": "Filippo Simonato"
-        },
-        {
-          "name": "Marica Branchesi"
-        }
-      ],
-      "score": 1.0
     }
   ]
 }
