@@ -1,6 +1,152 @@
 {
-  "fetched_at": "2026-04-20T00:33:17.170305",
+  "fetched_at": "2026-04-20T12:27:21.871950",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.16093v1",
+      "title": "JWST and Keck observations of the off-nuclear tidal disruption event TDE 2025abcr: An evolving reprocessing layer",
+      "updated": "2026-04-17T14:22:47Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.16093v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.16093v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Off-nuclear tidal disruption events (TDEs) provide a rare probe of massive black holes (MBHs) outside galactic nuclei. Only a handful are known, including five X-ray-selected candidates and two optically selected events. We present observations of TDE 2025abcr, the second optically selected off-nuclear TDE, discovered at a projected offset of $9.08 \\pm 0.02$ kpc from the nucleus of its host galaxy. We analyze X-ray, UV, optical, and infrared (IR) data from Swift, Keck, ZTF, and JWST. Broad H and He emission lines in the optical and IR confirm a TDE-H-He classification. From luminosity scaling relations and MOSFiT modeling, we infer a BH mass of $10^{6}$-$10^{7}\\,M_{\\odot}$, substantially smaller than the $10^{8.35 \\pm 0.41}\\,M_{\\odot}$ BH inferred for the host-galaxy nucleus. We observe velocity evolution in the N III + He II emission complex, shifting from $-500$ km s$^{-1}$ at day $-7$ to $+1000$ km s$^{-1}$ by day $+29$, which we interpret as radiative transfer effects in an evolving reprocessing layer. The IR SED deviates from a thermal blackbody, with $νL_ν \\propto λ^{-2.13 \\pm 0.04}$, significantly shallower than the Rayleigh-Jeans slope of $λ^{-3}$. We rule out dust as the source of this IR excess. Two possibilities remain: free-free emission from reprocessing gas, or an unresolved stellar cluster at the TDE location. Reprocessed emission provides a natural explanation for the IR excess but an underlying stellar cluster of mass $\\log(M_{*}/M_{\\odot}) = 7.57 \\pm 0.02$ and age $<$2 Gyr is also consistent with the data. If interpreted as a stellar cluster, the inferred mass suggests a stripped remnant of a satellite galaxy. The wandering MBH most likely originated in a minor merger with a smaller galaxy, although dynamical ejection from the host nucleus cannot yet be ruled out.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-17T14:22:47Z",
+      "arxiv:comment": "23 pages, 16 figures; comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": [
+        {
+          "name": "Kishore C. Patra"
+        },
+        {
+          "name": "Emily R. Liepold"
+        },
+        {
+          "name": "Nicholas Earl"
+        },
+        {
+          "name": "Ryan J. Foley"
+        },
+        {
+          "name": "Chung-Pei Ma"
+        },
+        {
+          "name": "Sebastian Gomez"
+        },
+        {
+          "name": "Kyle W. Davis"
+        },
+        {
+          "name": "Enrico Ramirez-Ruiz"
+        },
+        {
+          "name": "K. Decker French"
+        },
+        {
+          "name": "Jonelle L. Walsh"
+        },
+        {
+          "name": "Ravjit Kaur"
+        },
+        {
+          "name": "Kirsty Taggart"
+        },
+        {
+          "name": "Joshua Candanoza"
+        },
+        {
+          "name": "V. Ashley Villar"
+        },
+        {
+          "name": "Prasiddha Arunachalam"
+        },
+        {
+          "name": "Phillip Macias"
+        },
+        {
+          "name": "Samaporn Tinyanont"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.15968v1",
+      "title": "Missing pairs in open cluster catalogs",
+      "updated": "2026-04-17T11:30:50Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.15968v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.15968v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters (OCs) in our Galaxy can be found in pairs, possibly forming physical binaries, or in groups. Such objects offer unique insights into the process of star formation. They testify of dynamical interactions at the local and Galactic scales. Making their census as complete as possible is therefore a valuable endeavor. This work aims to identify and characterize new OC pair candidates that were overlooked in previous studies. Two recent comprehensive catalogs were cross-matched in order to identify OCs in the first catalog that are missing in the second one. From this list, counterparts in the second catalog were searched within a three-dimensional distance of 50 pc. Candidate pairs were then selected by applying constraints on the tangential velocity difference. Orbital integration was performed to assess gravitational binding. Similarity in radial velocity and age was evaluated. We identify seven isolated binary cluster candidates, comprising two likely bound systems with stable orbits over 100 Myr, two pairs with a possible common origin but lacking radial velocity confirmation, and three pairs with significant velocity discrepancies suggesting they are unbound or in transitional states. We also identify six cluster group candidates, refining the membership of known complexes such as UBC_672 and NGC_1977, and discovering a new group around FSR_0198. Notably, the UBC_392 group exhibits coherent proper motions but inconsistent radial velocities and large age spreads, indicating it is not gravitationally bound. Additionally, we reconcile 15 clusters with discrepant nomenclature between the two catalogs. Multi-catalog integration combined with kinematic and dynamical validation is essential for establishing a complete census of Galactic cluster pairs. Our findings expand the known binary cluster sample and provide refined targets for future studies.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-17T11:30:50Z",
+      "arxiv:comment": "14 pages, 7 figures, 3 tables, accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Qingshun Hu"
+        },
+        {
+          "name": "Yufei Cai"
+        },
+        {
+          "name": "Caroline Soubiran"
+        },
+        {
+          "name": "Yu Dai"
+        },
+        {
+          "name": "Yuting Li"
+        },
+        {
+          "name": "Yangping Luo"
+        },
+        {
+          "name": "Mingfeng Qin"
+        }
+      ],
+      "score": 11.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.13655v1",
       "title": "Massive star clusters and clumps in the collisional ring galaxy Arp 147",
