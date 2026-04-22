@@ -1,6 +1,55 @@
 {
-  "fetched_at": "2026-04-22T00:31:01.257245",
+  "fetched_at": "2026-04-22T12:24:36.558876",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.19075v1",
+      "title": "What is Powering the Enigmatic He II Emitter Hebe: The First Stars or Black Holes?",
+      "updated": "2026-04-21T04:35:24Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.19075v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.19075v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Recent high-resolution spectroscopy with the James Webb Space Telescope (JWST) has confirmed the presence of a strong He II, $\\lambda1640$ emitting clump in the vicinity of GN-z11, with only upper limits on its metallicity. To explain the peculiar properties of this source, now termed Hebe, a cluster of metal-free, Population III (Pop III) stars has been invoked. A less likely source for the hard UV ionizing radiation could be an accreting supermassive black hole (SMBH) embedded inside Hebe. We here provide further constraints on what could power the observed emission lines in Hebe. Comparing with cosmological simulations of Pop III star cluster formation, we assess the maximum Pop III stellar mass that could plausibly form at the location of Hebe, finding stellar masses of a few $10^5\\,M_{\\odot}$, consistent with those inferred from the observations. Modeling the continuum spectral energy distribution arising from an accreting SMBH, we derive He II and H I ionizing rates and the resulting recombination line luminosities, roughly in line with the observations. We thus confirm the interpretation of Hebe as a remarkable, primordial object, with the most plausible power source provided by a massive cluster of Pop III stars, at the limit of what is allowed within the standard model of first star formation.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-21T04:35:24Z",
+      "arxiv:comment": "9 pages, 4 figures. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Junehyoung Jeon"
+        },
+        {
+          "name": "Tae Bong Jeong"
+        },
+        {
+          "name": "Saiyang Zhang"
+        },
+        {
+          "name": "Volker Bromm"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
       "title": "W UMa-Type Contact Binaries in the Tidal Tails of Young Open Cluster COIN-Gaia 25 and Mamajek 4",
@@ -204,23 +253,23 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2604.15968v1",
+      "id": "http://arxiv.org/abs/2604.15968v2",
       "title": "Missing pairs in open cluster catalogs",
-      "updated": "2026-04-17T11:30:50Z",
+      "updated": "2026-04-21T15:45:03Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2604.15968v1",
+          "@href": "https://arxiv.org/abs/2604.15968v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2604.15968v1",
+          "@href": "https://arxiv.org/pdf/2604.15968v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "Open clusters (OCs) in our Galaxy can be found in pairs, possibly forming physical binaries, or in groups. Such objects offer unique insights into the process of star formation. They testify of dynamical interactions at the local and Galactic scales. Making their census as complete as possible is therefore a valuable endeavor. This work aims to identify and characterize new OC pair candidates that were overlooked in previous studies. Two recent comprehensive catalogs were cross-matched in order to identify OCs in the first catalog that are missing in the second one. From this list, counterparts in the second catalog were searched within a three-dimensional distance of 50 pc. Candidate pairs were then selected by applying constraints on the tangential velocity difference. Orbital integration was performed to assess gravitational binding. Similarity in radial velocity and age was evaluated. We identify seven isolated binary cluster candidates, comprising two likely bound systems with stable orbits over 100 Myr, two pairs with a possible common origin but lacking radial velocity confirmation, and three pairs with significant velocity discrepancies suggesting they are unbound or in transitional states. We also identify six cluster group candidates, refining the membership of known complexes such as UBC_672 and NGC_1977, and discovering a new group around FSR_0198. Notably, the UBC_392 group exhibits coherent proper motions but inconsistent radial velocities and large age spreads, indicating it is not gravitationally bound. Additionally, we reconcile 15 clusters with discrepant nomenclature between the two catalogs. Multi-catalog integration combined with kinematic and dynamical validation is essential for establishing a complete census of Galactic cluster pairs. Our findings expand the known binary cluster sample and provide refined targets for future studies.",
+      "summary": "Open clusters (OCs) in our Galaxy can be found in pairs, possibly forming physical binaries, or in groups. These objects offer unique insights into the process of star formation and testify to the dynamical interactions at local and galactic scales. Therefore, building as complete a census as possible is a valuable endeavor. This work is aimed at identifying and characterizing new OC pair candidates that had been overlooked in previous studies. Two recent comprehensive catalogs were cross-matched to identify OCs in the first catalog that had been missing from the second one. From this list, counterparts in the second catalog were searched within a 3D distance of 50 pc. Candidate pairs were then selected by applying constraints on the tangential velocity (TV) difference. An orbital integration was performed to assess gravitational binding. The similarity in terms of the radial velocity (RV) and age was evaluated. We identified seven isolated binary cluster candidates, comprising two likely bound systems with stable orbits over 100 Myr; two pairs with a possible common origin but lacking RV confirmation; and three pairs with significant velocity discrepancies, suggesting they are unbound or in transitional states. We also identified six cluster group candidates, while refining the membership of known complexes such as UBC\\_672 and NGC\\_1977, and discovering a new group around FSR\\_0198. Notably, the UBC\\_392 group exhibits coherent proper motions but inconsistent RVs and large age spreads, indicating that it is not gravitationally bound. Additionally, we reconciled 15 clusters with discrepant nomenclature between the two catalogs. Multi-catalog integration combined with kinematic and dynamical validation is essential for establishing a complete census of Galactic cluster pairs.",
       "category": [
         {
           "@term": "astro-ph.GA",
