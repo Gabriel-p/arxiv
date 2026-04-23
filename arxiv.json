@@ -1,6 +1,168 @@
 {
-  "fetched_at": "2026-04-23T00:36:17.077227",
+  "fetched_at": "2026-04-23T12:24:27.311863",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.20722v1",
+      "title": "Photometric Identification of Unresolved Binary Stars in Nearby Open Star Clusters",
+      "updated": "2026-04-22T16:07:28Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.20722v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.20722v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "This paper introduces a new method to search for unresolved binary stars in open star clusters. The work aims at improving the approach introduced previously, which employs the (H-W2)-W1 versus W2-(BP-K) photometric diagram. This diagram, in tandem with the Gaia Color Magnitude Diagram (CMD) and using theoretical isochrones as reference sequences, is used to estimate the binary star fraction and the distribution of the component mass ratio $q$ in eight nearby open star clusters, including Pleiades, Alpha Per, and Praesepe, which we investigated in previous studies. In this study, to alleviate the uncertainties associated with the use of theoretical isochrones, we propose an empirical isochrones approach. We show that this is an effective approach to exploring a wider primary-mass interval, in particular for the region of low-mass sources.\n  Box-and-whisker plots are used to present the distribution of the component mass ratio $q$. The mode of distribution turns out to be in the range $0.43-0.83$ and $0.38-0.63$ for Gaia and infrared-visible photometry, respectively. In addition, we update the algorithm to obtain the binary fraction, whose estimate lies in the range $0.16 - 0.36$ and $0.21 - 0.44$, depending on the adopted method, and show that in previous studies the binary fraction was overestimated. We do not find evidence that the variable spatial resolution of the employed catalogs (Gaia, 2MASS, and WISE) affects the precision of the binary fraction estimate.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-22T16:07:28Z",
+      "arxiv:comment": "24 pages, 13 figures, 4 tables, accepted for publication in the Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Varvara O. Mikhnevich"
+        },
+        {
+          "name": "Anastasiia Plotnikova"
+        },
+        {
+          "name": "Giovanni Carraro"
+        },
+        {
+          "name": "Anton F. Seleznev"
+        }
+      ],
+      "score": 5.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.20080v1",
+      "title": "Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA",
+      "updated": "2026-04-22T00:54:21Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.20080v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.20080v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Detecting cold molecular gas in metal-poor starbursts remains a major challenge. Low carbon and oxygen abundances hinder CO formation, while low dust content reduces shielding against UV photodissociation. Consequently, CO, the main tracer of molecular gas, becomes faint or undetectable. We study the spatial distribution and kinematics of cold molecular gas in Mrk 996, a nearby low-mass Wolf-Rayet galaxy hosting a dense, low-metallicity (about 1/5 solar) and nitrogen-enriched nuclear starburst with complex ionized gas kinematics. Using ALMA observations of CO(1-0) and CO(2-1), we map the morphology and kinematics of the molecular gas and compare them with optical and UV data, tracing the ionized gas and young stellar populations. We detect compact CO clouds within 800 pc of the starburst, spatially offset from the nuclear super star cluster (SSC) and the most highly ionized regions. The CO lines are narrow and supersonic, exhibiting velocity gradients with a mild global blueshift, indicating dynamically perturbed gas without evidence for fast outflows, in contrast with the highly ionized phase. The global CO(2-1)/CO(1-0) ratio is low (R21 ~ 0.3), consistent with subthermal excitation. The millimeter continuum peaks at the SSC, while CO emission is displaced toward obscured regions, suggesting it traces dense shielded clumps. ALMA recovers about half of the single-dish flux, indicating the presence of extended, low-surface-brightness molecular gas. Using a metallicity-dependent CO-to-H2 conversion factor, we infer a molecular gas mass of a few 10^7 solar masses. The molecular gas is only weakly coupled to the stellar feedback that dominates the ionized phase. Our results support a multiphase scenario in which dense molecular clumps survive in shielded regions, while CO is photodissociated in their envelopes, leaving a significant CO-dark H2 component (Abridged).",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-22T00:54:21Z",
+      "arxiv:comment": "12+2 pages, 9 figures, and 5 tables. Submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "R. Slater"
+        },
+        {
+          "name": "R. Amorín"
+        },
+        {
+          "name": "J. A. Fernández-Ontiveros"
+        },
+        {
+          "name": "F. J. Sáez-Ruiz"
+        },
+        {
+          "name": "M. S. Oey"
+        },
+        {
+          "name": "B. L. James"
+        },
+        {
+          "name": "M. Mingozzi"
+        },
+        {
+          "name": "M. Llerena"
+        },
+        {
+          "name": "M. G. del Valle-Espinosa"
+        },
+        {
+          "name": "K. Harrington"
+        },
+        {
+          "name": "N. Kumari"
+        },
+        {
+          "name": "R. Sánchez-Janssen"
+        },
+        {
+          "name": "J. M. Vílchez"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.19992v1",
+      "title": "The apparent Large Magellanic Cloud star cluster age gap",
+      "updated": "2026-04-21T21:02:53Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.19992v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.19992v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In the Large Magellanic Cloud, very few clusters have been observed with ages between 4 and 11 Gyr. This phenomenon is sometimes referred to as the `LMC age gap'. We construct a model of the cluster age distribution aiming to reproduce this observation. We linked the star formation history to the cluster initial mass function via a power-law relation between maximum initial cluster mass and global star formation rate. Using a constant cluster forming efficiency of 5%, we then obtained the cluster formation history. Applying a model of cluster mass loss calibrated using N-body simulations and an observational completeness limit, we computed the observable fraction of initially formed clusters and model the cluster age distribution. For a maximum initial cluster mass below $10^5$M$_\\odot$ at a star formation rate of 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$, our model reproduced the observed lack of clusters with ages between 4 and 11 Gyr. However, our model required a maximum initial mass at 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$ of at least $2\\cdot 10^5$M$_\\odot$ in order to reproduce the population of ancient globular clusters. A linear change between maximum initial cluster mass relations from 8 to 12 Gyr reproduced the age gap satisfactorily. In our model, the age gap is a consequence of the star forming history and current observational limits. The age gap corresponds to a period of lower star formation rate, where no clusters with initial mass above approximately 2 to 5$\\cdot 10^5$M$_\\odot$ were formed. In the present day, these clusters have become so faint that only few of them have been detected. The pattern of both young, bright and old, massive clusters being more easily detectable than clusters of intermediate ages may be more general and not specific to the Large Magellanic Cloud.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-21T21:02:53Z",
+      "arxiv:comment": "7 pages, 6 figures. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jonathan H. Klos"
+        },
+        {
+          "name": "Andrés E. Piatti"
+        }
+      ],
+      "score": 3.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.19075v1",
       "title": "What is Powering the Enigmatic He II Emitter Hebe: The First Stars or Black Holes?",
