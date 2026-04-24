@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-23T12:24:27.311863",
+  "fetched_at": "2026-04-24T00:35:51.216439",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -1923,45 +1923,6 @@
         }
       ],
       "score": 7.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.23594v1",
-      "title": "Direct Evidence for Stellar Initial Mass Function Variation in the Milky Way",
-      "updated": "2026-03-24T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.23594v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.23594v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Because direct measurements require resolved stellar populations including low-mass stars, determining the stellar initial mass function (IMF) has been a historically difficult problem even within our own Galaxy and impossible everywhere else. As a result, even though it is predicted that the IMF should vary depending upon the properties of each individual star-forming molecular cloud, it is standard to assume a Universal IMF. Using recent observations from {\\em Gaia}, it is now possible to test for IMF variation using resolved stellar populations in open clusters and a parameterization that separates properties of the IMF from subsequent dynamical evolution. Here, we show that the IMF is not Universal but instead varies across individual Galactic stellar populations, reflecting evolution in the average conditions of molecular clouds over cosmic time. This evolution is consistent with the predictions of a simple astrophysical model in which the IMF is environmentally-dependent and the Milky Way reflects typical galactic behavior in recent cosmic history. Thus, observational evidence now agrees with long-standing theoretical and numerical predictions.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-24T18:00:00Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Charles L. Steinhardt"
-        },
-        {
-          "name": "Carter Meyerhoff"
-        },
-        {
-          "name": "Alexander J. Luening"
-        }
-      ],
-      "score": 1.5
     }
   ]
 }
