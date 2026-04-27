@@ -1,6 +1,108 @@
 {
-  "fetched_at": "2026-04-27T00:35:40.790560",
+  "fetched_at": "2026-04-27T12:35:11.697323",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.22573v1",
+      "title": "A homogeneous three-dimensional view of Molecular Cloud kinematics out to 2.5 kpc. Using Young Stellar Objects and Open Clusters as complementary tracers",
+      "updated": "2026-04-24T14:05:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.22573v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.22573v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Understanding the large-scale dynamics of molecular clouds (MCs) is crucial for constraining the processes that govern star formation and the structure and evolution of the Galaxy. While gas tracers have traditionally been used to map MC kinematics, stellar tracers such as young stellar objects (YSOs) and open clusters (OCs) provide a complementary approach that enables direct comparisons between the stellar and gaseous components. We aim to validate OCs as complementary tracers by testing whether they retain the same bulk kinematic imprint as YSOs, and to reconstruct the three-dimensional (3D) motions of the main MC complexes within 2.5 kpc of the Sun using YSOs and young OCs as tracers. Using Gaia DR3 astrometry together with complementary spectroscopic surveys for radial velocities, we compiled a unified sample of 24,732 stellar tracers. We applied robust clustering in proper motion space to identify co-moving YSOs and derived cloud-averaged motions via Monte Carlo sampling. These were compared with the kinematics of OCs younger than 30 Myr. Finally, we performed orbital integrations in a realistic Galactic potential to trace the past evolution of the clouds and quantify their expansion and rotation. We derive homogeneous 3D kinematics for 15 MC complexes within 2.5 kpc. YSOs and OCs exhibit strongly consistent kinematics, with a median spatial velocity offset of $\\simeq 2$ km s$^{-1}$, confirming that both populations trace the bulk motion of their parent clouds. The resulting cloud kinematics show a median peculiar velocity of $\\simeq 8.7$ km s$^{-1}$ with respect to Galactic rotation. We trace back the Solar System's voyage through the Orion cloud and the common origin of Lupus, Ophiuchus, and Corona Australis in Sco-Cen. Internally, we detect significant expansion in Orion and Ophiuchus ($5σ$) and coherent rotation in at least seven complexes.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-24T14:05:19Z",
+      "arxiv:comment": "16 pages, 5 figures. Submitted to A&A; revised version after first referee report",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Xabier Pérez-Couto"
+        },
+        {
+          "name": "Santiago Torres"
+        },
+        {
+          "name": "Nuria Miret-Roig"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Alexander J. Mustill"
+        },
+        {
+          "name": "Eva Villaver"
+        },
+        {
+          "name": "Minia Manteiga"
+        }
+      ],
+      "score": 6.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.22358v1",
+      "title": "A study of the spatial evolution of the Radcliffe wave in a sample of young open star clusters",
+      "updated": "2026-04-24T08:46:17Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.22358v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.22358v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A sample of 139 young open star clusters closely associated with the Radcliffe wave is considered. Modeling their spatial distribution and kinematics over a time interval of 30 Myrs ago and 30 Myrs into the future revealed that they exhibit the main properties characteristic of a Radcliffe wave over the past 10-15 Myr. They are distributed on the galactic XY plane as a long and narrow chain inclined to the Y axis, and exhibit a wave-like behavior of their vertical coordinates up to 15 Myr in the past. This behavior of their vertical coordinates will persist over the interval of 15-20 Myr in the future. A new finding is the presence of vertical perturbations with an amplitude of deviation from the galactic symmetry plane of up to 200 pc over the entire time interval considered in the past, up to -30 Myr. This result calls into question the possibility of using a scenario in which the initial disturbance of the interstellar medium is assumed to be the Parker instability of the galactic magnetic field.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-24T08:46:17Z",
+      "arxiv:comment": "13 pages, 8 figures, accepted by the Astrophysical Bulletin",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Vadim V. Bobylev"
+        },
+        {
+          "name": "Anisa T. Bajkova"
+        },
+        {
+          "name": "Nazar R. Ikhsanov"
+        }
+      ],
+      "score": 4.0
+    },
     {
       "id": "http://arxiv.org/abs/2604.21322v1",
       "title": "Turbulent infall onto class 0 disks as cause of CAI brief condensation episode in the solar system",
