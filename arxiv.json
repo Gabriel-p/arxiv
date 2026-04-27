@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T12:17:39.350387",
+  "fetched_at": "2026-04-27T00:35:40.790560",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.21322v1",
@@ -1725,122 +1725,6 @@
         }
       ],
       "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.26872v1",
-      "title": "A cosmological framework for stellar collisions at high redshift in proto-globular clusters, nuclear star clusters, and Little Red Dots",
-      "updated": "2026-03-27T18:00:02Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.26872v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.26872v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Observations and cosmological simulations indicate that the early Universe hosted numerous compact, high-density stellar systems, where close encounters and physical collisions between stars were likely common. We develop a bottom-up framework for stellar dynamics in such environments, spanning systems with and without intermediate- and supermassive black holes, and covering regimes where stellar collisions may or may not dominate the evolution. This radially-resolved analytic model connects dense star clusters in their cosmological context to observable outcomes mediated by stellar collisions. Initial conditions and environmental properties are drawn from high-resolution cosmological simulations, enabling exploration across a broad region of parameter space. The analytic predictions are validated against Monte Carlo simulations, demonstrating good agreement across key regimes. We find that stellar collisions are ubiquitous in many high-redshift environments, with runaway sequences naturally leading to the formation of very massive stars at early times. Finally, we show that high rates of destructive collisions can rapidly build up extremely dense gaseous environments around massive black holes, potentially providing an analogue to the observed population of Little Red Dots.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-27T18:00:02Z",
-      "arxiv:comment": "25 pages, 8 figures. Comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Claire E. Williams"
-        },
-        {
-          "name": "Smadar Naoz"
-        },
-        {
-          "name": "Sanaea C. Rose"
-        },
-        {
-          "name": "Blakesley Burkhart"
-        },
-        {
-          "name": "Naoki Yoshida"
-        },
-        {
-          "name": "Avi Chen"
-        },
-        {
-          "name": "Kyle Kremer"
-        },
-        {
-          "name": "William Lake"
-        },
-        {
-          "name": "Federico Marinacci"
-        },
-        {
-          "name": "Shyam H. Menon"
-        },
-        {
-          "name": "Mark Vogelsberger"
-        }
-      ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.26572v1",
-      "title": "New star clusters discovered towards the Galactic anticentre direction using Gaia DR3 data",
-      "updated": "2026-03-27T16:34:18Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.26572v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.26572v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We report the discovery of 31 new open clusters (OCs) identified in \\textit{Gaia}~DR3 data through a systematic search over 220 adjacent $1^\\circ\\times1^\\circ$ fields towards the Galactic anticentre, in the direction of the Perseus arm gap. Eight of them display low-density structures, possibly indicating open cluster remnants properties. The objects were identified and characterized through a combined analysis of photometric, kinematic, and spatial distributions, a methodology successfully applied in our previous works. Their structural properties, mean proper motions, ages, distances and reddening were derived and their centres cross-matched with the available catalogues. The clusters are low-concentrated systems and are mostly located within $3<d<5$ kpc, exhibiting reddening up to $E(B-V)\\approx1.5$, and ages from $\\sim$20 Myr to 1 Gyr. The new OCs represent a significant increase in the anticentre cluster census: $31\\%$ for $3<d<4$ kpc and $12\\%$ for $d>4$ kpc. They do not belong to the Perseus arm, but may be associated with the Outer Norma arm. The Gulf of Camelopardalis region appears as an interruption in the Perseus arm, possibly reflecting low star-formation activity, dust obscuration, or that the Milky Way is a flocculent, rather than a grand-design spiral galaxy.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-27T16:34:18Z",
-      "arxiv:comment": "20 pages, 16 figures. Accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "F. A. Ferreira"
-        },
-        {
-          "name": "M. S. Angelo"
-        },
-        {
-          "name": "J. F. C. Santos"
-        },
-        {
-          "name": "W. J. B. Corradi"
-        },
-        {
-          "name": "F. F. S. Maia"
-        }
-      ],
-      "score": 11.0
     }
   ]
 }
