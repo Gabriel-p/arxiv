@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-04-28T12:38:37.077058",
+  "fetched_at": "2026-04-29T14:52:02.998070",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2604.25786v1",
+      "title": "Homogeneous Stellar Parameters from Heterogeneous Spectra with Deep Learning",
+      "updated": "2026-04-28T15:54:51Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.25786v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.25786v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Large-scale spectroscopic surveys have collectively observed millions of stars across the Milky Way, but each derives stellar labels using independent pipelines with distinct modelling assumptions, introducing systematic offsets that obscure signals in chemical space and hinder large-scale Galactic archaeology. We present a unified deep-learning framework that delivers atmospheric parameters, chemical abundances for 20 elements, distances, and ages -- all on a single, self-consistent scale -- for an arbitrary number of spectroscopic surveys simultaneously. Our approach uses a Transformer model that ingests spectra of arbitrary wavelength range and resolution, trained end-to-end as a single model across all surveys, eliminating the need for post-hoc recalibration. We apply this framework to spectra from APOGEE DR17, GALAH DR3, DESI DR1, and $\\textit{Gaia}$ RVS DR3, spanning resolutions from R ~ 2,000 to 28,000 and wavelengths from the optical to the near-infrared. On high-resolution APOGEE spectra the model achieves precisions of $18~$K in $\\textrm{T}_{\\rm eff}$, $0.04~$dex in $\\textrm{log}\\,\\textit{g}$, $0.015~$dex in [Fe/H], and ${<}\\,0.03~$dex across all abundances; on lower-resolution DESI spectra, typical precisions are $51~$K, $0.09~$dex, $0.04~$dex, and ${\\sim}\\,0.06~$dex, respectively. Cross-survey comparisons demonstrate that labels for the same stars observed by different surveys are consistent within model uncertainties; we further validate against external distance catalogs and open cluster metallicities and ages. The resulting homogeneous catalog enables Galactic archaeology at unprecedented scale and consistency, and the framework is readily extensible to forthcoming spectroscopic surveys such as SDSS-V, WEAVE, and 4MOST. The catalog is publicly available at https://doi.org/10.5281/zenodo.19830515.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-28T15:54:51Z",
+      "arxiv:comment": "22 pages, 14 figures, 4 tables. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jeff Shen"
+        },
+        {
+          "name": "Joshua S. Speagle"
+        },
+        {
+          "name": "Shirley Ho"
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
       "title": "Recovering extra-tidal open cluster members via multi-elemental chemical tagging",
