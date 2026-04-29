@@ -48,23 +48,12 @@ jobs:
       - name: Validate JSON content
         id: validate-json
         run: |
-          if python - <<'EOF'
-import json
-
-with open("arxiv.json") as f:
-    data = json.load(f)
-
-# Detect your "empty" structure
-if (
-    data.get("title") == "No articles found"
-    and data.get("score") == 0
-):
-    exit(1)  # mark as empty
-EOF
-          then
-            echo "valid=true" >> "$GITHUB_OUTPUT"
-          else
+          title=$(jq -r '.title // ""' arxiv.json)
+          score=$(jq -r '.score // -1' arxiv.json)
+          if [ "$title" = "No articles found" ] && [ "$score" = "0" ]; then
             echo "valid=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "valid=true" >> "$GITHUB_OUTPUT"
           fi
 
       # 5) Detect whether arxiv.json changed (only if valid)
