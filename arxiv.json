@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-29T14:52:02.998070",
+  "fetched_at": "2026-04-30T00:54:53.593340",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.25786v1",
@@ -1870,117 +1870,6 @@
         }
       ],
       "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.28878v4",
-      "title": "Formation and disruption of wide binaries in star clusters revealed by N-body simulations",
-      "updated": "2026-04-14T08:13:54Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.28878v4",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.28878v4",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Wide (soft) binaries are expected to be rapidly disrupted in dense stellar environments, yet they are observed in both the Galactic field and open clusters (OCs). In this paper, we investigate the formation and disruption of wide binaries in star clusters using direct N-body simulations. We perform simulations containing 10,000 objects with varying binary fractions and initial bulk rotation to give an in-depth look into the dynamical evolution of wide binaries in star clusters. We find that wide binaries dominate early disruption and formation processes during the initial high-density phase of cluster evolution. We propose two semi-analytical models to reproduce the evolution of the wide-binary population in simulations. The exponential model consists of an early, rapid-disruption phase with a time less than 10 Myr, driven by frequent encounters at high density, and a longer, relaxation-driven phase between 200 and 300 Myr. The broken power-law model provides break timescales when the decrease of wide binaries slows down during the early and long-term disruption. All timescales from both models agree with each other and decrease with increasing stellar density induced by high primordial binary fraction and cluster rotation. Wide binary disruption is mostly responsible for the early decline in the total binary fraction of the cluster. Such disruption leads to the decrease of radial binary fraction toward the cluster center until 500 Myr. Our results suggest low-density OCs or stellar groups younger than 10 Myr as the optimal environments for detecting wide binaries and provide a physical framework for understanding their contribution to the Galactic field population.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-30T18:01:18Z",
-      "arxiv:comment": "Accepted to the Astrophysical Journal Letters",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Abylay Bissekenov"
-        },
-        {
-          "name": "Xiaoying Pang"
-        },
-        {
-          "name": "Rainer Spurzem"
-        },
-        {
-          "name": "Bekdaulet Shukirgaliyev"
-        },
-        {
-          "name": "Mukhagali Kalambay"
-        },
-        {
-          "name": "Peter Berczik"
-        }
-      ],
-      "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.28866v1",
-      "title": "The Depletion of Collisionless Dark Matter Spikes",
-      "updated": "2026-03-30T18:00:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.28866v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.28866v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Dense concentrations of dark matter (DM) surrounding black holes provide a compelling opportunity to probe the nature of DM. In the classic Gondolo-Silk model, the adiabatic growth of a massive black hole (MBH) in a DM cusp produces a steep density spike ($ρ\\propto r^{-7/3}$), potentially inducing measurable gravitational-wave dephasings in intermediate and extreme mass-ratio inspirals (IMRIs/EMRIs). We challenge this paradigm by considering a collisionless spike embedded in a realistic nuclear star cluster (NSC). Using 1D orbit-averaged Fokker-Planck (FP) simulations of isotropic NSCs, we show that mass segregation in a multi-mass stellar cusp accelerates relaxation, relative to single-mass models, thereby driving the DM to the lower density $r^{-3/2}$ Bahcall-Wolf profile within $\\lesssim 1 \\mathrm{Gyr}$. In the inner regions, where the FP description breaks down, we model strong triple interactions between DM particles and EMRIs using post-Newtonian 3-body simulations. We show that EMRIs eject DM particles via slingshots, depleting the inner spike over a few Gyrs. Because EMRI number densities are too low to drive two-body relaxation, and collisionless DM cannot efficiently repopulate the depleted phase space, this depletion is irreversible. While the extent of EMRI-induced depletion depends on the EMRI rate and mass, we find reductions in DM densities by several orders of magnitude. Hence, DM-induced dephasings for EMRIs may fall below the detectability threshold of LISA for MBHs at $z = 3$ (2.14 Gyr) with masses $\\lesssim 10^{5}\\,M_\\odot$ (for an $\\mathcal{O}(10) \\, \\mathrm{Gyr}^{-1}$ EMRI rate), extending to $\\lesssim 10^6\\,M_\\odot$ for more optimistic rates of $\\mathcal{O}(300-1000) \\, \\mathrm{Gyr}^{-1}$. Our findings substantially reduce the parameter space over which MBHs can host detectable collisionless DM spikes.",
-      "category": [
-        {
-          "@term": "gr-qc",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-30T18:00:06Z",
-      "arxiv:primary_category": {
-        "@term": "gr-qc"
-      },
-      "author": [
-        {
-          "name": "Charlie Sharpe"
-        },
-        {
-          "name": "Yonadav Barry Ginat"
-        },
-        {
-          "name": "Thomas F. M. Spieksma"
-        },
-        {
-          "name": "Bence Kocsis"
-        }
-      ],
-      "score": 1.0
     }
   ]
 }
