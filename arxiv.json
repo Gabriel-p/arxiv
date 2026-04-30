@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T12:42:11.984547",
+  "fetched_at": "2026-04-30T16:36:01.223952",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.25786v1",
@@ -45,7 +45,7 @@
           "name": "Shirley Ho"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -77,7 +77,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 11.0
+      "score": 10.25
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -120,7 +120,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 7.5
+      "score": 6.25
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -152,7 +152,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 7.0
+      "score": 5.75
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -214,7 +214,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 6.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22358v1",
@@ -254,62 +254,7 @@
           "name": "Nazar R. Ikhsanov"
         }
       ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.21322v1",
-      "title": "Turbulent infall onto class 0 disks as cause of CAI brief condensation episode in the solar system",
-      "updated": "2026-04-23T06:25:45Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.21322v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.21322v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Calcium-aluminum-rich inclusions (CAIs) in carbonaceous chondritic meteorites are the oldest relics in the solar system. Notably, their radiogenic age feature a brief (100 kyr) condensation episode. In contrast, the reservoirs of the short-lived isotopes in CAIs, presumably supernovae or asymptotic giant stars, pollutes star-forming regions in giant molecular cloud complexes (GMC) over much longer (Myr) duration. Through a series of numerical simulations, we show here the possibility that, within an extended region (2$\\sim$3 AU), nearly all ``pre-solar'' CAI-loaded grains in the infall clouds were sublimated and re-condensed during the early ($ \\lesssim 10^5$ yr) infall and formation of class-0 disks. We adopt a set of initial conditions from a previous hydrodynamic simulation of the collapse of GMC and the formation of young stellar clusters. We analyze the evolution of the disk's thermal distribution and dynamical structure resulting from the interaction between circumstellar disks and infalling gas. Our follow-up simulations, with much higher resolution, show significant and rapid changes in the disk orientation and morphology due to the dynamic infall of external streamers. Warps and global spiral density waves commonly appear. They lead to intense dissipation which heats the gas to sufficiently high temperature to sublimate prior-generation CAIs. This solid-to-gas phase transition is followed by subsequent cooling and re-condensation. The CAI contained in the meteorites today could be the relics of the last episode of major infall onto class 0 disks.",
-      "category": [
-        {
-          "@term": "astro-ph.EP",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-23T06:25:45Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.EP"
-      },
-      "author": [
-        {
-          "name": "Jiachen Zheng"
-        },
-        {
-          "name": "Xing Wei"
-        },
-        {
-          "name": "Hongping Deng"
-        },
-        {
-          "name": "Wenrui Xu"
-        },
-        {
-          "name": "Douglas N. C. Lin"
-        }
-      ],
-      "score": 0.5
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -358,83 +303,7 @@
           "name": "Anton F. Seleznev"
         }
       ],
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.20080v1",
-      "title": "Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA",
-      "updated": "2026-04-22T00:54:21Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.20080v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.20080v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Detecting cold molecular gas in metal-poor starbursts remains a major challenge. Low carbon and oxygen abundances hinder CO formation, while low dust content reduces shielding against UV photodissociation. Consequently, CO, the main tracer of molecular gas, becomes faint or undetectable. We study the spatial distribution and kinematics of cold molecular gas in Mrk 996, a nearby low-mass Wolf-Rayet galaxy hosting a dense, low-metallicity (about 1/5 solar) and nitrogen-enriched nuclear starburst with complex ionized gas kinematics. Using ALMA observations of CO(1-0) and CO(2-1), we map the morphology and kinematics of the molecular gas and compare them with optical and UV data, tracing the ionized gas and young stellar populations. We detect compact CO clouds within 800 pc of the starburst, spatially offset from the nuclear super star cluster (SSC) and the most highly ionized regions. The CO lines are narrow and supersonic, exhibiting velocity gradients with a mild global blueshift, indicating dynamically perturbed gas without evidence for fast outflows, in contrast with the highly ionized phase. The global CO(2-1)/CO(1-0) ratio is low (R21 ~ 0.3), consistent with subthermal excitation. The millimeter continuum peaks at the SSC, while CO emission is displaced toward obscured regions, suggesting it traces dense shielded clumps. ALMA recovers about half of the single-dish flux, indicating the presence of extended, low-surface-brightness molecular gas. Using a metallicity-dependent CO-to-H2 conversion factor, we infer a molecular gas mass of a few 10^7 solar masses. The molecular gas is only weakly coupled to the stellar feedback that dominates the ionized phase. Our results support a multiphase scenario in which dense molecular clumps survive in shielded regions, while CO is photodissociated in their envelopes, leaving a significant CO-dark H2 component (Abridged).",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-22T00:54:21Z",
-      "arxiv:comment": "12+2 pages, 9 figures, and 5 tables. Submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "R. Slater"
-        },
-        {
-          "name": "R. Amorín"
-        },
-        {
-          "name": "J. A. Fernández-Ontiveros"
-        },
-        {
-          "name": "F. J. Sáez-Ruiz"
-        },
-        {
-          "name": "M. S. Oey"
-        },
-        {
-          "name": "B. L. James"
-        },
-        {
-          "name": "M. Mingozzi"
-        },
-        {
-          "name": "M. Llerena"
-        },
-        {
-          "name": "M. G. del Valle-Espinosa"
-        },
-        {
-          "name": "K. Harrington"
-        },
-        {
-          "name": "N. Kumari"
-        },
-        {
-          "name": "R. Sánchez-Janssen"
-        },
-        {
-          "name": "J. M. Vílchez"
-        }
-      ],
-      "score": 1.0
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2604.19992v1",
@@ -469,55 +338,6 @@
         },
         {
           "name": "Andrés E. Piatti"
-        }
-      ],
-      "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.19075v1",
-      "title": "What is Powering the Enigmatic He II Emitter Hebe: The First Stars or Black Holes?",
-      "updated": "2026-04-21T04:35:24Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.19075v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.19075v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Recent high-resolution spectroscopy with the James Webb Space Telescope (JWST) has confirmed the presence of a strong He II, $\\lambda1640$ emitting clump in the vicinity of GN-z11, with only upper limits on its metallicity. To explain the peculiar properties of this source, now termed Hebe, a cluster of metal-free, Population III (Pop III) stars has been invoked. A less likely source for the hard UV ionizing radiation could be an accreting supermassive black hole (SMBH) embedded inside Hebe. We here provide further constraints on what could power the observed emission lines in Hebe. Comparing with cosmological simulations of Pop III star cluster formation, we assess the maximum Pop III stellar mass that could plausibly form at the location of Hebe, finding stellar masses of a few $10^5\\,M_{\\odot}$, consistent with those inferred from the observations. Modeling the continuum spectral energy distribution arising from an accreting SMBH, we derive He II and H I ionizing rates and the resulting recombination line luminosities, roughly in line with the observations. We thus confirm the interpretation of Hebe as a remarkable, primordial object, with the most plausible power source provided by a massive cluster of Pop III stars, at the limit of what is allowed within the standard model of first star formation.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-21T04:35:24Z",
-      "arxiv:comment": "9 pages, 4 figures. Submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Junehyoung Jeon"
-        },
-        {
-          "name": "Tae Bong Jeong"
-        },
-        {
-          "name": "Saiyang Zhang"
-        },
-        {
-          "name": "Volker Bromm"
         }
       ],
       "score": 1.0
@@ -577,7 +397,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 7.0
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -634,95 +454,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 10.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.16093v1",
-      "title": "JWST and Keck observations of the off-nuclear tidal disruption event TDE 2025abcr: An evolving reprocessing layer",
-      "updated": "2026-04-17T14:22:47Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.16093v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.16093v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Off-nuclear tidal disruption events (TDEs) provide a rare probe of massive black holes (MBHs) outside galactic nuclei. Only a handful are known, including five X-ray-selected candidates and two optically selected events. We present observations of TDE 2025abcr, the second optically selected off-nuclear TDE, discovered at a projected offset of $9.08 \\pm 0.02$ kpc from the nucleus of its host galaxy. We analyze X-ray, UV, optical, and infrared (IR) data from Swift, Keck, ZTF, and JWST. Broad H and He emission lines in the optical and IR confirm a TDE-H-He classification. From luminosity scaling relations and MOSFiT modeling, we infer a BH mass of $10^{6}$-$10^{7}\\,M_{\\odot}$, substantially smaller than the $10^{8.35 \\pm 0.41}\\,M_{\\odot}$ BH inferred for the host-galaxy nucleus. We observe velocity evolution in the N III + He II emission complex, shifting from $-500$ km s$^{-1}$ at day $-7$ to $+1000$ km s$^{-1}$ by day $+29$, which we interpret as radiative transfer effects in an evolving reprocessing layer. The IR SED deviates from a thermal blackbody, with $νL_ν \\propto λ^{-2.13 \\pm 0.04}$, significantly shallower than the Rayleigh-Jeans slope of $λ^{-3}$. We rule out dust as the source of this IR excess. Two possibilities remain: free-free emission from reprocessing gas, or an unresolved stellar cluster at the TDE location. Reprocessed emission provides a natural explanation for the IR excess but an underlying stellar cluster of mass $\\log(M_{*}/M_{\\odot}) = 7.57 \\pm 0.02$ and age $<$2 Gyr is also consistent with the data. If interpreted as a stellar cluster, the inferred mass suggests a stripped remnant of a satellite galaxy. The wandering MBH most likely originated in a minor merger with a smaller galaxy, although dynamical ejection from the host nucleus cannot yet be ruled out.",
-      "category": [
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-17T14:22:47Z",
-      "arxiv:comment": "23 pages, 16 figures; comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.HE"
-      },
-      "author": [
-        {
-          "name": "Kishore C. Patra"
-        },
-        {
-          "name": "Emily R. Liepold"
-        },
-        {
-          "name": "Nicholas Earl"
-        },
-        {
-          "name": "Ryan J. Foley"
-        },
-        {
-          "name": "Chung-Pei Ma"
-        },
-        {
-          "name": "Sebastian Gomez"
-        },
-        {
-          "name": "Kyle W. Davis"
-        },
-        {
-          "name": "Enrico Ramirez-Ruiz"
-        },
-        {
-          "name": "K. Decker French"
-        },
-        {
-          "name": "Jonelle L. Walsh"
-        },
-        {
-          "name": "Ravjit Kaur"
-        },
-        {
-          "name": "Kirsty Taggart"
-        },
-        {
-          "name": "Joshua Candanoza"
-        },
-        {
-          "name": "V. Ashley Villar"
-        },
-        {
-          "name": "Prasiddha Arunachalam"
-        },
-        {
-          "name": "Phillip Macias"
-        },
-        {
-          "name": "Samaporn Tinyanont"
-        }
-      ],
-      "score": 1.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -780,7 +512,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 11.0
+      "score": 7.75
     },
     {
       "id": "http://arxiv.org/abs/2604.13655v1",
@@ -826,138 +558,7 @@
           "name": "M. Rakotomanga"
         }
       ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.12494v1",
-      "title": "Multiwavelength Study of Blue Straggler Stars in Tombaugh 2: Evidence for Binary Mass Transfer and Constraints on Cluster Dynamical State",
-      "updated": "2026-04-14T09:19:08Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.12494v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.12494v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a focused multiwavelength study of blue straggler stars (BSSs) in the intermediate-age open cluster Tombaugh 2, located in the outer Galactic disk, to constrain the dominant formation pathways of BSSs in a low-density environment. Cluster members are identified using Gaia DR3 astrometry through a Gaussian Mixture Model, yielding a clean sample of high-probability members. Color-magnitude diagram analysis indicates an age of 1.74 Gyr. The radial surface density profile is well described by a King model, indicating a centrally concentrated overall structure, while the cluster exhibits only weak or no clear evidence of mass segregation among its stellar populations. We identify 26 BSS candidates and 2 YSS candidates. Spectral energy distributions constructed from ultraviolet, optical, and infrared photometry reveal that 9 BSSs (32%) exhibit significant ultraviolet excess, indicating an additional hot component. Binary SED decomposition identifies stripped companions with effective temperatures Teff $\\sim$ (1.5-8) $\\times$ 10$^4$ K and radii R $\\sim$ 0.04-0.28 R_$\\odot$, consistent with proto-white dwarfs, extremely low-mass pre-helium white dwarfs, and young hot remnants formed through recent mass transfer. A slight central concentration of BSSs, together with stripped companions, suggests that binary mass transfer is an important formation channel, with no evidence for merger-driven formation. Multi-epoch VLT/FLAMES spectroscopy reveals radial-velocity variability in several systems, providing independent evidence for binarity. Our results highlight that optical-infrared photometric analyses alone may fail to detect hot compact companions, while spectroscopy and ultraviolet observations provide complementary constraints, with ultraviolet data offering a direct probe of such companions in intermediate-age open clusters.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-14T09:19:08Z",
-      "arxiv:comment": "22 pages, 10 figures, 7 tables; Accepted for publication in The Astrophysical Journal",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "D. Bisht"
-        },
-        {
-          "name": "Ing-Guey Jiang"
-        },
-        {
-          "name": "K. Belwal"
-        },
-        {
-          "name": "D. C. Cınar"
-        },
-        {
-          "name": "Arvind K. Dattatrey"
-        },
-        {
-          "name": "Geeta Rangwal"
-        },
-        {
-          "name": "A. Raj"
-        },
-        {
-          "name": "Shraddha Biswas"
-        },
-        {
-          "name": "Mohit Singh Bisht"
-        },
-        {
-          "name": "Alok Durgapal"
-        }
-      ],
-      "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.11988v1",
-      "title": "OB runaway stars originating in the Vel OB1 association",
-      "updated": "2026-04-13T19:28:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.11988v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.11988v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1051/0004-6361/202659021",
-          "@title": "doi"
-        }
-      ],
-      "summary": "OB runaway stars are massive stars moving through interstellar space at high velocities (up to 200 km/s), produced by dynamical ejections in young massive clusters or supernova explosions in massive binaries. They can travel several hundred parsec before exploding as supernovae, affecting the dynamical and chemical evolution of the Galaxy. The Vel OB1 association, one of the largest OB associations, hosts about 20 O-type and more than 50 B-type stars. We aimed to identify OB runaways in this region, quantify their number, identify their parent clusters, and understand their production channels and impact on the surrounding medium. Using Gaia DR3 coordinates, parallaxes, and proper motions, we identified OB runaways by measuring their peculiar velocity. We inspected infrared WISE images to identify wind bow shocks and reconstructed runaway trajectories to locate parent clusters and estimate travel times. We identified six young stellar clusters hosting most of the massive-star population in Vel OB1 (distance 1.6-2.1 kpc; age 1-10 Myr) and derived a threshold velocity of 15 km/s to classify runaways. We identified 25 OB runaways (including HMXB VelaX-1) and one F-type runaway. We detected 16 arc-like features, six associated with runaways selected by peculiar velocity, and ten bow shocks aligned with runaway proper motions. Parent clusters are identified for seven runaways, most likely ejected dynamically. The runaway fraction is about 30%. Wind bow shocks from OB runaways reveal valuable information on local ISM conditions.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-13T19:28:46Z",
-      "arxiv:comment": "22 pages, 16 figures, 5 tables",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "N. Azatyan"
-        },
-        {
-          "name": "L. Kaper"
-        },
-        {
-          "name": "A. Samsonyan"
-        },
-        {
-          "name": "M. Stoop"
-        },
-        {
-          "name": "D. Andreasyan"
-        },
-        {
-          "name": "J. van den Eijnden"
-        },
-        {
-          "name": "E. Nikoghosyan"
-        }
-      ],
-      "arxiv:doi": "10.1051/0004-6361/202659021",
-      "score": 0.5
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -1042,7 +643,7 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 7.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2604.11765v1",
@@ -1100,7 +701,7 @@
           "name": "A. Bragaglia"
         }
       ],
-      "score": 4.5
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
@@ -1170,7 +771,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 6.0
+      "score": 1.75
     },
     {
       "id": "http://arxiv.org/abs/2604.10119v1",
@@ -1208,56 +809,7 @@
       "author": {
         "name": "Olof Nebrin"
       },
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.09856v1",
-      "title": "Kozai-driven mass loss of the circumbinary disk in D9 in orbit around the supermassive black hole Sgr A*",
-      "updated": "2026-04-10T19:35:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.09856v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.09856v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The supermassive black hole (Sgr A*) in the Galactic center is surrounded by the S-star cluster consisting of young stars on eccentric orbits. Recently, the S-star binary, called D9, was found to be orbited by a circumbinary disk. Due to the gravitational interaction between Sgr A* and the binary, the disk could be short-lived. We investigate the evolution of the disk around a stellar binary while orbiting Sgr A*. We use the \\texttt{AMUSE} framework for coupling a gravity solver (for the binary and Sgr. A*) with a hydrodynamics solver (for the disk). We find that, the disk eventually settles between 5.2$a_{\\rm in}$ and 0.28 Hill radii of the binary. Here, $a_{\\rm in}$ is the semi-major axis of D9. The inclination of the circumbinary disk follows the binary's, which evolves due to the von Zeipel-Lidov-Kozai (vZLK) mechanism induced by Sgr A*. The mean eccentricity of the disk is approximately in anti-phase with the eccentricity evolution of the binary. We find a vZLK timescale of $T_\\text{vZLK}\\approx62.5\\,$kyr, which is two orders of magnitude shorter than the value reported by Peisker etal. (2024). As a consequence, D9 has undergone multiple vZLK oscillations in its lifetime of 2.7 Myr. We find the disk shows periodic bursts of mass loss on the vZLK timescale, suggesting that the mass loss itself is in part driven by the vZLK mechanism. The secular evolution observed in both the binary and the disk are consistent with theoretical predictions. We find the disk loses $\\sim$7\\% $\\pm$ 2\\% of its mass every vZLK cycle. If we extrapolate this mass loss, the disk will have 1\\% of its current mass left after another $\\sim$4 Myr. D9 will then be $\\sim$6.7 Myr old, which is on the same order as the current average age of S cluster members. The vZLK-driven mass loss could, therefore, explain the absence of Br$γ$ emission from other S cluster members.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-10T19:35:46Z",
-      "arxiv:comment": "submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Yannick Badoux"
-        },
-        {
-          "name": "Lucas Pouw"
-        },
-        {
-          "name": "Tim van der Vuurst"
-        },
-        {
-          "name": "Simon Portegies Zwart"
-        }
-      ],
-      "score": 1.0
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.08348v1",
@@ -1300,162 +852,7 @@
           "name": "Roberto Butrón"
         }
       ],
-      "score": 9.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.07571v1",
-      "title": "Two young open clusters in Cygnus and their vicinity: combining multicolor photometry with Gaia DR3 astrometry",
-      "updated": "2026-04-08T20:15:35Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.07571v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.07571v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate two neighboring clusters in the Cygnus complex, Berkeley 86 and Berkeley 87, with a primary emphasis on the evaluation of extinction in the field of view towards and across the clusters. We also analyze their kinematic behavior in space and time to discern their possible common origin and relation to the Cyg~OB1 association.\n  New CCD photometry in the Vilnius seven-color system, obtained down to V=19.0 mag in the fields of these two clusters, is used to classify stars in terms of spectral and luminosity classes and to determine the individual values of interstellar extinction. The probable cluster members are identified in a 5-parameter space based on Gaia DR3. The cluster ages and stellar masses are derived through the use of the HR diagrams. To obtain the 3D kinematics of the clusters and trace their orbits back in time, we combine the Gaia-based proper-motions and distances with radial velocities from the literature.\n  The estimated cluster properties show that both clusters are almost equidistant (1.7 kpc) and nearly coeval, with average ages of 6.1$\\pm$0.5 and 6.5$\\pm$0.4 Myr, respectively, and age dispersion of 3 Myr. The nonuniformity of extinction is evident within each cluster, especially pronounced across the face of Berkeley 86 where the most-massive stars show substantial substructure. By extrapolating the observed mass function to a minimum stellar mass, we obtain cluster masses of 519 M(Sun) and 1551 M(Sun) for Berkeley 86 and 87, respectively. Although both clusters share very similar properties, their orbital paths show no indication that they had a common birthplace, however Berkeley 87 and its neighbor NGC 6913 are very likely to have been born in pair.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-08T20:15:35Z",
-      "arxiv:comment": "19 pages, 14 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "S. Raudeliūnas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "R. P. Boyle",
-          "arxiv:affiliation": "Vatican Observatory Research Group, Steward Observatory"
-        },
-        {
-          "name": "R. Janusz",
-          "arxiv:affiliation": "Vatican Observatory"
-        },
-        {
-          "name": "J. Zdanavičius",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "M. Maskoliūnas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "D. Semionov",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "K. Černis",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "V. Čepas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "A. Kazlauskas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        }
-      ],
-      "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.07431v1",
-      "title": "Detection and Evolution of Linear Polarization of the Galactic Center Transient MAXI J1744-294",
-      "updated": "2026-04-08T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.07431v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.07431v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "MAXI J1744$-$294, likely a low-mass X-ray binary system, is a Galactic-center transient source, detected at radio and X-ray wavelengths, located approximately $19''$ southeast of Sgr A*. We report the first detection of its variable linear polarization in four epochs spanning 2025 Apr 04--09. The normalized 33 and 43 GHz Stokes parameters $q$ and $u$ over the four epochs imply a common Faraday rotation screen with a rotation measure RM $=-63\\,606^{+844}_{-861}$ radians m$^{-2}$, the third largest RM detected within the Galaxy. The RM is consistent with that of the Galactic center magnetar PSR J1745$-$2900, giving the first direct evidence that MAXI J1744 lies within the Galactic center region, is bound to Sgr A*, and therefore, is part of the nuclear star cluster. The uniformity in the Galactic center Faraday screen suggests that Sgr A*'s $\\approx-10^5$ rad m$^{-2}$ RM is intrinsic rather than originating from an unrelated line-of-sight source. On 2025 Apr 06, we detected a secondary polarized component with an additional RM $\\approx-6000$ rad m$^{-2}$, which was not seen at any other epoch. Assuming this secondary component primarily cools by synchrotron radiation, the implied local magnetic field strength is $\\sim$15--30 gauss. In the context of a jetted X-ray binary progenitor, the additional RM screen and magnetic field strength are explainable with a short-lived knot in a putative jet.",
-      "category": [
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-08T18:00:00Z",
-      "arxiv:comment": "15 pages, 6 figures, 4 tables, accepted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.HE"
-      },
-      "author": [
-        {
-          "name": "Joseph M. Michail"
-        },
-        {
-          "name": "Sebastiano D. von Fellenberg"
-        },
-        {
-          "name": "Mayura Balakrishnan"
-        },
-        {
-          "name": "Geoffrey C. Bower"
-        },
-        {
-          "name": "Nicole M. Ford"
-        },
-        {
-          "name": "Zach Sumners"
-        },
-        {
-          "name": "Giovanni G. Fazio"
-        },
-        {
-          "name": "Daryl Haggard"
-        },
-        {
-          "name": "Joseph L. Hora"
-        },
-        {
-          "name": "Garrett K. Keating"
-        },
-        {
-          "name": "J. D. Livingston"
-        },
-        {
-          "name": "Sera Markoff"
-        },
-        {
-          "name": "Bart Ripperda"
-        },
-        {
-          "name": "Sophia Sánchez-Maes"
-        },
-        {
-          "name": "Howard A. Smith"
-        },
-        {
-          "name": "S. P. Willner"
-        },
-        {
-          "name": "Jun-Hui Zhao"
-        }
-      ],
-      "score": 1.0
+      "score": 3.75
     },
     {
       "id": "http://arxiv.org/abs/2604.03746v1",
@@ -1503,7 +900,7 @@
           ]
         }
       ],
-      "score": 12.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2604.03142v1",
@@ -1555,321 +952,7 @@
           "name": "Conny Aerts"
         }
       ],
-      "score": 7.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.02717v1",
-      "title": "The Stellar \"Snake\"-III: Co-evolution of Stars and Molecular Clouds Unveiled by Gaia, MWISP, and LAMOST",
-      "updated": "2026-04-03T04:20:40Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.02717v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.02717v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "By combining multi-band data from Gaia DR3, MWISP CO, and LAMOST DR11 LSR/MSR, we investigate the co-evolution of stars and their parent molecular cloud in a snake-like stellar structure, named Snake III. Based on 5-D phase-space selection, we identified 5683 member stars (median age 7.6 Myr) across approximately $300 \\times 500 \\times 175$ pc$^3$ volume, along with 12 embedded open clusters. Then we use BEEP distances combined with $^{12}$CO velocities to clearly identify the molecular clouds associated with the stellar complex in spatial and kinematics. The molecular cloud density increases with Galactic longitude, with older open clusters forming in cavities near higher-density regions (except ASCC 125), while young field stars currently form preferentially in present-day high-density environments, indicating that cloud density regulates the star-formation sequence. $^{12}$CO excitation temperature, centroid velocity, velocity dispersion and H$α$ emission reveal that early feedback first compresses cloud edges to trigger new stars, then sweeps and disperses the parent clouds. The extremely young cluster (ASCC 125, 4.4 Myr) lies near the densest region yet is surrounded by a shell with bidirectional density-velocity perturbations, consistent with a delayed-triggering scenario under the combined influence of UBC 178 stellar-wind feedback and a suspected supernova blast. Our results naturally demonstrate that snake-like stellar structures are filamentary relics of hierarchical star formation within giant molecular clouds. They provide direct observational evidence that cloud density and early feedback jointly modulate the progression of star formation, offering a clear and young laboratory for studying star-cloud co-evolution.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-03T04:20:40Z",
-      "arxiv:comment": "19 pages, 14 figures, 2 tables, accepted for publication in ApJS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jia-Peng Li"
-        },
-        {
-          "name": "Hai-Jun Tian"
-        },
-        {
-          "name": "Chen Wang"
-        },
-        {
-          "name": "Xiang-Ming Yang"
-        },
-        {
-          "name": "Fan Wang"
-        }
-      ],
-      "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.01123v2",
-      "title": "First results of AMBRA: Abundant Seeds and Early Mergers as a Pathway to the First Massive Black Holes",
-      "updated": "2026-04-05T17:48:24Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.01123v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.01123v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "AMBRA combines the large cosmological volume and statistical power of ASTRID with the physically motivated gas-based black hole seeding models from BRAHMA. Motivated by JWST's discoveries of massive black holes (BHs) at $z\\gtrsim 9$, AMBRA adopts a lenient heavy-seed prescription from the BRAHMA suite, allowing for the formation of $4\\times 10^{4-5}\\ M_{\\odot}$ seeds in halos with star-forming, metal-poor gas. The seeding model is motivated by scenarios in which heavy seeds form through stellar collisions in star clusters or from the rapid growth of Population III remnants. The improved seeding model enables AMBRA to form BH seeds much earlier and more efficiently compared to ASTRID. This significantly enhances early BH growth, producing a $z=8$ BH number density more than an order of magnitude higher than that in ASTRID over the mass range $10^{5-7}\\ M_{\\odot}$. BHs reaching masses consistent with GN-z11 and CEERS-1019 typically originate in highly compact density peaks and undergo multiple early mergers. In these systems, $\\sim50\\%$ of BH masses by $z=11$ is from BH mergers, after which gas accretion becomes the dominant growth channel. Without this early merger-driven assembly, ASTRID cannot reproduce the high-mass BH detected by JWST. Our results indicate that abundant early seed formation combined with frequent mergers can explain several JWST massive BH candidates without requiring sustained super-Eddington accretion. As a testable prediction, AMBRA yields $\\approx4$ LISA detectable BH merger events per year at $z\\geq8$, which is three orders of magnitude higher than that in ASTRID.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-01T16:47:19Z",
-      "arxiv:comment": "22 pages, 13 figures, submitted to ApJ. Comments are welcome!",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Yihao Zhou"
-        },
-        {
-          "name": "Aklant Kumar Bhowmick"
-        },
-        {
-          "name": "Tiziana Di Matteo"
-        },
-        {
-          "name": "Patrick LaChance"
-        },
-        {
-          "name": "Rupert Croft"
-        },
-        {
-          "name": "Laura Blecha"
-        },
-        {
-          "name": "Simeon Bird"
-        },
-        {
-          "name": "Paul Torrey"
-        },
-        {
-          "name": "Lars Hernquist"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.00126v1",
-      "title": "The Star Formation Factory revisited I. The impact of metallicity on collapsing star-forming clouds",
-      "updated": "2026-03-31T18:31:11Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.00126v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.00126v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Context. Stellar feedback regulates star formation and shapes the interstellar medium, yet its role during the collapse of molecular clouds remains uncertain over a wide range of initial conditions. Aims. We explore how stellar winds and supernovae influence star formation in collapsing gas clouds that span a broad parameter space in mass, size, and metallicity. Methods. Using a one-dimensional numerical model, we follow the evolution of feedback-driven bubbles produced by embedded clusters, incorporating time-dependent energy and mass injection, self-gravity, integrated cloud collapse, radiative cooling, shell instabilities, and triggered star formation. Our treatment of gas cooling in the hot bubble explicitly accounts for heat transfer across the bubble-shell interface. Results. We find that metallicity acts as a key regulator of feedback, comparable in importance to cloud mass and radius. In low-metallicity clouds, reduced radiative cooling is offset by weaker stellar winds, leading to prolonged star formation and higher efficiencies. Across a substantial portion of parameter space, the expanding shell undergoes a stalling phase that further enhances the star formation efficiency, an outcome that is not observed at higher metallicities. Conclusions. Our results suggest that the diverse properties of star clusters across cosmic time may arise from the metallicity-dependent interplay between stellar feedback and gas cooling.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-31T18:31:11Z",
-      "arxiv:comment": "Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "S. Jiménez"
-        },
-        {
-          "name": "D. Kománek"
-        },
-        {
-          "name": "R. Wünsch"
-        },
-        {
-          "name": "J. Palouš"
-        },
-        {
-          "name": "S. Ehlerová"
-        },
-        {
-          "name": "S. Martínez-González"
-        },
-        {
-          "name": "A. Srbljanović"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.29657v2",
-      "title": "Direct N-body simulations of rotating and extremely massive Population III star clusters",
-      "updated": "2026-04-13T14:13:26Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.29657v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.29657v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Aims. We present eight direct N-body simulations with NBODY6++GPU of extremely massive, initially rotating Population III star clusters with 1.01 x 10^5 stars.\n  Methods. Our models include primordial binaries, a continuous initial mass function, differential rotation, tidal mass loss, updated fitting formulae for extremely massive metal-poor Population III stars, and general-relativistic merger recoil kicks. We assess their impact on cluster dynamics.\n  Results. All runs form black holes below, within, and above the pair-instability gap, with multi-generation growth. Faster-rotating clusters core-collapse earlier; post-collapse clusters host a rotating, axisymmetric subsystem of intermediate-mass black holes (IMBHs) at the centre and an expanding halo of lower-mass objects. Pair-instability supernovae and compact-object formation at ~2-3 Myr sharply reduce total mass and a large fraction of the cluster's angular momentum. All Population III clusters in our simulations have the gravothermal-gravogyro catastrophe phase.\n  Conclusions. We confirm two of the hypothesized formation channels of galactic nucleus seed black holes: gravitational runaway mergers of black holes and of Population III stars, which core-collapse into IMBHs thereafter. A higher initial star cluster bulk rotation correlates with earlier core collapse and, in the event counts reported here, with more coalescences and collisions, as well as lower retained (compact) binary abundances. Initial bulk rotation is a primary control parameter of cluster evolution: faster rotation accelerates early angular-momentum transport, gravothermal collapse, mass segregation, and amplifies post-collapse expansion, which also favours the formation of a compact central IMBH subsystem.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-03-31T12:21:13Z",
-      "arxiv:comment": "20 pages, 14 figures, 5 tables, accepted for publication in A&A; revised for minor language correction",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Kai Wu"
-        },
-        {
-          "name": "Ataru Tanikawa"
-        },
-        {
-          "name": "Francesco Flammini Dotti"
-        },
-        {
-          "name": "Marcelo C. Vergara"
-        },
-        {
-          "name": "Boyuan Liu"
-        },
-        {
-          "name": "Albrecht W. H. Kamlah"
-        },
-        {
-          "name": "Manuel Arca Sedda"
-        },
-        {
-          "name": "Nadine Neumayer"
-        },
-        {
-          "name": "Rainer Spurzem"
-        }
-      ],
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.29502v2",
-      "title": "Distribution function-based modelling of discrete kinematic datasets, in application to the Milky Way nuclear star cluster",
-      "updated": "2026-04-27T09:36:55Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.29502v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.29502v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a method for constructing dynamical models of stellar systems described by distribution functions and constrained by discrete-kinematic data. We implement various improvements compared to earlier applications of this approach, demonstrating with several examples that it can deliver meaningful constraints on the mass distribution even in situations when the density profile of tracers and the selection function of the kinematic catalogue are unknown. We then apply this method to the Milky Way nuclear star cluster, using kinematic data (line-of-sight velocities and proper motions) for a few thousand stars within 10 pc from the central black hole, accounting for the contributions of the nuclear stellar disc and the Galactic bar. We measure the mass of the black hole to be 4x10^6 Msun with a 10% uncertainty, which agrees with the more precise value obtained by the GRAVITY instrument. The inferred stellar mass profile depends on the choice of kinematic data, but the total mass within 10 pc is well constrained in all models to be (2.0-2.3)x10^7 Msun. We make our models publicly available as part of the Agama software framework for galactic dynamics.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-31T09:44:14Z",
-      "arxiv:comment": "equivalent to the published version, but in authors' preferred formatting and spelling",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "arxiv:journal_ref": "ApJ, 1002, 71 (2026)",
-      "author": [
-        {
-          "name": "Eugene Vasiliev"
-        },
-        {
-          "name": "Anja Feldmeier-Krause"
-        },
-        {
-          "name": "Mattia C. Sormani"
-        }
-      ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2603.29360v1",
-      "title": "Constraining the Galactic bar and spiral pattern speeds with the Hyades tidal stream",
-      "updated": "2026-03-31T07:33:52Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2603.29360v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2603.29360v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a suite of direct $N$-body simulations of the Hyades open cluster and its tidal stream in a Milky Way potential that includes a rotating bar and spiral arms. Using the high-resolution code PETAR and an AGAMA-based multi-component Galactic model, we vary the bar and spiral pattern speeds ($Ω_b$, $Ω_s$) on a discrete grid and quantify the resulting changes in stream orientation, length, and internal density structure. We compare the simulations to Gaia EDR3 using the convergent point (CP) and compact convergent point (CCP) methods, followed by an adaptive three-dimensional nearest-neighbor matching in Cartesian space $(x,y,z)$. The Gaia candidate members exhibit a pronounced longitudinal density peak at $Y_{\\mathrm{rot}} \\approx 0.1\\,\\mathrm{kpc}$ in a stream-aligned coordinate system. Models with $Ω_s = 22.5\\,\\mathrm{km\\,s^{-1}\\,kpc^{-1}}$ and $Ω_b \\simeq 40$--$45\\,\\mathrm{km\\,s^{-1}\\,kpc^{-1}}$ best reproduce this feature, while faster-bar models fail to match the observed density structure. These models are consistent with recent constraints favoring a relatively slow Galactic bar, and they illustrate how nearby open-cluster streams can provide an independent, local constraint on non-axisymmetric Galactic dynamics.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-03-31T07:33:52Z",
-      "arxiv:comment": "15 pages, 11 figures, accepted for publication in APJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Zi-yi Zhou"
-        },
-        {
-          "name": "Long Wang"
-        },
-        {
-          "name": "Tereza Jerabkova"
-        },
-        {
-          "name": "Zhenghao He"
-        }
-      ],
-      "score": 1.5
+      "score": 0.75
     }
   ]
 }
