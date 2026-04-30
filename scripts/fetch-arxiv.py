@@ -84,6 +84,7 @@ numeric_pattern = (
 
 
 N_DAYS_BACK = 30
+SCORE_DECAY_PER_DAY = 0.25  # Points subtracted per day of article age
 FILE_NAME = "arxiv.json"
 
 
@@ -214,8 +215,15 @@ def filter_score(entries_raw):
                     score += 5
 
         if score > 0:
-            entry["score"] = score
-            new_entries.append(entry)
+            # Apply age-based decay: subtract points for each day old
+            published_date = datetime.fromisoformat(entry.get("published", "").replace("Z", "+00:00"))
+            age_days = (datetime.now(published_date.tzinfo) - published_date).days
+            score = max(0, score - (age_days * SCORE_DECAY_PER_DAY))
+            
+            # Only include if score is still positive after decay
+            if score > 0:
+                entry["score"] = score
+                new_entries.append(entry)
 
     print(f"Identified {len(new_entries)} new relevant entries after keyword scoring.")
     return new_entries
