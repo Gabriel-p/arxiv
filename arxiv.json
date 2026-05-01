@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T16:36:01.223952",
+  "fetched_at": "2026-05-01T00:58:43.579944",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.25786v1",
@@ -152,7 +152,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 5.75
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -340,7 +340,7 @@
           "name": "Andrés E. Piatti"
         }
       ],
-      "score": 1.0
+      "score": 0.75
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -643,7 +643,7 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 3.5
+      "score": 3.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11765v1",
@@ -701,7 +701,7 @@
           "name": "A. Bragaglia"
         }
       ],
-      "score": 0.5
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
