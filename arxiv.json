@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-01T12:29:46.176475",
+  "fetched_at": "2026-05-02T00:52:18.677368",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -60,7 +60,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 9.0
+      "score": 8.75
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -152,7 +152,7 @@
           "name": "Shirley Ho"
         }
       ],
-      "score": 1.0
+      "score": 0.75
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -259,7 +259,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 5.5
+      "score": 5.25
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -321,7 +321,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 4.5
+      "score": 4.25
     },
     {
       "id": "http://arxiv.org/abs/2604.22358v1",
@@ -410,7 +410,7 @@
           "name": "Anton F. Seleznev"
         }
       ],
-      "score": 3.0
+      "score": 2.75
     },
     {
       "id": "http://arxiv.org/abs/2604.19992v1",
@@ -447,7 +447,7 @@
           "name": "Andrés E. Piatti"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -704,65 +704,7 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 3.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.11765v1",
-      "title": "NGC 1647: A young open cluster with a broad main sequence observed with LAMOST",
-      "updated": "2026-04-13T17:39:10Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.11765v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.11765v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In this work we present the results of our analysis of medium-resolution LAMOST spectra of candidate members of the cluster NGC 1647 with the aim of determining the stellar parameters, activity level, lithium abundance, and to study the cluster properties. We used the code ROTFIT to determine the atmospheric parameters (Teff, logg, and [Fe/H]), radial velocity (Vr), and projected rotation velocity (vsini) for 158 cluster members. Moreover, for solar-type and cooler stars (Teff< 6500 K), we calculated the H-alpha and LiI-6708 net equivalent width by means of the subtraction of inactive photospheric templates. We determined the rotation periods for 160 stars by analyzing the available TESS photometry. We found four double-lined spectroscopic systems for which we provide the radial velocities of the two components. The Vr distribution of the cluster members peaks at -5.3 km/s with a dispersion of 1.6 km/s, while the average metallicity is [Fe/H]=-0.08$\\pm$0.08 dex, in line with previous determinations. From the fitting of the spectral energy distribution of 160 likely members we infer the existence of a differential reddening across the cluster field with an average value of $A_V$=1.1 mag. The $A_V$ values show a distinct correlation with the color offset from the lower boundary of the main sequence; conversely, this offset appears to be uncorrelated with vsini. These two findings confirm that differential reddening is the primary driver behind the observed extended Main-Sequence Turn-Off (eMSTO) in this cluster. The age of NGC 1647, obtained from the lithium abundance, is 203$\\pm$27 Myr, which is compatible with the values inferred from a gyrochronological approach and the isochrone fitting.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-13T17:39:10Z",
-      "arxiv:comment": "17 pages, 20 figures, accepted by Astronomy & Astrophysics for publication",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "A. Frasca"
-        },
-        {
-          "name": "M. Qin"
-        },
-        {
-          "name": "J. ALonso-Santiago"
-        },
-        {
-          "name": "G. Catanzaro"
-        },
-        {
-          "name": "J. N. Fu"
-        },
-        {
-          "name": "J. Y. Zhang"
-        },
-        {
-          "name": "A. Bragaglia"
-        }
-      ],
-      "score": 0.25
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
@@ -875,7 +817,7 @@
           "name": "Roberto Butrón"
         }
       ],
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2604.03746v1",
@@ -923,7 +865,7 @@
           ]
         }
       ],
-      "score": 5.5
+      "score": 5.25
     },
     {
       "id": "http://arxiv.org/abs/2604.03142v1",
@@ -975,7 +917,7 @@
           "name": "Conny Aerts"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     }
   ]
 }
