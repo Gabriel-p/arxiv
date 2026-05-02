@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T00:52:18.677368",
+  "fetched_at": "2026-05-02T12:26:06.996334",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -106,7 +106,7 @@
           "name": "Jonathan C. Tan"
         }
       ],
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2604.25786v1",
@@ -184,7 +184,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 10.0
+      "score": 9.75
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -227,7 +227,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 6.0
+      "score": 5.75
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -361,7 +361,7 @@
           "name": "Nazar R. Ikhsanov"
         }
       ],
-      "score": 2.25
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -504,7 +504,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -561,7 +561,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 6.75
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -619,7 +619,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 7.5
+      "score": 7.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -774,7 +774,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 1.5
+      "score": 1.25
     },
     {
       "id": "http://arxiv.org/abs/2604.08348v1",
