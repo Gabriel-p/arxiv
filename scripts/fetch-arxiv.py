@@ -14,78 +14,136 @@ CHUNKS = 3
 RESULTS_PER_CHUNK = 200
 WAIT_TIME = 3  # Seconds to sleep between API calls
 
-CACHE_FILE = ""  # Use in production
-# CACHE_FILE = "arxiv_cache.xml"  # For local testing
-
-KEYWORDS = [
-    {"term": "open cluster", "weight": 1.5},
-    {"term": "star cluster", "weight": 1},
-    {"term": "stellar cluster", "weight": 0.5},
-]
-# Terms to effectively nullify the score (Extragalactic/Cosmological context)
-EXCLUSION_TERMS = [
-    "galaxy cluster",
-    "cluster galaxies",
-    "cluster galaxy",
-    "cluster of galaxies",
-    "clusters of galaxies",
-    "dwarf galaxy",
-    "dwarf galaxies",
-    "radio galaxy",
-    "radio galaxies",
-    "spheroidal galaxy",
-    "spheroidal galaxies",
-    "starburst galaxy",
-    "starburst galaxies",
-    "legus galaxy",
-    "legus galaxies",
-    "red galaxy",
-    "red galaxies",
-    "galaxy survey",
-    "survey of galaxies",
-    "survey galaxies",
-    "cluster redshift",
-    "spiral galaxies",
-    "abell",
-    "m82",
-    "m51",
-    "m33",
-    "m31",
-    "ngc 1275",
-    "ngc 628",
-]
-
-# Numeric pattern refined with negative lookbehind to ignore catalog prefixes
-# This prevents "Ruprecht 147" or "NGC 2516" from triggering the "count > N" logic.
-# catalogs to exclude
-catalogs = (
-    "NGC",
-    "IC",
-    "Berkeley",
-    "Ruprecht",
-    "Trumpler",
-    "Melotte",
-    "HD",
-)
-
-# build the negative lookbehind block
-neg_lookbehinds = "".join(f"(?<!{name}\\s)" for name in catalogs)
-#
-number_pattern = r"\d{2,3}(?:,\d{3})+|\d{2,}"
-# Final pattern
-numeric_pattern = (
-    rf"{neg_lookbehinds}"
-    r"(?<!\d)"
-    rf"\b({number_pattern})\b\s+"
-    r"(?:(?:new\s+)?(?:open|star)\s+)?"
-    r"clusters?\b"
-    r"(?!\s+members\b|\s+stars\b)"
-)
-
+# CACHE_FILE = ""  # Use in production
+CACHE_FILE = "arxiv_cache.xml"  # For local testing
 
 N_DAYS_BACK = 30
 SCORE_DECAY_PER_DAY = 0.25  # Points subtracted per day of article age
 FILE_NAME = "arxiv.json"
+
+# ── Positive-signal patterns ──────────────────────────────────────────────────
+# Each entry: (compiled pattern, weight)
+# title_weight multiplier applied separately in score_keywords()
+
+_CLUSTER_PATTERNS: list[tuple[re.Pattern, float]] = [
+    # Primary OC terms
+    (re.compile(r"\bopen\s+clusters?\b", re.IGNORECASE), 2.0),
+    (re.compile(r"\bOCs?\b"), 1.5),  # case-sensitive: "OC"/"OCs" abbreviation
+    # General stellar clusters (galactic context enforced by exclusions)
+    (re.compile(r"\b(?:star|stellar)\s+clusters?\b", re.IGNORECASE), 1.0),
+    (re.compile(r"\bembedded\s+clusters?\b", re.IGNORECASE), 1.0),
+    # Cluster with galactic/age qualifiers
+    (
+        re.compile(
+            r"\b(?:young|old|ancient|intermediate[-\s]age|nearby|disk|galactic)\s+clusters?\b",
+            re.IGNORECASE,
+        ),
+        1.0,
+    ),
+    # Cluster science vocabulary
+    (
+        re.compile(
+            r"\bcluster\s+(?:catalog(?:ue)?|census|inventory|sample)\b", re.IGNORECASE
+        ),
+        1.5,
+    ),
+    (re.compile(r"\bcluster\s+(?:membership|members)\b", re.IGNORECASE), 1.0),
+    (
+        re.compile(
+            r"\bcluster\s+(?:age|distance|mass|radius|metallicity)\b", re.IGNORECASE
+        ),
+        0.8,
+    ),
+    (re.compile(r"\bnew\s+(?:open\s+)?cluster\b", re.IGNORECASE), 1.5),
+    (re.compile(r"\bcluster\s+candidates?\b", re.IGNORECASE), 1.2),
+    # Dissolution / dynamical evolution
+    (
+        re.compile(
+            r"\bcluster\s+(?:dissolution|disruption|evaporation|dispersion)\b",
+            re.IGNORECASE,
+        ),
+        1.0,
+    ),
+    (
+        re.compile(
+            r"\btidal\s+(?:tails?|streams?|radius|stripping|debris)\b", re.IGNORECASE
+        ),
+        0.8,
+    ),
+    (re.compile(r"\bcluster\s+(?:corona|halo|escapers?)\b", re.IGNORECASE), 0.8),
+    # Related stellar structures
+    (re.compile(r"\b(?:OB|stellar)\s+associations?\b", re.IGNORECASE), 0.8),
+    (re.compile(r"\bmoving\s+groups?\b", re.IGNORECASE), 0.6),
+]
+
+# ── Exclusion terms ───────────────────────────────────────────────────────────
+# HARD: checked against TITLE only — unambiguous non-OC papers
+HARD_EXCLUSIONS = [
+    "galaxy cluster",
+    "cluster of galaxies",
+    "clusters of galaxies",
+    "cluster galaxies",
+    "cluster galaxy",
+    "globular cluster",
+    "globular clusters",
+    "nuclear star cluster",
+    "super star cluster",
+    "large magellanic",
+    "small magellanic",
+    "lmc cluster",
+    "smc cluster",
+    "lmc star cluster",
+    "smc star cluster",
+    "coma cluster",
+    "virgo cluster",
+    "fornax cluster",
+    "computing cluster",
+    "data cluster",
+    "kubernetes",
+    "hadoop",
+]
+
+# SOFT: checked against full text (title + summary); each hit subtracts a penalty
+# Covers cases where the paper is likely extragalactic but could legitimately discuss OCs
+SOFT_EXCLUSION_TERMS: list[tuple[str, float]] = [
+    ("dwarf galaxy", 3.0),
+    ("dwarf galaxies", 3.0),
+    ("starburst galaxy", 3.0),
+    ("radio galaxy", 3.0),
+    ("ring galaxy", 3.0),
+    ("quiescent galaxy", 3.0),
+    ("spiral galaxies", 2.0),
+    ("galaxy survey", 2.0),
+    ("cluster redshift", 4.0),
+    (" lmc ", 3.0),
+    (" smc ", 3.0),
+    ("m31 ", 2.0),
+    ("m33 ", 2.0),
+    ("m51 ", 2.0),
+    ("m82 ", 2.0),
+    ("ngc 1275", 3.0),
+    ("ngc 628", 2.0),
+    # proto-cluster in extragalactic sense — high-z context usually evident
+    ("proto-cluster", 2.0),
+    ("abell cluster", 4.0),  # narrowed from bare "abell" to avoid author-name FP
+    ("intracluster medium", 4.0),
+    ("icm ", 2.0),  # intracluster medium abbreviation
+]
+
+# ── Numeric pattern ───────────────────────────────────────────────────────────
+# Detects large OC sample papers (e.g. "500 open clusters", "1200 clusters")
+# Negative lookbehinds prevent matching catalog identifiers like "NGC 2516"
+_CATALOGS = ("NGC", "IC", "Berkeley", "Ruprecht", "Trumpler", "Melotte", "HD")
+_neg_lookbehinds = "".join(f"(?<!{name}\\s)" for name in _CATALOGS)
+_number_pattern = r"\d{2,3}(?:,\d{3})+|\d{2,}"
+numeric_pattern = (
+    rf"{_neg_lookbehinds}"
+    r"(?<!\d)"
+    rf"\b({_number_pattern})\b\s+"
+    r"(?:(?:new\s+)?(?:open|star)\s+)?"
+    r"clusters?\b"
+    r"(?!\s+members\b|\s+stars\b)"
+)
 
 
 def main():
@@ -120,13 +178,17 @@ def fetch_arxiv():
     #
     print(f"Fetching {CHUNKS * RESULTS_PER_CHUNK} articles in {CHUNKS} chunks...")
     entries_raw = []
-    all_fetched_entries = []
     for i in range(CHUNKS):
         start_index = i * RESULTS_PER_CHUNK
         print(
             f"Requesting results {start_index} to {start_index + RESULTS_PER_CHUNK}..."
         )
-        query = f"search_query={SEARCH_QUERY}&sortBy=submittedDate&sortOrder=descending&start={start_index}&max_results={RESULTS_PER_CHUNK}"
+        query = (
+            f"search_query={SEARCH_QUERY}"
+            f"&sortBy=submittedDate&sortOrder=descending"
+            f"&start={start_index}&max_results={RESULTS_PER_CHUNK}"
+        )
+
         try:
             response = requests.get(BASE_URL + query)
             response.raise_for_status()
@@ -140,9 +202,6 @@ def fetch_arxiv():
                 batch_entries = [batch_entries]
 
             entries_raw.extend(batch_entries)
-            if CACHE_FILE != "":
-                # For caching all batches
-                all_fetched_entries.extend(batch_entries)
 
         except Exception as e:
             print(f"Error during chunk {i}: {e}")
@@ -152,19 +211,25 @@ def fetch_arxiv():
             print(f"Sleeping for {WAIT_TIME} seconds to respect API limits...")
             time.sleep(WAIT_TIME)
 
-    if CACHE_FILE != "":
-        # Save ALL entries to the cache file
-        if all_fetched_entries:
-            entries_raw = all_fetched_entries
-            # We wrap the entries in a synthetic root to maintain a valid XML-like
-            # structure in the cache
-            cache_data = {"feed": {"entry": all_fetched_entries}}
-            with open(CACHE_FILE, "w", encoding="utf-8") as f:
-                # Using xmltodict.unparse to create a single valid XML file containing
-                # all chunks
-                f.write(xmltodict.unparse(cache_data, pretty=True))
+    if CACHE_FILE:
+        # We wrap the entries in a synthetic root to maintain a valid XML-like
+        # structure in the cache
+        cache_data = {"feed": {"entry": entries_raw}}
+        with open(CACHE_FILE, "w", encoding="utf-8") as f:
+            # Using xmltodict.unparse to create a single valid XML file containing
+            # all chunks
+            f.write(xmltodict.unparse(cache_data, pretty=True))
 
     return entries_raw
+
+
+def score_keywords(title: str, summary: str, title_weight: float = 3.0) -> float:
+    """Aggregate open-cluster keyword score for a title/summary pair."""
+    score = 0.0
+    for pattern, w in _CLUSTER_PATTERNS:
+        score += len(pattern.findall(title)) * w * title_weight
+        score += len(pattern.findall(summary)) * w
+    return score
 
 
 def filter_score(entries_raw):
@@ -182,31 +247,17 @@ def filter_score(entries_raw):
         title = entry.get("title", "").lower().replace("\n", " ")
         summary = entry.get("summary", "").lower().replace("\n", " ")
 
-        # Exclusion Check: If galaxy cluster terms are present, exclude
-        if any(ex in title or ex in summary for ex in EXCLUSION_TERMS):
-            # print(title)
+        # Hard exclusions: title-only (unambiguous non-OC paper type)
+        if any(ex in title for ex in HARD_EXCLUSIONS):
             continue
 
-        score = 0.0
-        # Keyword scoring
-        for kw in KEYWORDS:
-            term = kw["term"]
-            weight = kw["weight"]
+        score = score_keywords(title, summary)
 
-            # s? allows for 0 or 1 's' at the end of the term
-            regex_pattern = rf"\b{re.escape(term)}s?\b"
-
-            title_count = len(re.findall(regex_pattern, title))
-            summary_count = len(re.findall(regex_pattern, summary))
-
-            score += (title_count * weight * 3) + (summary_count * weight)
-
-        # Numeric pattern detection (e.g., "500 open clusters")
+        # Numeric-sample boost (large cluster samples = high relevance)
         for txt in (title, summary):
             # The lookbehind ensures numbers preceded by catalog identifiers are ignored
-            matches = re.findall(numeric_pattern, txt, flags=re.IGNORECASE)
-            for match in matches:
-                count = int(match)
+            for match in re.findall(numeric_pattern, txt, flags=re.IGNORECASE):
+                count = int(match.replace(",", ""))
                 if count > 1000:
                     score += 50
                 elif count > 100:
@@ -214,16 +265,29 @@ def filter_score(entries_raw):
                 elif count > 10:
                     score += 5
 
+        if score <= 0:
+            continue
+
+        # Soft exclusions: subtract penalty for extragalactic context signals
+        full_text = title + " " + summary
+        for term, penalty in SOFT_EXCLUSION_TERMS:
+            if term in full_text:
+                score -= penalty
+
+        if score <= 0:
+            continue
+
+        # Apply age-based decay: subtract points for each day old
+        published_date = datetime.fromisoformat(
+            entry.get("published", "").replace("Z", "+00:00")
+        )
+        age_days = (datetime.now(published_date.tzinfo) - published_date).days
+        score = max(0, score - (age_days * SCORE_DECAY_PER_DAY))
+
+        # Only include if score is still positive after decay
         if score > 0:
-            # Apply age-based decay: subtract points for each day old
-            published_date = datetime.fromisoformat(entry.get("published", "").replace("Z", "+00:00"))
-            age_days = (datetime.now(published_date.tzinfo) - published_date).days
-            score = max(0, score - (age_days * SCORE_DECAY_PER_DAY))
-            
-            # Only include if score is still positive after decay
-            if score > 0:
-                entry["score"] = score
-                new_entries.append(entry)
+            entry["score"] = score
+            new_entries.append(entry)
 
     print(f"Identified {len(new_entries)} new relevant entries after keyword scoring.")
     return new_entries
@@ -239,12 +303,11 @@ def save_to_file(new_entries):
     }
 
     # Sort the resulting values
-    filtered_entries = sorted(
+    filtered = sorted(
         unique_map.values(), key=lambda x: x.get("published", ""), reverse=True
     )
 
-    # Prepare Save Data
-    if not filtered_entries:
+    if not filtered:
         entries_to_save = [
             {
                 "title": "No articles found",
@@ -256,7 +319,7 @@ def save_to_file(new_entries):
             }
         ]
     else:
-        entries_to_save = filtered_entries
+        entries_to_save = filtered
 
     fetch_timestamp = datetime.now().isoformat()
     output_data = {"fetched_at": fetch_timestamp, "entries": entries_to_save}
