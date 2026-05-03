@@ -17,6 +17,7 @@ WAIT_TIME = 3  # Seconds to sleep between API calls
 # CACHE_FILE = ""  # Use in production
 CACHE_FILE = "arxiv_cache.xml"  # For local testing
 
+MINIMUM_SCORE = 0.0
 N_DAYS_BACK = 30
 SCORE_DECAY_PER_DAY = 0.25  # Points subtracted per day of article age
 FILE_NAME = "arxiv.json"
@@ -285,7 +286,7 @@ def filter_score(entries_raw):
         score = max(0, score - (age_days * SCORE_DECAY_PER_DAY))
 
         # Only include if score is still positive after decay
-        if score > 0:
+        if score > MINIMUM_SCORE:
             entry["score"] = round(score, 2)
             new_entries.append(entry)
 
