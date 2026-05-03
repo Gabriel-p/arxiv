@@ -286,7 +286,7 @@ def filter_score(entries_raw):
 
         # Only include if score is still positive after decay
         if score > 0:
-            entry["score"] = score
+            entry["score"] = round(score, 2)
             new_entries.append(entry)
 
     print(f"Identified {len(new_entries)} new relevant entries after keyword scoring.")
