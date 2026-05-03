@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T12:25:40.856612",
+  "fetched_at": "2026-05-03T15:16:36.578333",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -60,7 +60,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 8.5
+      "score": 12.05
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -152,7 +152,7 @@
           "name": "Shirley Ho"
         }
       ],
-      "score": 0.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -184,7 +184,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 9.5
+      "score": 18.9
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -227,7 +227,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 5.5
+      "score": 8.8
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -321,7 +321,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 4.0
+      "score": 5.75
     },
     {
       "id": "http://arxiv.org/abs/2604.22358v1",
@@ -413,43 +413,6 @@
       "score": 2.5
     },
     {
-      "id": "http://arxiv.org/abs/2604.19992v1",
-      "title": "The apparent Large Magellanic Cloud star cluster age gap",
-      "updated": "2026-04-21T21:02:53Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.19992v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.19992v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In the Large Magellanic Cloud, very few clusters have been observed with ages between 4 and 11 Gyr. This phenomenon is sometimes referred to as the `LMC age gap'. We construct a model of the cluster age distribution aiming to reproduce this observation. We linked the star formation history to the cluster initial mass function via a power-law relation between maximum initial cluster mass and global star formation rate. Using a constant cluster forming efficiency of 5%, we then obtained the cluster formation history. Applying a model of cluster mass loss calibrated using N-body simulations and an observational completeness limit, we computed the observable fraction of initially formed clusters and model the cluster age distribution. For a maximum initial cluster mass below $10^5$M$_\\odot$ at a star formation rate of 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$, our model reproduced the observed lack of clusters with ages between 4 and 11 Gyr. However, our model required a maximum initial mass at 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$ of at least $2\\cdot 10^5$M$_\\odot$ in order to reproduce the population of ancient globular clusters. A linear change between maximum initial cluster mass relations from 8 to 12 Gyr reproduced the age gap satisfactorily. In our model, the age gap is a consequence of the star forming history and current observational limits. The age gap corresponds to a period of lower star formation rate, where no clusters with initial mass above approximately 2 to 5$\\cdot 10^5$M$_\\odot$ were formed. In the present day, these clusters have become so faint that only few of them have been detected. The pattern of both young, bright and old, massive clusters being more easily detectable than clusters of intermediate ages may be more general and not specific to the Large Magellanic Cloud.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-21T21:02:53Z",
-      "arxiv:comment": "7 pages, 6 figures. Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jonathan H. Klos"
-        },
-        {
-          "name": "Andrés E. Piatti"
-        }
-      ],
-      "score": 0.25
-    },
-    {
       "id": "http://arxiv.org/abs/2604.16803v1",
       "title": "W UMa-Type Contact Binaries in the Tidal Tails of Young Open Cluster COIN-Gaia 25 and Mamajek 4",
       "updated": "2026-04-18T03:23:23Z",
@@ -504,7 +467,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 3.25
+      "score": 12.649999999999999
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -561,7 +524,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 6.25
+      "score": 4.050000000000001
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -619,7 +582,120 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 7.0
+      "score": 11.2
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.13655v1",
+      "title": "Massive star clusters and clumps in the collisional ring galaxy Arp 147",
+      "updated": "2026-04-15T09:20:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.13655v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.13655v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We conduct a photometric study of star clusters (or knots) in the collisional ring galaxy (CRG) Arp 147 to trace the star formation history across its empty ring. Using HST F450W, F606W and F814W images, we find that Arp 147 hosts 211 knots and six kpc-size clumps, nearly 60 per cent of which have ages below 10 Myr, and two thirds have masses above $\\rm 10^{5}\\,M_{\\odot}$. The cluster mass function (CMF) of knots with ages between $10 - 200$ Myr deviates from a power-law and follows a Schechter function with a characteristic truncation mass of ${\\rm M}_{c} = 6.2 \\times 10^{5} \\, {\\rm M}_{\\odot}$. This shape of the CMF is more prominent for a subsample of knots in the eastern region of the ring. Over the same age interval, we derive a low rate of disruption ($δ\\sim 0.25$) from the cluster age function and a cluster formation efficiency (CFE) of $\\sim$ 3 per cent. In contrast, the CFE in the $1 - 10$ Myr age range is nearly 40 per cent. We note the lack of high-resolution UV and H$α$ observations to help break age-extinction degeneracy which affects the derived ages for dusty young clusters and old ones with low reddening. Nevertheless, this study has shown, at least to a first-order approximation, that collision-triggered starburst events happening across the CRG offer an ideal environment for a second generation of young blue knots to form in abundance. It also suggests that the drop-through collision between the two galaxies can fuel at least mild cluster disruption over time.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-15T09:20:09Z",
+      "arxiv:comment": "21 pages, accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Z. Randriamanakoto"
+        },
+        {
+          "name": "M. Rakototafika"
+        },
+        {
+          "name": "B. Mongwane"
+        },
+        {
+          "name": "P. Väisänen"
+        },
+        {
+          "name": "M. Rakotomanga"
+        }
+      ],
+      "score": 0.09999999999999964
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.12494v1",
+      "title": "Multiwavelength Study of Blue Straggler Stars in Tombaugh 2: Evidence for Binary Mass Transfer and Constraints on Cluster Dynamical State",
+      "updated": "2026-04-14T09:19:08Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.12494v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.12494v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a focused multiwavelength study of blue straggler stars (BSSs) in the intermediate-age open cluster Tombaugh 2, located in the outer Galactic disk, to constrain the dominant formation pathways of BSSs in a low-density environment. Cluster members are identified using Gaia DR3 astrometry through a Gaussian Mixture Model, yielding a clean sample of high-probability members. Color-magnitude diagram analysis indicates an age of 1.74 Gyr. The radial surface density profile is well described by a King model, indicating a centrally concentrated overall structure, while the cluster exhibits only weak or no clear evidence of mass segregation among its stellar populations. We identify 26 BSS candidates and 2 YSS candidates. Spectral energy distributions constructed from ultraviolet, optical, and infrared photometry reveal that 9 BSSs (32%) exhibit significant ultraviolet excess, indicating an additional hot component. Binary SED decomposition identifies stripped companions with effective temperatures Teff $\\sim$ (1.5-8) $\\times$ 10$^4$ K and radii R $\\sim$ 0.04-0.28 R_$\\odot$, consistent with proto-white dwarfs, extremely low-mass pre-helium white dwarfs, and young hot remnants formed through recent mass transfer. A slight central concentration of BSSs, together with stripped companions, suggests that binary mass transfer is an important formation channel, with no evidence for merger-driven formation. Multi-epoch VLT/FLAMES spectroscopy reveals radial-velocity variability in several systems, providing independent evidence for binarity. Our results highlight that optical-infrared photometric analyses alone may fail to detect hot compact companions, while spectroscopy and ultraviolet observations provide complementary constraints, with ultraviolet data offering a direct probe of such companions in intermediate-age open clusters.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-14T09:19:08Z",
+      "arxiv:comment": "22 pages, 10 figures, 7 tables; Accepted for publication in The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ing-Guey Jiang"
+        },
+        {
+          "name": "K. Belwal"
+        },
+        {
+          "name": "D. C. Cınar"
+        },
+        {
+          "name": "Arvind K. Dattatrey"
+        },
+        {
+          "name": "Geeta Rangwal"
+        },
+        {
+          "name": "A. Raj"
+        },
+        {
+          "name": "Shraddha Biswas"
+        },
+        {
+          "name": "Mohit Singh Bisht"
+        },
+        {
+          "name": "Alok Durgapal"
+        }
+      ],
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -704,7 +780,65 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 2.75
+      "score": 7.25
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11765v1",
+      "title": "NGC 1647: A young open cluster with a broad main sequence observed with LAMOST",
+      "updated": "2026-04-13T17:39:10Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11765v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11765v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In this work we present the results of our analysis of medium-resolution LAMOST spectra of candidate members of the cluster NGC 1647 with the aim of determining the stellar parameters, activity level, lithium abundance, and to study the cluster properties. We used the code ROTFIT to determine the atmospheric parameters (Teff, logg, and [Fe/H]), radial velocity (Vr), and projected rotation velocity (vsini) for 158 cluster members. Moreover, for solar-type and cooler stars (Teff< 6500 K), we calculated the H-alpha and LiI-6708 net equivalent width by means of the subtraction of inactive photospheric templates. We determined the rotation periods for 160 stars by analyzing the available TESS photometry. We found four double-lined spectroscopic systems for which we provide the radial velocities of the two components. The Vr distribution of the cluster members peaks at -5.3 km/s with a dispersion of 1.6 km/s, while the average metallicity is [Fe/H]=-0.08$\\pm$0.08 dex, in line with previous determinations. From the fitting of the spectral energy distribution of 160 likely members we infer the existence of a differential reddening across the cluster field with an average value of $A_V$=1.1 mag. The $A_V$ values show a distinct correlation with the color offset from the lower boundary of the main sequence; conversely, this offset appears to be uncorrelated with vsini. These two findings confirm that differential reddening is the primary driver behind the observed extended Main-Sequence Turn-Off (eMSTO) in this cluster. The age of NGC 1647, obtained from the lithium abundance, is 203$\\pm$27 Myr, which is compatible with the values inferred from a gyrochronological approach and the isochrone fitting.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T17:39:10Z",
+      "arxiv:comment": "17 pages, 20 figures, accepted by Astronomy & Astrophysics for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "A. Frasca"
+        },
+        {
+          "name": "M. Qin"
+        },
+        {
+          "name": "J. ALonso-Santiago"
+        },
+        {
+          "name": "G. Catanzaro"
+        },
+        {
+          "name": "J. N. Fu"
+        },
+        {
+          "name": "J. Y. Zhang"
+        },
+        {
+          "name": "A. Bragaglia"
+        }
+      ],
+      "score": 3.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
@@ -774,50 +908,117 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "id": "http://arxiv.org/abs/2604.08348v1",
-      "title": "3D kinematics of SMC star clusters: residual velocities disentangle kinematically perturbed clusters",
-      "updated": "2026-04-09T15:17:21Z",
+      "id": "http://arxiv.org/abs/2604.08422v1",
+      "title": "Expansion kinematics of young clusters. III. The kiloparsec sample",
+      "updated": "2026-04-09T16:22:53Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2604.08348v1",
+          "@href": "https://arxiv.org/abs/2604.08422v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2604.08348v1",
+          "@href": "https://arxiv.org/pdf/2604.08422v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "Understanding the kinematic behaviour of the Small Magellanic Cloud (SMC) remains a challenge addressed by many authors using diverse approaches. Over time, increasing observational evidence has accumulated for tidal perturbations induced by the Large Magellanic Cloud (LMC) on the SMC, especially in its outer regions. In this study, we adopt star clusters as kinematic tracers of the SMC. We analyse 36 clusters distributed across the galaxy's structural regions (Northern Bridge, Southern Bridge, Wing/Bridge, West Halo, Main Body and Counter-Bridge). From each cluster's proper motions, radial velocity and heliocentric distance we estimate Cartesian velocities \\((V_x,\\,V_y,\\,V_z)\\) in the SMC reference frame. We also compute the same velocity components under the assumption that the SMC behaves as a rotating disc. We then define the residual velocity \\(ΔV\\) for each cluster as the difference between the two velocities derived. Additionally, we perform a kinematic anisotropy analysis to characterise the distribution of kinetic energy across the SMC.\n  We find that increasing values of \\(ΔV\\) correlate with increasing cluster distance from the SMC center, and that \\(ΔV \\approx 60\\ \\mathrm{km\\,s^{-1}}\\) it appears to be a lower limit that separates, in kinematic terms, the areas of tidal origin from those with the best behavior.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-09T15:17:21Z",
-      "arxiv:comment": "11 pages",
+      "summary": "We combine Gaia DR3 5-parameter astrometry with calibrated radial velocities for 23 nearby (<1 kpc) young (<60 Myr) clusters, with membership lists from Cantat-Gaudin et al. (2020). We characterise the plane-of-sky structure of the clusters using Q-Parameter and Angular Dispersion Parameter (ADP) methods. We measure plane-of-sky expansion using several methods. We determine plane-of-sky orientations along which expansion is maximised. We also estimate expansion timescales and traceback ages and compare to isochronal ages. We then look for correlations between cluster properties and discuss sample-wide trends. We find that most young clusters are more smoothly structured in their centers where the rate of dynamical interactions is highest, while hierarchical structure can survive in the sparse outskirts for >10 Myr. We also find that the majority of nearby young clusters exhibit clear signatures of expansion in the plane-of-sky, which in many cases is significantly anisotropic, even at ages >30 Myr. We find evidence that older clusters tend to have directions of maximum expansion oriented closer to parallel with the Galactic plane. The high degree of spatial structure and significant expansion anisotropy imply that the majority of these young clusters have formed with significant spatial and kinematic substructure and not as dense, monolithic clusters. Kinematic ages estimated from expansion timescales and on-sky traceback are generally in good agreement with estimates inferred from stellar evolution models for clusters <10 Myr old. However, many clusters with older isochronal ages appear to have significantly younger kinematic ages. We discuss potential reasons for this discrepancy, including a prolonged embedded and/or gravitationally bound phase in the early stages of the clusters.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-09T16:22:53Z",
+      "arxiv:comment": "30 pages, 28 figures, submitted to A&A",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Denis M. F. Illesca"
+          "name": "Joseph J. Armstrong"
         },
         {
-          "name": "Andrés E. Piatti"
-        },
-        {
-          "name": "Matías Chiarpotti"
-        },
-        {
-          "name": "Roberto Butrón"
+          "name": "Jonathan C. Tan"
         }
       ],
-      "score": 3.25
+      "score": 0.25
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.07571v1",
+      "title": "Two young open clusters in Cygnus and their vicinity: combining multicolor photometry with Gaia DR3 astrometry",
+      "updated": "2026-04-08T20:15:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.07571v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.07571v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate two neighboring clusters in the Cygnus complex, Berkeley 86 and Berkeley 87, with a primary emphasis on the evaluation of extinction in the field of view towards and across the clusters. We also analyze their kinematic behavior in space and time to discern their possible common origin and relation to the Cyg~OB1 association.\n  New CCD photometry in the Vilnius seven-color system, obtained down to V=19.0 mag in the fields of these two clusters, is used to classify stars in terms of spectral and luminosity classes and to determine the individual values of interstellar extinction. The probable cluster members are identified in a 5-parameter space based on Gaia DR3. The cluster ages and stellar masses are derived through the use of the HR diagrams. To obtain the 3D kinematics of the clusters and trace their orbits back in time, we combine the Gaia-based proper-motions and distances with radial velocities from the literature.\n  The estimated cluster properties show that both clusters are almost equidistant (1.7 kpc) and nearly coeval, with average ages of 6.1$\\pm$0.5 and 6.5$\\pm$0.4 Myr, respectively, and age dispersion of 3 Myr. The nonuniformity of extinction is evident within each cluster, especially pronounced across the face of Berkeley 86 where the most-massive stars show substantial substructure. By extrapolating the observed mass function to a minimum stellar mass, we obtain cluster masses of 519 M(Sun) and 1551 M(Sun) for Berkeley 86 and 87, respectively. Although both clusters share very similar properties, their orbital paths show no indication that they had a common birthplace, however Berkeley 87 and its neighbor NGC 6913 are very likely to have been born in pair.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-08T20:15:35Z",
+      "arxiv:comment": "19 pages, 14 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "S. Raudeliūnas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "R. P. Boyle",
+          "arxiv:affiliation": "Vatican Observatory Research Group, Steward Observatory"
+        },
+        {
+          "name": "R. Janusz",
+          "arxiv:affiliation": "Vatican Observatory"
+        },
+        {
+          "name": "J. Zdanavičius",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "M. Maskoliūnas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "D. Semionov",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "K. Černis",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "V. Čepas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        },
+        {
+          "name": "A. Kazlauskas",
+          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
+        }
+      ],
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2604.03746v1",
@@ -865,7 +1066,7 @@
           ]
         }
       ],
-      "score": 5.0
+      "score": 7.550000000000001
     },
     {
       "id": "http://arxiv.org/abs/2604.03142v1",
@@ -917,7 +1118,7 @@
           "name": "Conny Aerts"
         }
       ],
-      "score": 0.25
+      "score": 6.35
     }
   ]
 }
