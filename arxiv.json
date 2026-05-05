@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T12:34:35.338056",
+  "fetched_at": "2026-05-05T13:54:41.340487",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
@@ -177,7 +177,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 11.8
+      "score": 11.55
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -302,6 +302,45 @@
         "name": "Andrès E. Piatti"
       },
       "score": 18.4
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.23118v1",
+      "title": "Hessian-based photometric substructure as an evolutionary tracer of OB cluster candidates in M31",
+      "updated": "2026-04-25T03:13:07Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.23118v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.23118v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Using \\textit{Hubble Space Telescope} images from the PHAT and PHAST surveys, we construct an updated catalogue of 747 OB cluster (OBC) candidates. We introduce a dimensionless structural metric, the trace coefficient of variation ($CV_{\\rm tr}$), derived from the Hessian matrix in four \\textit{HST} bands, to quantify the internal photometric substructure of partially resolved OBC candidates. Cross-matching with the subset of M31 clusters that have independent colour--magnitude diagram (CMD) age estimates yields 247 objects in common. We find statistically significant anti-correlations between $CV_{\\rm tr}$ and age in the UV and blue bands, suggesting a progressive smoothing of the light distribution as clusters evolve. Bootstrap resampling confirms the robustness of these trends. Forward modelling of synthetic clusters analysed with the same pipeline recovers a monotonic $CV_{\\rm tr}$--age relation under simplified but physically motivated assumptions. These results show that second-order photometric structure contains measurable evolutionary information within the CMD-calibrated regime ($\\sim10$--300~Myr).",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-25T03:13:07Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yuan Liang"
+        },
+        {
+          "name": "Chao-Wei Tsai"
+        },
+        {
+          "name": "Jingwen Wu"
+        }
+      ],
+      "score": 1.1
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -528,6 +567,43 @@
         }
       ],
       "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.19992v1",
+      "title": "The apparent Large Magellanic Cloud star cluster age gap",
+      "updated": "2026-04-21T21:02:53Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.19992v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.19992v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In the Large Magellanic Cloud, very few clusters have been observed with ages between 4 and 11 Gyr. This phenomenon is sometimes referred to as the `LMC age gap'. We construct a model of the cluster age distribution aiming to reproduce this observation. We linked the star formation history to the cluster initial mass function via a power-law relation between maximum initial cluster mass and global star formation rate. Using a constant cluster forming efficiency of 5%, we then obtained the cluster formation history. Applying a model of cluster mass loss calibrated using N-body simulations and an observational completeness limit, we computed the observable fraction of initially formed clusters and model the cluster age distribution. For a maximum initial cluster mass below $10^5$M$_\\odot$ at a star formation rate of 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$, our model reproduced the observed lack of clusters with ages between 4 and 11 Gyr. However, our model required a maximum initial mass at 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$ of at least $2\\cdot 10^5$M$_\\odot$ in order to reproduce the population of ancient globular clusters. A linear change between maximum initial cluster mass relations from 8 to 12 Gyr reproduced the age gap satisfactorily. In our model, the age gap is a consequence of the star forming history and current observational limits. The age gap corresponds to a period of lower star formation rate, where no clusters with initial mass above approximately 2 to 5$\\cdot 10^5$M$_\\odot$ were formed. In the present day, these clusters have become so faint that only few of them have been detected. The pattern of both young, bright and old, massive clusters being more easily detectable than clusters of intermediate ages may be more general and not specific to the Large Magellanic Cloud.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-21T21:02:53Z",
+      "arxiv:comment": "7 pages, 6 figures. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jonathan H. Klos"
+        },
+        {
+          "name": "Andrés E. Piatti"
+        }
+      ],
+      "score": 0.95
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
