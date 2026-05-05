@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-04T12:44:09.638484",
+  "fetched_at": "2026-05-05T00:50:30.829963",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.00687v1",
@@ -32,7 +32,7 @@
       "author": {
         "name": "Vadim V. Bobylev"
       },
-      "score": 0.3
+      "score": 0.05
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -93,7 +93,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 12.05
+      "score": 11.8
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -185,7 +185,7 @@
           "name": "Shirley Ho"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -292,7 +292,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 4.75
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -354,7 +354,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 5.75
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22358v1",
@@ -443,7 +443,7 @@
           "name": "Anton F. Seleznev"
         }
       ],
-      "score": 2.25
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -700,7 +700,7 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 7.0
+      "score": 6.75
     },
     {
       "id": "http://arxiv.org/abs/2604.11765v1",
@@ -758,7 +758,7 @@
           "name": "A. Bragaglia"
         }
       ],
-      "score": 3.0
+      "score": 2.75
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
@@ -895,55 +895,7 @@
           "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
         }
       ],
-      "score": 0.75
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.03746v1",
-      "title": "Investigating Extended Main-Sequence Turnoffs in Galactic Open Clusters",
-      "updated": "2026-04-04T14:22:02Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.03746v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.03746v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The extended main sequence (eMS) and extended main sequence turnoff (eMSTO) phenomena have been observed in some young and intermediate-age star clusters in the Milky Way and in the Magellanic Clouds. In this study, we conduct a survey of 53 galactic open clusters (OCs) to investigate the roles of stellar rotation, differential extinction, and cluster properties in the emergence of eMS and eMSTO. The projected rotational velocities are taken from the Gaia ESO spectroscopic survey and the Gaia DR3 line-broadening velocities. Stellar members of each OC are identified using the ML-MOC algorithm with Gaia DR3 astrometry. We divide clusters into four classes based on the color-rotation distribution, extinction, and MSTO morphology and report 14 clusters ($A_{\\rm v} \\lesssim 0.15$ mag, Class I) that exhibit split MS with fast and slow rotators populating the redder and bluer parts of MSTO. For the remaining clusters, differential extinction hampers the color-rotation distinction and also inflates MSTO width and therefore introduces a systematic offset in the MSTO-age relation. We also quantify the fraction of slow rotators among MSTO stars, finding a median value of $f_{\\rm slow\\, rot}^{v \\sin i<100} \\approx 0.41$ and the fraction reaching the spin-down limit, $f_{\\rm slow\\, rot}^{v \\sin i<30}$, is $ \\approx 0.08$. We find no statistically significant correlation between $f_{\\rm slow\\, rot}$ and either the binary fraction or cluster age.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-04T14:22:02Z",
-      "arxiv:comment": "Accepted for publication at ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Khushboo K Rao",
-          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
-        },
-        {
-          "name": "Wen-Ping Chen",
-          "arxiv:affiliation": [
-            "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan",
-            "Department of Physics, National Central University, 320317 Taoyuan, Taiwan"
-          ]
-        }
-      ],
-      "score": 7.55
+      "score": 0.5
     }
   ]
 }
