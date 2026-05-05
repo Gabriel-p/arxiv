@@ -14,8 +14,8 @@ CHUNKS = 3
 RESULTS_PER_CHUNK = 200
 WAIT_TIME = 3  # Seconds to sleep between API calls
 
-CACHE_FILE = ""  # Use in production
-# CACHE_FILE = "arxiv_cache.xml"  # For local testing
+# CACHE_FILE = ""  # Use in production
+CACHE_FILE = "arxiv_cache.xml"  # For local testing
 
 MINIMUM_SCORE = 0.0
 N_DAYS_BACK = 30
@@ -84,14 +84,14 @@ with open(_EXCLUSIONS_FILE, encoding="utf-8") as _f:
     _excl = json.load(_f)
 
 # HARD: checked against TITLE only — unambiguous non-OC papers
-HARD_EXCLUSIONS: list[str] = _excl["hard_exclusions"]
+HARD_EXCLUSIONS: list[str] = [s.lower() for s in _excl["hard_exclusions"]]
 # SOFT: checked against full text (title + summary); each hit subtracts a penalty
 # Covers cases where the paper is likely extragalactic but could legitimately discuss OCs
 SOFT_EXCLUSION_TERMS: list[tuple[str, float]] = [
-    tuple(p) for p in _excl["soft_exclusion_terms"]
+    (p[0].lower(), p[1]) for p in _excl["soft_exclusion_terms"]
 ]
 # Negative lookbehinds prevent matching catalog identifiers like "NGC 2516"
-_CATALOGS: tuple[str, ...] = tuple(_excl["catalogs"])
+_CATALOGS: tuple[str, ...] = tuple(s.lower() for s in _excl["catalogs"])
 
 
 # ── Numeric pattern ───────────────────────────────────────────────────────────

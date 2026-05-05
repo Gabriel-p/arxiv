@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T13:54:41.340487",
+  "fetched_at": "2026-05-05T11:00:10.022314",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
@@ -38,52 +38,6 @@
         }
       ],
       "score": 3.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.00993v1",
-      "title": "The complex history of NGC 1427A revealed by its star clusters and star formation history",
-      "updated": "2026-05-01T18:00:27Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.00993v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.00993v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Star-forming low-mass galaxies in the dense environments of galaxy clusters provide opportunities to study how environmental effects such as ram-pressure stripping, tidal interactions, or galaxy mergers shape a galaxy's star formation history. We combined integral-field spectroscopic observations with the Multi Unit Spectroscopic Explorer (MUSE) and available multi-band imaging of the star-forming galaxy NGC 1427A, located near the centre of the Fornax galaxy cluster, at a distance of 20 Mpc. Our aim was to trace the evolutionary history of NGC 1427A using the star formation history reconstructed from the integrated spectra and employing star clusters as surviving tracers of past star formation episodes. We fitted the spectral energy distribution of 222 star cluster candidates using archival $u,g,r$, and $i$ photometry to derive the ages and masses. For 58 clusters, we additionally incorporated their MUSE spectra in the fits and found an encouraging agreement between the photometric and spectroscopic results. The comparison of the age distribution of star clusters with star formation histories from a full spectrum fitting of the MUSE data found a reasonable agreement, with evidence for multiple episodes of star formation throughout the history of NGC 1427A. In particular, we found a population of young clusters ($\\sim$ 10 Myr) that is located along the star formation edge and within the northern object, and a population of intermediate-age clusters ($\\sim$ 100 - 300 Myr) with corresponding peaks in the star formation history of NGC 1427A. We interpret these populations in the context of the orbital evolution of NGC 1427A in the Fornax cluster and conclude that this galaxy has experienced not only ram-pressure stripping, but also tidal interactions or even a minor galaxy merger. The northern object is likely a regular component of the galaxy.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-01T18:00:27Z",
-      "arxiv:comment": "Accepted for publication in A&A, 11 pages",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Katja Fahrion"
-        },
-        {
-          "name": "Michael Hilker"
-        },
-        {
-          "name": "Avinash Chaturvedi"
-        },
-        {
-          "name": "Juan P. Carvajal"
-        },
-        {
-          "name": "Thomas H. Puzia"
-        }
-      ],
-      "score": 23.45
     },
     {
       "id": "http://arxiv.org/abs/2605.00687v1",

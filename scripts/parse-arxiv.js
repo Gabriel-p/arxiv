@@ -2,8 +2,9 @@ async function fetchPapers() {
   try {
     // Fetch latest version
     const res = await fetch("https://raw.githubusercontent.com/Gabriel-p/arxiv/refs/heads/main/arxiv.json");
-    // Fetch local version for testing
-    // const res = await fetch("arxiv_py.json");
+    // For local testing. Use:
+    // $ python3 -m http.server 8000
+    // const res = await fetch("/../arxiv.json");
     const data = await res.json();
 
     const scoreFilter = document.getElementById('score-filter');
