@@ -1,6 +1,90 @@
 {
-  "fetched_at": "2026-05-05T00:50:30.829963",
+  "fetched_at": "2026-05-05T12:34:35.338056",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.01076v1",
+      "title": "Analysis of spatial velocities of several samples of open star clusters",
+      "updated": "2026-05-01T20:17:33Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.01076v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.01076v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "An analysis of the kinematics of open star clusters (OSCs) using their characteristics from the new Hunt and Reffert catalog was conducted. Based on 4003 OSCs younger than 200 million years, the following values for the angular velocity of the Galaxy's rotation were found: $Ω_0 = 28.99\\pm0.11$ km/s/kpc, $Ω^{'}_0 = -3.909\\pm0.026$ km/s/kpc$^{2}$ and $Ω^{''}_0 = 0.5662\\pm0.018$ km/s/kpc$^{3}$, where $V_0=234.8\\pm3.0$ km/s for $R_0=8.1\\pm0.1$ kpc. It was found that periodicity in the radial velocities of OSCs is manifested in clusters younger than 600 Myr, while a wave in residual tangential velocities is observed only in the youngest ones, younger than 40 Myr. A spectral Fourier analysis of the radial velocities of three OSC samples with average ages of 18, 72, and 143 Myr was used to obtain the following values of the wavelength $λ$ and the velocity perturbation amplitude $f_R$: $λ=2.0$ kpc and $f_R=4.3$ km/s, $λ=2.2$ kpc and $f_R=8.2$ km/s, $λ=2.1$ kpc and $f_R=9.6$ km/s, respectively. A systematic change in the positions of the maxima and minima of the waves in the radial velocities of OSCs was found depending on the age of the sample. From the analysis of these shifts, the value of the absolute value of the difference $|ΔΩ|$ between the angular velocity of rotation of the spiral pattern $Ω_p$ and the rotation velocity of the Galaxy was found, $|ΔΩ|=2.0\\pm0.5_{stat}\\pm2.3_{syst}$ km/s/kpc. Based on this, an estimate of two possible values of the corotation radius was obtained: $8.6\\pm0.2$ kpc and $7.6\\pm0.2$ kpc, which indicates that the Sun is very close to the corotation.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-01T20:17:33Z",
+      "arxiv:comment": "14 pages, 5 figures and 2 tables",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "arxiv:journal_ref": "Astronomy Letters, 2025, Vol. 51, No. 11-12",
+      "author": [
+        {
+          "name": "Vadim V. Bobylev"
+        },
+        {
+          "name": "Anisa T. Bajkova"
+        }
+      ],
+      "score": 3.25
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.00993v1",
+      "title": "The complex history of NGC 1427A revealed by its star clusters and star formation history",
+      "updated": "2026-05-01T18:00:27Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.00993v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.00993v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Star-forming low-mass galaxies in the dense environments of galaxy clusters provide opportunities to study how environmental effects such as ram-pressure stripping, tidal interactions, or galaxy mergers shape a galaxy's star formation history. We combined integral-field spectroscopic observations with the Multi Unit Spectroscopic Explorer (MUSE) and available multi-band imaging of the star-forming galaxy NGC 1427A, located near the centre of the Fornax galaxy cluster, at a distance of 20 Mpc. Our aim was to trace the evolutionary history of NGC 1427A using the star formation history reconstructed from the integrated spectra and employing star clusters as surviving tracers of past star formation episodes. We fitted the spectral energy distribution of 222 star cluster candidates using archival $u,g,r$, and $i$ photometry to derive the ages and masses. For 58 clusters, we additionally incorporated their MUSE spectra in the fits and found an encouraging agreement between the photometric and spectroscopic results. The comparison of the age distribution of star clusters with star formation histories from a full spectrum fitting of the MUSE data found a reasonable agreement, with evidence for multiple episodes of star formation throughout the history of NGC 1427A. In particular, we found a population of young clusters ($\\sim$ 10 Myr) that is located along the star formation edge and within the northern object, and a population of intermediate-age clusters ($\\sim$ 100 - 300 Myr) with corresponding peaks in the star formation history of NGC 1427A. We interpret these populations in the context of the orbital evolution of NGC 1427A in the Fornax cluster and conclude that this galaxy has experienced not only ram-pressure stripping, but also tidal interactions or even a minor galaxy merger. The northern object is likely a regular component of the galaxy.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-01T18:00:27Z",
+      "arxiv:comment": "Accepted for publication in A&A, 11 pages",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Katja Fahrion"
+        },
+        {
+          "name": "Michael Hilker"
+        },
+        {
+          "name": "Avinash Chaturvedi"
+        },
+        {
+          "name": "Juan P. Carvajal"
+        },
+        {
+          "name": "Thomas H. Puzia"
+        }
+      ],
+      "score": 23.45
+    },
     {
       "id": "http://arxiv.org/abs/2605.00687v1",
       "title": "Kinematic properties of the TW Hya association",
@@ -139,7 +223,7 @@
           "name": "Jonathan C. Tan"
         }
       ],
-      "score": 3.0
+      "score": 2.75
     },
     {
       "id": "http://arxiv.org/abs/2604.25786v1",
@@ -217,7 +301,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 18.65
+      "score": 18.4
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -260,7 +344,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 8.55
+      "score": 8.3
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -394,7 +478,7 @@
           "name": "Nazar R. Ikhsanov"
         }
       ],
-      "score": 1.5
+      "score": 1.25
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -500,7 +584,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 12.4
+      "score": 12.15
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -557,7 +641,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 3.8
+      "score": 3.55
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -615,7 +699,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 10.95
+      "score": 10.7
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -828,7 +912,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 2.75
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2604.07571v1",
