@@ -1,0 +1,122 @@
+{
+  "hard_exclusions": [
+    "galaxy cluster",
+    "cluster of galaxies",
+    "clusters of galaxies",
+    "cluster galaxies",
+    "cluster galaxy",
+    "globular cluster",
+    "globular clusters",
+    "nuclear star cluster",
+    "super star cluster",
+    "coma cluster",
+    "virgo cluster",
+    "m31 ",
+    "m33 ",
+    "m51 ",
+    "m82 ",
+    "ngc 1275",
+    "ngc 1427A",
+    "ngc 628",
+    "fornax",
+    "computing cluster",
+    "data cluster",
+    "kubernetes",
+    "hadoop"
+  ],
+  "soft_exclusion_terms": [
+    [
+      "dwarf galaxy",
+      3.0
+    ],
+    [
+      "dwarf galaxies",
+      3.0
+    ],
+    [
+      "starburst galaxy",
+      3.0
+    ],
+    [
+      "radio galaxy",
+      3.0
+    ],
+    [
+      "ring galaxy",
+      3.0
+    ],
+    [
+      "quiescent galaxy",
+      3.0
+    ],
+    [
+      "spiral galaxies",
+      2.0
+    ],
+    [
+      "galaxy survey",
+      2.0
+    ],
+    [
+      "cluster redshift",
+      4.0
+    ],
+    [
+      "lmc",
+      3.0
+    ],
+    [
+      "smc",
+      3.0
+    ],
+    [
+      "large magellanic",
+      3.0
+    ],
+    [
+      "small magellanic",
+      3.0
+    ],
+    [
+      "lmc cluster",
+      3.0
+    ],
+    [
+      "smc cluster",
+      3.0
+    ],
+    [
+      "lmc star cluster",
+      3.0
+    ],
+    [
+      "smc star cluster",
+      3.0
+    ],
+    [
+      "proto-cluster",
+      2.0
+    ],
+    [
+      "abell cluster",
+      4.0
+    ],
+    [
+      "intracluster medium",
+      4.0
+    ],
+    [
+      "icm ",
+      2.0
+    ]
+  ],
+  "catalogs": [
+    "NGC",
+    "IC",
+    "Berkeley",
+    "Ruprecht",
+    "Trumpler",
+    "Melotte",
+    "HD"
+  ]
+}

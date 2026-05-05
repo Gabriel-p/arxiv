@@ -14,18 +14,19 @@ CHUNKS = 3
 RESULTS_PER_CHUNK = 200
 WAIT_TIME = 3  # Seconds to sleep between API calls
 
-# CACHE_FILE = ""  # Use in production
-CACHE_FILE = "arxiv_cache.xml"  # For local testing
+CACHE_FILE = ""  # Use in production
+# CACHE_FILE = "arxiv_cache.xml"  # For local testing
 
 MINIMUM_SCORE = 0.0
 N_DAYS_BACK = 30
-SCORE_DECAY_PER_DAY = 0.25  # Points subtracted per day of article age
+# Points subtracted per day of article age
+SCORE_DECAY_PER_DAY = 0.25
 FILE_NAME = "arxiv.json"
+# Multiplier applied separately in score_keywords()
+title_weight = 3.0
 
 # ── Positive-signal patterns ──────────────────────────────────────────────────
 # Each entry: (compiled pattern, weight)
-# title_weight multiplier applied separately in score_keywords()
-
 _CLUSTER_PATTERNS: list[tuple[re.Pattern, float]] = [
     # Primary OC terms
     (re.compile(r"\bopen\s+clusters?\b", re.IGNORECASE), 2.0),
@@ -78,63 +79,23 @@ _CLUSTER_PATTERNS: list[tuple[re.Pattern, float]] = [
 ]
 
 # ── Exclusion terms ───────────────────────────────────────────────────────────
-# HARD: checked against TITLE only — unambiguous non-OC papers
-HARD_EXCLUSIONS = [
-    "galaxy cluster",
-    "cluster of galaxies",
-    "clusters of galaxies",
-    "cluster galaxies",
-    "cluster galaxy",
-    "globular cluster",
-    "globular clusters",
-    "nuclear star cluster",
-    "super star cluster",
-    "large magellanic",
-    "small magellanic",
-    "lmc cluster",
-    "smc cluster",
-    "lmc star cluster",
-    "smc star cluster",
-    "coma cluster",
-    "virgo cluster",
-    "fornax cluster",
-    "computing cluster",
-    "data cluster",
-    "kubernetes",
-    "hadoop",
-]
+_EXCLUSIONS_FILE = os.path.join(os.path.dirname(__file__), "terms.json")
+with open(_EXCLUSIONS_FILE, encoding="utf-8") as _f:
+    _excl = json.load(_f)
 
+# HARD: checked against TITLE only — unambiguous non-OC papers
+HARD_EXCLUSIONS: list[str] = _excl["hard_exclusions"]
 # SOFT: checked against full text (title + summary); each hit subtracts a penalty
 # Covers cases where the paper is likely extragalactic but could legitimately discuss OCs
 SOFT_EXCLUSION_TERMS: list[tuple[str, float]] = [
-    ("dwarf galaxy", 3.0),
-    ("dwarf galaxies", 3.0),
-    ("starburst galaxy", 3.0),
-    ("radio galaxy", 3.0),
-    ("ring galaxy", 3.0),
-    ("quiescent galaxy", 3.0),
-    ("spiral galaxies", 2.0),
-    ("galaxy survey", 2.0),
-    ("cluster redshift", 4.0),
-    (" lmc ", 3.0),
-    (" smc ", 3.0),
-    ("m31 ", 2.0),
-    ("m33 ", 2.0),
-    ("m51 ", 2.0),
-    ("m82 ", 2.0),
-    ("ngc 1275", 3.0),
-    ("ngc 628", 2.0),
-    # proto-cluster in extragalactic sense — high-z context usually evident
-    ("proto-cluster", 2.0),
-    ("abell cluster", 4.0),  # narrowed from bare "abell" to avoid author-name FP
-    ("intracluster medium", 4.0),
-    ("icm ", 2.0),  # intracluster medium abbreviation
+    tuple(p) for p in _excl["soft_exclusion_terms"]
 ]
+# Negative lookbehinds prevent matching catalog identifiers like "NGC 2516"
+_CATALOGS: tuple[str, ...] = tuple(_excl["catalogs"])
+
 
 # ── Numeric pattern ───────────────────────────────────────────────────────────
 # Detects large OC sample papers (e.g. "500 open clusters", "1200 clusters")
-# Negative lookbehinds prevent matching catalog identifiers like "NGC 2516"
-_CATALOGS = ("NGC", "IC", "Berkeley", "Ruprecht", "Trumpler", "Melotte", "HD")
 _neg_lookbehinds = "".join(f"(?<!{name}\\s)" for name in _CATALOGS)
 _number_pattern = r"\d{2,3}(?:,\d{3})+|\d{2,}"
 numeric_pattern = (
@@ -224,7 +185,9 @@ def fetch_arxiv():
     return entries_raw
 
 
-def score_keywords(title: str, summary: str, title_weight: float = 3.0) -> float:
+def score_keywords(
+    title: str, summary: str, title_weight: float = title_weight
+) -> float:
     """Aggregate open-cluster keyword score for a title/summary pair."""
     score = 0.0
     for pattern, w in _CLUSTER_PATTERNS:
