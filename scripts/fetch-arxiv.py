@@ -13,6 +13,8 @@ SEARCH_QUERY = "cat:astro-ph.GA*"
 CHUNKS = 3
 RESULTS_PER_CHUNK = 200
 WAIT_TIME = 3  # Seconds to sleep between API calls
+MAX_RETRIES = 3  # Number of retries for failed API calls
+RETRY_WAIT = 10 * WAIT_TIME  # Wait time between retries
 
 CACHE_FILE = ""  # Use in production
 # CACHE_FILE = "arxiv_cache.xml"  # For local testing
@@ -132,12 +134,10 @@ def fetch_arxiv():
         print(f"Loading data from local cache: {CACHE_FILE}")
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
             xml_content = f.read()
-            # If using cache, we parse the single cached file
             obj = xmltodict.parse(xml_content)
             entries_raw = obj.get("feed", {}).get("entry", [])
         return entries_raw
 
-    #
     print(f"Fetching {CHUNKS * RESULTS_PER_CHUNK} articles in {CHUNKS} chunks...")
     entries_raw = []
     for i in range(CHUNKS):
@@ -151,35 +151,39 @@ def fetch_arxiv():
             f"&start={start_index}&max_results={RESULTS_PER_CHUNK}"
         )
 
-        try:
-            response = requests.get(BASE_URL + query)
-            response.raise_for_status()
-            batch_xml = response.text
+        for attempt in range(MAX_RETRIES):
+            try:
+                response = requests.get(BASE_URL + query)
+                response.raise_for_status()
+                batch_xml = response.text
 
-            # Parse this specific batch
-            batch_obj = xmltodict.parse(batch_xml)
-            batch_entries = batch_obj.get("feed", {}).get("entry", [])
+                batch_obj = xmltodict.parse(batch_xml)
+                batch_entries = batch_obj.get("feed", {}).get("entry", [])
 
-            if isinstance(batch_entries, dict):
-                batch_entries = [batch_entries]
+                if isinstance(batch_entries, dict):
+                    batch_entries = [batch_entries]
 
-            entries_raw.extend(batch_entries)
+                entries_raw.extend(batch_entries)
+                break  # success
 
-        except Exception as e:
-            print(f"Error during chunk {i}: {e}")
-            break
+            except Exception as e:
+                print(
+                    f"Error during chunk {i} (attempt {attempt + 1}/{MAX_RETRIES}): {e}"
+                )
+                if attempt < MAX_RETRIES - 1:
+                    print(f"Retrying in {RETRY_WAIT} seconds...")
+                    time.sleep(RETRY_WAIT)
+                else:
+                    print(f"Chunk {i} failed after {MAX_RETRIES} attempts. Aborting.")
+                    return entries_raw
 
         if i < CHUNKS - 1:
             print(f"Sleeping for {WAIT_TIME} seconds to respect API limits...")
             time.sleep(WAIT_TIME)
 
     if CACHE_FILE:
-        # We wrap the entries in a synthetic root to maintain a valid XML-like
-        # structure in the cache
         cache_data = {"feed": {"entry": entries_raw}}
         with open(CACHE_FILE, "w", encoding="utf-8") as f:
-            # Using xmltodict.unparse to create a single valid XML file containing
-            # all chunks
             f.write(xmltodict.unparse(cache_data, pretty=True))
 
     return entries_raw
