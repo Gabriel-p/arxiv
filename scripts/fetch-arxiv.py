@@ -14,8 +14,8 @@ CHUNKS = 3
 RESULTS_PER_CHUNK = 200
 WAIT_TIME = 3  # Seconds to sleep between API calls
 
-# CACHE_FILE = ""  # Use in production
-CACHE_FILE = "arxiv_cache.xml"  # For local testing
+CACHE_FILE = ""  # Use in production
+# CACHE_FILE = "arxiv_cache.xml"  # For local testing
 
 MINIMUM_SCORE = 0.0
 N_DAYS_BACK = 30
