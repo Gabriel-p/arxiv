@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T12:47:43.463303",
+  "fetched_at": "2026-05-07T00:54:22.932574",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
@@ -37,7 +37,7 @@
           "name": "Anisa T. Bajkova"
         }
       ],
-      "score": 3.0
+      "score": 2.75
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -98,7 +98,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 11.55
+      "score": 11.3
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -145,52 +145,6 @@
         }
       ],
       "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.25786v1",
-      "title": "Homogeneous Stellar Parameters from Heterogeneous Spectra with Deep Learning",
-      "updated": "2026-04-28T15:54:51Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.25786v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.25786v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Large-scale spectroscopic surveys have collectively observed millions of stars across the Milky Way, but each derives stellar labels using independent pipelines with distinct modelling assumptions, introducing systematic offsets that obscure signals in chemical space and hinder large-scale Galactic archaeology. We present a unified deep-learning framework that delivers atmospheric parameters, chemical abundances for 20 elements, distances, and ages -- all on a single, self-consistent scale -- for an arbitrary number of spectroscopic surveys simultaneously. Our approach uses a Transformer model that ingests spectra of arbitrary wavelength range and resolution, trained end-to-end as a single model across all surveys, eliminating the need for post-hoc recalibration. We apply this framework to spectra from APOGEE DR17, GALAH DR3, DESI DR1, and $\\textit{Gaia}$ RVS DR3, spanning resolutions from R ~ 2,000 to 28,000 and wavelengths from the optical to the near-infrared. On high-resolution APOGEE spectra the model achieves precisions of $18~$K in $\\textrm{T}_{\\rm eff}$, $0.04~$dex in $\\textrm{log}\\,\\textit{g}$, $0.015~$dex in [Fe/H], and ${<}\\,0.03~$dex across all abundances; on lower-resolution DESI spectra, typical precisions are $51~$K, $0.09~$dex, $0.04~$dex, and ${\\sim}\\,0.06~$dex, respectively. Cross-survey comparisons demonstrate that labels for the same stars observed by different surveys are consistent within model uncertainties; we further validate against external distance catalogs and open cluster metallicities and ages. The resulting homogeneous catalog enables Galactic archaeology at unprecedented scale and consistency, and the framework is readily extensible to forthcoming spectroscopic surveys such as SDSS-V, WEAVE, and 4MOST. The catalog is publicly available at https://doi.org/10.5281/zenodo.19830515.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-28T15:54:51Z",
-      "arxiv:comment": "22 pages, 14 figures, 4 tables. Submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jeff Shen"
-        },
-        {
-          "name": "Joshua S. Speagle"
-        },
-        {
-          "name": "Shirley Ho"
-        }
-      ],
-      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -336,7 +290,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 4.25
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -398,7 +352,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 5.25
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2604.22358v1",
@@ -487,7 +441,7 @@
           "name": "Anton F. Seleznev"
         }
       ],
-      "score": 1.75
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2604.19992v1",
@@ -524,7 +478,7 @@
           "name": "Andrés E. Piatti"
         }
       ],
-      "score": 0.7
+      "score": 0.45
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -781,7 +735,7 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 6.5
+      "score": 6.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11765v1",
@@ -839,7 +793,7 @@
           "name": "A. Bragaglia"
         }
       ],
-      "score": 2.5
+      "score": 2.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
@@ -910,73 +864,6 @@
         }
       ],
       "score": 2.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.07571v1",
-      "title": "Two young open clusters in Cygnus and their vicinity: combining multicolor photometry with Gaia DR3 astrometry",
-      "updated": "2026-04-08T20:15:35Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.07571v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.07571v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate two neighboring clusters in the Cygnus complex, Berkeley 86 and Berkeley 87, with a primary emphasis on the evaluation of extinction in the field of view towards and across the clusters. We also analyze their kinematic behavior in space and time to discern their possible common origin and relation to the Cyg~OB1 association.\n  New CCD photometry in the Vilnius seven-color system, obtained down to V=19.0 mag in the fields of these two clusters, is used to classify stars in terms of spectral and luminosity classes and to determine the individual values of interstellar extinction. The probable cluster members are identified in a 5-parameter space based on Gaia DR3. The cluster ages and stellar masses are derived through the use of the HR diagrams. To obtain the 3D kinematics of the clusters and trace their orbits back in time, we combine the Gaia-based proper-motions and distances with radial velocities from the literature.\n  The estimated cluster properties show that both clusters are almost equidistant (1.7 kpc) and nearly coeval, with average ages of 6.1$\\pm$0.5 and 6.5$\\pm$0.4 Myr, respectively, and age dispersion of 3 Myr. The nonuniformity of extinction is evident within each cluster, especially pronounced across the face of Berkeley 86 where the most-massive stars show substantial substructure. By extrapolating the observed mass function to a minimum stellar mass, we obtain cluster masses of 519 M(Sun) and 1551 M(Sun) for Berkeley 86 and 87, respectively. Although both clusters share very similar properties, their orbital paths show no indication that they had a common birthplace, however Berkeley 87 and its neighbor NGC 6913 are very likely to have been born in pair.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-08T20:15:35Z",
-      "arxiv:comment": "19 pages, 14 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "S. Raudeliūnas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "R. P. Boyle",
-          "arxiv:affiliation": "Vatican Observatory Research Group, Steward Observatory"
-        },
-        {
-          "name": "R. Janusz",
-          "arxiv:affiliation": "Vatican Observatory"
-        },
-        {
-          "name": "J. Zdanavičius",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "M. Maskoliūnas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "D. Semionov",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "K. Černis",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "V. Čepas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        },
-        {
-          "name": "A. Kazlauskas",
-          "arxiv:affiliation": "Astronomical Observatory of Vilnius University"
-        }
-      ],
-      "score": 0.25
     }
   ]
 }
