@@ -1,6 +1,189 @@
 {
-  "fetched_at": "2026-05-07T00:54:22.932574",
+  "fetched_at": "2026-05-07T12:48:01.474063",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.04925v1",
+      "title": "Near-infrared diagnostic diagrams of the gas ionization sources in nearby galaxies: a JWST NIRSpec view",
+      "updated": "2026-05-06T13:52:26Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.04925v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.04925v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Buried active galactic nuclei and obscured young stellar clusters pose significant challenges to traditional optical diagnostic diagrams. Therefore, developing new tools to trace the excitation sources across the spectrum is a necessary effort for the advancement of the field. Our goal is to explore the full spectral range of the JWST-NIRSpec data, searching for alternative diagnostic diagrams in the less-explored NIR, and to investigate the nature of the ionizing and heating source. We analyze the high-resolution spectra of the circum-nuclear regions of nine local (z < 0.1) U/LIRGS, investigating potential emission-line ratios to trace the excitation mechanisms acting on the line-emitting gas. We investigate these objects using the well-established [Fe ii]/PaB versus H2/Bry diagram, and attempt to correlate its classifications with other emission features across the spectrum. We then compare the empirical classifications with photo-ionization models, in order to evaluate how accurately the data can be reproduced. Finally, we compare the line width at 80% of the total flux (W80 ) of selected emission lines with the corresponding gas excitation mechanisms. We propose two line-excitation diagnostic diagrams based on [C i]/Pay and H2 1-0 O(5)/PAH 3.3 um ratio, which we found to directly correlate with the hardness of the radiation field, and therefore with the gas excitation mechanisms. In addition, the line-kinematics analysis shows that the W80 values of regions excited by star formation are on average slightly lower than those of AGN-excited regions, while shock-excited regions display distinctively higher W80 values compared to the other two groups. Our JWST-NIRSpec results reinforce previous studies showing that the H2 emission in the central regions of AGN hosts is complex and likely produced by multiple excitation mechanisms.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-06T13:52:26Z",
+      "arxiv:comment": "Accepted for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "J. H. Costa-Souza"
+        },
+        {
+          "name": "Luis Colina"
+        },
+        {
+          "name": "Rogemar A. Riffel"
+        },
+        {
+          "name": "Santiago Arribas"
+        },
+        {
+          "name": "Michele Perna"
+        },
+        {
+          "name": "Miguel Pereira Santaella"
+        },
+        {
+          "name": "Ismael García-Bernete"
+        },
+        {
+          "name": "Montserrat Villar Martín"
+        },
+        {
+          "name": "Oli L. Dors"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.04645v1",
+      "title": "The MeerKAT Massive Distant Clusters Survey: a search for diffuse radio emission in 30 massive SZ-selected clusters at $z > 1$",
+      "updated": "2026-05-06T08:46:27Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.04645v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.04645v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the results of a search for diffuse radio emission in a uniformly selected sample of 30 of the most massive Sunyaev-Zel'dovich selected galaxy clusters at $z > 1$, providing the first statistical constraints on the evolution of cluster-scale diffuse emission beyond this redshift. We also analyse the scaling relations between radio power ($P_{1.4\\,\\mathrm{GHz}}$) and cluster mass ($M_{\\rm 500c}$) in this high-redshift sample. It is well established that radio halos are primarily found in the most massive clusters, where turbulent energy from major mergers can re-accelerate relativistic electrons and amplify magnetic fields on megaparsec scales. Deep MeerKAT 1.28 GHz observations reveal diffuse radio halos in eight clusters (27$\\%$), while the remaining 21 (70$\\%$) show no emission; one additional cluster (3$\\%$) was excluded from the radio analysis due to poor data quality. The halo detection rate in this high-redshift sample is lower than at intermediate redshift, but remains higher than the $\\lesssim 10\\%$ occurrence generally predicted by theoretical models at $z \\gtrsim 1$. The detected radio halos scatter around the best-fitting $P_{1.4\\,\\mathrm{GHz}}$-$M_{\\rm 500c}^{\\rm {Unc}}$ relation derived for the MMDCS sample, whereas non-detections populate the lower envelope of the radio power-mass plane, similar to trends seen at lower redshift. No cluster-scale radio relics or mini-halos are identified. Our findings highlight MeerKAT's ability to probe non-thermal processes in the most distant clusters and the need for deeper, lower-frequency surveys to uncover faint diffuse emission and test the persistence of the $P_{1.4\\,\\mathrm{GHz}}$-$M_{\\rm 500}$ relation across cosmic time.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-06T08:46:27Z",
+      "arxiv:comment": "23 pages, 15 figures, 4 tables. Accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Dakalo G. Phuravhathu"
+        },
+        {
+          "name": "M. Hilton"
+        },
+        {
+          "name": "S. P. Sikhosana"
+        },
+        {
+          "name": "D. Y. Klutse"
+        },
+        {
+          "name": "K. Knowles"
+        },
+        {
+          "name": "J. van Marrewijk"
+        },
+        {
+          "name": "K. Moodley"
+        },
+        {
+          "name": "T. Mroczkowski"
+        },
+        {
+          "name": "N. Oozeer"
+        },
+        {
+          "name": "B. Partridge"
+        },
+        {
+          "name": "Y. C. Perrott"
+        },
+        {
+          "name": "C. Sifón"
+        },
+        {
+          "name": "U. Sureshkumar"
+        }
+      ],
+      "score": 0.55
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.04633v1",
+      "title": "A spectroscopic map of the Galactic centre: Integrated light and dynamical modelling",
+      "updated": "2026-05-06T08:27:29Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.04633v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.04633v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The centre of the Milky Way is occupied by a nuclear star cluster, which contains the supermassive black hole Sgr A*. The cluster is embedded in the larger surrounding nuclear stellar disc. These three components dominate the mass budget of the Galactic centre at different radial scales. The mass distribution of the Galactic centre has been studied extensively using observations of individual bright stars and various dynamical modelling approaches. The situation differs for external galaxies, where observations are often limited to the integrated line-of-sight kinematics. For such systems, triaxial orbit-based dynamical modelling has become a standard method to derive mass distributions and stellar orbit distributions. We aim to apply and test this method on the Galactic centre. We extract stellar line-of-sight kinematic maps of the inner ~3 pc x 66 pc region of the Galactic centre. We use the DYNAMITE code, which calculates an orbit library in a given gravitational potential and computes model kinematic maps. These maps are then compared to the observed kinematic maps, and the gravitational potential and orbit distribution of the Galactic centre are constrained. We recover the correct mass of Sgr A*, and our stellar mass distributions are in agreement with the literature, albeit with larger uncertainties. The stellar structures are at most mildly triaxial and close to oblate. The stellar orbit distribution in the inner region is dominated by dynamically warm and hot orbits. At larger scales, dynamically cold, that is, highly rotating orbits, have the largest weights. The dominance of hot and warm orbits is a consequence of short dynamical timescales in the inner Galactic centre, causing dynamical heating. The presence of cold orbits at large radii may be explained by the longer heating timescales in this region, and if the stars in the outer nuclear stellar disc are younger.[abridged]",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-06T08:27:29Z",
+      "arxiv:comment": "11 pages (+ 5 pages Appendix), 9 (+ 5) figures, accepted A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "A. Feldmeier-Krause"
+        },
+        {
+          "name": "T. I. Maindl"
+        },
+        {
+          "name": "G. van den Ven"
+        },
+        {
+          "name": "S. Thater"
+        },
+        {
+          "name": "P. Jethwa"
+        },
+        {
+          "name": "I. Breda"
+        }
+      ],
+      "score": 0.75
+    },
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
       "title": "Analysis of spatial velocities of several samples of open star clusters",
@@ -144,7 +327,7 @@
           "name": "Jonathan C. Tan"
         }
       ],
-      "score": 2.5
+      "score": 2.25
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -176,7 +359,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 18.15
+      "score": 17.9
     },
     {
       "id": "http://arxiv.org/abs/2604.23118v1",
@@ -215,7 +398,7 @@
           "name": "Jingwen Wu"
         }
       ],
-      "score": 0.85
+      "score": 0.6
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -258,7 +441,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 8.05
+      "score": 7.8
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -392,7 +575,7 @@
           "name": "Nazar R. Ikhsanov"
         }
       ],
-      "score": 1.0
+      "score": 0.75
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -535,7 +718,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 11.9
+      "score": 11.65
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -592,7 +775,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 3.3
+      "score": 3.05
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -650,7 +833,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 10.45
+      "score": 10.2
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -863,7 +1046,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 2.25
+      "score": 2.0
     }
   ]
 }
