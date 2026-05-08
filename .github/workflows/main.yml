@@ -8,6 +8,7 @@ on:
   schedule:
     # every X hours at minute 0 UTC
     - cron: '0 */12 * * *'
+
   # Allow manual triggering
   workflow_dispatch:
 
@@ -19,13 +20,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Get all branches + history so that future commits will work
+      # 1) Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2) Setup Python environment
+      # 2) Setup Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -37,26 +38,34 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 4) Run the Python script
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      # 4) Generate temporary JSON file
       - name: Run fetch-arxiv script
         run: python scripts/fetch-arxiv.py
         shell: bash
 
-      # 4.5) Check if JSON is empty (i.e., "No articles found")
+      # 5) Validate generated JSON
       - name: Validate JSON content
         id: validate-json
         run: |
-          title=$(jq -r '.title // ""' arxiv.json)
-          score=$(jq -r '.score // -1' arxiv.json)
-          if [ "$title" = "No articles found" ] && [ "$score" = "0" ]; then
+          title=$(jq -r '.title // ""' arxiv_new.json)
+          if [ "$title" = "No articles found" ]; then
             echo "valid=false" >> "$GITHUB_OUTPUT"
           else
             echo "valid=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # 5) Detect whether arxiv.json changed (only if valid)
+      # 6) Replace production JSON only if valid
+      - name: Replace arxiv.json
+        if: steps.validate-json.outputs.valid == 'true'
+        run: |
+          mv arxiv_new.json arxiv.json
+
+      # 7) Detect changes
       - name: Check for changes in data
         if: steps.validate-json.outputs.valid == 'true'
         id: check-changes
@@ -66,10 +75,10 @@ jobs:
           if git diff --cached --quiet; then
             echo "changes=false" >> "$GITHUB_OUTPUT"
           else
-            echo "changes=true"  >> "$GITHUB_OUTPUT"
+            echo "changes=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # 6) Commit & push only when JSON changed and valid
+      # 8) Commit and push only if changed
       - name: Commit and push if changes
         if: steps.validate-json.outputs.valid == 'true' && steps.check-changes.outputs.changes == 'true'
         env:
@@ -77,5 +86,11 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git commit -m "ci: update arXiv.json" arxiv.json
+          git commit -m "ci: update arxiv.json"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+
+      # 9) Cleanup temporary file if validation failed
+      - name: Cleanup invalid temporary file
+        if: steps.validate-json.outputs.valid == 'false'
+        run: |
+          rm -f arxiv_new.json

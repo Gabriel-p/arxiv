@@ -23,7 +23,7 @@ MINIMUM_SCORE = 0.0
 N_DAYS_BACK = 30
 # Points subtracted per day of article age
 SCORE_DECAY_PER_DAY = 0.25
-FILE_NAME = "arxiv.json"
+FILE_NAME = "arxiv_new.json"
 # Multiplier applied separately in score_keywords()
 title_weight = 3.0
 
