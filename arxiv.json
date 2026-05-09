@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-09T00:54:32.672977",
+  "fetched_at": "2026-05-09T12:27:56.556624",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -273,7 +273,7 @@
           "name": "U. Sureshkumar"
         }
       ],
-      "score": 0.3
+      "score": 0.05
     },
     {
       "id": "http://arxiv.org/abs/2605.04633v1",
@@ -322,7 +322,7 @@
           "name": "I. Breda"
         }
       ],
-      "score": 0.5
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
@@ -467,7 +467,7 @@
           "name": "Jonathan C. Tan"
         }
       ],
-      "score": 2.0
+      "score": 1.75
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -499,7 +499,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 17.65
+      "score": 17.4
     },
     {
       "id": "http://arxiv.org/abs/2604.23118v1",
@@ -538,7 +538,7 @@
           "name": "Jingwen Wu"
         }
       ],
-      "score": 0.35
+      "score": 0.1
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -581,7 +581,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 7.55
+      "score": 7.3
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -715,7 +715,7 @@
           "name": "Nazar R. Ikhsanov"
         }
       ],
-      "score": 0.5
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -821,7 +821,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 11.4
+      "score": 11.15
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -878,7 +878,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 2.8
+      "score": 2.55
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -936,7 +936,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 9.95
+      "score": 9.7
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -1149,7 +1149,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 1.75
+      "score": 1.5
     }
   ]
 }
