@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-08T17:10:50.167894",
+  "fetched_at": "2026-05-09T00:54:32.672977",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -87,7 +87,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 12.55
+      "score": 12.3
     },
     {
       "id": "http://arxiv.org/abs/2605.05293v1",
@@ -139,7 +139,7 @@
           "name": "Daniella Morrone"
         }
       ],
-      "score": 2.75
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2605.04925v1",
@@ -360,7 +360,7 @@
           "name": "Anisa T. Bajkova"
         }
       ],
-      "score": 2.5
+      "score": 2.25
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -613,7 +613,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -765,43 +765,6 @@
         }
       ],
       "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.19992v1",
-      "title": "The apparent Large Magellanic Cloud star cluster age gap",
-      "updated": "2026-04-21T21:02:53Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.19992v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.19992v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In the Large Magellanic Cloud, very few clusters have been observed with ages between 4 and 11 Gyr. This phenomenon is sometimes referred to as the `LMC age gap'. We construct a model of the cluster age distribution aiming to reproduce this observation. We linked the star formation history to the cluster initial mass function via a power-law relation between maximum initial cluster mass and global star formation rate. Using a constant cluster forming efficiency of 5%, we then obtained the cluster formation history. Applying a model of cluster mass loss calibrated using N-body simulations and an observational completeness limit, we computed the observable fraction of initially formed clusters and model the cluster age distribution. For a maximum initial cluster mass below $10^5$M$_\\odot$ at a star formation rate of 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$, our model reproduced the observed lack of clusters with ages between 4 and 11 Gyr. However, our model required a maximum initial mass at 1 M$_\\odot$pc$^{-2}$Gyr$^{-1}$ of at least $2\\cdot 10^5$M$_\\odot$ in order to reproduce the population of ancient globular clusters. A linear change between maximum initial cluster mass relations from 8 to 12 Gyr reproduced the age gap satisfactorily. In our model, the age gap is a consequence of the star forming history and current observational limits. The age gap corresponds to a period of lower star formation rate, where no clusters with initial mass above approximately 2 to 5$\\cdot 10^5$M$_\\odot$ were formed. In the present day, these clusters have become so faint that only few of them have been detected. The pattern of both young, bright and old, massive clusters being more easily detectable than clusters of intermediate ages may be more general and not specific to the Large Magellanic Cloud.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-21T21:02:53Z",
-      "arxiv:comment": "7 pages, 6 figures. Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jonathan H. Klos"
-        },
-        {
-          "name": "Andrés E. Piatti"
-        }
-      ],
-      "score": 0.2
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -974,6 +937,219 @@
         }
       ],
       "score": 9.95
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11955v2",
+      "title": "No country for old stars -Spectroscopic confirmation of the first intermediate-age RR Lyrae in the open cluster Trumpler 5",
+      "updated": "2026-04-20T07:51:43Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11955v2",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11955v2",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "RR Lyrae stars are widely considered tracers of ancient (greater than 10 Gyr), metal-poor stellar populations. However, recent kinematic and photometric studies suggest the existence of a metal-rich RRL sub-population associated with the thin disc and intermediate ages (approximately 2-5 Gyr), challenging canonical evolutionary models. We aim to provide the first spectroscopic confirmation of a member of this elusive population. Specifically, we target a metal-rich RRL candidate recently identified photometrically as a member of the intermediate-age open cluster Trumpler 5. We obtained high-resolution spectroscopy using PEPSI at the LBT and GHOST at Gemini-South Telescope. We measured radial velocities from multiple epochs to constrain cluster membership and derived detailed chemical abundances (Mg, Ca, Sc, Ti, Mn, Fe, Cu, Zn, Y, and Ba) to compare the RRL's composition with that of red clump stars in the cluster. The RRL's systemic velocity Vgamma = 50.57 +0.78/-0.36 km/s is in excellent agreement with the cluster mean V = 50.76 +/- 0.49 km/s. Combining RVs, proper motions, and parallax, the probability of the star being a background interloper is negligible (approximately 0.002%, better than 4 sigma). We derived a metallicity of [Fe/H] = -0.40 +/- 0.05, matching the cluster value. While most abundance ratios (Mg, Ti, Mn, Cu, and Zn) align with cluster members, the RRL exhibits significant depletion in Ca, Sc, Y, and Ba. Notably, [Sc/Fe] is under-abundant by approximately 0.6 dex relative to the cluster stars, following trends seen in field metal-rich RRLs. We provide strong constraints on the membership status between an RRL variable and an intermediate-age open cluster [...]",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T18:48:56Z",
+      "arxiv:comment": "A&A, in press. Abstract shortened",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Valentina D'Orazi"
+        },
+        {
+          "name": "Cecilia Mateu"
+        },
+        {
+          "name": "Giuliano Iorio"
+        },
+        {
+          "name": "Alexey Bobrick"
+        },
+        {
+          "name": "Zdenek Prudil"
+        },
+        {
+          "name": "Ricardo Salinas"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Lyudmila Mashonkina"
+        },
+        {
+          "name": "Raffaele Gratton"
+        },
+        {
+          "name": "Ilya Ilyn"
+        },
+        {
+          "name": "Natalia Alvarez Baena"
+        },
+        {
+          "name": "Vittorio F. Braga"
+        },
+        {
+          "name": "Antonino Nunnari"
+        },
+        {
+          "name": "Venu Kalari"
+        },
+        {
+          "name": "Felice Cusano"
+        },
+        {
+          "name": "Silvia Tosi"
+        }
+      ],
+      "score": 5.75
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11765v1",
+      "title": "NGC 1647: A young open cluster with a broad main sequence observed with LAMOST",
+      "updated": "2026-04-13T17:39:10Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11765v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11765v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In this work we present the results of our analysis of medium-resolution LAMOST spectra of candidate members of the cluster NGC 1647 with the aim of determining the stellar parameters, activity level, lithium abundance, and to study the cluster properties. We used the code ROTFIT to determine the atmospheric parameters (Teff, logg, and [Fe/H]), radial velocity (Vr), and projected rotation velocity (vsini) for 158 cluster members. Moreover, for solar-type and cooler stars (Teff< 6500 K), we calculated the H-alpha and LiI-6708 net equivalent width by means of the subtraction of inactive photospheric templates. We determined the rotation periods for 160 stars by analyzing the available TESS photometry. We found four double-lined spectroscopic systems for which we provide the radial velocities of the two components. The Vr distribution of the cluster members peaks at -5.3 km/s with a dispersion of 1.6 km/s, while the average metallicity is [Fe/H]=-0.08$\\pm$0.08 dex, in line with previous determinations. From the fitting of the spectral energy distribution of 160 likely members we infer the existence of a differential reddening across the cluster field with an average value of $A_V$=1.1 mag. The $A_V$ values show a distinct correlation with the color offset from the lower boundary of the main sequence; conversely, this offset appears to be uncorrelated with vsini. These two findings confirm that differential reddening is the primary driver behind the observed extended Main-Sequence Turn-Off (eMSTO) in this cluster. The age of NGC 1647, obtained from the lithium abundance, is 203$\\pm$27 Myr, which is compatible with the values inferred from a gyrochronological approach and the isochrone fitting.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T17:39:10Z",
+      "arxiv:comment": "17 pages, 20 figures, accepted by Astronomy & Astrophysics for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "A. Frasca"
+        },
+        {
+          "name": "M. Qin"
+        },
+        {
+          "name": "J. ALonso-Santiago"
+        },
+        {
+          "name": "G. Catanzaro"
+        },
+        {
+          "name": "J. N. Fu"
+        },
+        {
+          "name": "J. Y. Zhang"
+        },
+        {
+          "name": "A. Bragaglia"
+        }
+      ],
+      "score": 1.75
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.11291v1",
+      "title": "The high-altitude, inner-disc, and chemically peculiar open cluster UBC 1052",
+      "updated": "2026-04-13T10:55:16Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.11291v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.11291v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Out of all the discovered open clusters (OCs) that are located in the inner part of the Galaxy, only a small fraction has been observed with high-resolution spectroscopy. An intriguing population of inner-disc OCs at relatively high altitudes ($Z$) from the Galactic plane remains poorly studied. There are few reliable detections of such OCs, and their occurrence rate, dynamical origin and survival mechanism remain uncertain. We perform a detailed spectroscopic analysis of UBC 1052, located at a cylindrical galactocentric radius $R_{GC} = 6.1$ kpc and $Z = 340$ pc, which stands out as the oldest and highest-|$Z$| inner-disc OC studied at high resolution to date. We used FLAMES/VLT to acquire high signal-to-noise ratio UVES spectra of four red clump (RC) members ($G\\sim14$ mag). From them we derived high-precision radial velocities ($v_{r}$) and local thermodynamic equilibrium chemical abundances for 23 elements through a strict line-by-line differential analysis, achieving a median precision in [X/H] of $\\simeq0.06$ dex for each star. The four RC stars have fully compatible chemical abundances, with [X/H] dispersions among them <$0.03$ dex for 20 elements. We also acquired GIRAFFE spectra of other candidate members and derived their $v_{r}$. We find that UBC 1052 has an age of $2.25\\pm0.25$ Gyr, a distance of $3.11\\pm0.07$ kpc, an extinction $A_{V} =1.23$ mag, a mean radial velocity of $34.0\\pm0.6$ $km$ ${s}^{-1}$, and a slightly super-solar [Fe/H] = $0.05\\pm0.01$ dex. Such relatively low [Fe/H] at its $R_{GC}$ suggests that UBC 1052 is a rare candidate for an inward-migrated OC in the inner disc. Its detailed abundance pattern (e.g. [Ba/Zr] and [Nd/Y]) shows some interesting features that appear to be unique in the current census of OCs studied at high resolution, making it an interesting object for potential strong chemical-tagging searches for already dispersed member stars. [Abridged]",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-13T10:55:16Z",
+      "arxiv:comment": "23 pages (15 pages main text, 8 pages appendix) and 15 figures. Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Judit Donada"
+        },
+        {
+          "name": "Laia Casamiquela"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Lola Balaguer-Núñez"
+        },
+        {
+          "name": "Sergi Blanco-Cuaresma"
+        },
+        {
+          "name": "Xavier Luri"
+        },
+        {
+          "name": "Ditte Slumstrup"
+        },
+        {
+          "name": "Carme Jordi"
+        },
+        {
+          "name": "Alfred Castro-Ginard"
+        },
+        {
+          "name": "Ricardo Carrera"
+        },
+        {
+          "name": "Josep Manel Carrasco"
+        }
+      ],
+      "score": 1.75
     }
   ]
 }
