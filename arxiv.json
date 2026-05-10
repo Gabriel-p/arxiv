@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-10T00:58:42.756862",
+  "fetched_at": "2026-05-10T12:28:18.854154",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -200,131 +200,6 @@
       "score": 0.25
     },
     {
-      "id": "http://arxiv.org/abs/2605.04645v1",
-      "title": "The MeerKAT Massive Distant Clusters Survey: a search for diffuse radio emission in 30 massive SZ-selected clusters at $z > 1$",
-      "updated": "2026-05-06T08:46:27Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.04645v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.04645v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the results of a search for diffuse radio emission in a uniformly selected sample of 30 of the most massive Sunyaev-Zel'dovich selected galaxy clusters at $z > 1$, providing the first statistical constraints on the evolution of cluster-scale diffuse emission beyond this redshift. We also analyse the scaling relations between radio power ($P_{1.4\\,\\mathrm{GHz}}$) and cluster mass ($M_{\\rm 500c}$) in this high-redshift sample. It is well established that radio halos are primarily found in the most massive clusters, where turbulent energy from major mergers can re-accelerate relativistic electrons and amplify magnetic fields on megaparsec scales. Deep MeerKAT 1.28 GHz observations reveal diffuse radio halos in eight clusters (27$\\%$), while the remaining 21 (70$\\%$) show no emission; one additional cluster (3$\\%$) was excluded from the radio analysis due to poor data quality. The halo detection rate in this high-redshift sample is lower than at intermediate redshift, but remains higher than the $\\lesssim 10\\%$ occurrence generally predicted by theoretical models at $z \\gtrsim 1$. The detected radio halos scatter around the best-fitting $P_{1.4\\,\\mathrm{GHz}}$-$M_{\\rm 500c}^{\\rm {Unc}}$ relation derived for the MMDCS sample, whereas non-detections populate the lower envelope of the radio power-mass plane, similar to trends seen at lower redshift. No cluster-scale radio relics or mini-halos are identified. Our findings highlight MeerKAT's ability to probe non-thermal processes in the most distant clusters and the need for deeper, lower-frequency surveys to uncover faint diffuse emission and test the persistence of the $P_{1.4\\,\\mathrm{GHz}}$-$M_{\\rm 500}$ relation across cosmic time.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-06T08:46:27Z",
-      "arxiv:comment": "23 pages, 15 figures, 4 tables. Accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Dakalo G. Phuravhathu"
-        },
-        {
-          "name": "M. Hilton"
-        },
-        {
-          "name": "S. P. Sikhosana"
-        },
-        {
-          "name": "D. Y. Klutse"
-        },
-        {
-          "name": "K. Knowles"
-        },
-        {
-          "name": "J. van Marrewijk"
-        },
-        {
-          "name": "K. Moodley"
-        },
-        {
-          "name": "T. Mroczkowski"
-        },
-        {
-          "name": "N. Oozeer"
-        },
-        {
-          "name": "B. Partridge"
-        },
-        {
-          "name": "Y. C. Perrott"
-        },
-        {
-          "name": "C. Sifón"
-        },
-        {
-          "name": "U. Sureshkumar"
-        }
-      ],
-      "score": 0.05
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.04633v1",
-      "title": "A spectroscopic map of the Galactic centre: Integrated light and dynamical modelling",
-      "updated": "2026-05-06T08:27:29Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.04633v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.04633v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The centre of the Milky Way is occupied by a nuclear star cluster, which contains the supermassive black hole Sgr A*. The cluster is embedded in the larger surrounding nuclear stellar disc. These three components dominate the mass budget of the Galactic centre at different radial scales. The mass distribution of the Galactic centre has been studied extensively using observations of individual bright stars and various dynamical modelling approaches. The situation differs for external galaxies, where observations are often limited to the integrated line-of-sight kinematics. For such systems, triaxial orbit-based dynamical modelling has become a standard method to derive mass distributions and stellar orbit distributions. We aim to apply and test this method on the Galactic centre. We extract stellar line-of-sight kinematic maps of the inner ~3 pc x 66 pc region of the Galactic centre. We use the DYNAMITE code, which calculates an orbit library in a given gravitational potential and computes model kinematic maps. These maps are then compared to the observed kinematic maps, and the gravitational potential and orbit distribution of the Galactic centre are constrained. We recover the correct mass of Sgr A*, and our stellar mass distributions are in agreement with the literature, albeit with larger uncertainties. The stellar structures are at most mildly triaxial and close to oblate. The stellar orbit distribution in the inner region is dominated by dynamically warm and hot orbits. At larger scales, dynamically cold, that is, highly rotating orbits, have the largest weights. The dominance of hot and warm orbits is a consequence of short dynamical timescales in the inner Galactic centre, causing dynamical heating. The presence of cold orbits at large radii may be explained by the longer heating timescales in this region, and if the stars in the outer nuclear stellar disc are younger.[abridged]",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-06T08:27:29Z",
-      "arxiv:comment": "11 pages (+ 5 pages Appendix), 9 (+ 5) figures, accepted A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "A. Feldmeier-Krause"
-        },
-        {
-          "name": "T. I. Maindl"
-        },
-        {
-          "name": "G. van den Ven"
-        },
-        {
-          "name": "S. Thater"
-        },
-        {
-          "name": "P. Jethwa"
-        },
-        {
-          "name": "I. Breda"
-        }
-      ],
-      "score": 0.25
-    },
-    {
       "id": "http://arxiv.org/abs/2605.01076v1",
       "title": "Analysis of spatial velocities of several samples of open star clusters",
       "updated": "2026-05-01T20:17:33Z",
@@ -467,7 +342,7 @@
           "name": "Jonathan C. Tan"
         }
       ],
-      "score": 1.75
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -499,46 +374,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 17.4
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.23118v1",
-      "title": "Hessian-based photometric substructure as an evolutionary tracer of OB cluster candidates in M31",
-      "updated": "2026-04-25T03:13:07Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.23118v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.23118v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Using \\textit{Hubble Space Telescope} images from the PHAT and PHAST surveys, we construct an updated catalogue of 747 OB cluster (OBC) candidates. We introduce a dimensionless structural metric, the trace coefficient of variation ($CV_{\\rm tr}$), derived from the Hessian matrix in four \\textit{HST} bands, to quantify the internal photometric substructure of partially resolved OBC candidates. Cross-matching with the subset of M31 clusters that have independent colour--magnitude diagram (CMD) age estimates yields 247 objects in common. We find statistically significant anti-correlations between $CV_{\\rm tr}$ and age in the UV and blue bands, suggesting a progressive smoothing of the light distribution as clusters evolve. Bootstrap resampling confirms the robustness of these trends. Forward modelling of synthetic clusters analysed with the same pipeline recovers a monotonic $CV_{\\rm tr}$--age relation under simplified but physically motivated assumptions. These results show that second-order photometric structure contains measurable evolutionary information within the CMD-calibrated regime ($\\sim10$--300~Myr).",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-25T03:13:07Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Yuan Liang"
-        },
-        {
-          "name": "Chao-Wei Tsai"
-        },
-        {
-          "name": "Jingwen Wu"
-        }
-      ],
-      "score": 0.1
+      "score": 17.15
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -581,7 +417,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 7.3
+      "score": 7.05
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -676,46 +512,6 @@
         }
       ],
       "score": 4.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.22358v1",
-      "title": "A study of the spatial evolution of the Radcliffe wave in a sample of young open star clusters",
-      "updated": "2026-04-24T08:46:17Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.22358v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.22358v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A sample of 139 young open star clusters closely associated with the Radcliffe wave is considered. Modeling their spatial distribution and kinematics over a time interval of 30 Myrs ago and 30 Myrs into the future revealed that they exhibit the main properties characteristic of a Radcliffe wave over the past 10-15 Myr. They are distributed on the galactic XY plane as a long and narrow chain inclined to the Y axis, and exhibit a wave-like behavior of their vertical coordinates up to 15 Myr in the past. This behavior of their vertical coordinates will persist over the interval of 15-20 Myr in the future. A new finding is the presence of vertical perturbations with an amplitude of deviation from the galactic symmetry plane of up to 200 pc over the entire time interval considered in the past, up to -30 Myr. This result calls into question the possibility of using a scenario in which the initial disturbance of the interstellar medium is assumed to be the Parker instability of the galactic magnetic field.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-24T08:46:17Z",
-      "arxiv:comment": "13 pages, 8 figures, accepted by the Astrophysical Bulletin",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Vadim V. Bobylev"
-        },
-        {
-          "name": "Anisa T. Bajkova"
-        },
-        {
-          "name": "Nazar R. Ikhsanov"
-        }
-      ],
-      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -821,7 +617,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 11.15
+      "score": 10.9
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -878,7 +674,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 2.55
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -936,7 +732,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 9.7
+      "score": 9.45
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -1149,7 +945,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 1.5
+      "score": 1.25
     }
   ]
 }
