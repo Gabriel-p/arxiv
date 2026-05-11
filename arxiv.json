@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-10T12:28:18.854154",
+  "fetched_at": "2026-05-11T00:58:35.819622",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -87,7 +87,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 12.05
+      "score": 11.8
     },
     {
       "id": "http://arxiv.org/abs/2605.05293v1",
@@ -139,65 +139,7 @@
           "name": "Daniella Morrone"
         }
       ],
-      "score": 2.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.04925v1",
-      "title": "Near-infrared diagnostic diagrams of the gas ionization sources in nearby galaxies: a JWST NIRSpec view",
-      "updated": "2026-05-06T13:52:26Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.04925v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.04925v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Buried active galactic nuclei and obscured young stellar clusters pose significant challenges to traditional optical diagnostic diagrams. Therefore, developing new tools to trace the excitation sources across the spectrum is a necessary effort for the advancement of the field. Our goal is to explore the full spectral range of the JWST-NIRSpec data, searching for alternative diagnostic diagrams in the less-explored NIR, and to investigate the nature of the ionizing and heating source. We analyze the high-resolution spectra of the circum-nuclear regions of nine local (z < 0.1) U/LIRGS, investigating potential emission-line ratios to trace the excitation mechanisms acting on the line-emitting gas. We investigate these objects using the well-established [Fe ii]/PaB versus H2/Bry diagram, and attempt to correlate its classifications with other emission features across the spectrum. We then compare the empirical classifications with photo-ionization models, in order to evaluate how accurately the data can be reproduced. Finally, we compare the line width at 80% of the total flux (W80 ) of selected emission lines with the corresponding gas excitation mechanisms. We propose two line-excitation diagnostic diagrams based on [C i]/Pay and H2 1-0 O(5)/PAH 3.3 um ratio, which we found to directly correlate with the hardness of the radiation field, and therefore with the gas excitation mechanisms. In addition, the line-kinematics analysis shows that the W80 values of regions excited by star formation are on average slightly lower than those of AGN-excited regions, while shock-excited regions display distinctively higher W80 values compared to the other two groups. Our JWST-NIRSpec results reinforce previous studies showing that the H2 emission in the central regions of AGN hosts is complex and likely produced by multiple excitation mechanisms.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-06T13:52:26Z",
-      "arxiv:comment": "Accepted for publication",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "J. H. Costa-Souza"
-        },
-        {
-          "name": "Luis Colina"
-        },
-        {
-          "name": "Rogemar A. Riffel"
-        },
-        {
-          "name": "Santiago Arribas"
-        },
-        {
-          "name": "Michele Perna"
-        },
-        {
-          "name": "Miguel Pereira Santaella"
-        },
-        {
-          "name": "Ismael García-Bernete"
-        },
-        {
-          "name": "Montserrat Villar Martín"
-        },
-        {
-          "name": "Oli L. Dors"
-        }
-      ],
-      "score": 0.25
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
@@ -235,7 +177,7 @@
           "name": "Anisa T. Bajkova"
         }
       ],
-      "score": 2.0
+      "score": 1.75
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -296,7 +238,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 10.55
+      "score": 10.3
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -449,7 +391,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 3.25
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -511,7 +453,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 4.25
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2604.20722v1",
@@ -560,7 +502,7 @@
           "name": "Anton F. Seleznev"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -817,7 +759,7 @@
           "name": "Silvia Tosi"
         }
       ],
-      "score": 5.5
+      "score": 5.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11765v1",
@@ -875,7 +817,7 @@
           "name": "A. Bragaglia"
         }
       ],
-      "score": 1.5
+      "score": 1.25
     },
     {
       "id": "http://arxiv.org/abs/2604.11291v1",
