@@ -1,6 +1,55 @@
 {
-  "fetched_at": "2026-05-12T00:53:26.581780",
+  "fetched_at": "2026-05-12T12:51:02.032418",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.09837v1",
+      "title": "Simulating Star Formation and Star Cluster Assembly in the Aquila Rift Using Archival Observations",
+      "updated": "2026-05-11T00:40:21Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.09837v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.09837v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We simulate star formation and star cluster assembly inside a molecular cloud with parameters we derive directly from observations of the Aquila Rift. We model the evolution of stars and gas together while resolving close encounters between stars, the formation of new stars, and stellar feedback to follow cluster formation up to the expulsion of the surrounding gas. We find that star formation takes place in clumps spaced unevenly along Serpens South and that these clumps accrete surrounding gas to grow and form new stars. Gas flows along the filament promote the merger of these clumps into a star cluster inside the Serpens South filament. The imprints of these mergers are seen in the dynamics of the Serpens South cluster in the form of velocity space anisotropies, cluster rotation, and cluster expansion. Before gas is removed from the simulation, the Serpens South cluster merges with the nearby cluster W40 non-monolithically resulting in a fractal cluster at the end of the simulation. The dynamics inherited from the mergers throughout the simulation are still seen in the final bound stellar system after the gas has been removed. We compare these results with recent observations of Milky Way clusters to comment on their formation histories. We also study how our results change when lowering the mass resolution of our simulation and removing observations of dense gas tracers from our initial condition setup. Each of the three simulations result in different final cluster configurations pointing towards the importance of gas in cluster assembly.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-11T00:40:21Z",
+      "arxiv:comment": "Accepted for Publication in the Astrophysical Journal, 22 pages, 15 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jeremy Karam"
+        },
+        {
+          "name": "Michiko S. Fujii"
+        },
+        {
+          "name": "Rachel Friesen"
+        },
+        {
+          "name": "Alison Sills"
+        }
+      ],
+      "score": 5.75
+    },
     {
       "id": "http://arxiv.org/abs/2605.06769v1",
       "title": "Origins of Extreme Emission-Line Ratios in z > 3 Galaxies: Insights from the Lumen Model",
@@ -354,7 +403,7 @@
           "name": "Jonathan C. Tan"
         }
       ],
-      "score": 1.25
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -386,7 +435,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 16.9
+      "score": 16.65
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -429,7 +478,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 6.8
+      "score": 6.55
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -629,7 +678,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 10.65
+      "score": 10.4
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -686,7 +735,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 2.05
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -744,7 +793,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 9.2
+      "score": 8.95
     },
     {
       "id": "http://arxiv.org/abs/2604.11955v2",
@@ -957,7 +1006,7 @@
           "name": "Josep Manel Carrasco"
         }
       ],
-      "score": 1.0
+      "score": 0.75
     }
   ]
 }
