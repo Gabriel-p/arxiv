@@ -1,17 +1,314 @@
 {
-  "fetched_at": "2026-05-14T12:50:10.583987",
+  "fetched_at": "2026-05-14T13:43:11.409209",
   "entries": [
     {
-      "title": "No articles found",
-      "id": "#",
-      "author": [
+      "id": "http://arxiv.org/abs/2605.12589v1",
+      "title": "Tunneling and tidal stripping in multifield ultralight dark matter halos",
+      "updated": "2026-05-12T18:00:00Z",
+      "link": [
         {
-          "name": " "
+          "@href": "https://arxiv.org/abs/2605.12589v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.12589v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
         }
       ],
-      "updated": "2026-05-14",
-      "score": 0,
-      "summary": "No articles matching the filters were found in the current submissions."
+      "summary": "Tidal stripping is a key feature of the evolution of dark matter (DM) halos, and has major implications for the population of low-mass galaxies. In the case of ultralight DM, tidal stripping proceeds not only classically, at the tidal radius, but also via a process analogous to quantum tunneling by long-wavelength particles out of the potential of a subhalo. This modified tidal stripping behavior leads to tight constraints on the particle mass as a function of subhalo and host properties. As many models of ultralight DM predict several independent species, it is crucial to understand how these constraints can be generalized to multifield halos with different particle masses. However, numerical challenges make it difficult to directly study the tunneling process in all but the simplest multifield scenarios. We introduce a simplified approach based on semiclassical methods that entirely sidesteps the most difficult aspects of the numerical problem, and we apply this to the study of tunneling in multifield halos. Our results significantly clarify the physics of tidal stripping for ultralight DM halos even in the single-field case: we provide first-principles derivations of features of the tunneling rate previously suggested by empirical fits. We then evaluate stability bounds on two-field halos for the first time, for a wide range of density and particle mass ratios. We show that for particular parameter combinations, the stability bounds in the two-field case can be somewhat relaxed relative to the single-field case, but for much of the parameter space, the constraints become more stringent. We discuss the path towards probing realistic multifield ultralight DM halos.",
+      "category": [
+        {
+          "@term": "hep-ph",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-12T18:00:00Z",
+      "arxiv:comment": "31 pages + appendices, 8 figures",
+      "arxiv:primary_category": {
+        "@term": "hep-ph"
+      },
+      "author": [
+        {
+          "name": "Benjamin V. Lehmann"
+        },
+        {
+          "name": "Jackie Lodman"
+        },
+        {
+          "name": "Thomas Steingasser"
+        }
+      ],
+      "score": 6.15
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.09837v1",
+      "title": "Simulating Star Formation and Star Cluster Assembly in the Aquila Rift Using Archival Observations",
+      "updated": "2026-05-11T00:40:21Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.09837v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.09837v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We simulate star formation and star cluster assembly inside a molecular cloud with parameters we derive directly from observations of the Aquila Rift. We model the evolution of stars and gas together while resolving close encounters between stars, the formation of new stars, and stellar feedback to follow cluster formation up to the expulsion of the surrounding gas. We find that star formation takes place in clumps spaced unevenly along Serpens South and that these clumps accrete surrounding gas to grow and form new stars. Gas flows along the filament promote the merger of these clumps into a star cluster inside the Serpens South filament. The imprints of these mergers are seen in the dynamics of the Serpens South cluster in the form of velocity space anisotropies, cluster rotation, and cluster expansion. Before gas is removed from the simulation, the Serpens South cluster merges with the nearby cluster W40 non-monolithically resulting in a fractal cluster at the end of the simulation. The dynamics inherited from the mergers throughout the simulation are still seen in the final bound stellar system after the gas has been removed. We compare these results with recent observations of Milky Way clusters to comment on their formation histories. We also study how our results change when lowering the mass resolution of our simulation and removing observations of dense gas tracers from our initial condition setup. Each of the three simulations result in different final cluster configurations pointing towards the importance of gas in cluster assembly.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-11T00:40:21Z",
+      "arxiv:comment": "Accepted for Publication in the Astrophysical Journal, 22 pages, 15 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jeremy Karam"
+        },
+        {
+          "name": "Michiko S. Fujii"
+        },
+        {
+          "name": "Rachel Friesen"
+        },
+        {
+          "name": "Alison Sills"
+        }
+      ],
+      "score": 5.25
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.06769v1",
+      "title": "Origins of Extreme Emission-Line Ratios in z > 3 Galaxies: Insights from the Lumen Model",
+      "updated": "2026-05-07T18:00:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.06769v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.06769v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Optical emission-line ratios in star-forming galaxies at $z \\sim 3$-8, such as [OIII]/H$β$ and [OIII]/[OII], are strongly offset from those at $z \\sim 0$-2, pointing to more extreme ionization and ISM conditions in the early Universe. To constrain the physical origin of these offsets, we developed Lumen, a framework for modelling nebular emission from spatially distributed HII regions in cosmological simulations. We apply Lumen to IllustrisTNG50, validate its predictions at low redshift, and test a suite of proposed mechanisms for producing extreme line ratios at $z = 3$-8. We focus on the [NII]/H$α$ versus [OIII]/H$β$ (N2-BPT) diagram, the [SII]/H$α$ versus [OIII]/H$β$ (S2-VO87) diagram, and the [OIII]/[OII] versus ([OII]+[OIII])/H$β$ (O32-R23) diagram. We find that $α$-enhancement alone cannot explain the bulk of observations. Moderate offsets emerge from the combined effects of $α$-enhancement, a higher IMF upper-mass cutoff, and AGN contributions. The most extreme [OIII]/H$β$ and [OIII]/[OII] values require high ionization parameters powered by massive star clusters of $\\gtrsim 10^5$-$10^6\\,\\mathrm{M}_\\odot$, consistent with recent JWST observations. Reproducing the highest [NII]/H$α$ ratios additionally requires enhanced nitrogen abundances. Although gas densities of $n \\sim 10^4\\,\\mathrm{cm}^{-3}$ can boost several diagnostic ratios, they suppress [SII]/H$α$ and are therefore in tension with current observations. Overall, models combining harder ionizing spectra, elevated ionization parameters from massive star clusters, and enhanced nitrogen abundances reproduce the observed high-$z$ galaxy population across the N2-BPT, S2-VO87, and O32-R23 diagrams. This successful model also motivates new demarcation lines for star-forming galaxies in the N2-BPT and S2-VO87 diagrams.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-07T18:00:01Z",
+      "arxiv:comment": "24 pages, 13 figures + appendix, submitted to MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Lucie Scharré"
+        },
+        {
+          "name": "Michaela Hirschmann"
+        },
+        {
+          "name": "Adèle Plat"
+        },
+        {
+          "name": "Stephane Charlot"
+        },
+        {
+          "name": "Rachel S. Somerville"
+        },
+        {
+          "name": "Emma Curtis-Lake"
+        },
+        {
+          "name": "Gabriella De Lucia"
+        },
+        {
+          "name": "Miroslava Dessauges-Zavadsky"
+        },
+        {
+          "name": "Anna Feltre"
+        },
+        {
+          "name": "Marion Farcy"
+        },
+        {
+          "name": "Natalia Lahén"
+        },
+        {
+          "name": "Aswin P. Vijayan"
+        },
+        {
+          "name": "Stephen M. Wilkins"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.05313v1",
+      "title": "Stellar rotation and binaries in open clusters with Gaia DR3",
+      "updated": "2026-05-06T18:00:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.05313v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.05313v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Stellar rotation is a fundamental ingredient in shaping the evolution of stars and it can also be used to trace past stellar interactions. Yet, systematic studies of stellar rotation in large samples of stars belonging to different populations have only recently been made possible, thanks to spectroscopic surveys. We profit from the catalogue of rotational broadening and rotation periods released with Gaia DR3. We focus on open clusters to study the rotational behaviour of several interesting populations including, among others, blue stragglers and extended main sequence turnoffs (eMSTO). We use literature lists of almost a million member stars in several thousand open clusters in the Milky Way. We collect properties of stars and clusters from large surveys, including Gaia, and from various literature sources. We include a comprehensive collection of known variables and binary stars from various databases. We manually select (exotic) stellar populations from the color-magnitude diagrams of individual clusters and study their rotational properties. Our catalogue contains more than 44 000 rotationally characterised stars, almost 57 000 variables (excluding binaries) and more than 22 000 binary stars. We find several interesting results, including a few hundred new blue stragglers, several fast rotating red giants, and we increase the number of clusters with an eMSTO to 96. We discover that most clusters more massive than $10^3$ $M_{\\odot}$ display an eMSTO. We present a new parametrization of the number of blue stragglers as a function of cluster mass and age. We find that the percentage of binary stars in the equal-mass binary sequence and in the main sequence are similar. We present the first large-scale statistical exploration of stellar rotation in open clusters, which already yielded new interesting results and which can be used as the basis for several detailed follow-up studies.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-06T18:00:06Z",
+      "arxiv:comment": "20 pages, 20 figures, Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Elena Pancino"
+        },
+        {
+          "name": "Elisabetta Reggiani"
+        },
+        {
+          "name": "Silvia Marinoni"
+        },
+        {
+          "name": "Paola M. Marrese"
+        },
+        {
+          "name": "Deimer Alvarez Garay"
+        },
+        {
+          "name": "Aleksandra Avdeeva"
+        },
+        {
+          "name": "Maite Echeveste"
+        },
+        {
+          "name": "Ellen I. Leitinger"
+        },
+        {
+          "name": "Sneha Nedhath"
+        },
+        {
+          "name": "Sharmila Rani"
+        },
+        {
+          "name": "Nicoletta Sanna"
+        },
+        {
+          "name": "Sara Saracino"
+        },
+        {
+          "name": "Laurenz F. Steinbauer"
+        },
+        {
+          "name": "Alessio Turchi"
+        },
+        {
+          "name": "Vikrant V. Jadhav"
+        },
+        {
+          "name": "Sebastian Kamann"
+        },
+        {
+          "name": "Monica Rainer"
+        }
+      ],
+      "score": 11.05
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.05293v1",
+      "title": "Life is But a Stream: The Distribution of Planetary Systems Along Stellar Streams and their Properties",
+      "updated": "2026-05-06T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.05293v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.05293v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The majority of discovered exoplanets have been observed orbiting field stars as opposed to within a star cluster. To determine whether the lack of observed exoplanets in star clusters is due to gravitational perturbations or observational limitations, we consider the possibility of studying exoplanets in stellar streams. We present the results of direct $N$-body simulations of planetary systems around stars that orbit within a star cluster. Our simulations demonstrate that stars with early cluster escape times tend to retain all their planets as they spend most of their time orbiting in the cluster's low-density outskirts. Alternatively, stars with later escape times can have a wide range of survival fractions as they are subjected to a range of local densities and encounter types. With respect to the stellar stream that forms as the result of the cluster's dissolution, stars near the edge of the stream are therefore more likely to have unperturbed planetary systems. Conversely, stars near the centre of the stream have a higher chance of having planets pushed to eccentric orbits, inclined orbits, or stripped from the system entirely. From our suite of simulations, we provide an estimate of the probability that a star will host a planet with a given initial semi-major axis $a_0$ based on the star's location along a stellar stream $Δφ$.",
+      "category": [
+        {
+          "@term": "astro-ph.EP",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-06T18:00:00Z",
+      "arxiv:comment": "12 pages, 9 figures, Accepted for Publication in ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.EP"
+      },
+      "author": [
+        {
+          "name": "Jeremy J. Webb"
+        },
+        {
+          "name": "Milica Ivetic"
+        },
+        {
+          "name": "Maxwell X. Cai"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        },
+        {
+          "name": "Daniella Morrone"
+        }
+      ],
+      "score": 1.25
     }
   ]
 }
