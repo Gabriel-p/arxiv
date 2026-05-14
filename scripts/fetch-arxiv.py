@@ -68,12 +68,12 @@ _CLUSTER_PATTERNS: list[tuple[re.Pattern, float]] = [
         ),
         1.0,
     ),
-    (
-        re.compile(
-            r"\btidal\s+(?:tails?|streams?|radius|stripping|debris)\b", re.IGNORECASE
-        ),
-        0.8,
-    ),
+    # (
+    #     re.compile(
+    #         r"\btidal\s+(?:tails?|streams?|radius|stripping|debris)\b", re.IGNORECASE
+    #     ),
+    #     0.8,
+    # ),
     (re.compile(r"\bcluster\s+(?:corona|halo|escapers?)\b", re.IGNORECASE), 0.8),
     # Related stellar structures
     (re.compile(r"\b(?:OB|stellar)\s+associations?\b", re.IGNORECASE), 0.8),
