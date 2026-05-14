@@ -6,7 +6,7 @@ on:
   # push:
   #   branches: ["main"]
   schedule:
-    # every X hours at minute 0 UTC
+    # every 12 hours at minute 0 UTC
     - cron: '0 */12 * * *'
 
   # Allow manual triggering
@@ -37,60 +37,85 @@ jobs:
       # use 'pip install requests' or other specific libraries.
       - name: Install dependencies
         run: |
+          echo "Upgrading pip..."
           python -m pip install --upgrade pip
 
           if [ -f requirements.txt ]; then
+            echo "requirements.txt found. Installing dependencies..."
             pip install -r requirements.txt
-          fi
-
-      # 4) Generate temporary JSON file
-      - name: Run fetch-arxiv script
-        run: python scripts/fetch-arxiv.py
-        shell: bash
-
-      # 5) Validate generated JSON
-      - name: Validate JSON content
-        id: validate-json
-        run: |
-          title=$(jq -r '.title // ""' arxiv_new.json)
-          if [ "$title" = "No articles found" ]; then
-            echo "valid=false" >> "$GITHUB_OUTPUT"
           else
-            echo "valid=true" >> "$GITHUB_OUTPUT"
+            echo "No requirements.txt file found. Skipping dependency installation."
           fi
 
-      # 6) Replace production JSON only if valid
-      - name: Replace arxiv.json
-        if: steps.validate-json.outputs.valid == 'true'
+      # 4) Run fetch-arxiv script
+      - name: Run fetch-arxiv script
         run: |
+          echo "Running fetch-arxiv.py..."
+          python scripts/fetch-arxiv.py
+          echo "Script execution finished."
+
+      # 5) Check if new JSON file exists
+      - name: Check for arxiv_new.json
+        id: check-new-json
+        run: |
+          echo "Checking whether arxiv_new.json was generated..."
+
+          if [ -f arxiv_new.json ]; then
+            echo "arxiv_new.json exists."
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No new arXiv entries found."
+            echo "arxiv_new.json was not generated."
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 6) Replace production JSON only if new file exists
+      - name: Replace arxiv.json
+        if: steps.check-new-json.outputs.exists == 'true'
+        run: |
+          echo "Replacing arxiv.json with arxiv_new.json..."
           mv arxiv_new.json arxiv.json
+          echo "Replacement completed."
 
       # 7) Detect changes
       - name: Check for changes in data
-        if: steps.validate-json.outputs.valid == 'true'
+        if: steps.check-new-json.outputs.exists == 'true'
         id: check-changes
         run: |
+          echo "Checking for git changes..."
+
           git add arxiv.json
           # git diff --cached returns non-zero if there are staged changes
           if git diff --cached --quiet; then
+            echo "No changes detected in arxiv.json."
             echo "changes=false" >> "$GITHUB_OUTPUT"
           else
+            echo "Changes detected in arxiv.json."
             echo "changes=true" >> "$GITHUB_OUTPUT"
           fi
 
       # 8) Commit and push only if changed
       - name: Commit and push if changes
-        if: steps.validate-json.outputs.valid == 'true' && steps.check-changes.outputs.changes == 'true'
+        if: steps.check-new-json.outputs.exists == 'true' && steps.check-changes.outputs.changes == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          echo "Configuring git user..."
+
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
+
+          echo "Creating commit..."
           git commit -m "ci: update arxiv.json"
+
+          echo "Pushing changes to repository..."
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
 
-      # 9) Cleanup temporary file if validation failed
-      - name: Cleanup invalid temporary file
-        if: steps.validate-json.outputs.valid == 'false'
+          echo "Push completed successfully."
+
+      # 9) Inform when nothing changed
+      - name: No changes detected
+        if: steps.check-new-json.outputs.exists == 'true' && steps.check-changes.outputs.changes == 'false'
         run: |
-          rm -f arxiv_new.json
+          echo "A new arxiv_new.json file was generated, but its contents are identical to arxiv.json."
+          echo "Nothing to commit."

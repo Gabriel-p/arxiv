@@ -275,26 +275,12 @@ def save_to_file(new_entries):
         unique_map.values(), key=lambda x: x.get("published", ""), reverse=True
     )
 
-    if not filtered:
-        entries_to_save = [
-            {
-                "title": "No articles found",
-                "id": "#",
-                "author": [{"name": " "}],
-                "updated": datetime.now().strftime("%Y-%m-%d"),
-                "score": 0,
-                "summary": "No articles matching the filters were found in the current submissions.",
-            }
-        ]
-    else:
-        entries_to_save = filtered
-
-    fetch_timestamp = datetime.now().isoformat()
-    output_data = {"fetched_at": fetch_timestamp, "entries": entries_to_save}
-
-    # Write to file
-    with open(FILE_NAME, "w", encoding="utf-8") as f:
-        json.dump(output_data, f, indent=2, ensure_ascii=False)
+    if filtered:
+        fetch_timestamp = datetime.now().isoformat()
+        output_data = {"fetched_at": fetch_timestamp, "entries": filtered}
+        # Write to file
+        with open(FILE_NAME, "w", encoding="utf-8") as f:
+            json.dump(output_data, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
