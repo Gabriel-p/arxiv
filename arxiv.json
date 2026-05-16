@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-15T12:46:08.817524",
+  "fetched_at": "2026-05-16T00:53:41.400523",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -42,7 +42,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 7.75
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2605.14017v1",
@@ -88,7 +88,7 @@
           "name": "Sean M. Ressler"
         }
       ],
-      "score": 1.75
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -125,7 +125,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 4.75
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -174,77 +174,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.06769v1",
-      "title": "Origins of Extreme Emission-Line Ratios in z > 3 Galaxies: Insights from the Lumen Model",
-      "updated": "2026-05-07T18:00:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.06769v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.06769v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Optical emission-line ratios in star-forming galaxies at $z \\sim 3$-8, such as [OIII]/H$β$ and [OIII]/[OII], are strongly offset from those at $z \\sim 0$-2, pointing to more extreme ionization and ISM conditions in the early Universe. To constrain the physical origin of these offsets, we developed Lumen, a framework for modelling nebular emission from spatially distributed HII regions in cosmological simulations. We apply Lumen to IllustrisTNG50, validate its predictions at low redshift, and test a suite of proposed mechanisms for producing extreme line ratios at $z = 3$-8. We focus on the [NII]/H$α$ versus [OIII]/H$β$ (N2-BPT) diagram, the [SII]/H$α$ versus [OIII]/H$β$ (S2-VO87) diagram, and the [OIII]/[OII] versus ([OII]+[OIII])/H$β$ (O32-R23) diagram. We find that $α$-enhancement alone cannot explain the bulk of observations. Moderate offsets emerge from the combined effects of $α$-enhancement, a higher IMF upper-mass cutoff, and AGN contributions. The most extreme [OIII]/H$β$ and [OIII]/[OII] values require high ionization parameters powered by massive star clusters of $\\gtrsim 10^5$-$10^6\\,\\mathrm{M}_\\odot$, consistent with recent JWST observations. Reproducing the highest [NII]/H$α$ ratios additionally requires enhanced nitrogen abundances. Although gas densities of $n \\sim 10^4\\,\\mathrm{cm}^{-3}$ can boost several diagnostic ratios, they suppress [SII]/H$α$ and are therefore in tension with current observations. Overall, models combining harder ionizing spectra, elevated ionization parameters from massive star clusters, and enhanced nitrogen abundances reproduce the observed high-$z$ galaxy population across the N2-BPT, S2-VO87, and O32-R23 diagrams. This successful model also motivates new demarcation lines for star-forming galaxies in the N2-BPT and S2-VO87 diagrams.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-07T18:00:01Z",
-      "arxiv:comment": "24 pages, 13 figures + appendix, submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Lucie Scharré"
-        },
-        {
-          "name": "Michaela Hirschmann"
-        },
-        {
-          "name": "Adèle Plat"
-        },
-        {
-          "name": "Stephane Charlot"
-        },
-        {
-          "name": "Rachel S. Somerville"
-        },
-        {
-          "name": "Emma Curtis-Lake"
-        },
-        {
-          "name": "Gabriella De Lucia"
-        },
-        {
-          "name": "Miroslava Dessauges-Zavadsky"
-        },
-        {
-          "name": "Anna Feltre"
-        },
-        {
-          "name": "Marion Farcy"
-        },
-        {
-          "name": "Natalia Lahén"
-        },
-        {
-          "name": "Aswin P. Vijayan"
-        },
-        {
-          "name": "Stephen M. Wilkins"
-        }
-      ],
-      "score": 0.25
+      "score": 4.75
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -332,7 +262,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 10.8
+      "score": 10.55
     },
     {
       "id": "http://arxiv.org/abs/2605.05293v1",
@@ -384,7 +314,7 @@
           "name": "Daniella Morrone"
         }
       ],
-      "score": 1.0
+      "score": 0.75
     },
     {
       "id": "http://arxiv.org/abs/2605.01076v1",
@@ -422,7 +352,7 @@
           "name": "Anisa T. Bajkova"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -483,7 +413,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 9.3
+      "score": 9.05
     },
     {
       "id": "http://arxiv.org/abs/2604.27382v1",
@@ -636,7 +566,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 2.0
+      "score": 1.75
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -698,7 +628,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 3.0
+      "score": 2.75
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
