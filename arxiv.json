@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T00:59:47.967974",
+  "fetched_at": "2026-05-17T12:29:39.162697",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -445,7 +445,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 14.05
+      "score": 13.8
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -488,7 +488,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 4.75
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -639,7 +639,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 3.0
+      "score": 2.75
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -696,7 +696,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 0.8
+      "score": 0.55
     },
     {
       "id": "http://arxiv.org/abs/2604.15968v2",
@@ -754,7 +754,7 @@
           "name": "Mingfeng Qin"
         }
       ],
-      "score": 7.95
+      "score": 7.7
     }
   ]
 }
