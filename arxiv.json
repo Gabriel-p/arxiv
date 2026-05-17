@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T12:32:15.441500",
+  "fetched_at": "2026-05-17T00:59:47.967974",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -42,7 +42,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 7.5
+      "score": 7.25
     },
     {
       "id": "http://arxiv.org/abs/2605.14017v1",
@@ -88,7 +88,7 @@
           "name": "Sean M. Ressler"
         }
       ],
-      "score": 1.5
+      "score": 1.25
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -125,7 +125,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 4.5
+      "score": 4.25
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -174,7 +174,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 4.75
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -262,7 +262,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 10.55
+      "score": 10.3
     },
     {
       "id": "http://arxiv.org/abs/2605.05293v1",
@@ -314,7 +314,447 @@
           "name": "Daniella Morrone"
         }
       ],
-      "score": 0.75
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.01076v1",
+      "title": "Analysis of spatial velocities of several samples of open star clusters",
+      "updated": "2026-05-01T20:17:33Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.01076v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.01076v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "An analysis of the kinematics of open star clusters (OSCs) using their characteristics from the new Hunt and Reffert catalog was conducted. Based on 4003 OSCs younger than 200 million years, the following values for the angular velocity of the Galaxy's rotation were found: $Ω_0 = 28.99\\pm0.11$ km/s/kpc, $Ω^{'}_0 = -3.909\\pm0.026$ km/s/kpc$^{2}$ and $Ω^{''}_0 = 0.5662\\pm0.018$ km/s/kpc$^{3}$, where $V_0=234.8\\pm3.0$ km/s for $R_0=8.1\\pm0.1$ kpc. It was found that periodicity in the radial velocities of OSCs is manifested in clusters younger than 600 Myr, while a wave in residual tangential velocities is observed only in the youngest ones, younger than 40 Myr. A spectral Fourier analysis of the radial velocities of three OSC samples with average ages of 18, 72, and 143 Myr was used to obtain the following values of the wavelength $λ$ and the velocity perturbation amplitude $f_R$: $λ=2.0$ kpc and $f_R=4.3$ km/s, $λ=2.2$ kpc and $f_R=8.2$ km/s, $λ=2.1$ kpc and $f_R=9.6$ km/s, respectively. A systematic change in the positions of the maxima and minima of the waves in the radial velocities of OSCs was found depending on the age of the sample. From the analysis of these shifts, the value of the absolute value of the difference $|ΔΩ|$ between the angular velocity of rotation of the spiral pattern $Ω_p$ and the rotation velocity of the Galaxy was found, $|ΔΩ|=2.0\\pm0.5_{stat}\\pm2.3_{syst}$ km/s/kpc. Based on this, an estimate of two possible values of the corotation radius was obtained: $8.6\\pm0.2$ kpc and $7.6\\pm0.2$ kpc, which indicates that the Sun is very close to the corotation.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-01T20:17:33Z",
+      "arxiv:comment": "14 pages, 5 figures and 2 tables",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "arxiv:journal_ref": "Astronomy Letters, 2025, Vol. 51, No. 11-12",
+      "author": [
+        {
+          "name": "Vadim V. Bobylev"
+        },
+        {
+          "name": "Anisa T. Bajkova"
+        }
+      ],
+      "score": 0.25
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.27828v1",
+      "title": "TESS Asteroseismology of Red Giants in the Old Metal-Rich Open Clusters NGC 188 & NGC 6791",
+      "updated": "2026-04-30T13:16:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.27828v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.27828v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are fundamental laboratories for investigating stellar and Galactic evolution, and serve as important benchmarks for asteroseismic analyses. Using a boutique method to analyze TESS photometry, we study red giants in two old metal-rich open clusters: NGC 188 & NGC 6791. By comparing Kepler and TESS observations for NGC 6791, similar oscillation mode frequencies are recovered, however we find a systematic offset of 2.2% with a scatter of 9% in the $ν_{\\text{max}}$ measurements. We attribute this discrepancy to the lower signal-to-noise of the TESS data for these relatively faint stars. For the brighter cluster NGC 188, we present new seismic measurements in 17 red giants. We estimate average seismic masses for the RGB of $M_{\\text{RGB,NGC188}} = 1.13\\pm0.04$(rand)$^{+0.12}_{-0.19}$(sys) $M_{\\odot}$ and RC of $M_{\\text{RC,NGC188}} = 1.11\\pm0.01$(rand)$^{+0.11}_{-0.19}$(sys) $M_{\\odot}$, consistent with independent mass estimates for this cluster and with similar precision to previous Kepler studies. From the difference between the average evolutionary phase masses, we estimate an integrated RGB mass loss of $ΔM = 0.02 \\pm 0.04$(rand)$\\pm0.01$(sys) $M_{\\odot}$, supporting the evidence for lower mass loss at higher metallicities. Using asteroseismology and chemical abundances, we identify three binary interaction candidates: two under-massive stars and one over-massive star potentially exhibiting dipole-mode suppression. Finally, we derive an average seismic cluster age of $7.0\\pm0.9$ Gyrs, in good agreement with previous literature ages. Our analysis demonstrates the strong potential of TESS asteroseismology for open clusters, and motivates extending this investigation to other TESS clusters that span a wider range of ages and metallicities.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-30T13:16:35Z",
+      "arxiv:comment": "27 Pages, 12 Figures, Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Madeline Howell"
+        },
+        {
+          "name": "Jennifer A. Johnson"
+        },
+        {
+          "name": "Marc H. Pinsonneault"
+        },
+        {
+          "name": "Leslie M. Morales"
+        },
+        {
+          "name": "Jamie Tayar"
+        },
+        {
+          "name": "John D. Roberts"
+        },
+        {
+          "name": "Dennis Stello"
+        },
+        {
+          "name": "Madeleine McKenzie"
+        }
+      ],
+      "score": 8.8
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.24358v1",
+      "title": "Recovering extra-tidal open cluster members via multi-elemental chemical tagging",
+      "updated": "2026-04-27T11:51:41Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.24358v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.24358v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The identification of open cluster (OC) members has been revolutionized by high-precision Gaia astrometry, yet traditional kinematic membership selections remain inherently conservative, often overlooking stars in tidal tails or those with perturbed velocities. This study investigates the reliability of these kinematic probabilities by searching for leaky cluster members -- stars that fail standard kinematic membership criteria ($P < 0.7$) but possess chemical signatures identical to their host clusters. Using high-resolution spectroscopic data from the Gaia-ESO Survey, we established a seven-element chemical fingerprint ([Fe/H], Li, Si, Ca, Ti, Co, and Ni) for 34 OCs. We identified a sample of 63 stars across 22 clusters that are chemically indistinguishable from their host populations despite being kinematically rejected by standard algorithms. By cross-referencing these targets with Jacobi radii (rJ) derived from modern Milky Way potential models, we find that 35% are located in extra-tidal regions (d > rJ), providing direct evidence of active cluster dissolution and tidal debris. The remaining 65% are located within the Jacobi radius, suggesting that their kinematic rejection is likely due to orbital motion in unresolved binary systems. These results demonstrate that chemical tagging is a critical tool for overcoming the spatial and kinematic biases of astrometric catalogues. By recovering these lost members, we provide a more complete census of cluster mass loss and underscore the necessity of a hybrid chemical-kinematic approach to map the transition of stars from bound systems to the Galactic field.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-27T11:51:41Z",
+      "arxiv:comment": "7 pages, 1 figure. Accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Andrès E. Piatti"
+      },
+      "score": 14.05
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.23093v1",
+      "title": "Analysis of a Septuple Open Cluster System and Its Extended Family in Gaia DR3",
+      "updated": "2026-04-25T01:14:52Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.23093v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.23093v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A rare multiple open cluster system has been analyzed using Gaia DR3 astrometry and photometry data. Using Agglomerative Hierarchical clustering and Bayesian-HDBSCAN, we identify a compact core consisting of seven known open clusters and two additional components, including a new candidate, forming a nine-member association. Membership probabilities are refined through statistical modeling, combining GUMM, Bayesian-KDE, and Bayesian-XDGMM for tidal tails identification. Backward orbital integrations confirm coherent motions over 20-30 million years, suggesting a common origin from the same massive molecular cloud. This system offers a unique laboratory for investigating cluster multiplicity, dynamical evolution, and Galactic structure.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-25T01:14:52Z",
+      "arxiv:comment": "4 pages, 5 Figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Muhammad Akmal Husain"
+        },
+        {
+          "name": "Ferdinand"
+        },
+        {
+          "name": "Mochamad Ikbal Arifyanto"
+        },
+        {
+          "name": "Muhammad Irfan Hakim"
+        }
+      ],
+      "score": 4.75
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.22924v1",
+      "title": "Supermassive stars with embedded stellar black hole cores: dense assembling star clusters as faint multiple Little Red Dot systems",
+      "updated": "2026-04-24T18:00:08Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.22924v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.22924v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Numerical simulations have established that star clusters with densities comparable to the high redshift ($z>6$-$10$) James Webb Space Telescope (JWST) proto globular clusters may build up extremely massive (EMSs; $m_\\mathrm{\\star}>1000 M_\\odot$) or even supermassive stars (SMSs; $m_\\mathrm{\\star}>10000 M_\\odot$) and potentially intermediate mass black holes (IMBHs) through runaway stellar collisions. Using direct simulations of assembling star clusters including post-Newtonian black hole dynamics and stellar evolution, we demonstrate that in such dense environments ($Σ_\\mathrm{h} \\gtrsim 10^6 M_\\odot$pc$^\\mathrm{-2}$) stellar BHs ($m_\\bullet \\lesssim 60 M_\\odot$), driven by rapid mass segregation and relaxation effects within the sphere of influence of the EMSs/SMSs, may strongly interact with the extremely massive stars and become embedded within their gaseous layers. We suggest that this quasi-star (QS) like embedded BH phase is a natural outcome of the runaway formation of EMSs/SMSs in the densest star clusters. The QS phase is orders of magnitude longer in duration than the lifetime of the SMS, enabling an extended growth period by stellar collisions, and allows the formation of embedded gravitational wave sources if the QS captures more than a single stellar BH. The star cluster assembly region sizes ($\\sim100$ pc), QS masses ($\\gtrsim 10^4 M_\\odot$) and their proximity to young, massive blue star forming clumps are consistent with the faint population of multiple little red dots (LRDs) recently discovered by the JWST.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-24T18:00:08Z",
+      "arxiv:comment": "11 pages, 5 figures, submitted to MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Antti Rantala"
+      },
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.22573v1",
+      "title": "A homogeneous three-dimensional view of Molecular Cloud kinematics out to 2.5 kpc. Using Young Stellar Objects and Open Clusters as complementary tracers",
+      "updated": "2026-04-24T14:05:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.22573v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.22573v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Understanding the large-scale dynamics of molecular clouds (MCs) is crucial for constraining the processes that govern star formation and the structure and evolution of the Galaxy. While gas tracers have traditionally been used to map MC kinematics, stellar tracers such as young stellar objects (YSOs) and open clusters (OCs) provide a complementary approach that enables direct comparisons between the stellar and gaseous components. We aim to validate OCs as complementary tracers by testing whether they retain the same bulk kinematic imprint as YSOs, and to reconstruct the three-dimensional (3D) motions of the main MC complexes within 2.5 kpc of the Sun using YSOs and young OCs as tracers. Using Gaia DR3 astrometry together with complementary spectroscopic surveys for radial velocities, we compiled a unified sample of 24,732 stellar tracers. We applied robust clustering in proper motion space to identify co-moving YSOs and derived cloud-averaged motions via Monte Carlo sampling. These were compared with the kinematics of OCs younger than 30 Myr. Finally, we performed orbital integrations in a realistic Galactic potential to trace the past evolution of the clouds and quantify their expansion and rotation. We derive homogeneous 3D kinematics for 15 MC complexes within 2.5 kpc. YSOs and OCs exhibit strongly consistent kinematics, with a median spatial velocity offset of $\\simeq 2$ km s$^{-1}$, confirming that both populations trace the bulk motion of their parent clouds. The resulting cloud kinematics show a median peculiar velocity of $\\simeq 8.7$ km s$^{-1}$ with respect to Galactic rotation. We trace back the Solar System's voyage through the Orion cloud and the common origin of Lupus, Ophiuchus, and Corona Australis in Sco-Cen. Internally, we detect significant expansion in Orion and Ophiuchus ($5σ$) and coherent rotation in at least seven complexes.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-24T14:05:19Z",
+      "arxiv:comment": "16 pages, 5 figures. Submitted to A&A; revised version after first referee report",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Xabier Pérez-Couto"
+        },
+        {
+          "name": "Santiago Torres"
+        },
+        {
+          "name": "Nuria Miret-Roig"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Alexander J. Mustill"
+        },
+        {
+          "name": "Eva Villaver"
+        },
+        {
+          "name": "Minia Manteiga"
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.16803v1",
+      "title": "W UMa-Type Contact Binaries in the Tidal Tails of Young Open Cluster COIN-Gaia 25 and Mamajek 4",
+      "updated": "2026-04-18T03:23:23Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.16803v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.16803v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1088/1674-4527/ae616b",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Star clusters, as dynamically rich environments, are thought to be important sites for the formation of contact binaries. To investigate this, we conducted a systematic search for contact binaries within two young open clusters, COIN-Gaia 25 and Mamajek 4, and their associated tidal tails. From this search, we identified and confirmed two contact binary systems: ASASSN-V J064923.44+013758.4 in the tidal tail of COIN-Gaia 25, and ASASSN-V J173229.06-613712.5 in the tidal tail of Mamajek 4. Using TESS light curve data, we performed detailed modeling with a Markov Chain Monte Carlo (MCMC) method within the 2015 version of the Wilson-Devinney (W-D) code. The resulting photometric parameters are: q_ph = 0.316 (0.013), i= 76.9 (+1.3, -0.9) degrees, f=23.1 (+1.4, -1.9)% for ASASSN-V J064923.44+013758.4, and q_ph = 0.130 (0.004), i= 68.4 (+1.4, -1.3) degrees, f=66.3 (+5.0, -5.3)% for ASASSN-V J173229.06-613712.5. A cool-spot model located on the more massive component was successfully implemented for each system. The derived parameters classify ASASSN-V J173229.06-613712.5 as a deep, low-mass-ratio contact binary. Its location in the tidal tail of Mamajek 4 constrains its age to < 371 Myr, supporting the view that the total lifetime of some contact binaries may be as short as a few thermal timescales. After evaluating standard formation mechanisms, we propose that ASASSN-V J173229.06-613712.5 likely formed via efficient orbital hardening (potentially mediated by gas dynamical friction) during the early, gas-rich phase of its host cluster's evolution. This study demonstrates the value of young clusters and their tidal tails in providing robust age constraints to explore the formation and rapid evolution of contact binaries.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-18T03:23:23Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Xiang Bin"
+        },
+        {
+          "name": "Liu Liang"
+        },
+        {
+          "name": "Zhu Liying"
+        },
+        {
+          "name": "Shi Xiangdong"
+        },
+        {
+          "name": "Liu Nianping"
+        }
+      ],
+      "arxiv:doi": "10.1088/1674-4527/ae616b",
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.16792v1",
+      "title": "The Role of Cluster Environments in Quiescent Galaxy Stellar Halo Assembly",
+      "updated": "2026-04-18T02:39:10Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.16792v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.16792v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "External interactions drive galaxy stellar mass growth and morphological evolution. As stellar haloes-assembled largely via hierarchical accretion-preserve signatures of these processes, their growth probes how environment regulates galaxy evolution. We investigate how cluster environments influence quiescent galaxy (QG) stellar halo assembly over 0.1 $\\leq$ $z$ $\\leq$ 1.0 in a sample of 2,168 cluster and 94,479 field QGs of $\\log M_{\\star} \\geq 9.66$. Extended emission is traced via rest-frame $g$-band surface brightness ($μ_g$) profiles extracted from deep HSC-SSP $grizy$ imaging. We study stellar halo assembly trends by linking median $μ_g$ profile evolution to the underlying mass growth in galaxy subpopulations. Over 0.1 $\\leq$ $z$ $\\leq$ 1.0, cluster QGs build up stellar haloes faster than field QGs, with a $\\sim23\\%$ and $\\sim40\\%$ larger increase in integrated stellar halo luminosity ($L_{halo}$) in the low-mass ($9.66 \\leq \\log M_{\\star} < 10.5$) and high-mass ($\\log M_{\\star} \\geq 10.5$) samples, respectively. High-mass cluster QGs host more luminous stellar haloes than the field (mean cluster-to-field $L_{halo}$ ratio of $\\sim1.2$), while low-mass cluster QGs host less luminous stellar haloes (mean ratio of $\\sim0.87$). Among cluster QGs of $\\log M_{\\star} \\geq 10$, $L_{halo}$ increases with host cluster mass, but decreases for cluster QGs of $\\log M_{\\star} < 10$. These results suggest higher-mass cluster QGs ($\\log M_{\\star} \\geq 10$) experience enhanced stellar halo growth over 0.1 $\\leq$ $z$ $\\leq$ 1.0 fueled by increased merger-driven accretion, likely from minor mergers in cluster outskirts or in pre-infall group and filament environments. Lower-mass cluster QGs ($9.66 \\leq \\log M_{\\star} < 10$) instead have suppressed stellar halo growth in clusters and likely lose outer stellar material to environmental stripping or accretion by high-mass galaxies during mergers.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-04-18T02:39:10Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Devin J. Williams"
+        },
+        {
+          "name": "Ivana Damjanov"
+        },
+        {
+          "name": "Marcin Sawicki"
+        },
+        {
+          "name": "Harrison Souchereau"
+        },
+        {
+          "name": "Lingjian Chen"
+        },
+        {
+          "name": "Guillaume Desprez"
+        },
+        {
+          "name": "Angelo George"
+        },
+        {
+          "name": "Stephen Gwyn"
+        },
+        {
+          "name": "Stephane Arnouts"
+        }
+      ],
+      "score": 0.8
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.15968v2",
+      "title": "Missing pairs in open cluster catalogs",
+      "updated": "2026-04-21T15:45:03Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2604.15968v2",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2604.15968v2",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters (OCs) in our Galaxy can be found in pairs, possibly forming physical binaries, or in groups. These objects offer unique insights into the process of star formation and testify to the dynamical interactions at local and galactic scales. Therefore, building as complete a census as possible is a valuable endeavor. This work is aimed at identifying and characterizing new OC pair candidates that had been overlooked in previous studies. Two recent comprehensive catalogs were cross-matched to identify OCs in the first catalog that had been missing from the second one. From this list, counterparts in the second catalog were searched within a 3D distance of 50 pc. Candidate pairs were then selected by applying constraints on the tangential velocity (TV) difference. An orbital integration was performed to assess gravitational binding. The similarity in terms of the radial velocity (RV) and age was evaluated. We identified seven isolated binary cluster candidates, comprising two likely bound systems with stable orbits over 100 Myr; two pairs with a possible common origin but lacking RV confirmation; and three pairs with significant velocity discrepancies, suggesting they are unbound or in transitional states. We also identified six cluster group candidates, while refining the membership of known complexes such as UBC\\_672 and NGC\\_1977, and discovering a new group around FSR\\_0198. Notably, the UBC\\_392 group exhibits coherent proper motions but inconsistent RVs and large age spreads, indicating that it is not gravitationally bound. Additionally, we reconciled 15 clusters with discrepant nomenclature between the two catalogs. Multi-catalog integration combined with kinematic and dynamical validation is essential for establishing a complete census of Galactic cluster pairs.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-04-17T11:30:50Z",
+      "arxiv:comment": "14 pages, 7 figures, 3 tables, accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Qingshun Hu"
+        },
+        {
+          "name": "Yufei Cai"
+        },
+        {
+          "name": "Caroline Soubiran"
+        },
+        {
+          "name": "Yu Dai"
+        },
+        {
+          "name": "Yuting Li"
+        },
+        {
+          "name": "Yangping Luo"
+        },
+        {
+          "name": "Mingfeng Qin"
+        }
+      ],
+      "score": 7.95
     }
   ]
 }
