@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-17T12:29:39.162697",
+  "fetched_at": "2026-05-18T13:26:05.757258",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -42,7 +42,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 7.25
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2605.14017v1",
@@ -88,7 +88,7 @@
           "name": "Sean M. Ressler"
         }
       ],
-      "score": 1.25
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -125,7 +125,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 4.25
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -174,7 +174,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 4.5
+      "score": 4.25
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -262,7 +262,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 10.3
+      "score": 10.05
     },
     {
       "id": "http://arxiv.org/abs/2605.05293v1",
@@ -312,44 +312,6 @@
         },
         {
           "name": "Daniella Morrone"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.01076v1",
-      "title": "Analysis of spatial velocities of several samples of open star clusters",
-      "updated": "2026-05-01T20:17:33Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.01076v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.01076v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "An analysis of the kinematics of open star clusters (OSCs) using their characteristics from the new Hunt and Reffert catalog was conducted. Based on 4003 OSCs younger than 200 million years, the following values for the angular velocity of the Galaxy's rotation were found: $Ω_0 = 28.99\\pm0.11$ km/s/kpc, $Ω^{'}_0 = -3.909\\pm0.026$ km/s/kpc$^{2}$ and $Ω^{''}_0 = 0.5662\\pm0.018$ km/s/kpc$^{3}$, where $V_0=234.8\\pm3.0$ km/s for $R_0=8.1\\pm0.1$ kpc. It was found that periodicity in the radial velocities of OSCs is manifested in clusters younger than 600 Myr, while a wave in residual tangential velocities is observed only in the youngest ones, younger than 40 Myr. A spectral Fourier analysis of the radial velocities of three OSC samples with average ages of 18, 72, and 143 Myr was used to obtain the following values of the wavelength $λ$ and the velocity perturbation amplitude $f_R$: $λ=2.0$ kpc and $f_R=4.3$ km/s, $λ=2.2$ kpc and $f_R=8.2$ km/s, $λ=2.1$ kpc and $f_R=9.6$ km/s, respectively. A systematic change in the positions of the maxima and minima of the waves in the radial velocities of OSCs was found depending on the age of the sample. From the analysis of these shifts, the value of the absolute value of the difference $|ΔΩ|$ between the angular velocity of rotation of the spiral pattern $Ω_p$ and the rotation velocity of the Galaxy was found, $|ΔΩ|=2.0\\pm0.5_{stat}\\pm2.3_{syst}$ km/s/kpc. Based on this, an estimate of two possible values of the corotation radius was obtained: $8.6\\pm0.2$ kpc and $7.6\\pm0.2$ kpc, which indicates that the Sun is very close to the corotation.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-01T20:17:33Z",
-      "arxiv:comment": "14 pages, 5 figures and 2 tables",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "arxiv:journal_ref": "Astronomy Letters, 2025, Vol. 51, No. 11-12",
-      "author": [
-        {
-          "name": "Vadim V. Bobylev"
-        },
-        {
-          "name": "Anisa T. Bajkova"
         }
       ],
       "score": 0.25
@@ -413,7 +375,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 8.8
+      "score": 8.3
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -445,7 +407,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 13.8
+      "score": 13.55
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -488,7 +450,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 4.5
+      "score": 4.25
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -520,7 +482,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 1.5
+      "score": 1.25
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -582,7 +544,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 2.5
+      "score": 2.25
     },
     {
       "id": "http://arxiv.org/abs/2604.16803v1",
@@ -639,7 +601,7 @@
         }
       ],
       "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 2.75
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2604.16792v1",
@@ -696,65 +658,7 @@
           "name": "Stephane Arnouts"
         }
       ],
-      "score": 0.55
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.15968v2",
-      "title": "Missing pairs in open cluster catalogs",
-      "updated": "2026-04-21T15:45:03Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.15968v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.15968v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters (OCs) in our Galaxy can be found in pairs, possibly forming physical binaries, or in groups. These objects offer unique insights into the process of star formation and testify to the dynamical interactions at local and galactic scales. Therefore, building as complete a census as possible is a valuable endeavor. This work is aimed at identifying and characterizing new OC pair candidates that had been overlooked in previous studies. Two recent comprehensive catalogs were cross-matched to identify OCs in the first catalog that had been missing from the second one. From this list, counterparts in the second catalog were searched within a 3D distance of 50 pc. Candidate pairs were then selected by applying constraints on the tangential velocity (TV) difference. An orbital integration was performed to assess gravitational binding. The similarity in terms of the radial velocity (RV) and age was evaluated. We identified seven isolated binary cluster candidates, comprising two likely bound systems with stable orbits over 100 Myr; two pairs with a possible common origin but lacking RV confirmation; and three pairs with significant velocity discrepancies, suggesting they are unbound or in transitional states. We also identified six cluster group candidates, while refining the membership of known complexes such as UBC\\_672 and NGC\\_1977, and discovering a new group around FSR\\_0198. Notably, the UBC\\_392 group exhibits coherent proper motions but inconsistent RVs and large age spreads, indicating that it is not gravitationally bound. Additionally, we reconciled 15 clusters with discrepant nomenclature between the two catalogs. Multi-catalog integration combined with kinematic and dynamical validation is essential for establishing a complete census of Galactic cluster pairs.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-17T11:30:50Z",
-      "arxiv:comment": "14 pages, 7 figures, 3 tables, accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Qingshun Hu"
-        },
-        {
-          "name": "Yufei Cai"
-        },
-        {
-          "name": "Caroline Soubiran"
-        },
-        {
-          "name": "Yu Dai"
-        },
-        {
-          "name": "Yuting Li"
-        },
-        {
-          "name": "Yangping Luo"
-        },
-        {
-          "name": "Mingfeng Qin"
-        }
-      ],
-      "score": 7.7
+      "score": 0.3
     }
   ]
 }
