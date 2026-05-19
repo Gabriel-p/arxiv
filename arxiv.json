@@ -1,6 +1,181 @@
 {
-  "fetched_at": "2026-05-18T13:26:05.757258",
+  "fetched_at": "2026-05-19T13:18:09.351230",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.18665v1",
+      "title": "CCD () photometry of the open cluster NGC 6793 and its dynamical evolution",
+      "updated": "2026-05-18T17:10:03Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.18665v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.18665v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present new astrophysical parameters for the open cluster NGC~6793 based on new CCD $UBV(RI)_{KC}$ photometry. We derived a reddening of $E(B-V) = 0.24 \\pm 0.02$~mag and a heavy element abundance of $Z = 0.024$ ($[Fe/H] = +0.20$~dex). Padova isochrone fitting to the $V \\times (B-V)$ colour-magnitude diagram yields an intermediate age of $525 \\pm 51$~Myr and a distance modulus of $μ= 8.80 \\pm 0.05$~mag, corresponding to a distance of $d = 575 \\pm 58$~pc from the Sun. The core radius of NGC~6793 appears to be shrinking due to advanced dynamical evolution ($\\logτ_{2} = 1.13$), driven by mass segregation and the evaporation of low-mass stars from the central region. The ratios of core to half-mass radius ($R_{c}/R_{h}$) and half-mass to Jacobi radius ($R_{h}/R_{J}$) indicate that the cluster's evolution is governed by the combined effects of internal two-body relaxation, mass segregation, and external tidal perturbations. The ratio $R_{t}/R_{J} = 0.99$ suggests that the cluster is currently in a tidally filling state. The parameter pairs ($t_{diss}/t_{rlx_{1}} = 40$, $\\log R_{J}/R_{c} = 0.72$) and ($R_{h}/R_{J} = 0.38$, $\\logρ_{amb} = -0.88$) place NGC~6793 among the relatively compact clusters within $R_{GC} < 7.9$~kpc. This implies a compact internal structure that is stable against the combined effects of two-body encounters and tidal heating. Given its current state, NGC~6793 will likely dissolve and disperse before entering the final contraction phase ($R_{4}$ regime).",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-18T17:10:03Z",
+      "arxiv:comment": "24 pages and 17 figures, accepted for publishing at Journal of Astrophysics and Astronomy JAA",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Zahra Al"
+        },
+        {
+          "name": "Yüksel Karataş"
+        },
+        {
+          "name": "Raul Michel Murillo"
+        },
+        {
+          "name": "Charles Bonatto"
+        },
+        {
+          "name": "Orhan Güneş"
+        },
+        {
+          "name": "İnci Akkaya Oralhan"
+        },
+        {
+          "name": "Eyüp Kaan Ülgen"
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.17372v1",
+      "title": "From inter-filamentary gas to filaments and hubs: gas flows in the Mon R2 hub-filament system",
+      "updated": "2026-05-17T10:28:38Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.17372v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.17372v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Hub-filament systems (HFSs) play an important role in the formation of massive stars and star clusters. Although the velocity structures along dense filaments have been studied, the gas kinematics in the low density inter-filament regions has not been investigated. We use $^{13}$CO ($J$ = 1--0) and C$^{18}$O ($J$ = 1--0) observations obtained with the Nobeyama 45 m telescope to study the gas dynamics towards the Monoceros R2 (Mon R2) HFS. From the $^{13}$CO and C$^{18}$O data, tracing low- and high-density gas, respectively, we identify velocity coherent structures and divide them into filaments (Fs) and inter-filamentary regions (IFs). We estimate velocity gradients ($Δv$) and mass accretion rates ($\\dot{M}$) along ($\\parallel$) and across ($\\perp$) the Fs and IFs. The mean ratio of $\\dot{M}_\\parallel$ to $\\dot{M}_\\perp$ in Fs is 6.8, while that in IFs is 1.5. These results show that the overall gas within both Fs and IFs flows directly into the hub and the gas flows faster along the Fs than the IFs. In addition, we found that at least 30\\% of the gas mass in the IFs may flow towards the Fs replenishing the latter with new matter. Our study reveals the importance of considering the total gas mass reservoir, both low- and high-density, infalling into the hub and promoting the formation of massive stars, which are preferentially located in the hub of Mon R2.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-17T10:28:38Z",
+      "arxiv:comment": "This paper was accepted for publication in ApJL on 16 May 2026",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jihye Hwang"
+        },
+        {
+          "name": "Doris Arzoumanian"
+        },
+        {
+          "name": "Yoshito Shimajiri"
+        },
+        {
+          "name": "Masahiro N. Machida"
+        },
+        {
+          "name": "Inutsuka Shu-ichiro"
+        },
+        {
+          "name": "M. S. N. Kumar"
+        },
+        {
+          "name": "Shingo Nozaki"
+        },
+        {
+          "name": "Kazuki Tokuda"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.16657v1",
+      "title": "The bound origin of low-mass stellar binaries",
+      "updated": "2026-05-15T21:52:54Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.16657v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.16657v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1038/s41550-025-02686-5",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Most main sequence stars, unlike our Sun, belong to multiple systems with two or more stars. How and when these multiples come together and become bound is uncertain, since the earliest stages of star formation are difficult to resolve. We analyze simulations of star cluster formation in Milky Way-like conditions, including all key physics and stellar feedback mechanisms, to understand how multiple systems form. We show that $\\approx 70-80\\%$ of binaries are gravitationally bound from the moment the second star forms. Binaries evolve and accrete together, which will affect their planetary systems and chemical evolution. Half of the binaries are disrupted by the end of the star-formation epoch, such that $\\approx40\\%$ of the final single stars belonged to a multiple at some point, with implications for the stellar initial mass function. Formation in multiples is the dominant mode of star formation, accounting for at least 57% of stars.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-15T21:52:54Z",
+      "arxiv:comment": "Main text: 11 pages, 5 figures. 5 extended data figures. 2 supplementary figures. Published in Nature Astronomy Oct 15 2025",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "arxiv:journal_ref": "Nat Astron 9, 1860-1868 (2025)",
+      "author": [
+        {
+          "name": "A. Generozov"
+        },
+        {
+          "name": "S. S. R. Offner"
+        },
+        {
+          "name": "K. M. Kratter"
+        },
+        {
+          "name": "H. B. Perets"
+        },
+        {
+          "name": "D. Guszejnov"
+        },
+        {
+          "name": "M. Y. Grudić"
+        }
+      ],
+      "arxiv:doi": "10.1038/s41550-025-02686-5",
+      "score": 0.25
+    },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
       "title": "The Distribution of Blue Straggler Stars in the Color-Magnitude Diagrams of Old Open Clusters",
@@ -42,7 +217,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 7.0
+      "score": 6.75
     },
     {
       "id": "http://arxiv.org/abs/2605.14017v1",
@@ -88,7 +263,7 @@
           "name": "Sean M. Ressler"
         }
       ],
-      "score": 1.0
+      "score": 0.75
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -125,7 +300,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 4.0
+      "score": 3.75
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -174,7 +349,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 4.25
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -262,59 +437,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 10.05
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.05293v1",
-      "title": "Life is But a Stream: The Distribution of Planetary Systems Along Stellar Streams and their Properties",
-      "updated": "2026-05-06T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.05293v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.05293v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The majority of discovered exoplanets have been observed orbiting field stars as opposed to within a star cluster. To determine whether the lack of observed exoplanets in star clusters is due to gravitational perturbations or observational limitations, we consider the possibility of studying exoplanets in stellar streams. We present the results of direct $N$-body simulations of planetary systems around stars that orbit within a star cluster. Our simulations demonstrate that stars with early cluster escape times tend to retain all their planets as they spend most of their time orbiting in the cluster's low-density outskirts. Alternatively, stars with later escape times can have a wide range of survival fractions as they are subjected to a range of local densities and encounter types. With respect to the stellar stream that forms as the result of the cluster's dissolution, stars near the edge of the stream are therefore more likely to have unperturbed planetary systems. Conversely, stars near the centre of the stream have a higher chance of having planets pushed to eccentric orbits, inclined orbits, or stripped from the system entirely. From our suite of simulations, we provide an estimate of the probability that a star will host a planet with a given initial semi-major axis $a_0$ based on the star's location along a stellar stream $Δφ$.",
-      "category": [
-        {
-          "@term": "astro-ph.EP",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-06T18:00:00Z",
-      "arxiv:comment": "12 pages, 9 figures, Accepted for Publication in ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.EP"
-      },
-      "author": [
-        {
-          "name": "Jeremy J. Webb"
-        },
-        {
-          "name": "Milica Ivetic"
-        },
-        {
-          "name": "Maxwell X. Cai"
-        },
-        {
-          "name": "Simon Portegies Zwart"
-        },
-        {
-          "name": "Daniella Morrone"
-        }
-      ],
-      "score": 0.25
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -375,7 +498,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 8.3
+      "score": 8.05
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -407,7 +530,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 13.55
+      "score": 13.3
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -450,7 +573,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 4.25
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -482,7 +605,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 1.25
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -544,121 +667,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 2.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.16803v1",
-      "title": "W UMa-Type Contact Binaries in the Tidal Tails of Young Open Cluster COIN-Gaia 25 and Mamajek 4",
-      "updated": "2026-04-18T03:23:23Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.16803v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.16803v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1088/1674-4527/ae616b",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Star clusters, as dynamically rich environments, are thought to be important sites for the formation of contact binaries. To investigate this, we conducted a systematic search for contact binaries within two young open clusters, COIN-Gaia 25 and Mamajek 4, and their associated tidal tails. From this search, we identified and confirmed two contact binary systems: ASASSN-V J064923.44+013758.4 in the tidal tail of COIN-Gaia 25, and ASASSN-V J173229.06-613712.5 in the tidal tail of Mamajek 4. Using TESS light curve data, we performed detailed modeling with a Markov Chain Monte Carlo (MCMC) method within the 2015 version of the Wilson-Devinney (W-D) code. The resulting photometric parameters are: q_ph = 0.316 (0.013), i= 76.9 (+1.3, -0.9) degrees, f=23.1 (+1.4, -1.9)% for ASASSN-V J064923.44+013758.4, and q_ph = 0.130 (0.004), i= 68.4 (+1.4, -1.3) degrees, f=66.3 (+5.0, -5.3)% for ASASSN-V J173229.06-613712.5. A cool-spot model located on the more massive component was successfully implemented for each system. The derived parameters classify ASASSN-V J173229.06-613712.5 as a deep, low-mass-ratio contact binary. Its location in the tidal tail of Mamajek 4 constrains its age to < 371 Myr, supporting the view that the total lifetime of some contact binaries may be as short as a few thermal timescales. After evaluating standard formation mechanisms, we propose that ASASSN-V J173229.06-613712.5 likely formed via efficient orbital hardening (potentially mediated by gas dynamical friction) during the early, gas-rich phase of its host cluster's evolution. This study demonstrates the value of young clusters and their tidal tails in providing robust age constraints to explore the formation and rapid evolution of contact binaries.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-18T03:23:23Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Xiang Bin"
-        },
-        {
-          "name": "Liu Liang"
-        },
-        {
-          "name": "Zhu Liying"
-        },
-        {
-          "name": "Shi Xiangdong"
-        },
-        {
-          "name": "Liu Nianping"
-        }
-      ],
-      "arxiv:doi": "10.1088/1674-4527/ae616b",
-      "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.16792v1",
-      "title": "The Role of Cluster Environments in Quiescent Galaxy Stellar Halo Assembly",
-      "updated": "2026-04-18T02:39:10Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.16792v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.16792v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "External interactions drive galaxy stellar mass growth and morphological evolution. As stellar haloes-assembled largely via hierarchical accretion-preserve signatures of these processes, their growth probes how environment regulates galaxy evolution. We investigate how cluster environments influence quiescent galaxy (QG) stellar halo assembly over 0.1 $\\leq$ $z$ $\\leq$ 1.0 in a sample of 2,168 cluster and 94,479 field QGs of $\\log M_{\\star} \\geq 9.66$. Extended emission is traced via rest-frame $g$-band surface brightness ($μ_g$) profiles extracted from deep HSC-SSP $grizy$ imaging. We study stellar halo assembly trends by linking median $μ_g$ profile evolution to the underlying mass growth in galaxy subpopulations. Over 0.1 $\\leq$ $z$ $\\leq$ 1.0, cluster QGs build up stellar haloes faster than field QGs, with a $\\sim23\\%$ and $\\sim40\\%$ larger increase in integrated stellar halo luminosity ($L_{halo}$) in the low-mass ($9.66 \\leq \\log M_{\\star} < 10.5$) and high-mass ($\\log M_{\\star} \\geq 10.5$) samples, respectively. High-mass cluster QGs host more luminous stellar haloes than the field (mean cluster-to-field $L_{halo}$ ratio of $\\sim1.2$), while low-mass cluster QGs host less luminous stellar haloes (mean ratio of $\\sim0.87$). Among cluster QGs of $\\log M_{\\star} \\geq 10$, $L_{halo}$ increases with host cluster mass, but decreases for cluster QGs of $\\log M_{\\star} < 10$. These results suggest higher-mass cluster QGs ($\\log M_{\\star} \\geq 10$) experience enhanced stellar halo growth over 0.1 $\\leq$ $z$ $\\leq$ 1.0 fueled by increased merger-driven accretion, likely from minor mergers in cluster outskirts or in pre-infall group and filament environments. Lower-mass cluster QGs ($9.66 \\leq \\log M_{\\star} < 10$) instead have suppressed stellar halo growth in clusters and likely lose outer stellar material to environmental stripping or accretion by high-mass galaxies during mergers.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-18T02:39:10Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Devin J. Williams"
-        },
-        {
-          "name": "Ivana Damjanov"
-        },
-        {
-          "name": "Marcin Sawicki"
-        },
-        {
-          "name": "Harrison Souchereau"
-        },
-        {
-          "name": "Lingjian Chen"
-        },
-        {
-          "name": "Guillaume Desprez"
-        },
-        {
-          "name": "Angelo George"
-        },
-        {
-          "name": "Stephen Gwyn"
-        },
-        {
-          "name": "Stephane Arnouts"
-        }
-      ],
-      "score": 0.3
+      "score": 2.0
     }
   ]
 }
