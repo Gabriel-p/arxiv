@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T13:18:09.351230",
+  "fetched_at": "2026-05-20T13:05:05.894928",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -57,20 +57,20 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 8.0
+      "score": 7.75
     },
     {
-      "id": "http://arxiv.org/abs/2605.17372v1",
+      "id": "http://arxiv.org/abs/2605.17372v2",
       "title": "From inter-filamentary gas to filaments and hubs: gas flows in the Mon R2 hub-filament system",
-      "updated": "2026-05-17T10:28:38Z",
+      "updated": "2026-05-19T12:22:30Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2605.17372v1",
+          "@href": "https://arxiv.org/abs/2605.17372v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2605.17372v1",
+          "@href": "https://arxiv.org/pdf/2605.17372v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -100,7 +100,7 @@
           "name": "Masahiro N. Machida"
         },
         {
-          "name": "Inutsuka Shu-ichiro"
+          "name": "Shu-ichiro Inutsuka"
         },
         {
           "name": "M. S. N. Kumar"
@@ -112,68 +112,6 @@
           "name": "Kazuki Tokuda"
         }
       ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.16657v1",
-      "title": "The bound origin of low-mass stellar binaries",
-      "updated": "2026-05-15T21:52:54Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.16657v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.16657v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1038/s41550-025-02686-5",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Most main sequence stars, unlike our Sun, belong to multiple systems with two or more stars. How and when these multiples come together and become bound is uncertain, since the earliest stages of star formation are difficult to resolve. We analyze simulations of star cluster formation in Milky Way-like conditions, including all key physics and stellar feedback mechanisms, to understand how multiple systems form. We show that $\\approx 70-80\\%$ of binaries are gravitationally bound from the moment the second star forms. Binaries evolve and accrete together, which will affect their planetary systems and chemical evolution. Half of the binaries are disrupted by the end of the star-formation epoch, such that $\\approx40\\%$ of the final single stars belonged to a multiple at some point, with implications for the stellar initial mass function. Formation in multiples is the dominant mode of star formation, accounting for at least 57% of stars.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-15T21:52:54Z",
-      "arxiv:comment": "Main text: 11 pages, 5 figures. 5 extended data figures. 2 supplementary figures. Published in Nature Astronomy Oct 15 2025",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "arxiv:journal_ref": "Nat Astron 9, 1860-1868 (2025)",
-      "author": [
-        {
-          "name": "A. Generozov"
-        },
-        {
-          "name": "S. S. R. Offner"
-        },
-        {
-          "name": "K. M. Kratter"
-        },
-        {
-          "name": "H. B. Perets"
-        },
-        {
-          "name": "D. Guszejnov"
-        },
-        {
-          "name": "M. Y. Grudić"
-        }
-      ],
-      "arxiv:doi": "10.1038/s41550-025-02686-5",
       "score": 0.25
     },
     {
@@ -217,7 +155,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 6.75
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2605.14017v1",
@@ -263,7 +201,7 @@
           "name": "Sean M. Ressler"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -300,7 +238,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -349,7 +287,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 4.0
+      "score": 3.75
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -437,7 +375,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 9.8
+      "score": 9.55
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -530,7 +468,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 13.3
+      "score": 13.05
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -573,7 +511,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 4.0
+      "score": 3.75
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -605,7 +543,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 1.0
+      "score": 0.75
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -667,7 +605,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 2.0
+      "score": 1.75
     }
   ]
 }
