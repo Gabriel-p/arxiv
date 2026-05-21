@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T13:18:38.504594",
+  "fetched_at": "2026-05-21T19:50:13.904366",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.20835v1",
@@ -42,7 +42,7 @@
           "name": "Tsuyoshi Inoue"
         }
       ],
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2605.20489v1",
@@ -85,53 +85,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 3.55
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.20381v1",
-      "title": "Formation of intermediate-mass black holes in young massive clusters detected with JWST: analytic mass estimates",
-      "updated": "2026-05-19T18:32:10Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.20381v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.20381v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The James Webb Space Telescope (JWST) has revealed a population of dense stellar systems at high redshift, including the \"Cosmic Gems\" arc ($z \\sim 10.2$) and the \"Firefly Sparkle\" ($z \\sim 8.3$). With masses in the range of $10^5$~M$_\\odot$-$10^7$M$_\\odot$ and half-mass radii in the range from $\\sim0.4$-$15$ pc, these systems are ideally suited to form intermediate-mass black holes (IMBHs) via collision-based models. While direct N-body simulations are unfeasible for such a large population and given the high masses in many of the clusters, we estimate the IMBH masses formed via runaway stellar collisions in these specific environments utilizing a Fokker-Planck model together with an analytical framework for runaway collisions and mass loss through winds, which has been validated against direct N-body simulations of compact star clusters. We apply this model to a sample of massive high-redshift clusters observed with JWST. Our estimates yield typical IMBH masses in the range of $\\sim10^2$ M$_\\odot$ {\\bf up to $\\sim4\\times 10^3$ M$_\\odot$,} implying typical formation efficiencies on the few percent level. The extreme compactness of the Cosmic Gems clusters ($R_h \\sim 1$ pc) facilitates the formation of black hole seeds with high masses of $1600-2700 {\\rm M}_\\odot$. Low metallicity ($Z \\lesssim 0.02 \\, {\\rm Z}_\\odot$) is a critical factor for retaining the seed mass against stellar winds. We further demonstrate that the efficiencies obtained here are consistent with expectations based on direct N-body simulations. Our results suggest that these dense, metal-poor clusters are viable factories for heavy seeds, capable of growing into the supermassive black holes observed in the early Universe.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-19T18:32:10Z",
-      "arxiv:comment": "Submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Viola Bocchi"
-        },
-        {
-          "name": "Matías Liempi"
-        },
-        {
-          "name": "Dominik R. G. Schleicher"
-        }
-      ],
-      "score": 0.75
+      "score": 3.3
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -189,7 +143,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 7.5
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -232,53 +186,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 6.25
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.14017v1",
-      "title": "Constraining the Galactic Center Dark Cluster with ELT/MICADO Observations",
-      "updated": "2026-05-13T18:29:18Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.14017v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.14017v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The Galactic Center hosts the densest known stellar environment in the Milky Way, dominated by the massive black hole Sgr A* and the surrounding nuclear star cluster. Theory predicts that this region should also contain a large population of stellar compact objects (SCOs) - black holes, neutron stars, and white dwarfs - forming a \"dark cluster\" whose distribution and properties remain observationally unconstrained. These unseen stellar remnants are central to questions of mass segregation, cluster dynamics, and the expected rate of extreme mass ratio inspirals (EMRIs) detectable by future gravitational-wave observatories including LISA. Current evidence for SCOs in the Galactic Center is indirect, relying on dynamical mass measurements, X-ray surveys, and a small number of transient sources. Direct detections remain elusive due to crowding, extinction, and the sensitivity limits of existing instruments. We explore how upcoming facilities, in particular the Extremely Large Telescope (ELT) with its first-light imager MICADO, can fundamentally transform this field. MICADO's combination of deep photometry, high spatial resolution, and precise astrometry will enable systematic searches for SCO-star binaries via photometric variability and orbital astrometric signatures, as well as direct detection of isolated accreting black holes interacting with the gas-rich Galactic Center environment. We outline the observational pathways, technical challenges, and expected sensitivities, showing that ELT/MICADO observations can provide the first quantitative constraints on the dark cluster population. Establishing these constraints will be pivotal for understanding the dynamical evolution of the Galactic Center, the role of compact remnants in nuclear star clusters, and the astrophysical context of gravitational-wave sources in galactic nuclei.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-13T18:29:18Z",
-      "arxiv:comment": "Accepted for publication in A&A (aa59043-26)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Sebastiano D. von Fellenberg"
-        },
-        {
-          "name": "Matúš Labaj"
-        },
-        {
-          "name": "Sean M. Ressler"
-        }
-      ],
-      "score": 0.25
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -315,7 +223,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 3.25
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -364,7 +272,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 3.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -452,7 +360,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 9.3
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -513,7 +421,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 7.55
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -545,144 +453,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 12.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.23093v1",
-      "title": "Analysis of a Septuple Open Cluster System and Its Extended Family in Gaia DR3",
-      "updated": "2026-04-25T01:14:52Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.23093v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.23093v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A rare multiple open cluster system has been analyzed using Gaia DR3 astrometry and photometry data. Using Agglomerative Hierarchical clustering and Bayesian-HDBSCAN, we identify a compact core consisting of seven known open clusters and two additional components, including a new candidate, forming a nine-member association. Membership probabilities are refined through statistical modeling, combining GUMM, Bayesian-KDE, and Bayesian-XDGMM for tidal tails identification. Backward orbital integrations confirm coherent motions over 20-30 million years, suggesting a common origin from the same massive molecular cloud. This system offers a unique laboratory for investigating cluster multiplicity, dynamical evolution, and Galactic structure.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-25T01:14:52Z",
-      "arxiv:comment": "4 pages, 5 Figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Muhammad Akmal Husain"
-        },
-        {
-          "name": "Ferdinand"
-        },
-        {
-          "name": "Mochamad Ikbal Arifyanto"
-        },
-        {
-          "name": "Muhammad Irfan Hakim"
-        }
-      ],
-      "score": 3.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.22924v1",
-      "title": "Supermassive stars with embedded stellar black hole cores: dense assembling star clusters as faint multiple Little Red Dot systems",
-      "updated": "2026-04-24T18:00:08Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.22924v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.22924v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Numerical simulations have established that star clusters with densities comparable to the high redshift ($z>6$-$10$) James Webb Space Telescope (JWST) proto globular clusters may build up extremely massive (EMSs; $m_\\mathrm{\\star}>1000 M_\\odot$) or even supermassive stars (SMSs; $m_\\mathrm{\\star}>10000 M_\\odot$) and potentially intermediate mass black holes (IMBHs) through runaway stellar collisions. Using direct simulations of assembling star clusters including post-Newtonian black hole dynamics and stellar evolution, we demonstrate that in such dense environments ($Σ_\\mathrm{h} \\gtrsim 10^6 M_\\odot$pc$^\\mathrm{-2}$) stellar BHs ($m_\\bullet \\lesssim 60 M_\\odot$), driven by rapid mass segregation and relaxation effects within the sphere of influence of the EMSs/SMSs, may strongly interact with the extremely massive stars and become embedded within their gaseous layers. We suggest that this quasi-star (QS) like embedded BH phase is a natural outcome of the runaway formation of EMSs/SMSs in the densest star clusters. The QS phase is orders of magnitude longer in duration than the lifetime of the SMS, enabling an extended growth period by stellar collisions, and allows the formation of embedded gravitational wave sources if the QS captures more than a single stellar BH. The star cluster assembly region sizes ($\\sim100$ pc), QS masses ($\\gtrsim 10^4 M_\\odot$) and their proximity to young, massive blue star forming clumps are consistent with the faint population of multiple little red dots (LRDs) recently discovered by the JWST.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-24T18:00:08Z",
-      "arxiv:comment": "11 pages, 5 figures, submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Antti Rantala"
-      },
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.22573v1",
-      "title": "A homogeneous three-dimensional view of Molecular Cloud kinematics out to 2.5 kpc. Using Young Stellar Objects and Open Clusters as complementary tracers",
-      "updated": "2026-04-24T14:05:19Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.22573v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.22573v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Understanding the large-scale dynamics of molecular clouds (MCs) is crucial for constraining the processes that govern star formation and the structure and evolution of the Galaxy. While gas tracers have traditionally been used to map MC kinematics, stellar tracers such as young stellar objects (YSOs) and open clusters (OCs) provide a complementary approach that enables direct comparisons between the stellar and gaseous components. We aim to validate OCs as complementary tracers by testing whether they retain the same bulk kinematic imprint as YSOs, and to reconstruct the three-dimensional (3D) motions of the main MC complexes within 2.5 kpc of the Sun using YSOs and young OCs as tracers. Using Gaia DR3 astrometry together with complementary spectroscopic surveys for radial velocities, we compiled a unified sample of 24,732 stellar tracers. We applied robust clustering in proper motion space to identify co-moving YSOs and derived cloud-averaged motions via Monte Carlo sampling. These were compared with the kinematics of OCs younger than 30 Myr. Finally, we performed orbital integrations in a realistic Galactic potential to trace the past evolution of the clouds and quantify their expansion and rotation. We derive homogeneous 3D kinematics for 15 MC complexes within 2.5 kpc. YSOs and OCs exhibit strongly consistent kinematics, with a median spatial velocity offset of $\\simeq 2$ km s$^{-1}$, confirming that both populations trace the bulk motion of their parent clouds. The resulting cloud kinematics show a median peculiar velocity of $\\simeq 8.7$ km s$^{-1}$ with respect to Galactic rotation. We trace back the Solar System's voyage through the Orion cloud and the common origin of Lupus, Ophiuchus, and Corona Australis in Sco-Cen. Internally, we detect significant expansion in Orion and Ophiuchus ($5σ$) and coherent rotation in at least seven complexes.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-24T14:05:19Z",
-      "arxiv:comment": "16 pages, 5 figures. Submitted to A&A; revised version after first referee report",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Xabier Pérez-Couto"
-        },
-        {
-          "name": "Santiago Torres"
-        },
-        {
-          "name": "Nuria Miret-Roig"
-        },
-        {
-          "name": "Friedrich Anders"
-        },
-        {
-          "name": "Alexander J. Mustill"
-        },
-        {
-          "name": "Eva Villaver"
-        },
-        {
-          "name": "Minia Manteiga"
-        }
-      ],
-      "score": 1.5
+      "score": 6.8
     }
   ]
 }
