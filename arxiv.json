@@ -1,6 +1,138 @@
 {
-  "fetched_at": "2026-05-20T13:05:05.894928",
+  "fetched_at": "2026-05-21T13:18:38.504594",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.20835v1",
+      "title": "Evolution of compressed clouds formed by filament coalescence. I. Oblique collisions",
+      "updated": "2026-05-20T07:26:59Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.20835v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.20835v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Stars are thought to form predominantly within filamentary molecular clouds. Recent studies have suggested that active star formation, including the formation of stellar clusters and massive stars, occurs within so-called \"hub\" structures, where multiple filaments converge. Understanding the formation and evolution of such hub-filament systems is therefore essential for unveiling the physical processes responsible for cluster and massive star formation, although the full picture remains incomplete. To address this, we have focused on filament-filament collisions as a potential formation mechanism of the hubs. In this study, we investigate the fundamental evolutionary processes of oblique collisions between two magnetized filaments using three-dimensional ideal magnetohydrodynamical simulations. As a model of initial filaments, we consider two identical finite-length magnetized filaments, varying the collision angle between their long axes, the collision velocity, which is set perpendicular to the long axes, and the initial line mass. We find that as the collision angle decreases from orthogonal to parallel, the compressed cloud becomes more prone to gravitational collapse. In addition, the instability of the post-collision compressed cloud can be explained by its energy balance. Specifically, if the absolute value of the gravitational energy exceeds the sum of the kinetic, thermal, and magnetic energies immediately after the collision, the cloud undergoes gravitational collapse. Conversely, if the gravitational energy is smaller, the cloud expands. In addition, we estimate the upper limit of the collision velocity that enables hub-filament formation and identify the collision conditions favorable for massive star formation.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-20T07:26:59Z",
+      "arxiv:comment": "14 pages, 8 figures, Accepted to Publications of the Astronomical Society of Japan (PASJ)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Raiga Kashiwagi"
+        },
+        {
+          "name": "Kazunari Iwasaki"
+        },
+        {
+          "name": "Kohji Tomisaka"
+        },
+        {
+          "name": "Tsuyoshi Inoue"
+        }
+      ],
+      "score": 0.75
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.20489v1",
+      "title": "Dynamical Cluster Assembly Framework (D-CAF): The Link Between Star Cluster Formation and Expansion Rates",
+      "updated": "2026-05-19T20:55:22Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.20489v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.20489v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We introduce the Dynamical Cluster Assembly Framework (D-CAF), an AMUSE-based framework designed to connect embedded star formation histories to the dynamical evolution of young stellar systems. We model star formation through the gradual formation of stars inside an evolving background potential, where the global gas evolution is extracted from realistic magneto-hydrodynamical (MHD) simulations. In this first work, we focus on the global evolution of the natal gas and its dynamical imprint on the stellar population. Across all explored MHD setups, we find that the gas continues to collapse while stars are forming, increasing both the central concentration and velocity scale of the embedded stellar population before gas expulsion. Using a controlled grid of direct $N$-body simulations, we show that this embedded evolution strongly regulates both the survival and later expansion of young stellar systems. In particular, gas contraction shortens the stellar crossing time prior to gas expulsion, making the same gas-removal timescale effectively more adiabatic for the stars. We find that the present-day expansion of stellar associations still preserves information about the embedded dynamical state reached during formation. The expansion rate is limited by the velocity scale reached before gas expulsion, while the efficiency with which this velocity field is transformed into expansion depends on the gas-expulsion timescale. Finally, we show that some commonly used expansion diagnostics can directly trace the physical expansion rate of young stellar systems when full kinematic information is available, opening the possibility of using stellar kinematics to constrain the dynamical conditions of embedded star formation.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-19T20:55:22Z",
+      "arxiv:comment": "25 pages, 10 figures. Submitted to Apj",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Juan P. Farias"
+        },
+        {
+          "name": "Alison Sills"
+        }
+      ],
+      "score": 3.55
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.20381v1",
+      "title": "Formation of intermediate-mass black holes in young massive clusters detected with JWST: analytic mass estimates",
+      "updated": "2026-05-19T18:32:10Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.20381v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.20381v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The James Webb Space Telescope (JWST) has revealed a population of dense stellar systems at high redshift, including the \"Cosmic Gems\" arc ($z \\sim 10.2$) and the \"Firefly Sparkle\" ($z \\sim 8.3$). With masses in the range of $10^5$~M$_\\odot$-$10^7$M$_\\odot$ and half-mass radii in the range from $\\sim0.4$-$15$ pc, these systems are ideally suited to form intermediate-mass black holes (IMBHs) via collision-based models. While direct N-body simulations are unfeasible for such a large population and given the high masses in many of the clusters, we estimate the IMBH masses formed via runaway stellar collisions in these specific environments utilizing a Fokker-Planck model together with an analytical framework for runaway collisions and mass loss through winds, which has been validated against direct N-body simulations of compact star clusters. We apply this model to a sample of massive high-redshift clusters observed with JWST. Our estimates yield typical IMBH masses in the range of $\\sim10^2$ M$_\\odot$ {\\bf up to $\\sim4\\times 10^3$ M$_\\odot$,} implying typical formation efficiencies on the few percent level. The extreme compactness of the Cosmic Gems clusters ($R_h \\sim 1$ pc) facilitates the formation of black hole seeds with high masses of $1600-2700 {\\rm M}_\\odot$. Low metallicity ($Z \\lesssim 0.02 \\, {\\rm Z}_\\odot$) is a critical factor for retaining the seed mass against stellar winds. We further demonstrate that the efficiencies obtained here are consistent with expectations based on direct N-body simulations. Our results suggest that these dense, metal-poor clusters are viable factories for heavy seeds, capable of growing into the supermassive black holes observed in the early Universe.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-19T18:32:10Z",
+      "arxiv:comment": "Submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Viola Bocchi"
+        },
+        {
+          "name": "Matías Liempi"
+        },
+        {
+          "name": "Dominik R. G. Schleicher"
+        }
+      ],
+      "score": 0.75
+    },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
       "title": "CCD () photometry of the open cluster NGC 6793 and its dynamical evolution",
@@ -57,62 +189,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 7.75
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.17372v2",
-      "title": "From inter-filamentary gas to filaments and hubs: gas flows in the Mon R2 hub-filament system",
-      "updated": "2026-05-19T12:22:30Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.17372v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.17372v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Hub-filament systems (HFSs) play an important role in the formation of massive stars and star clusters. Although the velocity structures along dense filaments have been studied, the gas kinematics in the low density inter-filament regions has not been investigated. We use $^{13}$CO ($J$ = 1--0) and C$^{18}$O ($J$ = 1--0) observations obtained with the Nobeyama 45 m telescope to study the gas dynamics towards the Monoceros R2 (Mon R2) HFS. From the $^{13}$CO and C$^{18}$O data, tracing low- and high-density gas, respectively, we identify velocity coherent structures and divide them into filaments (Fs) and inter-filamentary regions (IFs). We estimate velocity gradients ($Δv$) and mass accretion rates ($\\dot{M}$) along ($\\parallel$) and across ($\\perp$) the Fs and IFs. The mean ratio of $\\dot{M}_\\parallel$ to $\\dot{M}_\\perp$ in Fs is 6.8, while that in IFs is 1.5. These results show that the overall gas within both Fs and IFs flows directly into the hub and the gas flows faster along the Fs than the IFs. In addition, we found that at least 30\\% of the gas mass in the IFs may flow towards the Fs replenishing the latter with new matter. Our study reveals the importance of considering the total gas mass reservoir, both low- and high-density, infalling into the hub and promoting the formation of massive stars, which are preferentially located in the hub of Mon R2.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-17T10:28:38Z",
-      "arxiv:comment": "This paper was accepted for publication in ApJL on 16 May 2026",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jihye Hwang"
-        },
-        {
-          "name": "Doris Arzoumanian"
-        },
-        {
-          "name": "Yoshito Shimajiri"
-        },
-        {
-          "name": "Masahiro N. Machida"
-        },
-        {
-          "name": "Shu-ichiro Inutsuka"
-        },
-        {
-          "name": "M. S. N. Kumar"
-        },
-        {
-          "name": "Shingo Nozaki"
-        },
-        {
-          "name": "Kazuki Tokuda"
-        }
-      ],
-      "score": 0.25
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -155,7 +232,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 6.5
+      "score": 6.25
     },
     {
       "id": "http://arxiv.org/abs/2605.14017v1",
@@ -201,7 +278,7 @@
           "name": "Sean M. Ressler"
         }
       ],
-      "score": 0.5
+      "score": 0.25
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -238,7 +315,7 @@
           "name": "Aaron Smith"
         }
       ],
-      "score": 3.5
+      "score": 3.25
     },
     {
       "id": "http://arxiv.org/abs/2605.09837v1",
@@ -287,7 +364,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -375,7 +452,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 9.55
+      "score": 9.3
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -436,7 +513,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 8.05
+      "score": 7.55
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -468,7 +545,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 13.05
+      "score": 12.8
     },
     {
       "id": "http://arxiv.org/abs/2604.23093v1",
@@ -511,7 +588,7 @@
           "name": "Muhammad Irfan Hakim"
         }
       ],
-      "score": 3.75
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22924v1",
@@ -543,7 +620,7 @@
       "author": {
         "name": "Antti Rantala"
       },
-      "score": 0.75
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2604.22573v1",
@@ -605,7 +682,7 @@
           "name": "Minia Manteiga"
         }
       ],
-      "score": 1.75
+      "score": 1.5
     }
   ]
 }
