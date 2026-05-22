@@ -1,48 +1,105 @@
 {
-  "fetched_at": "2026-05-21T19:50:13.904366",
+  "fetched_at": "2026-05-22T12:59:51.450875",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2605.20835v1",
-      "title": "Evolution of compressed clouds formed by filament coalescence. I. Oblique collisions",
-      "updated": "2026-05-20T07:26:59Z",
+      "id": "http://arxiv.org/abs/2605.21682v1",
+      "title": "The Absolute Age of the Open Cluster NGC 6791 and Its Implications for Galactic Archaeology and Asteroseismic Calibration",
+      "updated": "2026-05-20T19:39:12Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2605.20835v1",
+          "@href": "https://arxiv.org/abs/2605.21682v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2605.20835v1",
+          "@href": "https://arxiv.org/pdf/2605.21682v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "Stars are thought to form predominantly within filamentary molecular clouds. Recent studies have suggested that active star formation, including the formation of stellar clusters and massive stars, occurs within so-called \"hub\" structures, where multiple filaments converge. Understanding the formation and evolution of such hub-filament systems is therefore essential for unveiling the physical processes responsible for cluster and massive star formation, although the full picture remains incomplete. To address this, we have focused on filament-filament collisions as a potential formation mechanism of the hubs. In this study, we investigate the fundamental evolutionary processes of oblique collisions between two magnetized filaments using three-dimensional ideal magnetohydrodynamical simulations. As a model of initial filaments, we consider two identical finite-length magnetized filaments, varying the collision angle between their long axes, the collision velocity, which is set perpendicular to the long axes, and the initial line mass. We find that as the collision angle decreases from orthogonal to parallel, the compressed cloud becomes more prone to gravitational collapse. In addition, the instability of the post-collision compressed cloud can be explained by its energy balance. Specifically, if the absolute value of the gravitational energy exceeds the sum of the kinetic, thermal, and magnetic energies immediately after the collision, the cloud undergoes gravitational collapse. Conversely, if the gravitational energy is smaller, the cloud expands. In addition, we estimate the upper limit of the collision velocity that enables hub-filament formation and identify the collision conditions favorable for massive star formation.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
+      "summary": "We present a new absolute age determination for NGC 6791, one of the Milky Way's oldest and most metal-rich open clusters. Its unusual properties make it an important probe of inner-disk evolution and asteroseismic calibration, but its age has remained difficult to determine because of coupled uncertainties in reddening, distance, photometry, and stellar-model physics. Gaia DR3 photometry together with detached eclipsing binaries (DEBs) in NGC 6791 are combined with 10,000 Monte Carlo isochrone sets (marginalizing over uncertainties in composition, convective mixing processes, opacities, diffusion, nuclear reaction-rates, distance modulus, and reddening) to determine the age of NGC 6791. For each isochrone we build a synthetic color-magnitude diagram (CMD) that matches the observed star count in the MSTO and subgiant-branch window and injects empirical photometric scatter perpendicular to the ridgeline, enabling CMD comparisons without artificial-star tests. We assess CMD morphology using a bootstrap-calibrated two-dimensional Kolmogorov-Smirnov statistic, and add an external check based on the nearest-point metric: a coeval DEB statistic in $(M,L)$ space. These statistics are mapped to probability-density weights via bootstrap-resampling and combined into a single isochrone weight. NGC 6791 is determined to have an age of $8.46\\pm0.66$ Gyr, $[\\mathrm{Fe/H}]=+0.280\\pm0.079$, $Y=0.2968\\pm0.0158$, $(m{-}M)_V=13.333\\pm0.058$, and $E(B{-}V)=0.183\\pm0.024$. Our error budget shows no single dominant contributor, and highlights differences between open-cluster and globular-cluster age errors. Combined with its super-solar metallicity, our age estimate favors an inner-Galaxy origin for NGC 6791 and subsequent outward migration, provides a benchmark for asteroseismic calibration at high metallicity, and extends the absolute cluster age--metallicity relation to an old, metal-rich open cluster.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-20T19:39:12Z",
+      "arxiv:comment": "Accepted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
       },
-      "published": "2026-05-20T07:26:59Z",
-      "arxiv:comment": "14 pages, 8 figures, Accepted to Publications of the Astronomical Society of Japan (PASJ)",
+      "author": [
+        {
+          "name": "George Dufresne"
+        },
+        {
+          "name": "Brian Chaboyer"
+        },
+        {
+          "name": "Rayna Rampalli"
+        }
+      ],
+      "score": 11.1
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.21593v1",
+      "title": "Predicting intermediate-mass black hole formation in star clusters with machine learning",
+      "updated": "2026-05-20T18:00:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.21593v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.21593v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Whether intermediate-mass black holes reside in nearby star clusters has remained contested for decades. We address this question by training neural network and random forest regressors on synthetic catalogs generated with the {\\sc Rapster} cluster evolution code, mapping observable cluster properties such as total mass and half-mass radius onto the mass of the heaviest black hole built up through repeated mergers. Applying these models to nearby globular and nuclear star clusters, we forecast the intermediate-mass black hole population that each system may host. Globular clusters are unlikely to contain black holes more massive than $\\sim 100\\,M_\\odot$, with an occupation fraction near 0.02, although they can produce remnants within the upper mass gap with masses approaching $100\\,M_\\odot$. Among nuclear star clusters, a handful of cases, including NGC 5102 and NGC 5206, yield predicted central black hole masses above $100\\,M_\\odot$, which we contrast with kinematically inferred estimates. Where the observationally claimed masses exceed our predictions, the implication is that the assembly history involved processes beyond hierarchical mergers, most plausibly accretion of gas and stars. Finally, we employ a normalizing flow to quantify, for individual globular clusters, the likelihood that their initial conditions were favorable to a collisional runaway during the first few million years after formation.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "gr-qc",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-20T18:00:05Z",
+      "arxiv:comment": "28 pages, 13 figures",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Raiga Kashiwagi"
+          "name": "Konstantinos Kritos"
         },
         {
-          "name": "Kazunari Iwasaki"
+          "name": "Digvijay Wadekar"
         },
         {
-          "name": "Kohji Tomisaka"
-        },
-        {
-          "name": "Tsuyoshi Inoue"
+          "name": "Emanuele Berti"
         }
       ],
-      "score": 0.5
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2605.20489v1",
@@ -85,7 +142,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -186,7 +243,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -272,7 +329,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -453,7 +510,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 6.8
+      "score": 6.3
     }
   ]
 }
