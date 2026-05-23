@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T12:59:51.450875",
+  "fetched_at": "2026-05-23T00:58:46.652889",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -45,7 +45,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 11.1
+      "score": 10.6
     },
     {
       "id": "http://arxiv.org/abs/2605.21593v1",
@@ -99,7 +99,7 @@
           "name": "Emanuele Berti"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2605.20489v1",
@@ -142,7 +142,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -200,7 +200,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -243,7 +243,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2605.13982v1",
@@ -278,55 +278,6 @@
         },
         {
           "name": "Aaron Smith"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.09837v1",
-      "title": "Simulating Star Formation and Star Cluster Assembly in the Aquila Rift Using Archival Observations",
-      "updated": "2026-05-11T00:40:21Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.09837v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.09837v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We simulate star formation and star cluster assembly inside a molecular cloud with parameters we derive directly from observations of the Aquila Rift. We model the evolution of stars and gas together while resolving close encounters between stars, the formation of new stars, and stellar feedback to follow cluster formation up to the expulsion of the surrounding gas. We find that star formation takes place in clumps spaced unevenly along Serpens South and that these clumps accrete surrounding gas to grow and form new stars. Gas flows along the filament promote the merger of these clumps into a star cluster inside the Serpens South filament. The imprints of these mergers are seen in the dynamics of the Serpens South cluster in the form of velocity space anisotropies, cluster rotation, and cluster expansion. Before gas is removed from the simulation, the Serpens South cluster merges with the nearby cluster W40 non-monolithically resulting in a fractal cluster at the end of the simulation. The dynamics inherited from the mergers throughout the simulation are still seen in the final bound stellar system after the gas has been removed. We compare these results with recent observations of Milky Way clusters to comment on their formation histories. We also study how our results change when lowering the mass resolution of our simulation and removing observations of dense gas tracers from our initial condition setup. Each of the three simulations result in different final cluster configurations pointing towards the importance of gas in cluster assembly.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-11T00:40:21Z",
-      "arxiv:comment": "Accepted for Publication in the Astrophysical Journal, 22 pages, 15 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jeremy Karam"
-        },
-        {
-          "name": "Michiko S. Fujii"
-        },
-        {
-          "name": "Rachel Friesen"
-        },
-        {
-          "name": "Alison Sills"
         }
       ],
       "score": 0.5
@@ -417,7 +368,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -478,7 +429,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
