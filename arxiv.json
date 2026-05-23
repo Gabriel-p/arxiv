@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T00:58:46.652889",
+  "fetched_at": "2026-05-23T12:29:35.744642",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -461,7 +461,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 6.3
+      "score": 5.8
     }
   ]
 }
