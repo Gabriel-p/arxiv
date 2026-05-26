@@ -1,6 +1,65 @@
 {
-  "fetched_at": "2026-05-26T00:59:41.933379",
+  "fetched_at": "2026-05-26T08:53:07.106168",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.25957v1",
+      "title": "Chronos: Towards a self-consistent and absolute stellar age scale. I. A Bayesian hierarchical lithium-age model: Validation on the Pleiades cluster",
+      "updated": "2026-05-25T15:30:25Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.25957v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.25957v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Context. Establishing a self-consistent age scale for stellar populations requires physically well-calibrated chronometers. Among these, lithium-based diagnostics, particularly the lithium depletion boundary (LDB), provide one of the most robust age constraints for stellar populations in the low-mass regime. However, their application is limited by heterogeneous temperature scales and astrophysical dispersion, especially among FGK stars, where rotation can significantly affect lithium abundances.\n  Aims. As a first step towards a self-consistent age scale, our aim has been to formulate Chronos, the first version of a Bayesian hierarchical lithium-based age-dating model combined with a neural network trained on stellar evolutionary models.\n  Methods. We implemented a Bayesian hierarchical model that jointly infers stellar effective temperatures, lithium abundances, and the global age of a stellar association. The theoretical LDB is provided by a pre-trained multilayer perceptron based on BT--Settl evolutionary models. The model incorporates a temperature-dependent transition between fully convective ultra-cool dwarfs (UCDs) and FGKM dwarf stars, together with a two-component FGK mixture to account for rotation-induced lithium enhancement. We applied the method to the Pleiades cluster and performed a validation using synthetic datasets.\n  Results. For the Pleiades cluster, Chronos yields a posterior age distribution centred at $\\mathrm{Age}=124.53_{-2.70}^{+3.34}$ Myr, consistent with classical LDB estimates, while simultaneously constraining both global and stellar-level rotation parameters.\n  Conclusions. This work demonstrates that lithium-based stellar chronology can be recast as a coherent hierarchical inference problem, providing a flexible and statistically robust framework for making age determinations for young (1--600 Myr) stellar populations.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-25T15:30:25Z",
+      "arxiv:comment": "Accepted in Astronomy & Astrophysics, 21 pages, 18 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "L. González-Ramírez"
+        },
+        {
+          "name": "D. Barrado"
+        },
+        {
+          "name": "J. Olivares"
+        },
+        {
+          "name": "A. Berihuete"
+        },
+        {
+          "name": "L. M. Sarro"
+        },
+        {
+          "name": "F. J. Palmero"
+        }
+      ],
+      "score": 0.8
+    },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
       "title": "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones",
@@ -36,7 +95,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 9.0
+      "score": 154.0
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -461,7 +520,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 4.8
+      "score": 4.3
     }
   ]
 }

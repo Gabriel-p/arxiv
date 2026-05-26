@@ -99,12 +99,12 @@ _CATALOGS: tuple[str, ...] = tuple(s.lower() for s in _excl["catalogs"])
 # ── Numeric pattern ───────────────────────────────────────────────────────────
 # Detects large OC sample papers (e.g. "500 open clusters", "1200 clusters")
 _neg_lookbehinds = "".join(f"(?<!{name}\\s)" for name in _CATALOGS)
-_number_pattern = r"\d{2,3}(?:,\d{3})+|\d{2,}"
+_number_pattern = r"(?:\d{1,3}(?:,\d{3})+|\d+)"
 numeric_pattern = (
     rf"{_neg_lookbehinds}"
     r"(?<!\d)"
     rf"\b({_number_pattern})\b\s+"
-    r"(?:(?:new\s+)?(?:open|star)\s+)?"
+    r"(?:(?:new\s+)?(?:open\s+star\s+|open\s+|star\s+)?)"
     r"clusters?\b"
     r"(?!\s+members\b|\s+stars\b)"
 )
@@ -222,6 +222,7 @@ def filter_score(entries_raw):
         score = score_keywords(title, summary)
 
         # Numeric-sample boost (large cluster samples = high relevance)
+        score_boost = 0
         for txt in (title, summary):
             # The lookbehind ensures numbers preceded by catalog identifiers are ignored
             for match in re.findall(numeric_pattern, txt, flags=re.IGNORECASE):
@@ -232,6 +233,7 @@ def filter_score(entries_raw):
                     score += 10
                 elif count > 10:
                     score += 5
+        score += min(score_boost, 100)
 
         if score <= 0:
             continue

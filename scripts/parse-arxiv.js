@@ -49,17 +49,6 @@ async function fetchPapers() {
         // Generate truncated abstract
         const truncatedAbstract = abstract.substring(0, 200);
 
-        // li.innerHTML = `
-        //   <a class="title" href="${link}" target="_blank">${title}</a>
-        //   <div class="authors">${authors}</div>
-        //   <div class="meta">${updated} — Score: ${entry.score}</div>
-        //   <div class="abstract" data-full="${abstract}" data-truncated="${truncatedAbstract}">
-        //     ${truncatedAbstract}...
-        //   </div>
-        //   <span class="toggle-button" onclick="toggleAbstract(this)">Expand</span>
-        // `;
-
-
         li.innerHTML = `
           <a class="title" href="${link}" target="_blank">${title}</a>
           <div class="authors">${authors}</div>
