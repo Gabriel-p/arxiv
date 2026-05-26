@@ -1,6 +1,43 @@
 {
-  "fetched_at": "2026-05-24T12:32:09.815301",
+  "fetched_at": "2026-05-26T00:59:41.933379",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.23802v1",
+      "title": "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones",
+      "updated": "2026-05-22T16:00:29Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.23802v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.23802v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a homogeneous catalogue of fundamental astrophysical parameters -- age, metallicity ([Fe/H]), heliocentric distance, and colour excess $E(G_{\\mathrm{BP}}-G_{\\mathrm{RP}})$ -- for 5,056 open star clusters drawn from the Unified Cluster Catalogue (UCC). All parameters are derived uniformly from Gaia Data Release 3 (DR3) colour-magnitude diagrams via Bayesian Nested Sampling with PARSEC stellar isochrones, with no manual intervention on individual clusters. Initial metallicity $Z_{\\mathrm{ini}}$ is treated as a free parameter throughout, yielding a photometric [Fe/H] estimate for every cluster. Physically motivated priors -- parallax-based distances from Gaia DR3 astrometry, spectrophotometric metallicity constraints from Gaia XP spectra where available, and interstellar reddening from the Schlegel-Finkbeiner-Davis dust map -- reduce CMD degeneracies without anchoring the fit to any external parameter catalogue. Of the 5,056 clusters, 3,766 (74.5\\%) satisfy the fit-quality criterion $η_{\\mathrm{fit}} \\ge 0.80$. This high-quality subset spans ages 0.003-5.5~Gyr ($\\log(\\mathrm{Age/yr})$ median $8.33 \\pm 0.34$~dex), heliocentric distances 88-19,011 pc (median 2,150~pc), metallicities $-1.17 \\le \\mathrm{[Fe/H]} \\le +0.42$~dex (median $+0.002$ dex), and extinctions up to $A_G = 7.37$~mag (median 1.07~mag). The catalogue is made publicly available via CDS/VizieR; the complete nested-sampling posterior chains are archived on Zenodo.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-22T16:00:29Z",
+      "arxiv:comment": "21 pages, 9 figures, 3 tables. Submitted to ApJS. Comments are welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Olcay Plevne"
+        },
+        {
+          "name": "Furkan Akbaba"
+        }
+      ],
+      "score": 9.0
+    },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
       "title": "The Absolute Age of the Open Cluster NGC 6791 and Its Implications for Galactic Archaeology and Asteroseismic Calibration",
@@ -45,7 +82,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 10.1
+      "score": 9.1
     },
     {
       "id": "http://arxiv.org/abs/2605.21593v1",
@@ -99,7 +136,7 @@
           "name": "Emanuele Berti"
         }
       ],
-      "score": 4.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2605.20489v1",
@@ -142,7 +179,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 1.8
+      "score": 0.8
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -200,7 +237,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 5.5
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -243,7 +280,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 3.0
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -331,7 +368,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 4.3
+      "score": 3.3
     },
     {
       "id": "http://arxiv.org/abs/2604.27828v1",
@@ -392,7 +429,7 @@
           "name": "Madeleine McKenzie"
         }
       ],
-      "score": 1.3
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -424,7 +461,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 5.3
+      "score": 4.8
     }
   ]
 }
