@@ -1,6 +1,61 @@
 {
-  "fetched_at": "2026-05-26T13:12:15.842038",
+  "fetched_at": "2026-05-27T13:22:47.248922",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.26238v1",
+      "title": "Cosmic Ray Feedback in Galactic Disks: Star Formation, Cosmic Ray Transport, and Multiphase Outflows in \\tigresspp\\ Simulations",
+      "updated": "2026-05-25T18:04:16Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.26238v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.26238v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present new simulations of local star-forming disks that self-consistently evolve cosmic rays (CRs) and multiphase gas using TIGRESS++. To isolate the role of CRs, we conduct paired\n  simulations under solar-neighborhood conditions: a magnetohydrodynamics (MHD) model following the standard TIGRESS-classic framework with FUV heating and supernova (SN) feedback from\n  star clusters formed via gravitational collapse; and a CRMHD model in which an additional 10% of each SN's energy is injected as CRs. These CRs are transported anisotropically along\n  magnetic field lines via a two-moment solver, with the CR scattering rate set by balancing Alfven-wave growth and damping based on the self-confinement paradigm. The CRMHD model\n  develops a characteristic two-zone vertical CR profile: uniform pressure in the diffusion-dominated, high-density midplane gas, and an exponential atmosphere shaped primarily by\n  advection and streaming in low-density extraplanar gas. The CR pressure is comparable to the total thermal gas pressure in the midplane, but is too uniform to affect gas dynamics,\n  leaving SFRs unchanged. In contrast, the vertical CR pressure gradient at |z| > 1 kpc accelerates warm outflowing gas, resulting in an approximately 4 times higher mass loading factor\n  than in the MHD model. CR-gas interactions increase CR energy near the midplane through compressional work, while CR streaming heats low-density warm-hot gas. TIGRESS++ opens a path\n  toward investigating CR transport and CR-regulated ISM and outflow dynamics at high resolution across diverse galactic environments.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-25T18:04:16Z",
+      "arxiv:comment": "resubmitted to ApJ after minor revision",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Chang-Goo Kim"
+        },
+        {
+          "name": "Lucia Armillotta"
+        },
+        {
+          "name": "Eve C. Ostriker"
+        },
+        {
+          "name": "Sanghyuk Moon"
+        },
+        {
+          "name": "Lachlan Lancaster"
+        },
+        {
+          "name": "Jeong-Gyu Kim"
+        },
+        {
+          "name": "Nora B. Linzer"
+        },
+        {
+          "name": "Ronan N. Hix"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2605.25957v1",
       "title": "Chronos: Towards a self-consistent and absolute stellar age scale. I. A Bayesian hierarchical lithium-age model: Validation on the Pleiades cluster",
@@ -58,7 +113,7 @@
           "name": "F. J. Palmero"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -95,7 +150,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 154.0
+      "score": 153.5
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -141,7 +196,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 9.1
+      "score": 8.6
     },
     {
       "id": "http://arxiv.org/abs/2605.21593v1",
@@ -195,7 +250,7 @@
           "name": "Emanuele Berti"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2605.20489v1",
@@ -238,7 +293,7 @@
           "name": "Alison Sills"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -296,7 +351,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -339,7 +394,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -427,68 +482,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 3.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.27828v1",
-      "title": "TESS Asteroseismology of Red Giants in the Old Metal-Rich Open Clusters NGC 188 & NGC 6791",
-      "updated": "2026-04-30T13:16:35Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.27828v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.27828v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters are fundamental laboratories for investigating stellar and Galactic evolution, and serve as important benchmarks for asteroseismic analyses. Using a boutique method to analyze TESS photometry, we study red giants in two old metal-rich open clusters: NGC 188 & NGC 6791. By comparing Kepler and TESS observations for NGC 6791, similar oscillation mode frequencies are recovered, however we find a systematic offset of 2.2% with a scatter of 9% in the $ν_{\\text{max}}$ measurements. We attribute this discrepancy to the lower signal-to-noise of the TESS data for these relatively faint stars. For the brighter cluster NGC 188, we present new seismic measurements in 17 red giants. We estimate average seismic masses for the RGB of $M_{\\text{RGB,NGC188}} = 1.13\\pm0.04$(rand)$^{+0.12}_{-0.19}$(sys) $M_{\\odot}$ and RC of $M_{\\text{RC,NGC188}} = 1.11\\pm0.01$(rand)$^{+0.11}_{-0.19}$(sys) $M_{\\odot}$, consistent with independent mass estimates for this cluster and with similar precision to previous Kepler studies. From the difference between the average evolutionary phase masses, we estimate an integrated RGB mass loss of $ΔM = 0.02 \\pm 0.04$(rand)$\\pm0.01$(sys) $M_{\\odot}$, supporting the evidence for lower mass loss at higher metallicities. Using asteroseismology and chemical abundances, we identify three binary interaction candidates: two under-massive stars and one over-massive star potentially exhibiting dipole-mode suppression. Finally, we derive an average seismic cluster age of $7.0\\pm0.9$ Gyrs, in good agreement with previous literature ages. Our analysis demonstrates the strong potential of TESS asteroseismology for open clusters, and motivates extending this investigation to other TESS clusters that span a wider range of ages and metallicities.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-04-30T13:16:35Z",
-      "arxiv:comment": "27 Pages, 12 Figures, Submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Madeline Howell"
-        },
-        {
-          "name": "Jennifer A. Johnson"
-        },
-        {
-          "name": "Marc H. Pinsonneault"
-        },
-        {
-          "name": "Leslie M. Morales"
-        },
-        {
-          "name": "Jamie Tayar"
-        },
-        {
-          "name": "John D. Roberts"
-        },
-        {
-          "name": "Dennis Stello"
-        },
-        {
-          "name": "Madeleine McKenzie"
-        }
-      ],
-      "score": 0.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2604.24358v1",
@@ -520,7 +514,7 @@
       "author": {
         "name": "Andrès E. Piatti"
       },
-      "score": 4.3
+      "score": 3.8
     }
   ]
 }
