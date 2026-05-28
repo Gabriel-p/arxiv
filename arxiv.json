@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2026-05-28T00:56:47.532649",
+  "fetched_at": "2026-05-28T13:29:12.158800",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.28088v1",
+      "title": "cBHBd: A fast code for the evolution of tidally limited star clusters and their binary black hole mergers",
+      "updated": "2026-05-27T07:43:32Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.28088v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.28088v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The evolution of star clusters is driven by stellar mass loss, two-body relaxation, and evaporation in the Galactic tidal field. Fast modeling tools are crucial for exploring diverse initial conditions and predicting cluster populations and their contribution to gravitational wave (GW) sources over cosmic timescales.\n  We present an improved version of the clusterBHBdynamics (cBHBd) code, designed to evolve star clusters containing stars and stellar-mass black holes (BHs). We improve the treatment of evaporation in the Galactic tidal field and include the effects of metallicity and stellar mass functions. We also introduce new prescriptions for GW captures during BBH-BBH interactions and between resonant interactions due to distant encounters that increase BBH eccentricities.\n  The updated cBHBd is validated against Cluster Monte Carlo (CMC) models and $N$-body simulations spanning a range of cluster properties. Seven model parameters are fitted to the CMC results with nested sampling. With the best-fit values, the evolution of the cluster mass, half-mass radius, and BH population over 13 Gyr is reproduced to within $\\sim10\\%$. The new GW capture prescriptions allow cBHBd to reproduce BBH merger rates from CMC models of massive clusters ($\\gtrsim10^5,M_\\odot$) and direct $N$-body models of lower-mass clusters ($\\lesssim10^5,M_\\odot$) to within $\\sim20\\%$.\n  The improved cBHBd provides a fast and flexible tool for large-scale star cluster studies. With a runtime of about one second per cluster, it enables applications such as searches for globular cluster initial conditions, stellar stream modeling, and GW population synthesis.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-27T07:43:32Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Fotios Fronimos Pouliasis"
+        },
+        {
+          "name": "Nolan Dickson"
+        },
+        {
+          "name": "Daniel Marín Pina"
+        },
+        {
+          "name": "Mark Gieles"
+        },
+        {
+          "name": "Vincent Hénault-Brunet"
+        },
+        {
+          "name": "Fabio Antonini"
+        }
+      ],
+      "score": 6.3
+    },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
       "title": "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones",
@@ -195,137 +243,6 @@
         }
       ],
       "score": 3.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.14187v1",
-      "title": "The Distribution of Blue Straggler Stars in the Color-Magnitude Diagrams of Old Open Clusters",
-      "updated": "2026-05-13T23:10:12Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.14187v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.14187v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We examine the blue straggler star (BSS) populations of six old ($\\geq$4 Gyr) open clusters: M67, NGC 188, NGC 6791, Berkeley 32, Berkeley 39, and Trumpler 19. We find that 50% of BSSs have color-magnitude diagram (CMD) locations corresponding to single stars in the final third of their main-sequence lifetimes. This build-up of BSSs near the terminal-age main sequence (TAMS) is primarily, but not solely, driven by more massive BSSs. Eleven of the BSSs have white dwarf companions with measured cooling ages; their evolution age distributions indicate that more massive BSSs typically form far from the zero-age main sequence, whereas lower mass BSSs can form at every evolutionary age. We show that inferred core helium amounts (above primordial) of late-evolution-age BSSs correspond to the core helium fused by cluster main-sequence stars near the turnoffs. We also find that the masses of asymptotic giant branch (AGB) mass-transfer BSSs require evolved main-sequence accretors and conservative mass transfer. These findings indicate that helium enrichment of progenitor accretors leads to the prevalence of BSSs near the TAMS. We further classify the evolutionary stages of the progenitor donors in M67 and NGC 188 and find mass transfer during the AGB accounts for at least half of the BSSs. We trace how the main-sequence binary population of NGC 188 evolves, and find that only 30-40% of interacting binaries create BSSs and that progenitor orbits must change to match current BSS periods.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-13T23:10:12Z",
-      "arxiv:comment": "31 pages, 8 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Evan Linck"
-        },
-        {
-          "name": "Robert D. Mathieu"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.05313v1",
-      "title": "Stellar rotation and binaries in open clusters with Gaia DR3",
-      "updated": "2026-05-06T18:00:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.05313v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.05313v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Stellar rotation is a fundamental ingredient in shaping the evolution of stars and it can also be used to trace past stellar interactions. Yet, systematic studies of stellar rotation in large samples of stars belonging to different populations have only recently been made possible, thanks to spectroscopic surveys. We profit from the catalogue of rotational broadening and rotation periods released with Gaia DR3. We focus on open clusters to study the rotational behaviour of several interesting populations including, among others, blue stragglers and extended main sequence turnoffs (eMSTO). We use literature lists of almost a million member stars in several thousand open clusters in the Milky Way. We collect properties of stars and clusters from large surveys, including Gaia, and from various literature sources. We include a comprehensive collection of known variables and binary stars from various databases. We manually select (exotic) stellar populations from the color-magnitude diagrams of individual clusters and study their rotational properties. Our catalogue contains more than 44 000 rotationally characterised stars, almost 57 000 variables (excluding binaries) and more than 22 000 binary stars. We find several interesting results, including a few hundred new blue stragglers, several fast rotating red giants, and we increase the number of clusters with an eMSTO to 96. We discover that most clusters more massive than $10^3$ $M_{\\odot}$ display an eMSTO. We present a new parametrization of the number of blue stragglers as a function of cluster mass and age. We find that the percentage of binary stars in the equal-mass binary sequence and in the main sequence are similar. We present the first large-scale statistical exploration of stellar rotation in open clusters, which already yielded new interesting results and which can be used as the basis for several detailed follow-up studies.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-06T18:00:06Z",
-      "arxiv:comment": "20 pages, 20 figures, Accepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Elena Pancino"
-        },
-        {
-          "name": "Elisabetta Reggiani"
-        },
-        {
-          "name": "Silvia Marinoni"
-        },
-        {
-          "name": "Paola M. Marrese"
-        },
-        {
-          "name": "Deimer Alvarez Garay"
-        },
-        {
-          "name": "Aleksandra Avdeeva"
-        },
-        {
-          "name": "Maite Echeveste"
-        },
-        {
-          "name": "Ellen I. Leitinger"
-        },
-        {
-          "name": "Sneha Nedhath"
-        },
-        {
-          "name": "Sharmila Rani"
-        },
-        {
-          "name": "Nicoletta Sanna"
-        },
-        {
-          "name": "Sara Saracino"
-        },
-        {
-          "name": "Laurenz F. Steinbauer"
-        },
-        {
-          "name": "Alessio Turchi"
-        },
-        {
-          "name": "Vikrant V. Jadhav"
-        },
-        {
-          "name": "Sebastian Kamann"
-        },
-        {
-          "name": "Monica Rainer"
-        }
-      ],
-      "score": 2.3
     }
   ]
 }
