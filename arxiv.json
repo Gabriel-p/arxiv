@@ -1,120 +1,6 @@
 {
-  "fetched_at": "2026-05-27T13:22:47.248922",
+  "fetched_at": "2026-05-28T00:56:47.532649",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2605.26238v1",
-      "title": "Cosmic Ray Feedback in Galactic Disks: Star Formation, Cosmic Ray Transport, and Multiphase Outflows in \\tigresspp\\ Simulations",
-      "updated": "2026-05-25T18:04:16Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.26238v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.26238v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present new simulations of local star-forming disks that self-consistently evolve cosmic rays (CRs) and multiphase gas using TIGRESS++. To isolate the role of CRs, we conduct paired\n  simulations under solar-neighborhood conditions: a magnetohydrodynamics (MHD) model following the standard TIGRESS-classic framework with FUV heating and supernova (SN) feedback from\n  star clusters formed via gravitational collapse; and a CRMHD model in which an additional 10% of each SN's energy is injected as CRs. These CRs are transported anisotropically along\n  magnetic field lines via a two-moment solver, with the CR scattering rate set by balancing Alfven-wave growth and damping based on the self-confinement paradigm. The CRMHD model\n  develops a characteristic two-zone vertical CR profile: uniform pressure in the diffusion-dominated, high-density midplane gas, and an exponential atmosphere shaped primarily by\n  advection and streaming in low-density extraplanar gas. The CR pressure is comparable to the total thermal gas pressure in the midplane, but is too uniform to affect gas dynamics,\n  leaving SFRs unchanged. In contrast, the vertical CR pressure gradient at |z| > 1 kpc accelerates warm outflowing gas, resulting in an approximately 4 times higher mass loading factor\n  than in the MHD model. CR-gas interactions increase CR energy near the midplane through compressional work, while CR streaming heats low-density warm-hot gas. TIGRESS++ opens a path\n  toward investigating CR transport and CR-regulated ISM and outflow dynamics at high resolution across diverse galactic environments.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-25T18:04:16Z",
-      "arxiv:comment": "resubmitted to ApJ after minor revision",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Chang-Goo Kim"
-        },
-        {
-          "name": "Lucia Armillotta"
-        },
-        {
-          "name": "Eve C. Ostriker"
-        },
-        {
-          "name": "Sanghyuk Moon"
-        },
-        {
-          "name": "Lachlan Lancaster"
-        },
-        {
-          "name": "Jeong-Gyu Kim"
-        },
-        {
-          "name": "Nora B. Linzer"
-        },
-        {
-          "name": "Ronan N. Hix"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.25957v1",
-      "title": "Chronos: Towards a self-consistent and absolute stellar age scale. I. A Bayesian hierarchical lithium-age model: Validation on the Pleiades cluster",
-      "updated": "2026-05-25T15:30:25Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.25957v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.25957v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Context. Establishing a self-consistent age scale for stellar populations requires physically well-calibrated chronometers. Among these, lithium-based diagnostics, particularly the lithium depletion boundary (LDB), provide one of the most robust age constraints for stellar populations in the low-mass regime. However, their application is limited by heterogeneous temperature scales and astrophysical dispersion, especially among FGK stars, where rotation can significantly affect lithium abundances.\n  Aims. As a first step towards a self-consistent age scale, our aim has been to formulate Chronos, the first version of a Bayesian hierarchical lithium-based age-dating model combined with a neural network trained on stellar evolutionary models.\n  Methods. We implemented a Bayesian hierarchical model that jointly infers stellar effective temperatures, lithium abundances, and the global age of a stellar association. The theoretical LDB is provided by a pre-trained multilayer perceptron based on BT--Settl evolutionary models. The model incorporates a temperature-dependent transition between fully convective ultra-cool dwarfs (UCDs) and FGKM dwarf stars, together with a two-component FGK mixture to account for rotation-induced lithium enhancement. We applied the method to the Pleiades cluster and performed a validation using synthetic datasets.\n  Results. For the Pleiades cluster, Chronos yields a posterior age distribution centred at $\\mathrm{Age}=124.53_{-2.70}^{+3.34}$ Myr, consistent with classical LDB estimates, while simultaneously constraining both global and stellar-level rotation parameters.\n  Conclusions. This work demonstrates that lithium-based stellar chronology can be recast as a coherent hierarchical inference problem, providing a flexible and statistically robust framework for making age determinations for young (1--600 Myr) stellar populations.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-25T15:30:25Z",
-      "arxiv:comment": "Accepted in Astronomy & Astrophysics, 21 pages, 18 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "L. González-Ramírez"
-        },
-        {
-          "name": "D. Barrado"
-        },
-        {
-          "name": "J. Olivares"
-        },
-        {
-          "name": "A. Berihuete"
-        },
-        {
-          "name": "L. M. Sarro"
-        },
-        {
-          "name": "F. J. Palmero"
-        }
-      ],
-      "score": 0.3
-    },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
       "title": "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones",
@@ -150,7 +36,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 153.5
+      "score": 153.0
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -196,7 +82,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 8.6
+      "score": 8.1
     },
     {
       "id": "http://arxiv.org/abs/2605.21593v1",
@@ -250,50 +136,7 @@
           "name": "Emanuele Berti"
         }
       ],
-      "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.20489v1",
-      "title": "Dynamical Cluster Assembly Framework (D-CAF): The Link Between Star Cluster Formation and Expansion Rates",
-      "updated": "2026-05-19T20:55:22Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.20489v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.20489v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We introduce the Dynamical Cluster Assembly Framework (D-CAF), an AMUSE-based framework designed to connect embedded star formation histories to the dynamical evolution of young stellar systems. We model star formation through the gradual formation of stars inside an evolving background potential, where the global gas evolution is extracted from realistic magneto-hydrodynamical (MHD) simulations. In this first work, we focus on the global evolution of the natal gas and its dynamical imprint on the stellar population. Across all explored MHD setups, we find that the gas continues to collapse while stars are forming, increasing both the central concentration and velocity scale of the embedded stellar population before gas expulsion. Using a controlled grid of direct $N$-body simulations, we show that this embedded evolution strongly regulates both the survival and later expansion of young stellar systems. In particular, gas contraction shortens the stellar crossing time prior to gas expulsion, making the same gas-removal timescale effectively more adiabatic for the stars. We find that the present-day expansion of stellar associations still preserves information about the embedded dynamical state reached during formation. The expansion rate is limited by the velocity scale reached before gas expulsion, while the efficiency with which this velocity field is transformed into expansion depends on the gas-expulsion timescale. Finally, we show that some commonly used expansion diagnostics can directly trace the physical expansion rate of young stellar systems when full kinematic information is available, opening the possibility of using stellar kinematics to constrain the dynamical conditions of embedded star formation.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-19T20:55:22Z",
-      "arxiv:comment": "25 pages, 10 figures. Submitted to Apj",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Juan P. Farias"
-        },
-        {
-          "name": "Alison Sills"
-        }
-      ],
-      "score": 0.3
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -351,7 +194,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2605.14187v1",
@@ -394,7 +237,7 @@
           "name": "Robert D. Mathieu"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -482,39 +325,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 2.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2604.24358v1",
-      "title": "Recovering extra-tidal open cluster members via multi-elemental chemical tagging",
-      "updated": "2026-04-27T11:51:41Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2604.24358v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2604.24358v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The identification of open cluster (OC) members has been revolutionized by high-precision Gaia astrometry, yet traditional kinematic membership selections remain inherently conservative, often overlooking stars in tidal tails or those with perturbed velocities. This study investigates the reliability of these kinematic probabilities by searching for leaky cluster members -- stars that fail standard kinematic membership criteria ($P < 0.7$) but possess chemical signatures identical to their host clusters. Using high-resolution spectroscopic data from the Gaia-ESO Survey, we established a seven-element chemical fingerprint ([Fe/H], Li, Si, Ca, Ti, Co, and Ni) for 34 OCs. We identified a sample of 63 stars across 22 clusters that are chemically indistinguishable from their host populations despite being kinematically rejected by standard algorithms. By cross-referencing these targets with Jacobi radii (rJ) derived from modern Milky Way potential models, we find that 35% are located in extra-tidal regions (d > rJ), providing direct evidence of active cluster dissolution and tidal debris. The remaining 65% are located within the Jacobi radius, suggesting that their kinematic rejection is likely due to orbital motion in unresolved binary systems. These results demonstrate that chemical tagging is a critical tool for overcoming the spatial and kinematic biases of astrometric catalogues. By recovering these lost members, we provide a more complete census of cluster mass loss and underscore the necessity of a hybrid chemical-kinematic approach to map the transition of stars from bound systems to the Galactic field.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-04-27T11:51:41Z",
-      "arxiv:comment": "7 pages, 1 figure. Accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Andrès E. Piatti"
-      },
-      "score": 3.8
+      "score": 2.3
     }
   ]
 }
