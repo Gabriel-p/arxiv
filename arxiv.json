@@ -1,6 +1,113 @@
 {
-  "fetched_at": "2026-05-28T13:29:12.158800",
+  "fetched_at": "2026-05-30T12:33:52.257073",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.29895v1",
+      "title": "Transient Signatures of Star-Envelope Collisions in Little Red Dots",
+      "updated": "2026-05-28T13:19:59Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.29895v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.29895v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Little red dots (LRDs) are compact high-redshift objects, newly discovered by the James Webb Space Telescope. Although LRDs exhibit broad Balmer emission lines suggestive of the presence of active galactic nuclei (AGN), their spectral features differ significantly from those of ordinary AGN. Recent studies suggest that their characteristics can be explained if accreting supermassive black holes (SMBHs) are embedded within dense gaseous envelopes and surrounded by compact stellar clusters. In this scenario, stars in the cluster can scatter onto plunging orbits that intersect the envelope and collide with its surface. Here we investigate the observational properties of such star-envelope collisions as luminous transient events. We find that collisions involving red supergiants with radii of $\\sim 10^{3}~R_\\odot$, together with gaseous envelopes whose masses are comparable to those of the central SMBHs, are the most promising targets due to their high luminosities and long durations. For compact clusters with sizes of $\\lesssim 10~{\\rm pc}$, such massive stars can participate in star-envelope collisions within their lifetimes at event rates reaching $\\sim 0.3~{\\rm yr}^{-1}$ per LRD. We show that these transients are detectable with future wide-field surveys such as the Nancy Grace Roman Space Telescope if they occur at relatively low redshifts ($z \\lesssim 1$). Detection of such transients would provide strong evidence for the envelope+stellar-cluster scenario of LRDs and offer a unique probe of the envelope mass, which is otherwise difficult to constrain from LRD spectra alone.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-28T13:19:59Z",
+      "arxiv:comment": "11 pages, 8 figures, 2 tables. Comments welcome!!",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": [
+        {
+          "name": "Tomoya Suzuguchi"
+        },
+        {
+          "name": "Kohei Inayoshi"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.29666v1",
+      "title": "Stellar Population Astrophysics (SPA) with the TNG. CNO abundances in 28 open clusters",
+      "updated": "2026-05-28T09:27:18Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.29666v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.29666v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1051/0004-6361/202659225",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Aims. Our main aim with this work was to enlarge the pool of open clusters with determined carbon, nitrogen, and oxygen abundances in evolved giants to further advance chemical clocks in stellar age determinations. Methods. High-resolution spectra were analysed using a differential model atmosphere method. Carbon abundances were derived using spectral synthesis of the C2 band heads at 5135 and 5635.5 Å. The CN features at 6470-6490 Å were analysed to determine the abundances of nitrogen. The oxygen abundances were determined from the [O I] line at 6300 Å. Results. We provide abundances of C, N, and O for 88 giants in 28 open clusters and in two stars of the association Theia 1214. The results were compared with theoretical predictions and used for the analysis of the [C/N] relations with age, and we investigated the origin of the two Theia 1214 stars. Conclusions. Precise age dating requires separate age calibrations of [C/N] ratios for the first-ascent giants of the lower part of the red giant branch and for the red clump stars to account for the additional abundance alterations during the post-red giant branch luminosity bump evolution. In the first-ascent giant stars with larger turn-off masses, the observed C/N ratios are slightly higher than those predicted by standard models, and the obtained [C/N] versus age relation is flatter in the young age regime than in previous studies. We doubt that the two stars we investigated in the Theia 1214 association belong to the tail of NGC 752. Most probably, they are field stars.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-28T09:27:18Z",
+      "arxiv:comment": "10 pages, 6 figures. Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Bruno Ćurjurić"
+        },
+        {
+          "name": "Arnas Drazdauskas"
+        },
+        {
+          "name": "Gražina Tautvaišienė"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Natalia Alvarez-Baena"
+        },
+        {
+          "name": "Valentina D'Orazi"
+        },
+        {
+          "name": "Marina Dal Ponte"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202659225",
+      "score": 19.0
+    },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
       "title": "cBHBd: A fast code for the evolution of tidally limited star clusters and their binary black hole mergers",
@@ -47,7 +154,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 6.3
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -84,7 +191,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 153.0
+      "score": 152.0
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -130,7 +237,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 8.1
+      "score": 7.1
     },
     {
       "id": "http://arxiv.org/abs/2605.21593v1",
@@ -184,7 +291,7 @@
           "name": "Emanuele Berti"
         }
       ],
-      "score": 2.5
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -242,7 +349,95 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 3.5
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.05313v1",
+      "title": "Stellar rotation and binaries in open clusters with Gaia DR3",
+      "updated": "2026-05-06T18:00:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.05313v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.05313v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Stellar rotation is a fundamental ingredient in shaping the evolution of stars and it can also be used to trace past stellar interactions. Yet, systematic studies of stellar rotation in large samples of stars belonging to different populations have only recently been made possible, thanks to spectroscopic surveys. We profit from the catalogue of rotational broadening and rotation periods released with Gaia DR3. We focus on open clusters to study the rotational behaviour of several interesting populations including, among others, blue stragglers and extended main sequence turnoffs (eMSTO). We use literature lists of almost a million member stars in several thousand open clusters in the Milky Way. We collect properties of stars and clusters from large surveys, including Gaia, and from various literature sources. We include a comprehensive collection of known variables and binary stars from various databases. We manually select (exotic) stellar populations from the color-magnitude diagrams of individual clusters and study their rotational properties. Our catalogue contains more than 44 000 rotationally characterised stars, almost 57 000 variables (excluding binaries) and more than 22 000 binary stars. We find several interesting results, including a few hundred new blue stragglers, several fast rotating red giants, and we increase the number of clusters with an eMSTO to 96. We discover that most clusters more massive than $10^3$ $M_{\\odot}$ display an eMSTO. We present a new parametrization of the number of blue stragglers as a function of cluster mass and age. We find that the percentage of binary stars in the equal-mass binary sequence and in the main sequence are similar. We present the first large-scale statistical exploration of stellar rotation in open clusters, which already yielded new interesting results and which can be used as the basis for several detailed follow-up studies.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-06T18:00:06Z",
+      "arxiv:comment": "20 pages, 20 figures, Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Elena Pancino"
+        },
+        {
+          "name": "Elisabetta Reggiani"
+        },
+        {
+          "name": "Silvia Marinoni"
+        },
+        {
+          "name": "Paola M. Marrese"
+        },
+        {
+          "name": "Deimer Alvarez Garay"
+        },
+        {
+          "name": "Aleksandra Avdeeva"
+        },
+        {
+          "name": "Maite Echeveste"
+        },
+        {
+          "name": "Ellen I. Leitinger"
+        },
+        {
+          "name": "Sneha Nedhath"
+        },
+        {
+          "name": "Sharmila Rani"
+        },
+        {
+          "name": "Nicoletta Sanna"
+        },
+        {
+          "name": "Sara Saracino"
+        },
+        {
+          "name": "Laurenz F. Steinbauer"
+        },
+        {
+          "name": "Alessio Turchi"
+        },
+        {
+          "name": "Vikrant V. Jadhav"
+        },
+        {
+          "name": "Sebastian Kamann"
+        },
+        {
+          "name": "Monica Rainer"
+        }
+      ],
+      "score": 1.3
     }
   ]
 }
