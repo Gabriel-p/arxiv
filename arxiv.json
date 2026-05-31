@@ -1,49 +1,6 @@
 {
-  "fetched_at": "2026-05-30T12:33:52.257073",
+  "fetched_at": "2026-05-31T12:38:18.662747",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2605.29895v1",
-      "title": "Transient Signatures of Star-Envelope Collisions in Little Red Dots",
-      "updated": "2026-05-28T13:19:59Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.29895v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.29895v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Little red dots (LRDs) are compact high-redshift objects, newly discovered by the James Webb Space Telescope. Although LRDs exhibit broad Balmer emission lines suggestive of the presence of active galactic nuclei (AGN), their spectral features differ significantly from those of ordinary AGN. Recent studies suggest that their characteristics can be explained if accreting supermassive black holes (SMBHs) are embedded within dense gaseous envelopes and surrounded by compact stellar clusters. In this scenario, stars in the cluster can scatter onto plunging orbits that intersect the envelope and collide with its surface. Here we investigate the observational properties of such star-envelope collisions as luminous transient events. We find that collisions involving red supergiants with radii of $\\sim 10^{3}~R_\\odot$, together with gaseous envelopes whose masses are comparable to those of the central SMBHs, are the most promising targets due to their high luminosities and long durations. For compact clusters with sizes of $\\lesssim 10~{\\rm pc}$, such massive stars can participate in star-envelope collisions within their lifetimes at event rates reaching $\\sim 0.3~{\\rm yr}^{-1}$ per LRD. We show that these transients are detectable with future wide-field surveys such as the Nancy Grace Roman Space Telescope if they occur at relatively low redshifts ($z \\lesssim 1$). Detection of such transients would provide strong evidence for the envelope+stellar-cluster scenario of LRDs and offer a unique probe of the envelope mass, which is otherwise difficult to constrain from LRD spectra alone.",
-      "category": [
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-28T13:19:59Z",
-      "arxiv:comment": "11 pages, 8 figures, 2 tables. Comments welcome!!",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.HE"
-      },
-      "author": [
-        {
-          "name": "Tomoya Suzuguchi"
-        },
-        {
-          "name": "Kohei Inayoshi"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
       "title": "Stellar Population Astrophysics (SPA) with the TNG. CNO abundances in 28 open clusters",
@@ -106,7 +63,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 19.0
+      "score": 18.5
     },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
@@ -154,7 +111,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -191,7 +148,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 152.0
+      "score": 151.5
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -237,7 +194,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 7.1
+      "score": 6.6
     },
     {
       "id": "http://arxiv.org/abs/2605.21593v1",
@@ -291,7 +248,7 @@
           "name": "Emanuele Berti"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -349,7 +306,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2605.05313v1",
@@ -437,7 +394,7 @@
           "name": "Monica Rainer"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     }
   ]
 }
