@@ -1,6 +1,45 @@
 {
-  "fetched_at": "2026-05-31T12:38:18.662747",
+  "fetched_at": "2026-06-02T01:08:38.606016",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2605.31439v1",
+      "title": "Dynamics of tidal tails of open clusters: I. effects of bar, spiral arms and giant molecular clouds",
+      "updated": "2026-05-29T15:35:45Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.31439v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.31439v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters gradually dissolve, and their stars disperse into the Galactic field. Lost stars form tidal tails-elongated streams that trace the cluster orbit ahead of and behind its core. From the shape and orientation of the tidal tails, it is possible to infer the shape of the gravitational potential governing the cluster's motion. The orbits of open clusters, including those in the Solar neighbourhood, are sensitive to the gravitational potential of the inner Galaxy, which is dominated by the Galactic bar. Using n-body simulations of synthetic and real open clusters, we investigate how sensitive the shapes and orientations of tidal tails are to variations of the gravitational potential of the Milky Way. We consider the effects of the bar as well as spiral arms, giant molecular clouds (GMCs) and satellite galaxies. We analyse the stellar distributions within tidal tails using statistical metrics that quantify the differences between tail morphologies. Such non-parametric approach enables us to efficiently explore tidal tails across a large parameter space of gravitational potential models. We find that the Galactic bar-particularly its pattern speed-has a strong influence on the orbits of open clusters and the shape of their tails. Spiral arms have a limited effect, and satellite galaxies do not disturb the tidal tails of nearby open clusters. Perturbations by GMCs affect most clusters, with distortions stronger than those by the bar observed in old and in-plane clusters. We identify nearby open clusters that are most sensitive to the pattern speed of the bar. By observing the tidal tails of a handful of well-selected nearby clusters, we should be able to measure the pattern speed of the bar with a precision in the order of $1\\ \\mathrm{km\\,s^{-1}\\,kpc^{-1}}$ independently from length and orientation of the bar. We will present the observability of tidal tails in paper II.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-29T15:35:45Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Janez Kos"
+        },
+        {
+          "name": "Jovana Risojević"
+        },
+        {
+          "name": "Samo Ilc"
+        }
+      ],
+      "score": 17.5
+    },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
       "title": "Stellar Population Astrophysics (SPA) with the TNG. CNO abundances in 28 open clusters",
@@ -63,7 +102,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 18.5
+      "score": 18.0
     },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
@@ -111,7 +150,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 4.8
+      "score": 4.3
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -148,7 +187,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 151.5
+      "score": 150.5
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -194,61 +233,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 6.6
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.21593v1",
-      "title": "Predicting intermediate-mass black hole formation in star clusters with machine learning",
-      "updated": "2026-05-20T18:00:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.21593v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.21593v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Whether intermediate-mass black holes reside in nearby star clusters has remained contested for decades. We address this question by training neural network and random forest regressors on synthetic catalogs generated with the {\\sc Rapster} cluster evolution code, mapping observable cluster properties such as total mass and half-mass radius onto the mass of the heaviest black hole built up through repeated mergers. Applying these models to nearby globular and nuclear star clusters, we forecast the intermediate-mass black hole population that each system may host. Globular clusters are unlikely to contain black holes more massive than $\\sim 100\\,M_\\odot$, with an occupation fraction near 0.02, although they can produce remnants within the upper mass gap with masses approaching $100\\,M_\\odot$. Among nuclear star clusters, a handful of cases, including NGC 5102 and NGC 5206, yield predicted central black hole masses above $100\\,M_\\odot$, which we contrast with kinematically inferred estimates. Where the observationally claimed masses exceed our predictions, the implication is that the assembly history involved processes beyond hierarchical mergers, most plausibly accretion of gas and stars. Finally, we employ a normalizing flow to quantify, for individual globular clusters, the likelihood that their initial conditions were favorable to a collisional runaway during the first few million years after formation.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "gr-qc",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-20T18:00:05Z",
-      "arxiv:comment": "28 pages, 13 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Konstantinos Kritos"
-        },
-        {
-          "name": "Digvijay Wadekar"
-        },
-        {
-          "name": "Emanuele Berti"
-        }
-      ],
-      "score": 1.0
+      "score": 5.6
     },
     {
       "id": "http://arxiv.org/abs/2605.18665v1",
@@ -306,95 +291,7 @@
           "name": "Eyüp Kaan Ülgen"
         }
       ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.05313v1",
-      "title": "Stellar rotation and binaries in open clusters with Gaia DR3",
-      "updated": "2026-05-06T18:00:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.05313v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.05313v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Stellar rotation is a fundamental ingredient in shaping the evolution of stars and it can also be used to trace past stellar interactions. Yet, systematic studies of stellar rotation in large samples of stars belonging to different populations have only recently been made possible, thanks to spectroscopic surveys. We profit from the catalogue of rotational broadening and rotation periods released with Gaia DR3. We focus on open clusters to study the rotational behaviour of several interesting populations including, among others, blue stragglers and extended main sequence turnoffs (eMSTO). We use literature lists of almost a million member stars in several thousand open clusters in the Milky Way. We collect properties of stars and clusters from large surveys, including Gaia, and from various literature sources. We include a comprehensive collection of known variables and binary stars from various databases. We manually select (exotic) stellar populations from the color-magnitude diagrams of individual clusters and study their rotational properties. Our catalogue contains more than 44 000 rotationally characterised stars, almost 57 000 variables (excluding binaries) and more than 22 000 binary stars. We find several interesting results, including a few hundred new blue stragglers, several fast rotating red giants, and we increase the number of clusters with an eMSTO to 96. We discover that most clusters more massive than $10^3$ $M_{\\odot}$ display an eMSTO. We present a new parametrization of the number of blue stragglers as a function of cluster mass and age. We find that the percentage of binary stars in the equal-mass binary sequence and in the main sequence are similar. We present the first large-scale statistical exploration of stellar rotation in open clusters, which already yielded new interesting results and which can be used as the basis for several detailed follow-up studies.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-05-06T18:00:06Z",
-      "arxiv:comment": "20 pages, 20 figures, Accepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Elena Pancino"
-        },
-        {
-          "name": "Elisabetta Reggiani"
-        },
-        {
-          "name": "Silvia Marinoni"
-        },
-        {
-          "name": "Paola M. Marrese"
-        },
-        {
-          "name": "Deimer Alvarez Garay"
-        },
-        {
-          "name": "Aleksandra Avdeeva"
-        },
-        {
-          "name": "Maite Echeveste"
-        },
-        {
-          "name": "Ellen I. Leitinger"
-        },
-        {
-          "name": "Sneha Nedhath"
-        },
-        {
-          "name": "Sharmila Rani"
-        },
-        {
-          "name": "Nicoletta Sanna"
-        },
-        {
-          "name": "Sara Saracino"
-        },
-        {
-          "name": "Laurenz F. Steinbauer"
-        },
-        {
-          "name": "Alessio Turchi"
-        },
-        {
-          "name": "Vikrant V. Jadhav"
-        },
-        {
-          "name": "Sebastian Kamann"
-        },
-        {
-          "name": "Monica Rainer"
-        }
-      ],
-      "score": 0.8
+      "score": 1.0
     }
   ]
 }
