@@ -1,6 +1,103 @@
 {
-  "fetched_at": "2026-06-02T01:08:38.606016",
+  "fetched_at": "2026-06-02T13:28:33.759167",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.01870v1",
+      "title": "Mass and Spin Growth of Very Massive Stars in Star Clusters Potentially Associated with Little Red Dots",
+      "updated": "2026-06-01T08:19:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.01870v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.01870v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Using gravitational $N$-body simulations, we investigate the evolution of mass and spin for very massive stars (VMSs) in dense star clusters, which may be potentially associated with Little Red Dots (LRDs). Our results show that VMS masses can reach $10^3$--$10^4\\,M_\\odot$, depending on the initial conditions of the host clusters. Notably, the VMS mass increases by up to a factor of three when accounting for the bloated state at the Hayashi track induced by stellar collisions, provided that this state is maintained at accretion rates exceeding $3 \\times 10^{-2}\\,M_\\odot\\,{\\rm yr}^{-1}$. In all cases, the spin of the VMS, when normalized to the dimensionless black hole (BH) spin parameter, exceeds $10$. While our model may overestimate VMS masses and spins due to the omission of post-main-sequence evolution and the loss of mass and angular momentum during collisions, we nonetheless demonstrate that VMSs formed in dense star clusters can be highly spinning. Such a rapidly spinning VMS is expected to collapse into an intermediate-mass BH surrounded by a massive accretion disk. This BH-disk system could trigger powerful explosions and emit burst gravitational waves, similar to those observed in GW190521 and GW231123, for which the remnant BH masses are estimated to be $\\gtrsim 100\\,M_\\odot$.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-01T08:19:06Z",
+      "arxiv:comment": "12 pages, 3 figures, 1 table",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": [
+        {
+          "name": "Ataru Tanikawa"
+        },
+        {
+          "name": "Masaru Shibata"
+        },
+        {
+          "name": "Kunihito Ioka"
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.01418v1",
+      "title": "Multiwavelength study of the Carina--Sagittarius Arm. I.Astrometric and photometric search for new open clusters in the 320$^ \\circ $ $\\le$ l $\\le$ 325$^ \\circ $ region",
+      "updated": "2026-05-31T19:35:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.01418v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.01418v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Our main goal is to determine whether the lower stellar density observed in the Carina-Sagittarius Arm region (320$^ \\circ$ $\\le$ l $\\le$ 325$^ \\circ$, $|b| \\le$ $1^ \\circ$) is an intrinsic structural feature of the spiral arm or a consequence of high interstellar reddening and extinction along the line of sight. We performed a systematic search for new open clusters using the HDBSCAN algorithm on Gaia DR3 astrometric data. The physical reality of the candidates was validated through a multiwavelength analysis, integrating Gaia photometry with NIR of the 2MASS catalog, MIR photometric information of the WISE catalog to identify young stellar objects (YSOs), and the radio continuum emission at 843 MHz with SUMSS survey to identify and associated interstellar material. We report the discovery of five new open clusters, the ESFERA sample. Our analysis reveals four young systems (10-50 Myr), with ESFERA 3 hosting YSOs, while ESFERA 5 is identified as a 2 Gyr old cluster. Although the region lacks massive star-forming complexes, these clusters trace active, despite the fact that lower-efficiency, star formation within the region. Our results suggest that this region represents an intrinsic star-formation \"valley\" or low-density node (the \"string\" in a \"beads on a string\" morphology) rather than an effect of extinction. The discovery of these clusters demonstrates that while the local surface density is below the critical threshold for massive complexes, star formation persists in isolated, small-scale pockets throughout the arm.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-05-31T19:35:46Z",
+      "arxiv:comment": "18 pages, 10 figures, 11 tables, 2 appendices",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "M. A. Corti"
+        },
+        {
+          "name": "L. Rizzo"
+        },
+        {
+          "name": "L. G. Paíz"
+        },
+        {
+          "name": "G. S. Elizalde Caviglia"
+        }
+      ],
+      "score": 10.5
+    },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
       "title": "Dynamics of tidal tails of open clusters: I. effects of bar, spiral arms and giant molecular clouds",
@@ -102,7 +199,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 18.0
+      "score": 17.5
     },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
@@ -150,7 +247,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
