@@ -1,57 +1,120 @@
 {
-  "fetched_at": "2026-06-03T13:52:19.807672",
+  "fetched_at": "2026-06-04T13:17:54.868506",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2606.02711v1",
-      "title": "Lyman-alpha Pressure Strongly Enhances Pre-Supernova Feedback at Cosmic Dawn: The First Multi-Dimensional Lyman-alpha Radiation Hydrodynamics Simulations",
-      "updated": "2026-06-01T18:00:03Z",
+      "id": "http://arxiv.org/abs/2606.04839v1",
+      "title": "The open cluster NGC 2509. Stellar rotation and main sequence turnoff extension from FLAMES spectroscopy",
+      "updated": "2026-06-03T13:09:44Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2606.02711v1",
+          "@href": "https://arxiv.org/abs/2606.04839v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2606.02711v1",
+          "@href": "https://arxiv.org/pdf/2606.04839v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "The dynamical role of Lyman-$α$ (Ly$α$) radiation pressure feedback has been debated for nearly a century, with recent analytical and 1D numerical studies highlighting its potential dominance over other stellar feedback processes at Cosmic Dawn. Despite this, no multi-dimensional Ly$α$ radiation hydrodynamics (RHD) simulations have been performed to date. In this paper, we present the first 2D Ly$α$ RHD simulations using Lydion, an RHD code with a novel M1 moment method for Ly$α$ transfer, and self-consistent dust dynamics. Lydion yields a $\\sim \\mathcal{O}(100) \\,\\times$ speed-up compared to Monte Carlo radiative transfer in simple benchmarks, making 2D Ly$α$ RHD feasible. We perform simulations of star clusters and isolated stars embedded in dense, metal-poor ($Z/Z_\\odot \\leq 0.01$) clouds, and find that Ly$α$ feedback dramatically boosts outflows and dominates over feedback from direct and infrared radiation pressure. Ly$α$ leakage through lower-column density channels, Doppler shifts, and Ly$α$ photon destruction, while important, cannot prevent the build-up of strong Ly$α$ radiation pressure in H II regions, leading to radiative forces $\\sim (2 - 16) \\times L_{\\rm bol}/c$, and Ly$α$ force multipliers $M_{\\rm F} \\sim 10-60$. Ly$α$ feedback may not preclude efficient star formation, but raises the threshold gas surface density for this to occur. We conclude that nearly all galaxy and star formation simulations are currently missing the strongest source of radiation pressure feedback in dense and metal-poor environments.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-01T18:00:03Z",
-      "arxiv:comment": "83 pages (48 pages main text, rest Appendix of methodology + references), 46 figures. Comments and questions welcome!",
+      "summary": "NGC 2509 is a distant (~2.5 kpc) and little-studied open cluster located in the third Galactic quadrant. It is a moderately old cluster, whose age has not yet been precisely determined. The main-sequence stars in NGC 2509 follow a narrow distribution in the color-magnitude diagram, unlike other clusters of similar age. In addition, its chemical composition has never been investigated. To address these issues and characterize the cluster we performed moderate- and high-resolution spectroscopy with FLAMES@VLT of 132 stars, both dwarfs and giants, which represents a significant fraction (~73%) of likely members. We provide atmospheric stellar parameters and, for the first time, chemical abundances for 21 species with atomic numbers up to 60. In our analysis we followed two different methodologies, both of which will be used for the incoming WEAVE stellar surveys. We find an average radial velocity for NGC 2509 of 58.6+-1.3 km\\s and a mild supersolar metallicity ([Fe/H]~0.1 dex). This value is slightly higher than expected according to its galactocentric distance, but still compatible with the Galactic gradient. From the lithium content of the dwarfs and the isochrone-fitting method we obtain an age for NGC 2509 of 1.26+-0.3 Gyr. The reddening across the cluster field is negligible (A_V=0.25+-0.02 mag). The cluster peculiar main sequence turnoff is due to a narrow distribution of the rotational velocities peaking at vsini~80 km/s, with little dispersion. The chemical pattern of NGC 2509 follows the Galactic trends shown by other open clusters in the Galactic thin disk.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-03T13:09:44Z",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Olof Nebrin"
+          "name": "C. Boeche"
         },
         {
-          "name": "Aaron Smith"
+          "name": "J. Alonso-Santiago"
         },
         {
-          "name": "Garrelt Mellema"
+          "name": "A. Bragaglia"
         },
         {
-          "name": "Kevin Lorinc"
+          "name": "A. Frasca"
         },
         {
-          "name": "Daniele Manzoni"
+          "name": "A. Vallenari"
+        },
+        {
+          "name": "I. N. Kallimanis"
+        },
+        {
+          "name": "R. Carrera"
+        },
+        {
+          "name": "D. Bossini"
+        },
+        {
+          "name": "S. Lucatello"
+        },
+        {
+          "name": "V. DOrazi"
+        },
+        {
+          "name": "G. Costa"
         }
       ],
-      "score": 0.5
+      "score": 10.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.04509v1",
+      "title": "Primordial Binary Stars, Mass segregation and Fractality Effects on the Early Evolution of Young Open Clusters",
+      "updated": "2026-06-03T06:40:15Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.04509v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.04509v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We want to understand how the combined effect of initial substructure, primordial mass segregation, and primordial binaries affects the dynamical evolution of the cluster, and which one of these features is the most important to agree with observations. Methods. We use Nbody6++GPU to simulate the dynamics of star clusters with initial substructure, primordial mass segregation, and primordial binaries, and we also study the relative importance of the processes. Initial models were generated by a modified version of McLuster, and we compared our results with observational data from Pang et al. 2022 database of open clusters. Our results show that primordial mass segregation and binaries do not change the result already obtained in previous works, as the time scale on which initial substructure disappears is of the order of few Myrs. However, we also find that in the presence of initial substructure, primordial mass segregation does not lead to an early expansion of the cluster. The processes in the core, discussed in previous works, lead to a loss of low mass stars and early expansion, are postponed in the presence of initial substructure. Finally, we find from comparison with observed clusters that primordial mass segregation is not a fundamental process to reproduce observational data.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-03T06:40:15Z",
+      "arxiv:comment": "12 Pages, 7 Images, 1 Table, Submitted to A&A, comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Vahid Amiri"
+        },
+        {
+          "name": "Francesco Flammini Dotti"
+        },
+        {
+          "name": "Xiaoying Pang"
+        },
+        {
+          "name": "A. W. H. Kamlah"
+        },
+        {
+          "name": "Peter Berczik"
+        },
+        {
+          "name": "Bekdaulet Shukirgaliyev"
+        },
+        {
+          "name": "Rainer Spurzem"
+        }
+      ],
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01870v1",
@@ -105,7 +168,7 @@
           "name": "Kunihito Ioka"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -148,7 +211,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -187,7 +250,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 17.0
+      "score": 16.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -251,7 +314,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 17.0
+      "score": 16.5
     },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
@@ -299,7 +362,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -336,7 +399,53 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 150.0
+      "score": 149.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.21682v1",
+      "title": "The Absolute Age of the Open Cluster NGC 6791 and Its Implications for Galactic Archaeology and Asteroseismic Calibration",
+      "updated": "2026-05-20T19:39:12Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2605.21682v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2605.21682v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a new absolute age determination for NGC 6791, one of the Milky Way's oldest and most metal-rich open clusters. Its unusual properties make it an important probe of inner-disk evolution and asteroseismic calibration, but its age has remained difficult to determine because of coupled uncertainties in reddening, distance, photometry, and stellar-model physics. Gaia DR3 photometry together with detached eclipsing binaries (DEBs) in NGC 6791 are combined with 10,000 Monte Carlo isochrone sets (marginalizing over uncertainties in composition, convective mixing processes, opacities, diffusion, nuclear reaction-rates, distance modulus, and reddening) to determine the age of NGC 6791. For each isochrone we build a synthetic color-magnitude diagram (CMD) that matches the observed star count in the MSTO and subgiant-branch window and injects empirical photometric scatter perpendicular to the ridgeline, enabling CMD comparisons without artificial-star tests. We assess CMD morphology using a bootstrap-calibrated two-dimensional Kolmogorov-Smirnov statistic, and add an external check based on the nearest-point metric: a coeval DEB statistic in $(M,L)$ space. These statistics are mapped to probability-density weights via bootstrap-resampling and combined into a single isochrone weight. NGC 6791 is determined to have an age of $8.46\\pm0.66$ Gyr, $[\\mathrm{Fe/H}]=+0.280\\pm0.079$, $Y=0.2968\\pm0.0158$, $(m{-}M)_V=13.333\\pm0.058$, and $E(B{-}V)=0.183\\pm0.024$. Our error budget shows no single dominant contributor, and highlights differences between open-cluster and globular-cluster age errors. Combined with its super-solar metallicity, our age estimate favors an inner-Galaxy origin for NGC 6791 and subsequent outward migration, provides a benchmark for asteroseismic calibration at high metallicity, and extends the absolute cluster age--metallicity relation to an old, metal-rich open cluster.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-05-20T19:39:12Z",
+      "arxiv:comment": "Accepted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "George Dufresne"
+        },
+        {
+          "name": "Brian Chaboyer"
+        },
+        {
+          "name": "Rayna Rampalli"
+        }
+      ],
+      "score": 4.6
     }
   ]
 }
