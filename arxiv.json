@@ -1,6 +1,208 @@
 {
-  "fetched_at": "2026-06-04T13:17:54.868506",
+  "fetched_at": "2026-06-06T01:01:46.523834",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.06457v1",
+      "title": "Dynamical evolution and dissolution timescale of young stellar clusters in the Orion star-forming complex",
+      "updated": "2026-06-04T17:50:17Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.06457v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.06457v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a comprehensive analysis of the Orion star-forming complex (OSFC), combining structural, kinematic, and dynamical information to constrain the present-day state and future evolution of its stellar substructures. Using \\textit{Gaia} DR3 astrometry and complementary radial velocities from high-resolution spectroscopic surveys, we derived three-dimensional velocity distributions and structural parameters for 13 young clusters. For the stellar component, we estimated a correction of the present-day mass function for observational incompleteness and calculated the virial state, $α_{\\rm vir}$, finding that all clusters are supervirial. Direct $N$-body simulations initialized from the present-day global parameters and evolved for 300~Myr in a Galactic potential suggest a separation of the OSFC clusters into two regimes: seven clusters with $α_{\\rm vir}\\lesssim 7$ evolve in a Galactic-potential-regulated regime that retains a bound core for $\\gtrsim 170$ Myr as long-lived open clusters, whereas six clusters with $α_{\\rm vir}\\gtrsim 7$ enter an internal-dynamics--dominated regime, dissolving before 120 Myr and rapidly populating the Galactic stellar field. For both regimes, a control test indicates negligible cluster--cluster interactions under current OSFC conditions. Finally, long-lived clusters show low-amplitude modulations in the bound fraction correlated with the Galactic vertical motion, consistent with disk-crossing tidal heating and the temporary recapture of marginal members. These results highlight the OSFC as a natural laboratory where heterogeneous initial conditions give rise to persistent open clusters and dispersing groups.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-04T17:50:17Z",
+      "arxiv:comment": "20 pages, 14 figures. Accepted for publication in Monthly Notices of the Royal Astronomical Society",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Sergio Sánchez-Sanjuán"
+        },
+        {
+          "name": "Ángeles Pérez-Villegas"
+        },
+        {
+          "name": "Jesús Hernández"
+        },
+        {
+          "name": "Luis Aguilar"
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.06248v1",
+      "title": "Bar-induced deflection of open cluster tidal tails",
+      "updated": "2026-06-04T14:50:28Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.06248v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.06248v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a systematic study of how the Galactic bar affects the orientation of tidal tails of open clusters and assess the power of tail morphology to constrain the bar's pattern speed. Using test-particle simulations, we follow the evolution of $\\sim 1450$ observed open clusters from the Hunt & Reffert (2024) catalogue in an axisymmetric reference potential and in eight barred potentials with pattern speeds ranging from $Ω_b = 20$ km/s/kpc to $Ω_b = 55$ km/s/kpc. We quantify the bar effect through the deflection angle -- the rotation of the tail orientation in the barred model relative to the axisymmetric case. The deflection angle varies systematically with bar pattern speed and cluster guiding radius. The largest deflections occur for clusters near the outer Lindblad resonance (OLR), with the sign of the angle set by the orientation of the orbit's pericentre relative to the bar's major axis. For each cluster we measure the distance from the centre beyond which different bar models produce distinguishable tail orientations, and classify each cluster as bar-sensitive or bar-insensitive based on its maximum absolute deflection across the bar models. Comparing with observed tidal tails from the literature, we find that the extended tails of NGC 2632 and the Hyades disfavour moderate pattern speeds. We provide a catalogue of deflection angles, minimal tail extents, and bar-sensitivity flags to guide future observational searches and the re-assessment of existing tidal tail catalogues.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-04T14:50:28Z",
+      "arxiv:comment": "Submitted to MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Hanna Parul"
+        },
+        {
+          "name": "Laia Casamiquela"
+        },
+        {
+          "name": "Paola Di Matteo"
+        },
+        {
+          "name": "Salvatore Ferrone"
+        }
+      ],
+      "score": 9.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.05762v1",
+      "title": "Evolution of the stellar mass function in open clusters from a universal and unsegregated initial state",
+      "updated": "2026-06-04T06:43:16Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.05762v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.05762v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The stellar mass function (MF) and its spatial variation (mass segregation) within star clusters encode signatures of early formation physics and subsequent secular evolution. Yet, a coherent evolutionary picture remains elusive due to conflicting reports regarding the universality of the initial mass function (IMF) and the prevalence of primordial mass segregation. These discrepancies often arise from unresolved binaries, field contamination, and completeness bias. Here, we resolve these issues by analyzing 163 high-fidelity open clusters via a Bayesian forward-modeling framework. We reveal a remarkably simple initial state: young clusters ($\\lesssim 300$ Myr) share a mean IMF slope of $-2.29$ in the mass range $M \\geq 0.5 M_\\odot$, consistent with the Salpeter slope but with an intrinsic scatter of 0.17, and exhibit minimal mass segregation at the onset of gas-free evolution ($\\sim$10 Myr). This broadly universal \"zero-point\" for secular evolution disfavors star-forming scenarios that predict strong primordial segregation or significant IMF variations, and suggests that chaotic cluster assembly and gas expulsion efficiently erase any mild primordial inhomogeneities. By tracing the evolutionary sequence from $10^7$ to $10^{9.8}$ yr, we demonstrate that dynamical processing operates on distinct timescales: mass segregation proceeds rapidly via internal relaxation, whereas global MF flattening due to tidal evaporation becomes dominant only after $\\sim$600 Myr. These findings impose robust observational constraints on the physics of star formation and early feedback and establish an empirical baseline for modeling secular stellar dynamics.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-04T06:43:16Z",
+      "arxiv:comment": "8 pages, 2 figures, Accepted for publication in ApJ Letters",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Lu Li"
+        },
+        {
+          "name": "Zhaozhou Li"
+        },
+        {
+          "name": "Zhengyi Shao"
+        },
+        {
+          "name": "Zepeng Zheng"
+        },
+        {
+          "name": "Long Wang"
+        }
+      ],
+      "score": 9.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.05298v1",
+      "title": "Dynamical models of cluster members to probe the total mass properties of cluster subhalos. I. A comparison with parametric strong lensing models",
+      "updated": "2026-06-03T18:00:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.05298v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.05298v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In this series of papers, we present dynamical models of cluster members in strong lensing (SL) galaxy clusters to independently probe the persistent discrepancy reported between SL models and cosmological simulations, in terms of total mass properties for the cluster subhalos. In this work, we focused our study on early-type galaxies within Abell 2744 ($z=0.309$) and MACS J0416.1-2403 ($z=0.397$). We took advantage of deep MUSE spectroscopic data, complemented with HFF photometry. We used a pipeline based on spectral fitting to perform kinematic measurements of the LOS velocity dispersion profiles of 109 cluster members. We modeled the galaxies assuming a dPIE total mass density distribution and a Jaffe stellar mass density distribution. From the models, we inferred the values of the central stellar velocity dispersion, $σ_0$, and the truncation radius, $r_t$, for the galaxies in our sample. We found that $σ_0$ is accurately recovered for all of the cluster members, while $r_t$ is reliably measured for a fraction of galaxies in our sample, with sufficiently extended radial kinematic coverage. Our dynamical models predicted LOS velocity dispersion profiles that fit the measured ones better than those inferred from SL models. We then exploited the $σ_0$ measurements obtained from the dynamical models to calibrate the Faber-Jackson scaling relations for the cluster members in both galaxy clusters. When comparing our relations to those obtained in previous kinematics and SL works, we found systematically higher normalization and compatible slope and scatter values. We conclude that our dynamical measurements of $σ_0$ and $r_t$, along with calibrated scaling relations, are more robust than previous kinematic estimates which are biased by not taking into account the effects of the PSF, and should therefore be adopted as improved initial prescriptions in future SL models.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-03T18:00:09Z",
+      "arxiv:comment": "17 pages, 15 figures, 4 tables. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Nicola Bianchetti"
+        },
+        {
+          "name": "Claudio Grillo"
+        },
+        {
+          "name": "Giovanni Granata"
+        },
+        {
+          "name": "Pietro Bergamini"
+        },
+        {
+          "name": "Massimo Meneghetti"
+        },
+        {
+          "name": "Amata Mercurio"
+        },
+        {
+          "name": "Piero Rosati"
+        },
+        {
+          "name": "Eros Vanzella"
+        },
+        {
+          "name": "Gabriel B. Caminha"
+        }
+      ],
+      "score": 6.0
+    },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
       "title": "The open cluster NGC 2509. Stellar rotation and main sequence turnoff extension from FLAMES spectroscopy",
@@ -62,7 +264,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -114,7 +316,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01870v1",
@@ -168,7 +370,7 @@
           "name": "Kunihito Ioka"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -211,7 +413,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 9.5
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -250,7 +452,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 16.5
+      "score": 15.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -314,7 +516,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 16.5
+      "score": 16.0
     },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
@@ -362,7 +564,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -399,7 +601,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 149.5
+      "score": 148.5
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -445,7 +647,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 4.6
+      "score": 3.6
     }
   ]
 }
