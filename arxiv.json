@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T01:08:49.263554",
+  "fetched_at": "2026-06-08T13:37:57.442825",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -143,7 +143,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -264,7 +264,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -316,7 +316,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01870v1",
@@ -370,7 +370,7 @@
           "name": "Kunihito Ioka"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -516,7 +516,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 15.0
+      "score": 14.5
     },
     {
       "id": "http://arxiv.org/abs/2605.28088v1",
@@ -564,7 +564,7 @@
           "name": "Fabio Antonini"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
