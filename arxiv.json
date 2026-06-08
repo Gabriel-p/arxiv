@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-07T12:41:26.924454",
+  "fetched_at": "2026-06-08T01:08:49.263554",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -48,7 +48,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -91,7 +91,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -146,17 +146,17 @@
       "score": 8.5
     },
     {
-      "id": "http://arxiv.org/abs/2606.05298v1",
+      "id": "http://arxiv.org/abs/2606.05298v2",
       "title": "Dynamical models of cluster members to probe the total mass properties of cluster subhalos. I. A comparison with parametric strong lensing models",
-      "updated": "2026-06-03T18:00:09Z",
+      "updated": "2026-06-05T16:49:06Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2606.05298v1",
+          "@href": "https://arxiv.org/abs/2606.05298v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2606.05298v1",
+          "@href": "https://arxiv.org/pdf/2606.05298v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -201,7 +201,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -264,7 +264,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -413,7 +413,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -452,7 +452,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 15.0
+      "score": 14.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -601,7 +601,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 148.0
+      "score": 147.5
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -647,7 +647,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 3.1
+      "score": 2.6
     }
   ]
 }
