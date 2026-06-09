@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T13:37:57.442825",
+  "fetched_at": "2026-06-09T01:00:58.388126",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -48,7 +48,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -91,7 +91,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -201,7 +201,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -413,7 +413,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -452,7 +452,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 14.5
+      "score": 14.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -601,7 +601,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 147.5
+      "score": 147.0
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -647,7 +647,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 2.6
+      "score": 2.1
     }
   ]
 }
