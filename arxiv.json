@@ -1,6 +1,70 @@
 {
-  "fetched_at": "2026-06-10T01:07:30.405052",
+  "fetched_at": "2026-06-10T13:22:09.176962",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.11006v1",
+      "title": "Spectroscopic analysis of RGB stars in nine open clusters",
+      "updated": "2026-06-09T15:41:30Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.11006v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.11006v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1093/mnras/stag1103",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Stellar clusters are crucial tools for studying the age, spatial distribution, dynamics, kinematics, and chemical composition of different Galactic stellar populations. In this work, we used red giant stars from open clusters to better understand the extra-mixing process through the CNO abundances and $^{12}$C/$^{13}$C, $^{16}$O/$^{17}$O and $^{16}$O/$^{18}$O isotopic ratios determined using high-quality spectra in the visible and near-infrared regions. We analysed the radial velocities and chemical composition of 22 K-type giant stars from nine open clusters (NGC188, NGC2682, NGC3680, NGC5822, IC4756, NGC6633, NGC3532, NGC6281, and NGC5460). High-resolution and high signal-to-noise spectra of stars in the NGC188 cluster were obtained with the ESPaDOnS spectrograph at the CFHT in the visible region. The stars in the other clusters were observed with the CRIRES spectrograph at the VLT. We used IRAF to compute radial velocities and Turbospectrum and MOOG for the chemical analysis. The values obtained for the radial velocities and abundances of the sample are similar to those found in the literature. The results in the visible and infrared support the occurrence and predicted mass dependence of thermohaline mixing on the red giant branch and of rotation-induced mixing on the main sequence. Variations of the initial abundances of $^{17}$O and $^{18}$O may be needed to explain the dispersion of the oxygen isotopic ratios in red giant stars.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-09T15:41:30Z",
+      "arxiv:comment": "28 pages, 12 figures. Accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Saulo de Oliveira Cantanhêde"
+        },
+        {
+          "name": "Alan Alves-Brito"
+        },
+        {
+          "name": "Rodolfo Smiljanic"
+        },
+        {
+          "name": "Beatriz Barbuy"
+        },
+        {
+          "name": "Nadège Lagarde"
+        },
+        {
+          "name": "Corinne Charbonnel"
+        },
+        {
+          "name": "Pierre North"
+        }
+      ],
+      "arxiv:doi": "10.1093/mnras/stag1103",
+      "score": 11.0
+    },
     {
       "id": "http://arxiv.org/abs/2606.10000v1",
       "title": "From Dense Gas Clouds to Supermassive Black Hole Seeds: Hybrid Hydro/Direct $N$-body Simulations of Runaway Collision-driven Intermediate-mass Black Hole Formation",
@@ -92,43 +156,6 @@
         },
         {
           "name": "Francisco Najarro"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.08961v1",
-      "title": "Rapid intermediate-mass black hole formation via runaway mergers of black holes",
-      "updated": "2026-06-08T03:00:58Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.08961v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.08961v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Observations indicate that supermassive black holes (SMBHs) in high-redshift galaxies formed on timescales far shorter than classical growth models allow. One hypothesis suggests intermediate-mass black hole (IMBH) seeds as an efficient growth channel. Using N-body simulations, we demonstrate that in dense stellar-mass black hole (BH) clusters ($\\ge 5\\times10^9 M_{\\odot}/{\\rm pc}^3$), runaway gravitational-wave binary BH (BBH) mergers can produce a $\\sim 10^3 M_\\odot$ IMBH within 10 Myr from the formation of the BH subsystem. This scenario is simple and avoids large uncertainties regarding stellar mergers and evolution in the IMBH formation via very massive stars channel. We find that the runaway GW-merger mechanism relies on hard BBH formation through a chain of exchanged soft BBHs with accumulated hardening, which is far more efficient than three-body scattering. We analyze how IMBH formation depends on cluster density, total mass, initial mass function, and stellar halo potential. We find that due to cluster expansion, the systems forming IMBHs have densities consistent with present-day nuclear star clusters, such as those in the Milky Way and M33. Furthermore, we show that IMBH spin remains low due to repeated mergers, and we estimate the rate of GW190521 and GW231123-like events within the first 100 Myr to be $2.27-247.52$ and $3.23-63.63 $ per Gyr per cluster.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-08T03:00:58Z",
-      "arxiv:comment": "18 pages, 7 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Yining Sun"
-        },
-        {
-          "name": "Long Wang"
         }
       ],
       "score": 0.5
@@ -275,7 +302,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -396,7 +423,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -448,7 +475,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01870v1",
@@ -502,7 +529,7 @@
           "name": "Kunihito Ioka"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -648,55 +675,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 14.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.28088v1",
-      "title": "cBHBd: A fast code for the evolution of tidally limited star clusters and their binary black hole mergers",
-      "updated": "2026-05-27T07:43:32Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.28088v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.28088v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The evolution of star clusters is driven by stellar mass loss, two-body relaxation, and evaporation in the Galactic tidal field. Fast modeling tools are crucial for exploring diverse initial conditions and predicting cluster populations and their contribution to gravitational wave (GW) sources over cosmic timescales.\n  We present an improved version of the clusterBHBdynamics (cBHBd) code, designed to evolve star clusters containing stars and stellar-mass black holes (BHs). We improve the treatment of evaporation in the Galactic tidal field and include the effects of metallicity and stellar mass functions. We also introduce new prescriptions for GW captures during BBH-BBH interactions and between resonant interactions due to distant encounters that increase BBH eccentricities.\n  The updated cBHBd is validated against Cluster Monte Carlo (CMC) models and $N$-body simulations spanning a range of cluster properties. Seven model parameters are fitted to the CMC results with nested sampling. With the best-fit values, the evolution of the cluster mass, half-mass radius, and BH population over 13 Gyr is reproduced to within $\\sim10\\%$. The new GW capture prescriptions allow cBHBd to reproduce BBH merger rates from CMC models of massive clusters ($\\gtrsim10^5,M_\\odot$) and direct $N$-body models of lower-mass clusters ($\\lesssim10^5,M_\\odot$) to within $\\sim20\\%$.\n  The improved cBHBd provides a fast and flexible tool for large-scale star cluster studies. With a runtime of about one second per cluster, it enables applications such as searches for globular cluster initial conditions, stellar stream modeling, and GW population synthesis.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-27T07:43:32Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Fotios Fronimos Pouliasis"
-        },
-        {
-          "name": "Nolan Dickson"
-        },
-        {
-          "name": "Daniel Marín Pina"
-        },
-        {
-          "name": "Mark Gieles"
-        },
-        {
-          "name": "Vincent Hénault-Brunet"
-        },
-        {
-          "name": "Fabio Antonini"
-        }
-      ],
-      "score": 0.3
+      "score": 13.5
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
