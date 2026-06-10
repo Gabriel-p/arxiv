@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-06-09T13:09:43.036110",
+  "fetched_at": "2026-06-10T01:07:30.405052",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.10000v1",
+      "title": "From Dense Gas Clouds to Supermassive Black Hole Seeds: Hybrid Hydro/Direct $N$-body Simulations of Runaway Collision-driven Intermediate-mass Black Hole Formation",
+      "updated": "2026-06-08T18:00:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.10000v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.10000v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A population of dense stellar systems at high redshift has recently been uncovered by the JWST. To investigate the formation of supermassive black hole (SMBH) seeds in these dense environments without invoking any \\textit{ad hoc} seeding mechanisms, we present star cluster-scale simulations performed with an updated version of the hydrodynamics code \\texttt{Enzo-Abyss}, which self-consistently integrates the gravity using a direct $N$-body method coupled with stellar evolution. By modeling initially dense, metal-poor gas clouds with varying turbulence, we consistently find the formation of dense clusters resembling early-stage nuclear star clusters (NSCs), as well as the formation of very massive stars (VMSs) ranging from $343\\;\\mathrm{M_\\odot}$ to $5108\\;\\mathrm{M_\\odot}$ via runaway collisions, irrespective of stellar wind feedback strength. Following the direct collapse of these VMSs, the resulting intermediate-mass black holes (IMBHs) grow through Eddington-limited gas accretion and tidal disruption events (TDEs). In our most optimistic model, we find a mass accretion rate of $1.64\\times10^{-4}\\;\\mathrm{M_\\odot\\;yr^{-1}}$, with TDEs contributing $23\\%$ of the total accretion over $\\sim10\\;\\mathrm{Myr}$. Assuming a steady gas supply into the NSC driven by rapid structural assembly in the high-redshift environment, together with a constant TDE rate, we project that an IMBH with an initial mass of $6747\\;\\mathrm{M_\\odot}$ at the center of the NSC can grow to $\\sim62000\\;\\mathrm{M_\\odot}$ within $100\\;\\mathrm{Myr}$ of its formation. Our numerical study, conducted within a single self-consistent framework that incorporates the essential physical processes, suggests that VMSs can form in dense gas clouds, collapse into IMBHs, and subsequently provide viable seeds for the SMBHs observed at high redshift.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-08T18:00:06Z",
+      "arxiv:comment": "Accepted for publication in ApJ, 23 pages, 15 figures. For summary video, see https://youtu.be/nJnj6wwB0D4",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Eunwoo Chung"
+        },
+        {
+          "name": "Yongseok Jo"
+        },
+        {
+          "name": "Ji-hoon Kim"
+        },
+        {
+          "name": "Minyong Jung"
+        },
+        {
+          "name": "Oh-kyoung Kwon"
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.09814v1",
       "title": "ALMA measurements of mass loss and wind clumping in the massive stars of the Arches cluster",
@@ -48,7 +94,7 @@
           "name": "Francisco Najarro"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.08961v1",
@@ -134,7 +180,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -177,7 +223,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -287,7 +333,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -350,7 +396,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -499,7 +545,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -538,7 +584,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 14.0
+      "score": 13.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -687,7 +733,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 147.0
+      "score": 146.5
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -733,7 +779,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 2.1
+      "score": 1.6
     }
   ]
 }
