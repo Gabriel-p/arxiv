@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T01:07:27.364482",
+  "fetched_at": "2026-06-11T13:33:34.167885",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -253,7 +253,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -374,7 +374,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -426,61 +426,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.01870v1",
-      "title": "Mass and Spin Growth of Very Massive Stars in Star Clusters Potentially Associated with Little Red Dots",
-      "updated": "2026-06-01T08:19:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.01870v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.01870v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Using gravitational $N$-body simulations, we investigate the evolution of mass and spin for very massive stars (VMSs) in dense star clusters, which may be potentially associated with Little Red Dots (LRDs). Our results show that VMS masses can reach $10^3$--$10^4\\,M_\\odot$, depending on the initial conditions of the host clusters. Notably, the VMS mass increases by up to a factor of three when accounting for the bloated state at the Hayashi track induced by stellar collisions, provided that this state is maintained at accretion rates exceeding $3 \\times 10^{-2}\\,M_\\odot\\,{\\rm yr}^{-1}$. In all cases, the spin of the VMS, when normalized to the dimensionless black hole (BH) spin parameter, exceeds $10$. While our model may overestimate VMS masses and spins due to the omission of post-main-sequence evolution and the loss of mass and angular momentum during collisions, we nonetheless demonstrate that VMSs formed in dense star clusters can be highly spinning. Such a rapidly spinning VMS is expected to collapse into an intermediate-mass BH surrounded by a massive accretion disk. This BH-disk system could trigger powerful explosions and emit burst gravitational waves, similar to those observed in GW190521 and GW231123, for which the remnant BH masses are estimated to be $\\gtrsim 100\\,M_\\odot$.",
-      "category": [
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-01T08:19:06Z",
-      "arxiv:comment": "12 pages, 3 figures, 1 table",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.HE"
-      },
-      "author": [
-        {
-          "name": "Ataru Tanikawa"
-        },
-        {
-          "name": "Masaru Shibata"
-        },
-        {
-          "name": "Kunihito Ioka"
-        }
-      ],
-      "score": 0.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -626,7 +572,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 13.5
+      "score": 13.0
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
