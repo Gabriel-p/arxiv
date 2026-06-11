@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T13:22:09.176962",
+  "fetched_at": "2026-06-11T01:07:27.364482",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -63,7 +63,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2606.10000v1",
@@ -109,56 +109,7 @@
           "name": "Oh-kyoung Kwon"
         }
       ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.09814v1",
-      "title": "ALMA measurements of mass loss and wind clumping in the massive stars of the Arches cluster",
-      "updated": "2026-06-08T17:55:41Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.09814v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.09814v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the first Atacama Large Millimeter/submillimeter Array (ALMA) Band 3 (100 GHz) and Band 6 (243 GHz) continuum observations of the Arches cluster, one of the youngest and most massive stellar clusters in the Milky Way. We detect and characterise millimetre emission from 23 massive stars, including WN7-9h Wolf-Rayet stars, O-type supergiants and hypergiants. By combining our ALMA measurements with archival Very Large Array data spanning 5-22.5 GHz, we derive broadband radio-millimetre spectral indices and investigate the radial structure of stellar winds through frequency-dependent clumping diagnostics. The majority of Wolf-Rayet stars exhibit spectral indices clustered around $α\\approx 0.7-0.8$, consistent with predominantly thermal free-free emission from dense, partially optically thick winds. In contrast, several O-type stars show flat or negative broadband spectral indices, indicative of non-thermal synchrotron emission likely associated with colliding-wind binaries. Using millimetre flux densities, we derive clumping-scaled mass-loss rates spanning $\\log(\\dot{M}/\\mathrm{M}_{\\odot}\\,\\text{yr}^{-1})\\approx-4.1$ to $-4.9$ for the WN stars and $-4.9$ to $-5.4$ for the O super-/hypergiants, consistent with expectations for luminous massive stars in the Galactic Centre environment. We find significant evidence of structured wind clumping at millimetre wavelengths that generally decreases with increasing radius, supporting structured wind models with strong inner-wind inhomogeneities. These results demonstrate the power of combined radio-millimetre observations for constraining mass-loss and wind structure in massive stars, and provide new insight into stellar feedback in extreme cluster environments.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-08T17:55:41Z",
-      "arxiv:comment": "16 pages, 5 figures, 7 tables, 2 appendices. Accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "James P. Perry"
-        },
-        {
-          "name": "Raman K. Prinja"
-        },
-        {
-          "name": "Danielle M. Fenech"
-        },
-        {
-          "name": "Francisco Najarro"
-        }
-      ],
-      "score": 0.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -207,7 +158,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -250,7 +201,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -360,7 +311,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -572,7 +523,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -611,7 +562,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 13.5
+      "score": 13.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -712,7 +663,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 146.5
+      "score": 146.0
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -758,7 +709,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 1.6
+      "score": 1.1
     }
   ]
 }
