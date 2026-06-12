@@ -1,6 +1,61 @@
 {
-  "fetched_at": "2026-06-12T01:10:58.568124",
+  "fetched_at": "2026-06-12T13:20:30.612900",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.13666v1",
+      "title": "Centrally concentrated star formation in young clusters II: Jet feedback",
+      "updated": "2026-06-11T17:57:59Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.13666v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.13666v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Protostellar jets are one of the earliest forms of stellar feedback, but their impact on star formation and cluster assembly in centrally concentrated molecular clouds remains poorly understood. We study how protostellar jets affect the star formation efficiency, the temporal variability of star formation, star cluster structure, and the early dynamical state of centrally concentrated, newly forming star clusters using the Torch star cluster formation framework. We adopt a centrally concentrated initial cloud model with mass M = 2.5 x 10^3 solar masses and compare six pairs of simulations with and without protostellar jets, supplemented by one additional higher resolution pair of simulations. We analyze our simulations using global star formation diagnostics together with structural and dynamical measures of the stellar population. Models with jet feedback achieve star formation efficiencies of 12-16%, while the corresponding models without jets yield higher efficiencies of 19-33%. Jets also cause star formation to occur in discrete bursts rather than continuously, to produce more extended and substructured stellar systems, and to leave behind stellar populations that are less tightly bound and have higher virial parameters. In our centrally concentrated initial conditions, runs with jets form stellar systems that better reproduce the observed range of the projected structural parameter Q_2D in young clusters than runs without jets, indicating that protostellar jets are an important early feedback channel even in centrally concentrated clouds that regulates star formation efficiencies and shapes the emerging cluster structure.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-11T17:57:59Z",
+      "arxiv:comment": "Data products associated with this work will be made publicly available through the American Museum of Natural History Digital Library after the paper is accepted for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Adilkhan Assilkhan"
+        },
+        {
+          "name": "Sabrina M. Appel"
+        },
+        {
+          "name": "Bekdaulet Shukirgaliyev"
+        },
+        {
+          "name": "Ernazar Abdikamalov"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        },
+        {
+          "name": "Eric P. Andersson"
+        },
+        {
+          "name": "Mukhagali Kalambay"
+        },
+        {
+          "name": "Mordecai-Mark Mac Low"
+        }
+      ],
+      "score": 7.0
+    },
     {
       "id": "http://arxiv.org/abs/2606.12605v1",
       "title": "Feedback-Free Star Formation in Clusters within a Galaxy Simulated at High Resolution in Cosmic Dawn",
@@ -49,55 +104,6 @@
         }
       ],
       "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.12536v1",
-      "title": "Getting to know the Stellar Clusters in NGC 1569: Bayesian inference of stellar cluster properties in a dwarf starburst galaxy",
-      "updated": "2026-06-10T18:00:07Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.12536v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.12536v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a Bayesian analysis of star clusters in the dwarf starburst galaxy NGC 1569 based on high-resolution Hubble Space Telescope imaging combined with integral-field spectroscopy from the Keck Cosmic Web Imager, obtained as part of the DUVET survey. For each cluster identified, we infer posterior probability distributions for mass and age using a forward modelling method that properly accounts for uncertainties due to stochastic sampling of the IMF. We investigate how the inferred properties depend on photometric coverage by repeating the analysis with different filter combinations, including mock extensions to the ultraviolet and near-infrared that emulate the addition of HST UV bands and James Webb Space Telescope imaging. We find that, while inclusion of these wavelength regimes further breaks age and mass degeneracies, the currently available data yields reasonably strong constraints on cluster parameters. We compare inferred cluster properties to the conditions of the local interstellar medium, and find evidence for multiple interesting correlations. The truncation mass of the cluster mass function varies with galactocentric distance, particularly moving off the disk, consistent with a dependence on the density of the interstellar medium. Cluster mass positively correlates with metallicity, suggesting that massive clusters preferentially form in pre-enriched gas, and the ionisation state of the gas, reflecting the increased prevalence of high-mass stars in high-mass clusters. These results demonstrate the power of Bayesian, initial mass function-aware modelling for resolving cluster populations in nearby starburst dwarfs and provide new insight into how cluster formation and feedback respond to local galactic conditions.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-10T18:00:07Z",
-      "arxiv:comment": "18 pages, 21 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Bjarki Björgvinsson"
-        },
-        {
-          "name": "Anna F. McLeod"
-        },
-        {
-          "name": "Bronwyn Reichardt Chu"
-        },
-        {
-          "name": "Magdalena J. Hamel-Bravo"
-        },
-        {
-          "name": "Deanne B. Fisher"
-        },
-        {
-          "name": "Mark R. Krumholz"
-        }
-      ],
-      "score": 5.1
     },
     {
       "id": "http://arxiv.org/abs/2606.12516v1",
@@ -391,7 +397,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -512,7 +518,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -564,7 +570,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -710,7 +716,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 13.0
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
