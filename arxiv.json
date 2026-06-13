@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T13:20:30.612900",
+  "fetched_at": "2026-06-13T12:45:40.107615",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -54,7 +54,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.12605v1",
@@ -103,47 +103,7 @@
           "name": "Xi Kang"
         }
       ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.12516v1",
-      "title": "Bar-induced migration of $ω$ Centauri away from Gaia Sausage-Enceladus",
-      "updated": "2026-06-10T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.12516v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.12516v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The globular cluster $ω$ Cen has been suggested to have originated in the Gaia Sausage-Enceladus (GSE) merger event, possibly as its nuclear star cluster. However, the present-day orbits of $ω$ Cen and the GSE debris are very different. We investigate the scenario in which $ω$ Cen originated in the GSE and migrated to its current position due to perturbations from the Galactic bar. The [$α$/M] distributions of stars located between the GSE debris and $ω$ Cen in $(L_z,E)$ space tentatively support this scenario, but are not conclusive. We run simulations of the GSE debris and $ω$ Cen in a realistic Milky Way potential with a decelerating bar at various present-day pattern speeds. We find that $ω$ Cen can indeed be traced back to the phase space region occupied by the GSE debris. However, this likely requires a pattern speed of $Ω_\\mathrm{b}\\lesssim26$ km s$^{-1}$ kpc$^{-1}$, which is much lower than most recent estimates. We conclude that a GSE origin for $ω$ Cen is dynamically and chemically plausible, but this would require a re-evaluation of the current consensus on the bar's pattern speed.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-10T18:00:00Z",
-      "arxiv:comment": "6 pages, 5 figures, submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Adam M. Dillamore"
-        },
-        {
-          "name": "Hanyuan Zhang"
-        },
-        {
-          "name": "Vasily Belokurov"
-        }
-      ],
-      "score": 0.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -207,53 +167,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 10.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.10000v1",
-      "title": "From Dense Gas Clouds to Supermassive Black Hole Seeds: Hybrid Hydro/Direct $N$-body Simulations of Runaway Collision-driven Intermediate-mass Black Hole Formation",
-      "updated": "2026-06-08T18:00:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.10000v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.10000v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A population of dense stellar systems at high redshift has recently been uncovered by the JWST. To investigate the formation of supermassive black hole (SMBH) seeds in these dense environments without invoking any \\textit{ad hoc} seeding mechanisms, we present star cluster-scale simulations performed with an updated version of the hydrodynamics code \\texttt{Enzo-Abyss}, which self-consistently integrates the gravity using a direct $N$-body method coupled with stellar evolution. By modeling initially dense, metal-poor gas clouds with varying turbulence, we consistently find the formation of dense clusters resembling early-stage nuclear star clusters (NSCs), as well as the formation of very massive stars (VMSs) ranging from $343\\;\\mathrm{M_\\odot}$ to $5108\\;\\mathrm{M_\\odot}$ via runaway collisions, irrespective of stellar wind feedback strength. Following the direct collapse of these VMSs, the resulting intermediate-mass black holes (IMBHs) grow through Eddington-limited gas accretion and tidal disruption events (TDEs). In our most optimistic model, we find a mass accretion rate of $1.64\\times10^{-4}\\;\\mathrm{M_\\odot\\;yr^{-1}}$, with TDEs contributing $23\\%$ of the total accretion over $\\sim10\\;\\mathrm{Myr}$. Assuming a steady gas supply into the NSC driven by rapid structural assembly in the high-redshift environment, together with a constant TDE rate, we project that an IMBH with an initial mass of $6747\\;\\mathrm{M_\\odot}$ at the center of the NSC can grow to $\\sim62000\\;\\mathrm{M_\\odot}$ within $100\\;\\mathrm{Myr}$ of its formation. Our numerical study, conducted within a single self-consistent framework that incorporates the essential physical processes, suggests that VMSs can form in dense gas clouds, collapse into IMBHs, and subsequently provide viable seeds for the SMBHs observed at high redshift.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-08T18:00:06Z",
-      "arxiv:comment": "Accepted for publication in ApJ, 23 pages, 15 figures. For summary video, see https://youtu.be/nJnj6wwB0D4",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Eunwoo Chung"
-        },
-        {
-          "name": "Yongseok Jo"
-        },
-        {
-          "name": "Ji-hoon Kim"
-        },
-        {
-          "name": "Minyong Jung"
-        },
-        {
-          "name": "Oh-kyoung Kwon"
-        }
-      ],
-      "score": 0.5
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -302,7 +216,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -345,7 +259,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -397,7 +311,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -455,7 +369,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -570,7 +484,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -613,7 +527,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -652,7 +566,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 12.5
+      "score": 12.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -716,7 +630,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 12.5
+      "score": 12.0
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -753,7 +667,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 145.5
+      "score": 145.0
     },
     {
       "id": "http://arxiv.org/abs/2605.21682v1",
@@ -799,7 +713,7 @@
           "name": "Rayna Rampalli"
         }
       ],
-      "score": 0.6
+      "score": 0.1
     }
   ]
 }
