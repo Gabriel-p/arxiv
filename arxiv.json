@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T12:48:50.510222",
+  "fetched_at": "2026-06-15T01:13:48.808868",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -54,56 +54,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 6.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.12605v1",
-      "title": "Feedback-Free Star Formation in Clusters within a Galaxy Simulated at High Resolution in Cosmic Dawn",
-      "updated": "2026-06-10T19:02:44Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.12605v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.12605v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We perform a cosmological zoom-in simulation of a massive galaxy ($M_s\\sim10^{10}\\rm M_\\odot$ at $z\\sim10$) using the GIZMO code. By employing $\\leq 3\\rm pc$ resolution and a $3.4\\rm Myr$ supernova feedback delay, we capture the feedback-free starbursts (FFB) in clusters. The simulation reproduces FFB model predictions and super-bright galaxies observed by JWST. At $z\\sim10$, cold streams feed a compact galaxy ($R_{\\rm e}\\sim1\\rm kpc$), with stellar and surface densities ($>10^5\\rm cm^{-3}$, $>10^5\\rm M_\\odot pc^{-2}$) exceeding FFB thresholds. The global star-formation efficiency (SFE) is $\\varepsilon_s\\sim0.2\\text{--}0.3$, associated with a fluctuating star-formation history. We identified over $10^5$ star clusters ($M_{\\star}>10^{4.5}\\rm M_\\odot$) with a nearly scale-free mass distribution (${\\rm d}N/{{\\rm d}\\log M}\\propto M^{-1.06}$). Approximately 90\\% of star formation occurs in clusters, which at a given time constitute $30\\text{--}40\\%$ of the total stellar mass. The star formation in most of the clusters of masses $<10^7\\rm M_\\odot$, occurs in bursts of $<3\\rm Myr$ and a local SFE $\\sim0.5\\pm 0.2$. Cluster metallicities ($-2.01<\\log (Z/Z_\\odot)<-0.45$) indicate rapid baryon recycling. Feedback-driven outflows exhibit typical temperature of $10^7\\rm K$ and typical velocities of $\\sim 2000\\rm km\\ s^{-1}$. In the highly dynamic central $1\\rm kpc$, clusters undergo rapid orbital decay and merge to assemble the oblate nuclear stellar cluster. Cluster shapes range from oblate to prolate, with a triaxial median. These clusters are consistent with JWST observations, and a fraction of them may survive to yield the globular clusters (GCs) at low redshifts.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-10T19:02:44Z",
-      "arxiv:comment": "15 pages, 17 figures. Submitted to MNRAS. All comments are welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Hou-Zun Chen"
-        },
-        {
-          "name": "Zhaozhou Li"
-        },
-        {
-          "name": "Avishai Dekel"
-        },
-        {
-          "name": "Zhiyuan Yao"
-        },
-        {
-          "name": "Nir Mandelker"
-        },
-        {
-          "name": "Xi Kang"
-        }
-      ],
-      "score": 0.5
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -167,7 +118,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -216,7 +167,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -259,7 +210,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -369,7 +320,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -432,7 +383,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -527,7 +478,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -566,7 +517,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -667,7 +618,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 144.5
+      "score": 144.0
     }
   ]
 }
