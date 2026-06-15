@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T01:13:48.808868",
+  "fetched_at": "2026-06-15T14:17:13.749928",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -262,7 +262,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -383,7 +383,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -435,7 +435,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -581,7 +581,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
