@@ -1,6 +1,367 @@
 {
-  "fetched_at": "2026-06-15T14:17:13.749928",
+  "fetched_at": "2026-06-16T13:58:21.449243",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.16853v1",
+      "title": "Optically Invisible Galaxies at Cosmic Noon and beyond with JWST/UNCOVER",
+      "updated": "2026-06-15T15:26:53Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.16853v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.16853v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The traditional selection bias in high-redshift galaxy surveys toward rest-frame ultraviolet emission has constrained our understanding of the high-redshift universe by systematically excluding optically faint (observer-frame) galaxies. Utilising JWST UNCOVER and MegaScience data of the Abell 2744 cluster field, we identify 113 high-redshift ($z > 2$) and 94 low-redshift ($z < 2$) HST-dark galaxies using a red $1.50-3.56 \\ μ$m color criterion. Their physical properties were derived using multiwavelength photometry from 20 JWST/NIRCam and 7 HST filters. Unlike classical submillimeter and \\textit{Spitzer}-selected HST-dark galaxies that primarily identify the most massive, dusty, highly star-forming galaxies, our study uncovers a moderately dusty population across a significantly broader range of stellar mass and star-formation rate. Leveraging gravitational magnification and ultra-deep JWST imaging, we found HST-dark galaxies with a stellar mass as low as $10^{7.5}$ at $z>2$. These galaxies have smaller sizes and follow the star-forming main sequence. Our analysis reveals a prominent peak in the Star Formation Rate Density at $z \\approx 4.5$ ($9.89^{+6.93}_{-4.34} \\times 10^{-3} \\, M_{\\odot} \\, \\text{yr}^{-1} \\, \\text{Mpc}^{-3}$). We also characterise a sub-population at $z < 2$ of Highly Extincted Low-Mass analogues with extremely low stellar masses (median $\\log M_{\\star}/M_{\\odot} \\approx 7.10$) and high dust extinction (median $A_V \\approx 1.97$ mag). Our sample demonstrates the unique power of JWST to reveal this previously missing galaxy population and to provide a more complete census of galaxies in the high-z universe.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-15T15:26:53Z",
+      "arxiv:comment": "21 pages, 12 figures, 8 tables. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Pralay Biswas"
+        },
+        {
+          "name": "Rashi Jain"
+        },
+        {
+          "name": "Yogesh Wadadekar"
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.15863v1",
+      "title": "Joint Modeling of GD-1 and C-19 as Old Streams",
+      "updated": "2026-06-14T15:34:10Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.15863v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.15863v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "DESI observational data for the GD-1 and C-19 streams are compared to stream simulations in a common evolving multi-halo potential of a Milky Way-like galaxy based on a cosmological simulation. The goal is to find the best match of the stream velocity spread and the density power spectrum stream density to simulations having either CDM or WDM subhalos. The cocoon velocity width integrated over the length of the stream is independent of orbital blurring along the stream and the power spectrum integrates over the width of the stream, sidestepping the geometric details of the streams. Streams develop from star clusters inserted at $\\simeq$1 Gyr after the Big Bang and evolved for 13 Gyr to their current orbital positions. Streams in a CDM subhalo population provide the best match to the velocity width, with streams younger than 10 Gyr ruled out as insufficiently hot. The progenitor star cluster masses, which determine the fraction of stars released at late times which comprise the stream core, are found to be $\\simeq 8\\times 10^4 M_\\odot$ for GD-1 and $\\simeq 4\\times 10^4 M_\\odot$ for C-19, although the mass depends on the star cluster half mass radius. Stream heating leads to stream lumpiness which is measurable for the relatively large and clean GD-1 dataset. The stream density power spectrum measured along the length of the DESI GD-1 sample is in good agreement with CDM simulations, with 1.7 to 1.9 times more power than WDM 7 keV and 5.5 keV simulations.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-14T15:34:10Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Raymond G. Carlberg"
+        },
+        {
+          "name": "Ting S. Li"
+        },
+        {
+          "name": "Emma Jarvis"
+        },
+        {
+          "name": "Nasser Mohammed"
+        },
+        {
+          "name": "Joan Najita"
+        },
+        {
+          "name": "Arjun Dey"
+        },
+        {
+          "name": "Sergey E. Koposov"
+        },
+        {
+          "name": "Jakob Piafsky"
+        },
+        {
+          "name": "Leandro Beraldo e Silva"
+        },
+        {
+          "name": "Constance M. Rockosi"
+        },
+        {
+          "name": "J. Aguilar"
+        },
+        {
+          "name": "S. Ahlen"
+        },
+        {
+          "name": "D. Bianchi"
+        },
+        {
+          "name": "D. Brooks"
+        },
+        {
+          "name": "T. Claybaugh"
+        },
+        {
+          "name": "A. de la Macorra"
+        },
+        {
+          "name": "Biprateep Dey"
+        },
+        {
+          "name": "P. Doel"
+        },
+        {
+          "name": "A. Font-Ribera"
+        },
+        {
+          "name": "J. E. Forero-Romero"
+        },
+        {
+          "name": "Satya Gontcho A Gontcho"
+        },
+        {
+          "name": "G. Gutierrez"
+        },
+        {
+          "name": "R. Joyce"
+        },
+        {
+          "name": "S. Junea"
+        },
+        {
+          "name": "A. Kremin"
+        },
+        {
+          "name": "O. Lahav"
+        },
+        {
+          "name": "M. Landriau"
+        },
+        {
+          "name": "L. Le Guillou"
+        },
+        {
+          "name": "A. Meisner"
+        },
+        {
+          "name": "R. Miquel"
+        },
+        {
+          "name": "W. J. Percival"
+        },
+        {
+          "name": "C. Poppett"
+        },
+        {
+          "name": "F. Prada"
+        },
+        {
+          "name": "I. Pérez-Ràfols"
+        },
+        {
+          "name": "G. Rossi"
+        },
+        {
+          "name": "E. Sanchez"
+        },
+        {
+          "name": "D. Schlegel"
+        },
+        {
+          "name": "J. Silber"
+        },
+        {
+          "name": "G. Tarlé"
+        },
+        {
+          "name": "B. A. Weaver"
+        },
+        {
+          "name": "R. Zhou"
+        },
+        {
+          "name": "H. Zou"
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.14852v1",
+      "title": "Intermediate-mass black hole seeding in galactic nuclei from star cluster migration",
+      "updated": "2026-06-12T18:00:03Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.14852v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.14852v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Nuclear star clusters are one of the most favorable sites to host hierarchical black hole (BH) mergers, potentially bridging the gap from stellar-mass to massive BHs. However, their assembly and the evolution of their BH populations remain poorly constrained. We investigate the process of intermediate-mass BH (IMBH) seeding in galactic nuclei from star cluster migration. We introduce inSpyral, a new semi-analytic model that draws star cluster populations from a galaxy formation model (L-Galaxies 2020),and integrates their evolution across a wide range of spatial scales, from BH core dynamics to the orbital motion in the host galaxy. We find that dynamical friction drives the inspiral of the most massive clusters in galaxies with $M_{\\mathrm{\\star, gal}} \\lesssim 5 \\times 10^{10} \\,\\mathrm{M_\\odot}$, seeding their nuclei with IMBHs as early as $z \\sim 6$. The BH mass distribution from BH mergers in migrating clusters extends to $\\sim 300 \\, \\mathrm{M_\\odot}$, a factor of five above the upper limit from in-situ formation. If clusters form with sub-parsec scale radii ($\\lesssim 0.5 \\, \\mathrm{pc}$), hierarchical mergers significantly enhance BH mass growth before migration, and seed galactic nuclei with IMBHs above $10^4 \\, \\mathrm{M_\\odot}$. The most massive and highly spinning gravitational-wave events are well reproduced by BH mergers involving second-generation remnants that experienced relatively small relativistic kicks ($\\lesssim 100 \\, \\mathrm{km \\, s^{-1}}$). GW231123 is consistent with BH mergers between a third-generation primary and a second-generation secondary, which occur in star clusters with mass $> 2 \\times 10^{6} \\, \\mathrm{M_\\odot}$.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-12T18:00:03Z",
+      "arxiv:comment": "18 pages, 12 figures. Comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Stefano Torniamenti"
+        },
+        {
+          "name": "Nils Hoyer"
+        },
+        {
+          "name": "Nadine Neumayer"
+        },
+        {
+          "name": "Peter J. Smith"
+        },
+        {
+          "name": "Manuel Arca Sedda"
+        }
+      ],
+      "score": 5.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.14846v1",
+      "title": "Black hole mergers from dense star clusters with realistic binary populations",
+      "updated": "2026-06-12T18:00:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.14846v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.14846v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a suite of 24 full-lifetime simulations of dense star clusters with the Cluster Monte Carlo (CMC) code, featuring updated input physics and a realistic distribution of initial binary systems. The latter encompasses a mass-dependent binary fraction, period distribution, and eccentricity distribution based on observations of well-studied stellar populations in the Solar neighborhood and nearby star-forming regions. We predict the cosmic rate, masses, and spins of binary black hole (BBH) mergers formed through dynamical assembly, primordial binary evolution, and hierarchical mergers within dense clusters. As with previous model grids with fewer binaries, dynamically assembled first-generation (1G) mergers dominate the rate of cluster-derived mergers, and the total merger rate is consistent with that inferred from LIGO-Virgo-KAGRA observations as of GWTC-5.0. Our models naturally reproduce key features of the inferred BBH population, including the broken-power-law behavior of the primary BH mass spectrum for $m_1 \\gtrsim 20 M_\\odot$, the shallower (steeper) slope of the secondary mass spectrum relative to the primary for $m_2 \\lesssim 10 M_\\odot$ ($m_2 \\gtrsim 30 M_\\odot$), and the shape of the mass-ratio distribution in the low- and high-mass domains. We predict broad distributions of the spin parameters $χ_{\\mathrm{eff}}$ and $χ_{\\mathrm{p}}$, consistent with previous studies of dynamical assembly in clusters. The merger rate from primordial binary systems within clusters is a small fraction of the total; however, their merger products are frequently involved in subsequent hierarchical mergers, with the result that the hierarchical merger rate evolves more steeply than the 1G dynamical merger rate with redshift.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-12T18:00:01Z",
+      "arxiv:comment": "6 figures, 3 tables; submitted to ApJ; BBH merger data available at https://doi.org/10.5281/zenodo.20651303",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Christopher E. O'Connor"
+        },
+        {
+          "name": "Kyle Kremer"
+        },
+        {
+          "name": "Saloni Agrawal"
+        },
+        {
+          "name": "Elena González Prieto"
+        },
+        {
+          "name": "Fulya Kıroğlu"
+        },
+        {
+          "name": "Maia A. S. Martinez"
+        },
+        {
+          "name": "Claire S. Ye"
+        },
+        {
+          "name": "Frederic A. Rasio"
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.14833v1",
+      "title": "Encounters of star clusters as a possible source of disturbances in their internal structure",
+      "updated": "2026-06-12T15:11:58Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.14833v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.14833v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We searched for past close encounters of the Hyades and Pleiades with all 5736 clusters of the Hunt & Reffert catalog, integrating orbits with galpy over the last 100 Myr and validating candidates by Monte Carlo. Most nominally close pairs are unstable under catalog errors; only two remain reliable: Pleiades and HSC 751 and Hyades and HSC 2986. HSC 2986 coincides with the star-forming cloud Corona Australis, which the Hyades crossed about 5 Myr ago, passing ~11 pc from its dense core. Such interactions may be the cause of the mini-clusters discovered in the Pleiades.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-12T15:11:58Z",
+      "arxiv:comment": "11 pages, 4 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "M. D. Sizova"
+        },
+        {
+          "name": "L. A. Maksimova"
+        },
+        {
+          "name": "S. V. Vereshchagin"
+        }
+      ],
+      "score": 51.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
       "title": "Centrally concentrated star formation in young clusters II: Jet feedback",
@@ -54,7 +415,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -118,7 +479,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -167,7 +528,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -210,7 +571,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -262,7 +623,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05298v2",
@@ -320,7 +681,7 @@
           "name": "Gabriel B. Caminha"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -383,7 +744,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -435,7 +796,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -478,7 +839,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -517,7 +878,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -581,7 +942,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -618,7 +979,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 144.0
+      "score": 143.5
     }
   ]
 }
