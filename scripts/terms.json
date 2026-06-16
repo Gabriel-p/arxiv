@@ -29,92 +29,45 @@
     "computing cluster",
     "data cluster",
     "kubernetes",
-    "hadoop"
+    "hadoop",
   ],
-  "soft_exclusion_terms": [
+  "penalty_terms": [
     [
-      "dwarf galaxy",
-      3.0
-    ],
-    [
-      "dwarf galaxies",
-      3.0
-    ],
-    [
-      "starburst galaxy",
-      3.0
-    ],
-    [
-      "radio galaxy",
-      3.0
-    ],
-    [
-      "ring galaxy",
-      3.0
-    ],
-    [
-      "quiescent galaxy",
-      3.0
-    ],
-    [
-      "spiral galaxies",
+      [
+        "spiral galaxies",
+        "galaxy survey",
+        "proto-cluster",
+        "icm"
+      ],
       2.0
     ],
     [
-      "galaxy survey",
-      2.0
+      [
+        "dwarf galaxy",
+        "dwarf galaxies",
+        "starburst galaxy",
+        "radio galaxy",
+        "ring galaxy",
+        "quiescent galaxy",
+        "lmc",
+        "smc",
+        "large magellanic",
+        "small magellanic",
+        "lmc cluster",
+        "smc cluster",
+        "lmc star cluster",
+        "smc star cluster",
+        "black hole"
+      ],
+      3.0
     ],
     [
-      "cluster redshift",
+      [
+        "cluster redshift",
+        "abell cluster",
+        "intracluster medium"
+      ],
       4.0
-    ],
-    [
-      "lmc",
-      3.0
-    ],
-    [
-      "smc",
-      3.0
-    ],
-    [
-      "large magellanic",
-      3.0
-    ],
-    [
-      "small magellanic",
-      3.0
-    ],
-    [
-      "lmc cluster",
-      3.0
-    ],
-    [
-      "smc cluster",
-      3.0
-    ],
-    [
-      "lmc star cluster",
-      3.0
-    ],
-    [
-      "smc star cluster",
-      3.0
-    ],
-    [
-      "proto-cluster",
-      2.0
-    ],
-    [
-      "abell cluster",
-      4.0
-    ],
-    [
-      "intracluster medium",
-      4.0
-    ],
-    [
-      "icm ",
-      2.0
     ]
   ],
   "catalogs": [

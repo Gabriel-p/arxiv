@@ -87,11 +87,24 @@ with open(_EXCLUSIONS_FILE, encoding="utf-8") as _f:
 
 # HARD: checked against TITLE only — unambiguous non-OC papers
 HARD_EXCLUSIONS: list[str] = [s.lower() for s in _excl["hard_exclusions"]]
+
+# Subtracted from score if found in full text (title + summary); higher penalty for
+# unambiguous non-OC topics
+PENALTY_HARD: float = 10.0
+
 # SOFT: checked against full text (title + summary); each hit subtracts a penalty
-# Covers cases where the paper is likely extragalactic but could legitimately discuss OCs
-SOFT_EXCLUSION_TERMS: list[tuple[str, float]] = [
-    (p[0].lower(), p[1]) for p in _excl["soft_exclusion_terms"]
-]
+# If duplications occur, HARD_EXCLUSIONS terms are given priority
+PENALTY_TERMS: list[tuple[str, float]] = list(
+    {
+        **{
+            term.lower(): penalty
+            for terms, penalty in _excl["penalty_terms"]
+            for term in terms
+        },
+        **{term: PENALTY_HARD for term in HARD_EXCLUSIONS},
+    }.items()
+)
+
 # Negative lookbehinds prevent matching catalog identifiers like "NGC 2516"
 _CATALOGS: tuple[str, ...] = tuple(s.lower() for s in _excl["catalogs"])
 
@@ -238,9 +251,9 @@ def filter_score(entries_raw):
         if score <= 0:
             continue
 
-        # Soft exclusions: subtract penalty for extragalactic context signals
+        # Subtract penalty
         full_text = title + " " + summary
-        for term, penalty in SOFT_EXCLUSION_TERMS:
+        for term, penalty in PENALTY_TERMS:
             if term in full_text:
                 score -= penalty
 
