@@ -1,6 +1,49 @@
 {
-  "fetched_at": "2026-06-16T13:58:21.449243",
+  "fetched_at": "2026-06-17T11:21:53.573339",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.17131v1",
+      "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
+      "updated": "2026-06-15T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.17131v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.17131v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The mini-cavity is a low-density region observed in the complex of streams of ionized gas around the Galactic central supermassive black hole, Sgr A$^\\star$, known as the mini-spiral. Its near-circular shape is suggestive of a formation due to the effect of stellar winds. No suitable stars are currently observed within the mini-cavity, however. In this study we assessed whether the mini-cavity could have been formed by the winds of the stars from the neighbouring IRS 13 cluster that were located at the position of the mini-cavity in the past but moved away from it later on owing to their orbital motions around Sgr A$^\\star$. Furthermore, we estimated the rate of accretion of the then-abundant interstellar medium onto the putative intermediate-mass black hole that has been proposed to reside in the IRS 13 cluster and the corresponding X-ray luminosity of this black hole. The estimates were obtained analytically using the astrophysical properties reported for the involved objects and the environment. Based on our results, we suggest that the mini-cavity was formed by the winds of the IRS 13 cluster member stars about 300 years ago, when this cluster went through the Bar region of the mini-spiral. The accompanying accretion of the interstellar medium onto the putative intermediate-mass black hole in this cluster may have produced multiple X-ray flares with luminosities of $\\approx10^{39}$ erg/s. Such flares are compatible with the X-ray reflections currently observed on the molecular clouds in the complexes Sgr A, B, and C, including the necessary light-travel time delay.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-15T18:00:00Z",
+      "arxiv:comment": "To be published in Astronomy & Astrophysics; 5 pages, 2 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jaroslav Haas"
+        },
+        {
+          "name": "Pavel Kroupa"
+        },
+        {
+          "name": "Florian Peißker"
+        },
+        {
+          "name": "Mark R. Morris"
+        }
+      ],
+      "score": 16.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
       "title": "Optically Invisible Galaxies at Cosmic Noon and beyond with JWST/UNCOVER",
@@ -39,7 +82,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 48.0
+      "score": 37.5
     },
     {
       "id": "http://arxiv.org/abs/2606.15863v1",
@@ -201,120 +244,7 @@
           "name": "H. Zou"
         }
       ],
-      "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.14852v1",
-      "title": "Intermediate-mass black hole seeding in galactic nuclei from star cluster migration",
-      "updated": "2026-06-12T18:00:03Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.14852v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.14852v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Nuclear star clusters are one of the most favorable sites to host hierarchical black hole (BH) mergers, potentially bridging the gap from stellar-mass to massive BHs. However, their assembly and the evolution of their BH populations remain poorly constrained. We investigate the process of intermediate-mass BH (IMBH) seeding in galactic nuclei from star cluster migration. We introduce inSpyral, a new semi-analytic model that draws star cluster populations from a galaxy formation model (L-Galaxies 2020),and integrates their evolution across a wide range of spatial scales, from BH core dynamics to the orbital motion in the host galaxy. We find that dynamical friction drives the inspiral of the most massive clusters in galaxies with $M_{\\mathrm{\\star, gal}} \\lesssim 5 \\times 10^{10} \\,\\mathrm{M_\\odot}$, seeding their nuclei with IMBHs as early as $z \\sim 6$. The BH mass distribution from BH mergers in migrating clusters extends to $\\sim 300 \\, \\mathrm{M_\\odot}$, a factor of five above the upper limit from in-situ formation. If clusters form with sub-parsec scale radii ($\\lesssim 0.5 \\, \\mathrm{pc}$), hierarchical mergers significantly enhance BH mass growth before migration, and seed galactic nuclei with IMBHs above $10^4 \\, \\mathrm{M_\\odot}$. The most massive and highly spinning gravitational-wave events are well reproduced by BH mergers involving second-generation remnants that experienced relatively small relativistic kicks ($\\lesssim 100 \\, \\mathrm{km \\, s^{-1}}$). GW231123 is consistent with BH mergers between a third-generation primary and a second-generation secondary, which occur in star clusters with mass $> 2 \\times 10^{6} \\, \\mathrm{M_\\odot}$.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-12T18:00:03Z",
-      "arxiv:comment": "18 pages, 12 figures. Comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Stefano Torniamenti"
-        },
-        {
-          "name": "Nils Hoyer"
-        },
-        {
-          "name": "Nadine Neumayer"
-        },
-        {
-          "name": "Peter J. Smith"
-        },
-        {
-          "name": "Manuel Arca Sedda"
-        }
-      ],
-      "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.14846v1",
-      "title": "Black hole mergers from dense star clusters with realistic binary populations",
-      "updated": "2026-06-12T18:00:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.14846v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.14846v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a suite of 24 full-lifetime simulations of dense star clusters with the Cluster Monte Carlo (CMC) code, featuring updated input physics and a realistic distribution of initial binary systems. The latter encompasses a mass-dependent binary fraction, period distribution, and eccentricity distribution based on observations of well-studied stellar populations in the Solar neighborhood and nearby star-forming regions. We predict the cosmic rate, masses, and spins of binary black hole (BBH) mergers formed through dynamical assembly, primordial binary evolution, and hierarchical mergers within dense clusters. As with previous model grids with fewer binaries, dynamically assembled first-generation (1G) mergers dominate the rate of cluster-derived mergers, and the total merger rate is consistent with that inferred from LIGO-Virgo-KAGRA observations as of GWTC-5.0. Our models naturally reproduce key features of the inferred BBH population, including the broken-power-law behavior of the primary BH mass spectrum for $m_1 \\gtrsim 20 M_\\odot$, the shallower (steeper) slope of the secondary mass spectrum relative to the primary for $m_2 \\lesssim 10 M_\\odot$ ($m_2 \\gtrsim 30 M_\\odot$), and the shape of the mass-ratio distribution in the low- and high-mass domains. We predict broad distributions of the spin parameters $χ_{\\mathrm{eff}}$ and $χ_{\\mathrm{p}}$, consistent with previous studies of dynamical assembly in clusters. The merger rate from primordial binary systems within clusters is a small fraction of the total; however, their merger products are frequently involved in subsequent hierarchical mergers, with the result that the hierarchical merger rate evolves more steeply than the 1G dynamical merger rate with redshift.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-12T18:00:01Z",
-      "arxiv:comment": "6 figures, 3 tables; submitted to ApJ; BBH merger data available at https://doi.org/10.5281/zenodo.20651303",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Christopher E. O'Connor"
-        },
-        {
-          "name": "Kyle Kremer"
-        },
-        {
-          "name": "Saloni Agrawal"
-        },
-        {
-          "name": "Elena González Prieto"
-        },
-        {
-          "name": "Fulya Kıroğlu"
-        },
-        {
-          "name": "Maia A. S. Martinez"
-        },
-        {
-          "name": "Claire S. Ye"
-        },
-        {
-          "name": "Frederic A. Rasio"
-        }
-      ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -360,7 +290,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 51.5
+      "score": 51.0
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -415,7 +345,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -479,7 +409,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -528,7 +458,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -571,7 +501,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -623,65 +553,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.05298v2",
-      "title": "Dynamical models of cluster members to probe the total mass properties of cluster subhalos. I. A comparison with parametric strong lensing models",
-      "updated": "2026-06-05T16:49:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.05298v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.05298v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In this series of papers, we present dynamical models of cluster members in strong lensing (SL) galaxy clusters to independently probe the persistent discrepancy reported between SL models and cosmological simulations, in terms of total mass properties for the cluster subhalos. In this work, we focused our study on early-type galaxies within Abell 2744 ($z=0.309$) and MACS J0416.1-2403 ($z=0.397$). We took advantage of deep MUSE spectroscopic data, complemented with HFF photometry. We used a pipeline based on spectral fitting to perform kinematic measurements of the LOS velocity dispersion profiles of 109 cluster members. We modeled the galaxies assuming a dPIE total mass density distribution and a Jaffe stellar mass density distribution. From the models, we inferred the values of the central stellar velocity dispersion, $σ_0$, and the truncation radius, $r_t$, for the galaxies in our sample. We found that $σ_0$ is accurately recovered for all of the cluster members, while $r_t$ is reliably measured for a fraction of galaxies in our sample, with sufficiently extended radial kinematic coverage. Our dynamical models predicted LOS velocity dispersion profiles that fit the measured ones better than those inferred from SL models. We then exploited the $σ_0$ measurements obtained from the dynamical models to calibrate the Faber-Jackson scaling relations for the cluster members in both galaxy clusters. When comparing our relations to those obtained in previous kinematics and SL works, we found systematically higher normalization and compatible slope and scatter values. We conclude that our dynamical measurements of $σ_0$ and $r_t$, along with calibrated scaling relations, are more robust than previous kinematic estimates which are biased by not taking into account the effects of the PSF, and should therefore be adopted as improved initial prescriptions in future SL models.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-03T18:00:09Z",
-      "arxiv:comment": "17 pages, 15 figures, 4 tables. Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Nicola Bianchetti"
-        },
-        {
-          "name": "Claudio Grillo"
-        },
-        {
-          "name": "Giovanni Granata"
-        },
-        {
-          "name": "Pietro Bergamini"
-        },
-        {
-          "name": "Massimo Meneghetti"
-        },
-        {
-          "name": "Amata Mercurio"
-        },
-        {
-          "name": "Piero Rosati"
-        },
-        {
-          "name": "Eros Vanzella"
-        },
-        {
-          "name": "Gabriel B. Caminha"
-        }
-      ],
-      "score": 1.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -796,7 +668,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -839,7 +711,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -878,7 +750,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -942,7 +814,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -979,7 +851,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 143.5
+      "score": 143.0
     }
   ]
 }
