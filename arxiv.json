@@ -1,6 +1,65 @@
 {
-  "fetched_at": "2026-06-17T13:25:22.864199",
+  "fetched_at": "2026-06-18T13:20:41.954041",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.18419v1",
+      "title": "The Contribution of Disrupted Dense Star Clusters to Gaia's Compact Object Binaries",
+      "updated": "2026-06-16T19:13:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.18419v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.18419v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the first model of the Milky Way's detectable compact object--luminous star binary population from disrupted dense star clusters. We bridge large-scale cosmological star cluster formation with high-resolution dynamical evolution of compact object binaries by mapping the predicted star clusters from the EMP-Pathfinder simulations to $N$-body Cluster Monte Carlo models. We predict that approximately $3\\times10^5$ white dwarfs (WDs), $1.5\\times10^5$ black holes (BHs), and $1\\times10^3$ neutron stars (NSs) in binaries with luminous companions are released to the Galaxy from now-disrupted dense star clusters throughout the history of the Milky Way. Synthetic observations modeled with the gaiamock pipeline reveal that the modeled Gaia DR3 yields are sparse ($\\approx 2$ WDs, 0 NS, 0 BHs at 90% credibility), with the majority lying beyond the detection horizon. Gaia DR4 is expected to increase the observational yield of these systems only marginally, as the benefits of an expanded search volume are largely offset by the diminished astrometric and photometric precision of more distant sources ($\\approx 14$ WDs, 0 NS, 0 BHs). While the underlying BH binary population is similar to that of WDs, they are detected far less frequently; they tend to pair with lower-mass, dimmer companions and have less temporal coverage of their long orbital periods. For NSs, we suggest that the observed over-representation of metal-poor, halo systems is inconsistent with an origin in disrupted dense star clusters. Instead, the observed Gaia NS population could reflect the accretion history of metal-poor, dwarf galaxies into the Milky Way, isolated binary star evolution, or supernova physics.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-16T19:13:05Z",
+      "arxiv:comment": "18 pages, 9 figures, submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Aryanna Schiebelbein-Zwack"
+        },
+        {
+          "name": "Claire S. Ye"
+        },
+        {
+          "name": "Marta Reina-Campos"
+        },
+        {
+          "name": "Aeysha Munawwarah"
+        },
+        {
+          "name": "Kareem El-Badry"
+        },
+        {
+          "name": "Pranav Nagarajan"
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
       "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
@@ -42,7 +101,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 16.5
+      "score": 16.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -82,7 +141,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 37.5
+      "score": 37.0
     },
     {
       "id": "http://arxiv.org/abs/2606.15863v1",
@@ -244,7 +303,7 @@
           "name": "H. Zou"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -290,7 +349,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 51.0
+      "score": 50.5
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -345,7 +404,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -409,7 +468,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06457v1",
@@ -458,7 +517,7 @@
           "name": "Luis Aguilar"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -501,7 +560,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -553,7 +612,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -616,7 +675,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -668,7 +727,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -711,7 +770,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -750,7 +809,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -814,7 +873,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -851,7 +910,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 143.0
+      "score": 142.5
     }
   ]
 }
