@@ -1,65 +1,6 @@
 {
-  "fetched_at": "2026-06-19T13:19:49.934348",
+  "fetched_at": "2026-06-21T01:12:34.963380",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2606.18419v1",
-      "title": "The Contribution of Disrupted Dense Star Clusters to Gaia's Compact Object Binaries",
-      "updated": "2026-06-16T19:13:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.18419v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.18419v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the first model of the Milky Way's detectable compact object--luminous star binary population from disrupted dense star clusters. We bridge large-scale cosmological star cluster formation with high-resolution dynamical evolution of compact object binaries by mapping the predicted star clusters from the EMP-Pathfinder simulations to $N$-body Cluster Monte Carlo models. We predict that approximately $3\\times10^5$ white dwarfs (WDs), $1.5\\times10^5$ black holes (BHs), and $1\\times10^3$ neutron stars (NSs) in binaries with luminous companions are released to the Galaxy from now-disrupted dense star clusters throughout the history of the Milky Way. Synthetic observations modeled with the gaiamock pipeline reveal that the modeled Gaia DR3 yields are sparse ($\\approx 2$ WDs, 0 NS, 0 BHs at 90% credibility), with the majority lying beyond the detection horizon. Gaia DR4 is expected to increase the observational yield of these systems only marginally, as the benefits of an expanded search volume are largely offset by the diminished astrometric and photometric precision of more distant sources ($\\approx 14$ WDs, 0 NS, 0 BHs). While the underlying BH binary population is similar to that of WDs, they are detected far less frequently; they tend to pair with lower-mass, dimmer companions and have less temporal coverage of their long orbital periods. For NSs, we suggest that the observed over-representation of metal-poor, halo systems is inconsistent with an origin in disrupted dense star clusters. Instead, the observed Gaia NS population could reflect the accretion history of metal-poor, dwarf galaxies into the Milky Way, isolated binary star evolution, or supernova physics.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-16T19:13:05Z",
-      "arxiv:comment": "18 pages, 9 figures, submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Aryanna Schiebelbein-Zwack"
-        },
-        {
-          "name": "Claire S. Ye"
-        },
-        {
-          "name": "Marta Reina-Campos"
-        },
-        {
-          "name": "Aeysha Munawwarah"
-        },
-        {
-          "name": "Kareem El-Badry"
-        },
-        {
-          "name": "Pranav Nagarajan"
-        }
-      ],
-      "score": 1.0
-    },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
       "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
@@ -101,7 +42,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 15.5
+      "score": 14.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -141,169 +82,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 36.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.15863v1",
-      "title": "Joint Modeling of GD-1 and C-19 as Old Streams",
-      "updated": "2026-06-14T15:34:10Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.15863v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.15863v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "DESI observational data for the GD-1 and C-19 streams are compared to stream simulations in a common evolving multi-halo potential of a Milky Way-like galaxy based on a cosmological simulation. The goal is to find the best match of the stream velocity spread and the density power spectrum stream density to simulations having either CDM or WDM subhalos. The cocoon velocity width integrated over the length of the stream is independent of orbital blurring along the stream and the power spectrum integrates over the width of the stream, sidestepping the geometric details of the streams. Streams develop from star clusters inserted at $\\simeq$1 Gyr after the Big Bang and evolved for 13 Gyr to their current orbital positions. Streams in a CDM subhalo population provide the best match to the velocity width, with streams younger than 10 Gyr ruled out as insufficiently hot. The progenitor star cluster masses, which determine the fraction of stars released at late times which comprise the stream core, are found to be $\\simeq 8\\times 10^4 M_\\odot$ for GD-1 and $\\simeq 4\\times 10^4 M_\\odot$ for C-19, although the mass depends on the star cluster half mass radius. Stream heating leads to stream lumpiness which is measurable for the relatively large and clean GD-1 dataset. The stream density power spectrum measured along the length of the DESI GD-1 sample is in good agreement with CDM simulations, with 1.7 to 1.9 times more power than WDM 7 keV and 5.5 keV simulations.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-14T15:34:10Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Raymond G. Carlberg"
-        },
-        {
-          "name": "Ting S. Li"
-        },
-        {
-          "name": "Emma Jarvis"
-        },
-        {
-          "name": "Nasser Mohammed"
-        },
-        {
-          "name": "Joan Najita"
-        },
-        {
-          "name": "Arjun Dey"
-        },
-        {
-          "name": "Sergey E. Koposov"
-        },
-        {
-          "name": "Jakob Piafsky"
-        },
-        {
-          "name": "Leandro Beraldo e Silva"
-        },
-        {
-          "name": "Constance M. Rockosi"
-        },
-        {
-          "name": "J. Aguilar"
-        },
-        {
-          "name": "S. Ahlen"
-        },
-        {
-          "name": "D. Bianchi"
-        },
-        {
-          "name": "D. Brooks"
-        },
-        {
-          "name": "T. Claybaugh"
-        },
-        {
-          "name": "A. de la Macorra"
-        },
-        {
-          "name": "Biprateep Dey"
-        },
-        {
-          "name": "P. Doel"
-        },
-        {
-          "name": "A. Font-Ribera"
-        },
-        {
-          "name": "J. E. Forero-Romero"
-        },
-        {
-          "name": "Satya Gontcho A Gontcho"
-        },
-        {
-          "name": "G. Gutierrez"
-        },
-        {
-          "name": "R. Joyce"
-        },
-        {
-          "name": "S. Junea"
-        },
-        {
-          "name": "A. Kremin"
-        },
-        {
-          "name": "O. Lahav"
-        },
-        {
-          "name": "M. Landriau"
-        },
-        {
-          "name": "L. Le Guillou"
-        },
-        {
-          "name": "A. Meisner"
-        },
-        {
-          "name": "R. Miquel"
-        },
-        {
-          "name": "W. J. Percival"
-        },
-        {
-          "name": "C. Poppett"
-        },
-        {
-          "name": "F. Prada"
-        },
-        {
-          "name": "I. Pérez-Ràfols"
-        },
-        {
-          "name": "G. Rossi"
-        },
-        {
-          "name": "E. Sanchez"
-        },
-        {
-          "name": "D. Schlegel"
-        },
-        {
-          "name": "J. Silber"
-        },
-        {
-          "name": "G. Tarlé"
-        },
-        {
-          "name": "B. A. Weaver"
-        },
-        {
-          "name": "R. Zhou"
-        },
-        {
-          "name": "H. Zou"
-        }
-      ],
-      "score": 1.0
+      "score": 35.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -349,7 +128,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 50.0
+      "score": 49.0
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -404,7 +183,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 3.5
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -468,56 +247,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.06457v1",
-      "title": "Dynamical evolution and dissolution timescale of young stellar clusters in the Orion star-forming complex",
-      "updated": "2026-06-04T17:50:17Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.06457v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.06457v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a comprehensive analysis of the Orion star-forming complex (OSFC), combining structural, kinematic, and dynamical information to constrain the present-day state and future evolution of its stellar substructures. Using \\textit{Gaia} DR3 astrometry and complementary radial velocities from high-resolution spectroscopic surveys, we derived three-dimensional velocity distributions and structural parameters for 13 young clusters. For the stellar component, we estimated a correction of the present-day mass function for observational incompleteness and calculated the virial state, $α_{\\rm vir}$, finding that all clusters are supervirial. Direct $N$-body simulations initialized from the present-day global parameters and evolved for 300~Myr in a Galactic potential suggest a separation of the OSFC clusters into two regimes: seven clusters with $α_{\\rm vir}\\lesssim 7$ evolve in a Galactic-potential-regulated regime that retains a bound core for $\\gtrsim 170$ Myr as long-lived open clusters, whereas six clusters with $α_{\\rm vir}\\gtrsim 7$ enter an internal-dynamics--dominated regime, dissolving before 120 Myr and rapidly populating the Galactic stellar field. For both regimes, a control test indicates negligible cluster--cluster interactions under current OSFC conditions. Finally, long-lived clusters show low-amplitude modulations in the bound fraction correlated with the Galactic vertical motion, consistent with disk-crossing tidal heating and the temporary recapture of marginal members. These results highlight the OSFC as a natural laboratory where heterogeneous initial conditions give rise to persistent open clusters and dispersing groups.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-04T17:50:17Z",
-      "arxiv:comment": "20 pages, 14 figures. Accepted for publication in Monthly Notices of the Royal Astronomical Society",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Sergio Sánchez-Sanjuán"
-        },
-        {
-          "name": "Ángeles Pérez-Villegas"
-        },
-        {
-          "name": "Jesús Hernández"
-        },
-        {
-          "name": "Luis Aguilar"
-        }
-      ],
-      "score": 1.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -560,7 +290,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 3.0
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -612,7 +342,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -675,7 +405,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04509v1",
@@ -727,7 +457,7 @@
           "name": "Rainer Spurzem"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -770,7 +500,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 2.0
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -809,7 +539,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 9.0
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -873,7 +603,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2605.23802v1",
@@ -910,7 +640,7 @@
           "name": "Furkan Akbaba"
         }
       ],
-      "score": 142.0
+      "score": 141.0
     }
   ]
 }
