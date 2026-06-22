@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T01:12:41.971881",
+  "fetched_at": "2026-06-22T14:02:21.458912",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -342,7 +342,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -405,7 +405,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -551,7 +551,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 8.0
+      "score": 7.5
     }
   ]
 }
