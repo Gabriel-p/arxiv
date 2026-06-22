@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T12:49:31.538472",
+  "fetched_at": "2026-06-22T01:12:41.971881",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -42,7 +42,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 14.5
+      "score": 14.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -82,7 +82,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 35.5
+      "score": 35.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -128,7 +128,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 49.0
+      "score": 48.5
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -183,7 +183,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -247,7 +247,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -290,7 +290,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -405,7 +405,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.01418v1",
@@ -448,7 +448,7 @@
           "name": "G. S. Elizalde Caviglia"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -487,7 +487,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -552,43 +552,6 @@
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
       "score": 8.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.23802v1",
-      "title": "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones",
-      "updated": "2026-05-22T16:00:29Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.23802v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.23802v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a homogeneous catalogue of fundamental astrophysical parameters -- age, metallicity ([Fe/H]), heliocentric distance, and colour excess $E(G_{\\mathrm{BP}}-G_{\\mathrm{RP}})$ -- for 5,056 open star clusters drawn from the Unified Cluster Catalogue (UCC). All parameters are derived uniformly from Gaia Data Release 3 (DR3) colour-magnitude diagrams via Bayesian Nested Sampling with PARSEC stellar isochrones, with no manual intervention on individual clusters. Initial metallicity $Z_{\\mathrm{ini}}$ is treated as a free parameter throughout, yielding a photometric [Fe/H] estimate for every cluster. Physically motivated priors -- parallax-based distances from Gaia DR3 astrometry, spectrophotometric metallicity constraints from Gaia XP spectra where available, and interstellar reddening from the Schlegel-Finkbeiner-Davis dust map -- reduce CMD degeneracies without anchoring the fit to any external parameter catalogue. Of the 5,056 clusters, 3,766 (74.5\\%) satisfy the fit-quality criterion $η_{\\mathrm{fit}} \\ge 0.80$. This high-quality subset spans ages 0.003-5.5~Gyr ($\\log(\\mathrm{Age/yr})$ median $8.33 \\pm 0.34$~dex), heliocentric distances 88-19,011 pc (median 2,150~pc), metallicities $-1.17 \\le \\mathrm{[Fe/H]} \\le +0.42$~dex (median $+0.002$ dex), and extinctions up to $A_G = 7.37$~mag (median 1.07~mag). The catalogue is made publicly available via CDS/VizieR; the complete nested-sampling posterior chains are archived on Zenodo.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-22T16:00:29Z",
-      "arxiv:comment": "21 pages, 9 figures, 3 tables. Submitted to ApJS. Comments are welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Olcay Plevne"
-        },
-        {
-          "name": "Furkan Akbaba"
-        }
-      ],
-      "score": 141.0
     }
   ]
 }
