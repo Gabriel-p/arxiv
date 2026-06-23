@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T14:02:21.458912",
+  "fetched_at": "2026-06-23T01:00:35.301581",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -42,7 +42,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 14.0
+      "score": 13.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -82,7 +82,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 35.0
+      "score": 34.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -128,7 +128,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 48.5
+      "score": 48.0
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -183,7 +183,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -247,7 +247,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -290,7 +290,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -408,49 +408,6 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2606.01418v1",
-      "title": "Multiwavelength study of the Carina--Sagittarius Arm. I.Astrometric and photometric search for new open clusters in the 320$^ \\circ $ $\\le$ l $\\le$ 325$^ \\circ $ region",
-      "updated": "2026-05-31T19:35:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.01418v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.01418v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Our main goal is to determine whether the lower stellar density observed in the Carina-Sagittarius Arm region (320$^ \\circ$ $\\le$ l $\\le$ 325$^ \\circ$, $|b| \\le$ $1^ \\circ$) is an intrinsic structural feature of the spiral arm or a consequence of high interstellar reddening and extinction along the line of sight. We performed a systematic search for new open clusters using the HDBSCAN algorithm on Gaia DR3 astrometric data. The physical reality of the candidates was validated through a multiwavelength analysis, integrating Gaia photometry with NIR of the 2MASS catalog, MIR photometric information of the WISE catalog to identify young stellar objects (YSOs), and the radio continuum emission at 843 MHz with SUMSS survey to identify and associated interstellar material. We report the discovery of five new open clusters, the ESFERA sample. Our analysis reveals four young systems (10-50 Myr), with ESFERA 3 hosting YSOs, while ESFERA 5 is identified as a 2 Gyr old cluster. Although the region lacks massive star-forming complexes, these clusters trace active, despite the fact that lower-efficiency, star formation within the region. Our results suggest that this region represents an intrinsic star-formation \"valley\" or low-density node (the \"string\" in a \"beads on a string\" morphology) rather than an effect of extinction. The discovery of these clusters demonstrates that while the local surface density is below the critical threshold for massive complexes, star formation persists in isolated, small-scale pockets throughout the arm.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-31T19:35:46Z",
-      "arxiv:comment": "18 pages, 10 figures, 11 tables, 2 appendices",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "M. A. Corti"
-        },
-        {
-          "name": "L. Rizzo"
-        },
-        {
-          "name": "L. G. Paíz"
-        },
-        {
-          "name": "G. S. Elizalde Caviglia"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2605.31439v1",
       "title": "Dynamics of tidal tails of open clusters: I. effects of bar, spiral arms and giant molecular clouds",
       "updated": "2026-05-29T15:35:45Z",
@@ -487,7 +444,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
