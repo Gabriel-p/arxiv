@@ -1,6 +1,64 @@
 {
-  "fetched_at": "2026-06-23T01:00:35.301581",
+  "fetched_at": "2026-06-23T13:08:16.942156",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.23014v1",
+      "title": "When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies",
+      "updated": "2026-06-22T08:24:56Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.23014v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.23014v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The assembly history of the central regions of disc galaxies is regulated by dynamical processes that trigger gas infall events, leading to active star formation in nuclear stellar discs (NSD) and in nuclear stellar clusters (NSC). In the Milky Way, recent studies of its nuclear regions have revealed a complex star formation history (SFH), with an initial burst associated to the formation of the Galactic bar, followed by a non-constant star formation rate.\n  In this work, we aim to study the formation and evolution of nuclear structures and their link with the formation of large-scale structures. Our goal is to investigate the effects of the bar and spiral arms on the gas dynamics and, as a result on the SFH of NSDs and NSCs.\n  We run a simulation of an isolated Milky Way-like galaxy with the SWIFT N-Body+hydro simulation code, including star formation and stellar feedback from SNIa & SNII. We start from a live DM halo and a pre-existing stellar & gaseous disc with 20% gas fraction, which form a bar, a boxy/peanut bulge, spiral arms and nuclear structures. We study the SFH of these regions and how they relate to variations in the bar length, strength and pattern speed. We investigate the role of spiral arms and their interaction with the bar.\n  We find that the SFH of the nuclear regions display a main burst at bar formation time, due to bar-driven gas inflows. After bar formation, we find secondary periodic formation bursts, that do not appear in the disc SFH. These bursts occur when the spiral arms and the bar, rotating at different pattern speeds, reconnect, triggering secondary gas inflow events.\n  The interaction of spiral arms and the galactic bar can enhance non-axisymmetric features in the disc, triggering bar-driven gas infall even after the bar has formed. These bar-spiral reconnection events are imprinted into the SFH of the NSCs and NSDs as episodic star formation bursts.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-22T08:24:56Z",
+      "arxiv:comment": "14 pages, 9 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Tristan Boin"
+        },
+        {
+          "name": "Sergey Khoperskov"
+        },
+        {
+          "name": "Paola Di Matteo"
+        },
+        {
+          "name": "Nils Hoyer"
+        },
+        {
+          "name": "Alessandra Mastrobuono-Battisti"
+        },
+        {
+          "name": "Nils Ryde"
+        },
+        {
+          "name": "Françoise Combes"
+        },
+        {
+          "name": "Mathias Schultheis"
+        },
+        {
+          "name": "Misha Haywood"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
       "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
@@ -342,7 +400,7 @@
           "name": "Long Wang"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -508,7 +566,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 7.5
+      "score": 7.0
     }
   ]
 }
