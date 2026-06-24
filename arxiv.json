@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T13:08:16.942156",
+  "fetched_at": "2026-06-24T00:58:04.014465",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.23014v1",
@@ -100,7 +100,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 13.5
+      "score": 13.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -140,7 +140,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 34.5
+      "score": 34.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -186,7 +186,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 48.0
+      "score": 47.5
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -241,7 +241,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -305,7 +305,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.06248v1",
@@ -348,7 +348,7 @@
           "name": "Salvatore Ferrone"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.05762v1",
@@ -463,7 +463,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -502,7 +502,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
