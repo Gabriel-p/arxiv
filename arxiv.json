@@ -1,63 +1,191 @@
 {
-  "fetched_at": "2026-06-24T00:58:04.014465",
+  "fetched_at": "2026-06-24T12:54:52.696771",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2606.23014v1",
-      "title": "When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies",
-      "updated": "2026-06-22T08:24:56Z",
+      "id": "http://arxiv.org/abs/2606.24270v1",
+      "title": "NGC 6134: a comprehensive study through photometric and kinematic analysis using Gaia DR3",
+      "updated": "2026-06-23T07:54:27Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2606.23014v1",
+          "@href": "https://arxiv.org/abs/2606.24270v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2606.23014v1",
+          "@href": "https://arxiv.org/pdf/2606.24270v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "The assembly history of the central regions of disc galaxies is regulated by dynamical processes that trigger gas infall events, leading to active star formation in nuclear stellar discs (NSD) and in nuclear stellar clusters (NSC). In the Milky Way, recent studies of its nuclear regions have revealed a complex star formation history (SFH), with an initial burst associated to the formation of the Galactic bar, followed by a non-constant star formation rate.\n  In this work, we aim to study the formation and evolution of nuclear structures and their link with the formation of large-scale structures. Our goal is to investigate the effects of the bar and spiral arms on the gas dynamics and, as a result on the SFH of NSDs and NSCs.\n  We run a simulation of an isolated Milky Way-like galaxy with the SWIFT N-Body+hydro simulation code, including star formation and stellar feedback from SNIa & SNII. We start from a live DM halo and a pre-existing stellar & gaseous disc with 20% gas fraction, which form a bar, a boxy/peanut bulge, spiral arms and nuclear structures. We study the SFH of these regions and how they relate to variations in the bar length, strength and pattern speed. We investigate the role of spiral arms and their interaction with the bar.\n  We find that the SFH of the nuclear regions display a main burst at bar formation time, due to bar-driven gas inflows. After bar formation, we find secondary periodic formation bursts, that do not appear in the disc SFH. These bursts occur when the spiral arms and the bar, rotating at different pattern speeds, reconnect, triggering secondary gas inflow events.\n  The interaction of spiral arms and the galactic bar can enhance non-axisymmetric features in the disc, triggering bar-driven gas infall even after the bar has formed. These bar-spiral reconnection events are imprinted into the SFH of the NSCs and NSDs as episodic star formation bursts.",
+      "summary": "Open clusters provide a unique laboratory for precisely constraining stellar age, distance, and metallicity, facilitating studies on exoplanet-host star correlations. Building on our previous membership study, we analyze photometric data to comprehensively characterize the open cluster NGC 6134 by determining its fundamental parameters, 3D spatial distribution, substructures, and mass segregation. Using the ASteCA code, we derive the cluster's parameters: $\\mathrm{[Fe/H]} = 0.08 \\pm 0.06$, $\\log(t) = 9.14 \\pm 0.01$, $d = 1064.43 \\pm 15.19$ pc, and $A_\\mathrm{v} = 1.03 \\pm 0.05$ mag. Independent Bayesian inference of individual member distances yields a cluster distance of $1070.83 \\pm 2.50$ pc, in excellent agreement with the ASteCA results. Spatial substructures are successfully mapped using Gaussian Mixture Models, revealing a three-component distribution corresponding to the cluster's core, tidal tail, and halo. Furthermore, Minimum Spanning Tree analysis indicates that the observed mass segregation is driven by dynamical evolution rather than primordial origins. Finally, our analysis of the cluster's Color--Magnitude Diagram identifies probable blue straggler stars and a main-sequence gap, which we conclude is strongly linked to the cluster's binary fraction.",
       "category": {
         "@term": "astro-ph.GA",
         "@scheme": "http://arxiv.org/schemas/atom"
       },
-      "published": "2026-06-22T08:24:56Z",
-      "arxiv:comment": "14 pages, 9 figures",
+      "published": "2026-06-23T07:54:27Z",
+      "arxiv:comment": "14 pages, 10 figures, 1 table",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Tristan Boin"
+          "name": "Agus T. P. Jatmiko"
         },
         {
-          "name": "Sergey Khoperskov"
+          "name": "Teduh Perhati"
         },
         {
-          "name": "Paola Di Matteo"
+          "name": "Dhimaz G. Ramadhan"
         },
         {
-          "name": "Nils Hoyer"
+          "name": "Muhammad Yusuf"
         },
         {
-          "name": "Alessandra Mastrobuono-Battisti"
+          "name": "Denny Mandey"
         },
         {
-          "name": "Nils Ryde"
+          "name": "Mochamad I. Arifyanto"
         },
         {
-          "name": "Françoise Combes"
+          "name": "Premana W. Premadi"
         },
         {
-          "name": "Mathias Schultheis"
+          "name": "Sahlan Ramadhan"
         },
         {
-          "name": "Misha Haywood"
+          "name": "Ferry Yap"
+        },
+        {
+          "name": "Laksma Satya"
         }
       ],
-      "score": 0.5
+      "score": 4.3
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.24114v1",
+      "title": "Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819",
+      "updated": "2026-06-23T04:01:13Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.24114v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.24114v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Variable stars in open clusters are valuable probes of stellar evolution. They provide precise measurements of stellar properties, constrain cluster ages and distances, and trace the angular momentum evolution of stellar populations. To advance these studies, we applied image subtraction and systematic reduction techniques to the NGC 6819 Kepler superstamp time-series data (Quarters 1-16), using the Gaia DR3 catalog to identify the positions of individual sources. We produce 81,498 high-precision light curves for 11,055 sources in the crowded field harboring the 2.5 Gyr open cluster NGC 6819. Our detrended light curves achieve a best root-mean-square precision of 33 ppm (6.5-hour bins) for stars with Kepler magnitudes 12 - 12.5 mag, falling to 79 ppm at 14 - 14.5 mag. Using Gaia DR3 proper motions, and parallaxes, we distinguished likely cluster members from field stars. We identified and classified 87 periodic variables that are potential members of NGC 6819, including 26 newly-discovered variables. We make our light curves and variable classifications publicly available to enable further studies of stellar variability and angular momentum evolution in this intermediate-aged open cluster.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-23T04:01:13Z",
+      "arxiv:comment": "19 pages, 6 figures, 1 table. Accepted for publication in The Astronomical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Melinda Soares-Furtado"
+        },
+        {
+          "name": "Rianna Kuenzi"
+        },
+        {
+          "name": "Rachel Lee McClure"
+        },
+        {
+          "name": "Nicholas T. Marston"
+        },
+        {
+          "name": "Evan Linck"
+        },
+        {
+          "name": "Robert D. Mathieu"
+        },
+        {
+          "name": "Andrew Vanderburg"
+        },
+        {
+          "name": "Joel D. Hartman"
+        },
+        {
+          "name": "Kyle Cudworth"
+        },
+        {
+          "name": "Robert Gagliano"
+        },
+        {
+          "name": "Thomas Jacobs"
+        },
+        {
+          "name": "Martti H. Kristiansen"
+        },
+        {
+          "name": "Mark Omohundro"
+        },
+        {
+          "name": "Hans Martin Schwengeler"
+        }
+      ],
+      "score": 6.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.23802v1",
+      "title": "Characterising magnetic fields at the onset of star cluster formation: From giant molecular clouds to infrared dark clumps",
+      "updated": "2026-06-22T18:00:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.23802v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.23802v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The role of magnetic fields in the observed inefficiency of star formation in Galactic molecular clouds is a widely debated topic, with the past decade seeing an explosion of observational characterisation of magnetic fields in star-forming regions. However, few have studied the spatial evolution of magnetic fields from entire molecular clouds down to parsec-size cluster-forming clumps. In this work, the plane-of-sky morphology of the magnetic fields of eight infrared dark clumps and their parent molecular clouds are derived from Planck and JCMT POL-2 polarisation data (including some from the BISTRO survey). We also use this data to test multiple methods of calculating B-field strengths. Our study shows that the morphologies of magnetic fields in clumps and their parent molecular clouds systematically, and significantly, differ, supported by a line-of-sight correction of the cloud-scale magnetic fields using the velocity gradient technique. We find a strong correlation between gas velocity dispersion and the alignment of magnetic field lines with column density gradients from scales of tens of parsecs to a few parsecs. This correlation is clear evidence of a link between the kinematic properties of the gas and the dynamical importance of magnetic fields. Conversely, the higher magnetic field strengths we measure on cloud scale compared to clump scale contradict magnetic flux conservation and thus highlight the unreliability of such measurements. Altogether, our analysis supports a picture in which magnetic fields have little impact on the dynamical evolution of cluster-forming clumps but do play a role in providing support on larger scales.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-22T18:00:05Z",
+      "arxiv:comment": "Accepted for publication in MNRAS; 41 pages, 37 figures, 13 tables (including appendices)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Ria Ramkumar"
+        },
+        {
+          "name": "Nicolas Peretto"
+        },
+        {
+          "name": "Gary A. Fuller"
+        },
+        {
+          "name": "Patrick M. Koch"
+        },
+        {
+          "name": "Ya-Wen Tang"
+        }
+      ],
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -351,58 +479,6 @@
       "score": 0.5
     },
     {
-      "id": "http://arxiv.org/abs/2606.05762v1",
-      "title": "Evolution of the stellar mass function in open clusters from a universal and unsegregated initial state",
-      "updated": "2026-06-04T06:43:16Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.05762v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.05762v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The stellar mass function (MF) and its spatial variation (mass segregation) within star clusters encode signatures of early formation physics and subsequent secular evolution. Yet, a coherent evolutionary picture remains elusive due to conflicting reports regarding the universality of the initial mass function (IMF) and the prevalence of primordial mass segregation. These discrepancies often arise from unresolved binaries, field contamination, and completeness bias. Here, we resolve these issues by analyzing 163 high-fidelity open clusters via a Bayesian forward-modeling framework. We reveal a remarkably simple initial state: young clusters ($\\lesssim 300$ Myr) share a mean IMF slope of $-2.29$ in the mass range $M \\geq 0.5 M_\\odot$, consistent with the Salpeter slope but with an intrinsic scatter of 0.17, and exhibit minimal mass segregation at the onset of gas-free evolution ($\\sim$10 Myr). This broadly universal \"zero-point\" for secular evolution disfavors star-forming scenarios that predict strong primordial segregation or significant IMF variations, and suggests that chaotic cluster assembly and gas expulsion efficiently erase any mild primordial inhomogeneities. By tracing the evolutionary sequence from $10^7$ to $10^{9.8}$ yr, we demonstrate that dynamical processing operates on distinct timescales: mass segregation proceeds rapidly via internal relaxation, whereas global MF flattening due to tidal evaporation becomes dominant only after $\\sim$600 Myr. These findings impose robust observational constraints on the physics of star formation and early feedback and establish an empirical baseline for modeling secular stellar dynamics.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-04T06:43:16Z",
-      "arxiv:comment": "8 pages, 2 figures, Accepted for publication in ApJ Letters",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Lu Li"
-        },
-        {
-          "name": "Zhaozhou Li"
-        },
-        {
-          "name": "Zhengyi Shao"
-        },
-        {
-          "name": "Zepeng Zheng"
-        },
-        {
-          "name": "Long Wang"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2606.04839v1",
       "title": "The open cluster NGC 2509. Stellar rotation and main sequence turnoff extension from FLAMES spectroscopy",
       "updated": "2026-06-03T13:09:44Z",
@@ -566,7 +642,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 7.0
+      "score": 6.5
     }
   ]
 }
