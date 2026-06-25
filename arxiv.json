@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-06-24T12:54:52.696771",
+  "fetched_at": "2026-06-25T12:55:59.405605",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.25263v1",
+      "title": "Initial Mass Functions of Young Stellar Clusters from the Gemini Spectroscopic Survey of Nearby Galaxies. II. Young Clusters in NGC 1313",
+      "updated": "2026-06-24T00:59:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.25263v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.25263v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a spectroscopic study of young stellar clusters in the barred spiral galaxy NGC 1313. Integrated light spectra of 11 clusters, obtained using the GMOS-S instrument on the 8.1 m Gemini South telescope, are analyzed using a simple stellar population model. A subsolar metallicity (Z = 0.008) is adopted, consistent with previous studies. Cluster ages are constrained primarily through absorption lines and prominent emission bands of Wolf-Rayet stars. Utilizing these constraints, we match the observed spectra with synthetic counterparts generated from the simple stellar population model, determining key physical parameters including age, cluster mass, and the underlying initial mass function (IMF). Furthermore, the impact of stochastic sampling on the derived parameters of several low-mass clusters is rigorously evaluated using Monte Carlo simulations. The sampled clusters exhibit ages ranging from 2.5 to 300 Myr and stellar masses between 2.8 x 10^3 Msun and 2.6 x 10^5 Msun. Notably, for stellar masses exceeding 0.8 Msun, the power-law index (Gamma) of the underlying IMFs is found to be smaller than the standard Salpeter/Kroupa IMF. Furthermore, a correlation is observed where more massive clusters tend to possess top-light IMFs. This finding aligns with trends observed in the young clusters of the Antennae Galaxies, despite the differing mass scales between the two systems. Our results suggest that applying a universal standard IMF to spatially unresolved systems warrants caution, given the inherent complexities revealed in this study.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-24T00:59:00Z",
+      "arxiv:comment": "19 pages, 10 figures, Accepted for publication in The Astronomical Journal (AJ)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jae-Rim Koo"
+        },
+        {
+          "name": "Hyun-Jeong Kim"
+        },
+        {
+          "name": "Beomdu Lim"
+        }
+      ],
+      "score": 3.3
+    },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
       "title": "NGC 6134: a comprehensive study through photometric and kinematic analysis using Gaia DR3",
@@ -60,7 +100,7 @@
           "name": "Laksma Satya"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v1",
@@ -139,7 +179,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.23802v1",
@@ -185,7 +225,7 @@
           "name": "Ya-Wen Tang"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -228,7 +268,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 13.0
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -268,7 +308,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 34.0
+      "score": 33.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -314,7 +354,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 47.5
+      "score": 47.0
     },
     {
       "id": "http://arxiv.org/abs/2606.13666v1",
@@ -369,7 +409,7 @@
           "name": "Mordecai-Mark Mac Low"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -433,50 +473,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.06248v1",
-      "title": "Bar-induced deflection of open cluster tidal tails",
-      "updated": "2026-06-04T14:50:28Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.06248v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.06248v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a systematic study of how the Galactic bar affects the orientation of tidal tails of open clusters and assess the power of tail morphology to constrain the bar's pattern speed. Using test-particle simulations, we follow the evolution of $\\sim 1450$ observed open clusters from the Hunt & Reffert (2024) catalogue in an axisymmetric reference potential and in eight barred potentials with pattern speeds ranging from $Ω_b = 20$ km/s/kpc to $Ω_b = 55$ km/s/kpc. We quantify the bar effect through the deflection angle -- the rotation of the tail orientation in the barred model relative to the axisymmetric case. The deflection angle varies systematically with bar pattern speed and cluster guiding radius. The largest deflections occur for clusters near the outer Lindblad resonance (OLR), with the sign of the angle set by the orientation of the orbit's pericentre relative to the bar's major axis. For each cluster we measure the distance from the centre beyond which different bar models produce distinguishable tail orientations, and classify each cluster as bar-sensitive or bar-insensitive based on its maximum absolute deflection across the bar models. Comparing with observed tidal tails from the literature, we find that the extended tails of NGC 2632 and the Hyades disfavour moderate pattern speeds. We provide a catalogue of deflection angles, minimal tail extents, and bar-sensitivity flags to guide future observational searches and the re-assessment of existing tidal tail catalogues.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-04T14:50:28Z",
-      "arxiv:comment": "Submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Hanna Parul"
-        },
-        {
-          "name": "Laia Casamiquela"
-        },
-        {
-          "name": "Paola Di Matteo"
-        },
-        {
-          "name": "Salvatore Ferrone"
-        }
-      ],
-      "score": 0.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.04839v1",
@@ -539,7 +536,7 @@
           "name": "G. Costa"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -578,7 +575,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2605.29666v1",
@@ -642,7 +639,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202659225",
-      "score": 6.5
+      "score": 6.0
     }
   ]
 }
