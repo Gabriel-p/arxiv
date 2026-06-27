@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-26T12:52:31.428355",
+  "fetched_at": "2026-06-27T12:36:04.631876",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2606.25263v1",
@@ -39,7 +39,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
@@ -100,7 +100,7 @@
           "name": "Laksma Satya"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v1",
@@ -179,7 +179,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.23802v1",
@@ -225,7 +225,7 @@
           "name": "Ya-Wen Tang"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -268,7 +268,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 12.0
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -308,7 +308,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 33.0
+      "score": 32.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -354,7 +354,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 46.5
+      "score": 46.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -418,7 +418,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -457,7 +457,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     }
   ]
 }
