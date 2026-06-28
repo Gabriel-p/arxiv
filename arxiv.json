@@ -1,46 +1,6 @@
 {
-  "fetched_at": "2026-06-27T12:36:04.631876",
+  "fetched_at": "2026-06-28T12:37:07.306988",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2606.25263v1",
-      "title": "Initial Mass Functions of Young Stellar Clusters from the Gemini Spectroscopic Survey of Nearby Galaxies. II. Young Clusters in NGC 1313",
-      "updated": "2026-06-24T00:59:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.25263v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.25263v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a spectroscopic study of young stellar clusters in the barred spiral galaxy NGC 1313. Integrated light spectra of 11 clusters, obtained using the GMOS-S instrument on the 8.1 m Gemini South telescope, are analyzed using a simple stellar population model. A subsolar metallicity (Z = 0.008) is adopted, consistent with previous studies. Cluster ages are constrained primarily through absorption lines and prominent emission bands of Wolf-Rayet stars. Utilizing these constraints, we match the observed spectra with synthetic counterparts generated from the simple stellar population model, determining key physical parameters including age, cluster mass, and the underlying initial mass function (IMF). Furthermore, the impact of stochastic sampling on the derived parameters of several low-mass clusters is rigorously evaluated using Monte Carlo simulations. The sampled clusters exhibit ages ranging from 2.5 to 300 Myr and stellar masses between 2.8 x 10^3 Msun and 2.6 x 10^5 Msun. Notably, for stellar masses exceeding 0.8 Msun, the power-law index (Gamma) of the underlying IMFs is found to be smaller than the standard Salpeter/Kroupa IMF. Furthermore, a correlation is observed where more massive clusters tend to possess top-light IMFs. This finding aligns with trends observed in the young clusters of the Antennae Galaxies, despite the differing mass scales between the two systems. Our results suggest that applying a universal standard IMF to spatially unresolved systems warrants caution, given the inherent complexities revealed in this study.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-24T00:59:00Z",
-      "arxiv:comment": "19 pages, 10 figures, Accepted for publication in The Astronomical Journal (AJ)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jae-Rim Koo"
-        },
-        {
-          "name": "Hyun-Jeong Kim"
-        },
-        {
-          "name": "Beomdu Lim"
-        }
-      ],
-      "score": 2.3
-    },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
       "title": "NGC 6134: a comprehensive study through photometric and kinematic analysis using Gaia DR3",
@@ -100,7 +60,7 @@
           "name": "Laksma Satya"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v1",
@@ -179,7 +139,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2606.23802v1",
@@ -225,7 +185,7 @@
           "name": "Ya-Wen Tang"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -268,7 +228,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -308,7 +268,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 32.5
+      "score": 32.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -354,7 +314,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 46.0
+      "score": 45.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -418,7 +378,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2605.31439v1",
@@ -457,7 +417,7 @@
           "name": "Samo Ilc"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     }
   ]
 }
