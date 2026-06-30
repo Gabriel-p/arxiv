@@ -1,6 +1,268 @@
 {
-  "fetched_at": "2026-06-28T12:37:07.306988",
+  "fetched_at": "2026-06-30T12:50:09.993288",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.27796v1",
+      "title": "A pulsar escaping an ancient open cluster via tidal stripping",
+      "updated": "2026-06-26T07:29:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.27796v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.27796v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are the primary birthplaces of stars in the Milky Way disk, yet their neutron star progeny are rarely found within them, presumably due to supernova-induced kicks that eject them at birth. Here we report the arcsec-level localization of the pulsar PSR J1921+3745 to the tidal tail of NGC 6791, one of the oldest and most massive open clusters. Our N-body simulation shows that more than 95% of neutron stars formed in such clusters have been ejected. This pulsar's location in the tidal tail indicates it was retained for billions of years before being stripped by Galactic tides. This long-term retention requires low natal kicks, consistent with formation via electron-capture supernova. Our findings capture a rare snapshot of a neutron star transitioning into the Galactic field, identifying tidal stripping of ancient clusters as a verified source of the Galactic neutron star population.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-26T07:29:19Z",
+      "arxiv:comment": "Accepted for publication in Science Bulletin on 26 June 2026",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": [
+        {
+          "name": "Lei Zhang"
+        },
+        {
+          "name": "Xiaoting Fu"
+        },
+        {
+          "name": "Di Li"
+        },
+        {
+          "name": "Emma Carli"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Jiaqi Zhao"
+        },
+        {
+          "name": "Craig O. Heinke"
+        },
+        {
+          "name": "Emanuele Dalessandro"
+        },
+        {
+          "name": "Yang Chen"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Duncan R. Lorimer"
+        },
+        {
+          "name": "Ewan D. Barr"
+        },
+        {
+          "name": "Sarah Buchner"
+        },
+        {
+          "name": "Shi Dai"
+        },
+        {
+          "name": "Zhiyu Zhang"
+        },
+        {
+          "name": "Erbil Gügercinoğlu"
+        },
+        {
+          "name": "Alessandro Ridolfi"
+        },
+        {
+          "name": "Jie Zhang"
+        },
+        {
+          "name": "Meng Guo"
+        },
+        {
+          "name": "Mengmeng Ni"
+        },
+        {
+          "name": "Jiale Hu"
+        },
+        {
+          "name": "Yi Feng"
+        },
+        {
+          "name": "Pei Wang"
+        },
+        {
+          "name": "Qijun Zhi"
+        }
+      ],
+      "score": 9.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.27623v1",
+      "title": "EWOCS-VI: Probing the hidden intermediate-mass population of Westerlund 1",
+      "updated": "2026-06-26T00:37:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.27623v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.27623v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Context: Westerlund 1 (Wd1), the most massive young star cluster in the Milky Way, is an excellent laboratory for studying star formation and early stellar evolution in a starburst-like environment. However, high extinction restricts studies of its stellar content, and focus on high-mass stars limits our knowledge of the full spatial extent of the cluster. Aims: We characterize the near-infrared (NIR) variability of the stellar population of Wd1, filling the mass gap between massive stars traced by Gaia and very low-mass stars from previous Extended Westerlund 1 and 2 Open Clusters Survey (EWOCS) studies, to provide a more complete view of cluster membership across solar and super-solar masses.} Methods: We exploited data from the VISTA Variables of the Vía Láctea survey and its extension (VVVX), using NIR point spread function (PSF) photometry and astrometric solutions from its latest data release, namely the VIRAC2 catalogs, mainly in the Ks band. Their large spatial coverage enables study of both the central regions and outskirts of the cluster. We applied HDBSCAN clustering algorithm in a 6D parameter space to differentiate cluster members from field contaminants, assessing robustness through Monte Carlo simulations. Variable sources along the line of sight were also identified and characterized. Results: We identify 1286 high-probability candidate members (12 < J < 18 mag) spanning $\\sim 1.5$--$20\\,M_{\\odot}$, adopting both PARSEC 5 and 6 Myr isochrones ($A_{K_{\\rm{s}}}=0.6\\,\\rm{mag}$, $d=4.23\\,\\rm{kpc}$). A considerable fraction (34%) shows statistically significant flux variations. We present, for the first time, a parametric analysis of variability modes of Wd1 candidate members in the Ks band, providing a membership catalog suitable for future kinematic studies.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-26T00:37:35Z",
+      "arxiv:comment": "Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "C. Ordenes-Huanca"
+        },
+        {
+          "name": "A. Bayo"
+        },
+        {
+          "name": "M. Guarcello"
+        },
+        {
+          "name": "M. Zoccali"
+        },
+        {
+          "name": "A. Rojas-Arriagada"
+        },
+        {
+          "name": "V. Almendros-Abad"
+        },
+        {
+          "name": "M. Andersen"
+        },
+        {
+          "name": "R. Bonito"
+        },
+        {
+          "name": "V. Guzmán"
+        },
+        {
+          "name": "E. Moraux"
+        },
+        {
+          "name": "K. Muzic"
+        },
+        {
+          "name": "L. Prisinzano"
+        },
+        {
+          "name": "S. Sciortino"
+        },
+        {
+          "name": "N. J. Wright"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.27502v1",
+      "title": "The Impact and Environment of Massive Stars and Stellar Clusters",
+      "updated": "2026-06-25T19:36:50Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.27502v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.27502v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Massive stars and stellar clusters shape galactic evolution through powerful feedback mechanisms including radiation pressure, photoionization, stellar winds, and cosmic ray acceleration. However, their impact remains poorly understood due to observational challenges: they are rare, distant on average, and deeply embedded within dense, dusty environments. Radio observations provide a unique window into these processes, as radio emission penetrates obscuring material and traces both thermal free-free emission from ionized gas and non-thermal synchrotron emission from shocks and particle acceleration. The Square Kilometre Array (SKA) will revolutionize massive star studies through unprecedented sensitivity and angular resolution. SKA observations will enable detailed characterization of hierarchical structures within HII regions, measurements of physical conditions through hydrogen, helium, and carbon radio recombination lines (RRLs), and detection of non-thermal emission from cosmic ray acceleration in star-forming regions. SKA will permit systematic measurements of stellar wind mass-loss rates, studies of photoionized gas kinematics and dynamics, and exploration of photodissociation regions surrounding ultracompact HII regions. Additionally, magnetic field strengths can be probed through Zeeman effect observations of RRLs. This chapter discusses the current understanding of massive stars and stellar clusters and their feedback processes. We highlight how SKA observations will advance our knowledge of massive star formation, stellar winds, hierarchical structures in HII regions, cosmic ray acceleration, and magnetic field regulation of star formation - providing crucial insights into feedback mechanisms governing the structure and evolution of the Milky Way and galaxies.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-25T19:36:50Z",
+      "arxiv:comment": "Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv: 2606.20366)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Loren Anderson"
+        },
+        {
+          "name": "Jagadheep D. Pandian"
+        },
+        {
+          "name": "Jyotirmoy Dey"
+        },
+        {
+          "name": "Marco Padovani"
+        },
+        {
+          "name": "Ramlal Unnikrishnan"
+        },
+        {
+          "name": "Annie Zavagno"
+        },
+        {
+          "name": "Grazia Maria Umana"
+        },
+        {
+          "name": "Jakob van den Eijnden"
+        },
+        {
+          "name": "Giovanni Sabatini"
+        },
+        {
+          "name": "Kimberly L. Emig"
+        },
+        {
+          "name": "Alessio Traficante"
+        },
+        {
+          "name": "Álvaro Sánchez-Monge"
+        },
+        {
+          "name": "D. Anish Roshi"
+        }
+      ],
+      "score": 3.0
+    },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
       "title": "NGC 6134: a comprehensive study through photometric and kinematic analysis using Gaia DR3",
@@ -60,7 +322,7 @@
           "name": "Laksma Satya"
         }
       ],
-      "score": 2.3
+      "score": 1.3
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v1",
@@ -139,53 +401,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.23802v1",
-      "title": "Characterising magnetic fields at the onset of star cluster formation: From giant molecular clouds to infrared dark clumps",
-      "updated": "2026-06-22T18:00:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.23802v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.23802v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The role of magnetic fields in the observed inefficiency of star formation in Galactic molecular clouds is a widely debated topic, with the past decade seeing an explosion of observational characterisation of magnetic fields in star-forming regions. However, few have studied the spatial evolution of magnetic fields from entire molecular clouds down to parsec-size cluster-forming clumps. In this work, the plane-of-sky morphology of the magnetic fields of eight infrared dark clumps and their parent molecular clouds are derived from Planck and JCMT POL-2 polarisation data (including some from the BISTRO survey). We also use this data to test multiple methods of calculating B-field strengths. Our study shows that the morphologies of magnetic fields in clumps and their parent molecular clouds systematically, and significantly, differ, supported by a line-of-sight correction of the cloud-scale magnetic fields using the velocity gradient technique. We find a strong correlation between gas velocity dispersion and the alignment of magnetic field lines with column density gradients from scales of tens of parsecs to a few parsecs. This correlation is clear evidence of a link between the kinematic properties of the gas and the dynamical importance of magnetic fields. Conversely, the higher magnetic field strengths we measure on cloud scale compared to clump scale contradict magnetic flux conservation and thus highlight the unreliability of such measurements. Altogether, our analysis supports a picture in which magnetic fields have little impact on the dynamical evolution of cluster-forming clumps but do play a role in providing support on larger scales.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-22T18:00:05Z",
-      "arxiv:comment": "Accepted for publication in MNRAS; 41 pages, 37 figures, 13 tables (including appendices)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Ria Ramkumar"
-        },
-        {
-          "name": "Nicolas Peretto"
-        },
-        {
-          "name": "Gary A. Fuller"
-        },
-        {
-          "name": "Patrick M. Koch"
-        },
-        {
-          "name": "Ya-Wen Tang"
-        }
-      ],
-      "score": 0.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -228,7 +444,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 11.0
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -268,7 +484,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 32.0
+      "score": 31.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -314,7 +530,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 45.5
+      "score": 44.5
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -378,46 +594,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2605.31439v1",
-      "title": "Dynamics of tidal tails of open clusters: I. effects of bar, spiral arms and giant molecular clouds",
-      "updated": "2026-05-29T15:35:45Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2605.31439v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2605.31439v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters gradually dissolve, and their stars disperse into the Galactic field. Lost stars form tidal tails-elongated streams that trace the cluster orbit ahead of and behind its core. From the shape and orientation of the tidal tails, it is possible to infer the shape of the gravitational potential governing the cluster's motion. The orbits of open clusters, including those in the Solar neighbourhood, are sensitive to the gravitational potential of the inner Galaxy, which is dominated by the Galactic bar. Using n-body simulations of synthetic and real open clusters, we investigate how sensitive the shapes and orientations of tidal tails are to variations of the gravitational potential of the Milky Way. We consider the effects of the bar as well as spiral arms, giant molecular clouds (GMCs) and satellite galaxies. We analyse the stellar distributions within tidal tails using statistical metrics that quantify the differences between tail morphologies. Such non-parametric approach enables us to efficiently explore tidal tails across a large parameter space of gravitational potential models. We find that the Galactic bar-particularly its pattern speed-has a strong influence on the orbits of open clusters and the shape of their tails. Spiral arms have a limited effect, and satellite galaxies do not disturb the tidal tails of nearby open clusters. Perturbations by GMCs affect most clusters, with distortions stronger than those by the bar observed in old and in-plane clusters. We identify nearby open clusters that are most sensitive to the pattern speed of the bar. By observing the tidal tails of a handful of well-selected nearby clusters, we should be able to measure the pattern speed of the bar with a precision in the order of $1\\ \\mathrm{km\\,s^{-1}\\,kpc^{-1}}$ independently from length and orientation of the bar. We will present the observability of tidal tails in paper II.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-05-29T15:35:45Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Janez Kos"
-        },
-        {
-          "name": "Jovana Risojević"
-        },
-        {
-          "name": "Samo Ilc"
-        }
-      ],
-      "score": 4.5
+      "score": 1.0
     }
   ]
 }
