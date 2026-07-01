@@ -1,6 +1,160 @@
 {
-  "fetched_at": "2026-06-30T12:50:09.993288",
+  "fetched_at": "2026-07-01T13:05:17.252812",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.31835v1",
+      "title": "Distance to Sh2-106 from Gaia DR3 and its embedded radio population: implications for a candidate explosive outflow",
+      "updated": "2026-06-30T15:39:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.31835v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.31835v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Sh2-106 has recently been proposed as a candidate explosive molecular outflow (EMO), but the physical interpretation of the region depends critically on its distance. Published estimates span a wide range, leading to large uncertainties in the inferred size, energetics, and evolutionary timescale of the system. Using {\\it Gaia} DR3 astrometry, we identify a kinematically coherent stellar population associated with Sh2-106 and derive a cluster parallax of $\\varpi_{\\rm corr}=0.607\\pm0.013$\\,mas, corresponding to a distance of $1.65\\pm0.04$\\,kpc. This value is significantly larger than the commonly adopted extinction-break estimate of 1.09\\,kpc. At this revised distance, the inferred kinetic energy of the expanding ionized nebula increases by a factor of $\\sim6.5$, reaching $E_{\\rm exp}\\simeq1.3\\times10^{48}$\\,erg and placing Sh2-106 in the same order-of-magnitude energetic regime as the Orion BN/KL explosive event, although at a substantially older dynamical age ($\\sim3500$\\,yr). Archived 5.8\\,GHz Karl G. Jansky Very Large Array observations reveal ten compact radio sources in the central region, identifying embedded stellar objects that are suitable for future multi-epoch radio astrometry. No unambiguous high-velocity stellar ejecta are detected in {\\it Gaia} DR3, although S106\\,IR shows a modest peculiar transverse velocity of $\\sim5$\\,km\\,s$^{-1}$ relative to the cluster centroid. The Gaia-based cluster distance, therefore, significantly revises the physical scale and energetics of Sh2-106 and provides the observational framework required to test whether the region represents an older analogue of the Orion BN/KL dynamical disintegration or a distinct explosive phenomenon.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-30T15:39:09Z",
+      "arxiv:comment": "Accepted for publication in the A&A journal. 9 pages, 7 figures, 3 tables",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Sergio A. Dzib"
+      },
+      "score": 0.8
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.31714v1",
+      "title": "Chemo-dynamical Analysis of Eight UBC Open Clusters",
+      "updated": "2026-06-30T14:20:39Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.31714v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.31714v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a comprehensive chemo-dynamical analysis of eight open clusters selected from the UBC catalog using Gaia DR3 data. These clusters are located at heliocentric distances of ~2-5 kpc, probing regions of the Galactic disk beyond the solar neighborhood. Cluster membership is determined using the UPMASK algorithm, while structural parameters are derived from radial density profiles through King model fitting combined with MCMC sampling. Their structural parameters reveal diverse internal configurations, from diffuse to moderately concentrated systems. Fundamental astrophysical parameters (extinction, distance, metallicity, and age) are obtained via Bayesian isochrone fitting based on PARSEC models. The clusters span a wide age range (~20 Myr to ~5 Gyr) and show a broad metallicity distribution (-0.34 <= [Fe/H] (dex) <= +0.25). Orbital analysis based on backward integrations shows that all clusters follow nearly circular orbits (e ~ 0.03-0.09) with low vertical distances from the Galactic plane (Zmax < 0.4 kpc), confirming their membership in the Galactic thin disk and dynamically cold kinematics. Comparison between inferred traceback orbital radii and present-day guiding radii indicates modest radial displacements, with Delta R < 0.5 kpc for the UBC sample. These offsets are consistent with mild radial redistribution expected for young, dynamically cold open clusters rather than strong radial migration. The results suggest that radial migration should be considered when interpreting the present-day spatial and chemical distribution of these clusters, although the inferred migration amplitudes remain moderate. Our results demonstrate that relatively distant open clusters can be characterized with high precision using Gaia DR3 data and that mild radial redistribution should be considered when interpreting the present-day distribution of stellar populations in the Galactic disk.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-06-30T14:20:39Z",
+      "arxiv:comment": "41 pages, 22 figures, 8 tables. Accepted for publication in Research in Astronomy and Astrophysics (RAA)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Remziye Canbay"
+        },
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "Özcan Çalışkan"
+        },
+        {
+          "name": "Burçin Tanık Öztürk"
+        },
+        {
+          "name": "Seval Taşdemir"
+        },
+        {
+          "name": "Ege Eraydın"
+        },
+        {
+          "name": "Selçuk Bilir"
+        }
+      ],
+      "score": 13.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.30867v1",
+      "title": "SHARPing accretion and outflows in young stellar objects in star forming regions of the outer Galaxy and beyond",
+      "updated": "2026-06-29T20:00:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2606.30867v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2606.30867v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "As part of the science book of SHARP, we present here the science case of star-disk interaction of low-mass (\\Mstar$\\leq$2\\Msun) young stellar objects (YSOs), in low-metallicity (Z$<$ 0.2 \\Zsun) star forming regions (SFRs) and supermassive star clusters, using the SHARP instrument mounted on the ESO-ELT. Extreme adaptive optics (AOs), with a spatial resolution a factor $\\sim$3 better than JWST, as well as sensitive multiplexing capabilities, uniquely offered by SHARP, are essential to efficiently survey the whole area of low-Z SFRs and massive clusters in the outer Milky Way (MW) Galaxy and in the Magellanic Clouds (MCs). Using the SHARP exposure time calculator (ETC) we demonstrate that SHARP can achieve the required signal-to-noise, both for the continuum and emission lines, to investigate accretion and outflows in YSOs in distant (d$>$5\\,kpc) SFRs, including those relatively embedded. SHARP will be able to observe very faint YSOs ($H\\sim$\\,24\\,mag), allowing us extending studies to very low-mass YSOs in distant SFRs. The performance of SHARP in terms of sensitivity and spatial resolution in the NIR will provide significant insights into the evolution of protoplanetary disks in low-metallicity and massive environments: studies of accretion, jets/winds and photo-evaporation processes, down to the very low-mass ($\\sim$0.2\\,\\Msun) regime in the MCs, and down to substellar YSOs in SFRs of the outer MW Galaxy (d\\,$\\lesssim$\\,10\\,kpc), will be possible. SHARP will also be able to observe jets/outflows in targets that are several magnitudes fainter than those reachable with current instruments, and will facilitate studies in low metallicity environments of wide binaries and multiple systems, with separations of $\\sim$1600\\,au, at a distance $\\sim$50\\,kpc scale, and of $\\sim$150\\,au, in regions of the outer MW Galaxy (d $\\sim$10\\,kpc).",
+      "category": [
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-29T20:00:05Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.IM"
+      },
+      "author": [
+        {
+          "name": "Juan Manuel Alcala'"
+        },
+        {
+          "name": "Alessio Caratti o Garatti"
+        },
+        {
+          "name": "Linda Podio"
+        },
+        {
+          "name": "Mario Giuseppe Guarcello"
+        },
+        {
+          "name": "Loredana Prisinzano"
+        },
+        {
+          "name": "Rosaria Bonito"
+        },
+        {
+          "name": "Paolo Franzetti"
+        },
+        {
+          "name": "Fedor Getman"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
       "title": "A pulsar escaping an ancient open cluster via tidal stripping",
@@ -112,7 +266,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27623v1",
@@ -191,7 +345,7 @@
           "name": "N. J. Wright"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27502v1",
@@ -261,7 +415,7 @@
           "name": "D. Anish Roshi"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
@@ -322,20 +476,20 @@
           "name": "Laksma Satya"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     },
     {
-      "id": "http://arxiv.org/abs/2606.24114v1",
+      "id": "http://arxiv.org/abs/2606.24114v2",
       "title": "Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819",
-      "updated": "2026-06-23T04:01:13Z",
+      "updated": "2026-06-29T23:09:44Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2606.24114v1",
+          "@href": "https://arxiv.org/abs/2606.24114v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2606.24114v1",
+          "@href": "https://arxiv.org/pdf/2606.24114v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -401,7 +555,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -444,7 +598,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -484,7 +638,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 31.0
+      "score": 30.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -530,7 +684,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 44.5
+      "score": 44.0
     },
     {
       "id": "http://arxiv.org/abs/2606.11006v1",
@@ -594,7 +748,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 1.0
+      "score": 0.5
     }
   ]
 }
