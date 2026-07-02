@@ -1,6 +1,121 @@
 {
-  "fetched_at": "2026-07-01T13:05:17.252812",
+  "fetched_at": "2026-07-02T14:09:39.324757",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.00291v1",
+      "title": "OCCAM X. Neutron Capture Abundances with Keck/HIRES & Magellan/MIKE",
+      "updated": "2026-07-01T00:35:52Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.00291v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.00291v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The chemistry of stars provides powerful insight into the history of the Milky Way. With multiple large-sky spectroscopic surveys that are currently available, using chemistry as a means to study the evolution and history of the Milky Way has flourished. Open clusters have long been used as landmarks to calibrate different age dating methods (e.g., gyrochronology and asteroseismology). In this work, we utilize the SDSS-IV/APOGEE-based Open Cluster Chemical Abundances and Mapping (OCCAM) survey as our foundation for new optical observations; enabling us to characterize neutron-capture abundances for known cluster members. For 56 stars in 18 open clusters, we collected high-resolution (R > 50,000), high-S/N (>75 at 5500A), spectra from Keck I and Magellan Baade telescopes. With these data, we derive abundances for 23 elements using BACCHUS, including 7 neutron capture abundances not measurable by APOGEE. Finally, we characterize the radial distribution of these neutron-capture elements in the Milky Way. We find that the second-peak s-process and r-process abundances exhibit relatively flat gradients in the Milky Way. Although not as distinct, the first-peak s-process abundances also have slopes which are shallower than the alpha and iron-peak elements. The differences in the neutron-capture gradients from the lighter elements not just indicates the sources producing these elements are fundamentally different, but that the timescales on which they are produced also differ (especially for the r-process). Moreover, a metallicity dependence of the AGB stars responsible for producing the heaviest s-process abundances may be necessary to consider in Galactic evolution models.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-01T00:35:52Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Natalie R. Myers"
+        },
+        {
+          "name": "Peter M. Frinchaboy"
+        },
+        {
+          "name": "Henrique Reggiani"
+        },
+        {
+          "name": "Sarah Loebman"
+        },
+        {
+          "name": "Catherine Manea"
+        },
+        {
+          "name": "Matthew Shetrone"
+        },
+        {
+          "name": "Katia Cunha"
+        },
+        {
+          "name": "Keith Hawkins"
+        },
+        {
+          "name": "Amaya Sinha"
+        },
+        {
+          "name": "Gail Zasowski"
+        },
+        {
+          "name": "John Donor"
+        },
+        {
+          "name": "Jonah M. Otto"
+        },
+        {
+          "name": "Alessa I. Wiggins"
+        }
+      ],
+      "score": 11.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.00098v1",
+      "title": "The Stellar \"Snake\"-V: the census within 3 kpc in the Solar Neighborhood",
+      "updated": "2026-06-30T19:38:38Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.00098v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.00098v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a Gaia DR3 source-level census of \\emph{Stellar Snake} complexes within 3\\,kpc of the Sun. We define a Stellar Snake as a mutually coherent association of two or more stellar overdensities, characterised by consistent positions, kinematics, orbital invariants, ages, and chemical properties, rather than as a single gravitationally bound object. Moving beyond catalogue-driven searches seeded by known open clusters, our framework operates directly on individual Gaia sources to recover extended, low-density substructures and interconnecting stellar bridges. The multi-stage pipeline extracts statistically significant, non-overlapping base nodes, infers homogeneous parameters using a PointNet point-cloud regressor, and links these nodes into large-scale macro-structures across a 9D space spanning positions, tangential velocities, radial velocity, age \\(\\log t\\), and orbital integrals \\((E,L_Z)\\). After FoF-topology cross-validation and boundary resolution, the final catalogue contains 1,256 Stellar Snake candidates comprising 802,489 unique member-star entries in 5,491 final base nodes selected from a 9,909-node input pool. Derived parameters are validated against external open-cluster catalogues and spectroscopic benchmarks. To quantify structural coherence, we introduce a graph-relation Snake Reliability Index (SRI), coupled with a peripheral-branch diagnostic and Gold/Silver/Bronze quality flags. At the population level, the census shows a broad age--metallicity pattern, a declining upper envelope of member-star entries toward older ages, and a projected association between young Snake nodes, nearby spiral-arm loci, and the Radcliffe Wave. This homogeneous inventory provides an observational foundation for probing the formation, coherence, and dynamical evolution of hierarchical stellar complexes in the Milky Way.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-06-30T19:38:38Z",
+      "arxiv:comment": "35 pages, 13 figures, 5 tables. Comments and collaboration are welcome. The Snake Serials: https://astrotian.github.io/snake. The visualization: https://astrotian.github.io/snake/visualization",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Xiang-Ming Yang"
+        },
+        {
+          "name": "Ju-Yong Zhang"
+        },
+        {
+          "name": "Hai-Jun Tian"
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2606.31835v1",
       "title": "Distance to Sh2-106 from Gaia DR3 and its embedded radio population: implications for a candidate explosive outflow",
@@ -37,7 +152,7 @@
       "author": {
         "name": "Sergio A. Dzib"
       },
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -89,71 +204,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 13.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.30867v1",
-      "title": "SHARPing accretion and outflows in young stellar objects in star forming regions of the outer Galaxy and beyond",
-      "updated": "2026-06-29T20:00:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.30867v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.30867v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "As part of the science book of SHARP, we present here the science case of star-disk interaction of low-mass (\\Mstar$\\leq$2\\Msun) young stellar objects (YSOs), in low-metallicity (Z$<$ 0.2 \\Zsun) star forming regions (SFRs) and supermassive star clusters, using the SHARP instrument mounted on the ESO-ELT. Extreme adaptive optics (AOs), with a spatial resolution a factor $\\sim$3 better than JWST, as well as sensitive multiplexing capabilities, uniquely offered by SHARP, are essential to efficiently survey the whole area of low-Z SFRs and massive clusters in the outer Milky Way (MW) Galaxy and in the Magellanic Clouds (MCs). Using the SHARP exposure time calculator (ETC) we demonstrate that SHARP can achieve the required signal-to-noise, both for the continuum and emission lines, to investigate accretion and outflows in YSOs in distant (d$>$5\\,kpc) SFRs, including those relatively embedded. SHARP will be able to observe very faint YSOs ($H\\sim$\\,24\\,mag), allowing us extending studies to very low-mass YSOs in distant SFRs. The performance of SHARP in terms of sensitivity and spatial resolution in the NIR will provide significant insights into the evolution of protoplanetary disks in low-metallicity and massive environments: studies of accretion, jets/winds and photo-evaporation processes, down to the very low-mass ($\\sim$0.2\\,\\Msun) regime in the MCs, and down to substellar YSOs in SFRs of the outer MW Galaxy (d\\,$\\lesssim$\\,10\\,kpc), will be possible. SHARP will also be able to observe jets/outflows in targets that are several magnitudes fainter than those reachable with current instruments, and will facilitate studies in low metallicity environments of wide binaries and multiple systems, with separations of $\\sim$1600\\,au, at a distance $\\sim$50\\,kpc scale, and of $\\sim$150\\,au, in regions of the outer MW Galaxy (d $\\sim$10\\,kpc).",
-      "category": [
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-29T20:00:05Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.IM"
-      },
-      "author": [
-        {
-          "name": "Juan Manuel Alcala'"
-        },
-        {
-          "name": "Alessio Caratti o Garatti"
-        },
-        {
-          "name": "Linda Podio"
-        },
-        {
-          "name": "Mario Giuseppe Guarcello"
-        },
-        {
-          "name": "Loredana Prisinzano"
-        },
-        {
-          "name": "Rosaria Bonito"
-        },
-        {
-          "name": "Paolo Franzetti"
-        },
-        {
-          "name": "Fedor Getman"
-        }
-      ],
-      "score": 0.5
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -266,7 +317,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27623v1",
@@ -345,7 +396,7 @@
           "name": "N. J. Wright"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27502v1",
@@ -415,7 +466,7 @@
           "name": "D. Anish Roshi"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
@@ -476,7 +527,7 @@
           "name": "Laksma Satya"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v2",
@@ -555,7 +606,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -598,7 +649,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -638,7 +689,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 30.5
+      "score": 30.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -684,71 +735,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 44.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.11006v1",
-      "title": "Spectroscopic analysis of RGB stars in nine open clusters",
-      "updated": "2026-06-09T15:41:30Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.11006v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.11006v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1093/mnras/stag1103",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Stellar clusters are crucial tools for studying the age, spatial distribution, dynamics, kinematics, and chemical composition of different Galactic stellar populations. In this work, we used red giant stars from open clusters to better understand the extra-mixing process through the CNO abundances and $^{12}$C/$^{13}$C, $^{16}$O/$^{17}$O and $^{16}$O/$^{18}$O isotopic ratios determined using high-quality spectra in the visible and near-infrared regions. We analysed the radial velocities and chemical composition of 22 K-type giant stars from nine open clusters (NGC188, NGC2682, NGC3680, NGC5822, IC4756, NGC6633, NGC3532, NGC6281, and NGC5460). High-resolution and high signal-to-noise spectra of stars in the NGC188 cluster were obtained with the ESPaDOnS spectrograph at the CFHT in the visible region. The stars in the other clusters were observed with the CRIRES spectrograph at the VLT. We used IRAF to compute radial velocities and Turbospectrum and MOOG for the chemical analysis. The values obtained for the radial velocities and abundances of the sample are similar to those found in the literature. The results in the visible and infrared support the occurrence and predicted mass dependence of thermohaline mixing on the red giant branch and of rotation-induced mixing on the main sequence. Variations of the initial abundances of $^{17}$O and $^{18}$O may be needed to explain the dispersion of the oxygen isotopic ratios in red giant stars.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-09T15:41:30Z",
-      "arxiv:comment": "28 pages, 12 figures. Accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Saulo de Oliveira Cantanhêde"
-        },
-        {
-          "name": "Alan Alves-Brito"
-        },
-        {
-          "name": "Rodolfo Smiljanic"
-        },
-        {
-          "name": "Beatriz Barbuy"
-        },
-        {
-          "name": "Nadège Lagarde"
-        },
-        {
-          "name": "Corinne Charbonnel"
-        },
-        {
-          "name": "Pierre North"
-        }
-      ],
-      "arxiv:doi": "10.1093/mnras/stag1103",
-      "score": 0.5
+      "score": 43.5
     }
   ]
 }
