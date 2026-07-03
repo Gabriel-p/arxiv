@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2026-07-02T14:09:39.324757",
+  "fetched_at": "2026-07-03T03:36:11.350382",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.01331v1",
+      "title": "The fingerprint of primordial mass segregation on the tidal tails of star clusters",
+      "updated": "2026-07-01T18:00:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.01331v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.01331v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate the effect of primordial mass segregation (PMS) in shaping the tidal tail structures of star clusters, searching for any trace of PMS on the tails at both early and late evolutionary stages. Through N-body simulations, we analyze clusters with two different degrees of PMS at various Galactocentric distances (R_G), considering two black hole retention scenarios. Our findings reveal that PMS influences early cluster expansion and the formation of tidal tails with a bottom-heavy stellar mass function, this being more pronounced at smaller R_G but diminishes over time. Primordially segregated clusters exhibit denser, unified, and longer tail structures compared to non-segregated clusters. The mean stellar mass distribution along the tails shows distinct patterns for primordially segregated and non-segregated clusters, converging at later evolutionary stages. The retention of stellar remnants has a weak impact on the mean mass distribution along the tails and on its morphology. We find that although mean mass differences persist along the tidal tails, the rate of change in primordially mass-segregated clusters eventually converges with that of non-segregated clusters, suggesting that the influence of primordial mass segregation on the tidal tails gradually diminishes over the course of cluster evolution.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-01T18:00:05Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "S. Mojtaba Ghasemi"
+        },
+        {
+          "name": "Hosein Haghi"
+        },
+        {
+          "name": "Mohammad Mansoury"
+        },
+        {
+          "name": "Akram Hasani Zonoozi"
+        },
+        {
+          "name": "Pouriya Miri"
+        },
+        {
+          "name": "Pavel Kroupa"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
       "title": "OCCAM X. Neutron Capture Abundances with Keck/HIRES & Magellan/MIKE",
@@ -68,7 +116,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2607.00098v1",
@@ -114,45 +162,7 @@
           "name": "Hai-Jun Tian"
         }
       ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.31835v1",
-      "title": "Distance to Sh2-106 from Gaia DR3 and its embedded radio population: implications for a candidate explosive outflow",
-      "updated": "2026-06-30T15:39:09Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.31835v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.31835v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Sh2-106 has recently been proposed as a candidate explosive molecular outflow (EMO), but the physical interpretation of the region depends critically on its distance. Published estimates span a wide range, leading to large uncertainties in the inferred size, energetics, and evolutionary timescale of the system. Using {\\it Gaia} DR3 astrometry, we identify a kinematically coherent stellar population associated with Sh2-106 and derive a cluster parallax of $\\varpi_{\\rm corr}=0.607\\pm0.013$\\,mas, corresponding to a distance of $1.65\\pm0.04$\\,kpc. This value is significantly larger than the commonly adopted extinction-break estimate of 1.09\\,kpc. At this revised distance, the inferred kinetic energy of the expanding ionized nebula increases by a factor of $\\sim6.5$, reaching $E_{\\rm exp}\\simeq1.3\\times10^{48}$\\,erg and placing Sh2-106 in the same order-of-magnitude energetic regime as the Orion BN/KL explosive event, although at a substantially older dynamical age ($\\sim3500$\\,yr). Archived 5.8\\,GHz Karl G. Jansky Very Large Array observations reveal ten compact radio sources in the central region, identifying embedded stellar objects that are suitable for future multi-epoch radio astrometry. No unambiguous high-velocity stellar ejecta are detected in {\\it Gaia} DR3, although S106\\,IR shows a modest peculiar transverse velocity of $\\sim5$\\,km\\,s$^{-1}$ relative to the cluster centroid. The Gaia-based cluster distance, therefore, significantly revises the physical scale and energetics of Sh2-106 and provides the observational framework required to test whether the region represents an older analogue of the Orion BN/KL dynamical disintegration or a distinct explosive phenomenon.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-30T15:39:09Z",
-      "arxiv:comment": "Accepted for publication in the A&A journal. 9 pages, 7 figures, 3 tables",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Sergio A. Dzib"
-      },
-      "score": 0.3
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -204,7 +214,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 12.5
+      "score": 12.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -396,7 +406,7 @@
           "name": "N. J. Wright"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27502v1",
@@ -466,7 +476,7 @@
           "name": "D. Anish Roshi"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.24270v1",
@@ -649,7 +659,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -689,7 +699,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 30.0
+      "score": 29.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -735,7 +745,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 43.5
+      "score": 43.0
     }
   ]
 }
