@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T03:36:11.350382",
+  "fetched_at": "2026-07-03T14:14:27.324462",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.01331v1",
@@ -327,7 +327,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27623v1",
@@ -479,67 +479,6 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2606.24270v1",
-      "title": "NGC 6134: a comprehensive study through photometric and kinematic analysis using Gaia DR3",
-      "updated": "2026-06-23T07:54:27Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.24270v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.24270v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters provide a unique laboratory for precisely constraining stellar age, distance, and metallicity, facilitating studies on exoplanet-host star correlations. Building on our previous membership study, we analyze photometric data to comprehensively characterize the open cluster NGC 6134 by determining its fundamental parameters, 3D spatial distribution, substructures, and mass segregation. Using the ASteCA code, we derive the cluster's parameters: $\\mathrm{[Fe/H]} = 0.08 \\pm 0.06$, $\\log(t) = 9.14 \\pm 0.01$, $d = 1064.43 \\pm 15.19$ pc, and $A_\\mathrm{v} = 1.03 \\pm 0.05$ mag. Independent Bayesian inference of individual member distances yields a cluster distance of $1070.83 \\pm 2.50$ pc, in excellent agreement with the ASteCA results. Spatial substructures are successfully mapped using Gaussian Mixture Models, revealing a three-component distribution corresponding to the cluster's core, tidal tail, and halo. Furthermore, Minimum Spanning Tree analysis indicates that the observed mass segregation is driven by dynamical evolution rather than primordial origins. Finally, our analysis of the cluster's Color--Magnitude Diagram identifies probable blue straggler stars and a main-sequence gap, which we conclude is strongly linked to the cluster's binary fraction.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-23T07:54:27Z",
-      "arxiv:comment": "14 pages, 10 figures, 1 table",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Agus T. P. Jatmiko"
-        },
-        {
-          "name": "Teduh Perhati"
-        },
-        {
-          "name": "Dhimaz G. Ramadhan"
-        },
-        {
-          "name": "Muhammad Yusuf"
-        },
-        {
-          "name": "Denny Mandey"
-        },
-        {
-          "name": "Mochamad I. Arifyanto"
-        },
-        {
-          "name": "Premana W. Premadi"
-        },
-        {
-          "name": "Sahlan Ramadhan"
-        },
-        {
-          "name": "Ferry Yap"
-        },
-        {
-          "name": "Laksma Satya"
-        }
-      ],
-      "score": 0.3
-    },
-    {
       "id": "http://arxiv.org/abs/2606.24114v2",
       "title": "Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819",
       "updated": "2026-06-29T23:09:44Z",
@@ -616,7 +555,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
