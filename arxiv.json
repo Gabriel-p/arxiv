@@ -1,54 +1,6 @@
 {
-  "fetched_at": "2026-07-03T14:14:27.324462",
+  "fetched_at": "2026-07-04T03:29:12.229694",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2607.01331v1",
-      "title": "The fingerprint of primordial mass segregation on the tidal tails of star clusters",
-      "updated": "2026-07-01T18:00:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.01331v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.01331v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate the effect of primordial mass segregation (PMS) in shaping the tidal tail structures of star clusters, searching for any trace of PMS on the tails at both early and late evolutionary stages. Through N-body simulations, we analyze clusters with two different degrees of PMS at various Galactocentric distances (R_G), considering two black hole retention scenarios. Our findings reveal that PMS influences early cluster expansion and the formation of tidal tails with a bottom-heavy stellar mass function, this being more pronounced at smaller R_G but diminishes over time. Primordially segregated clusters exhibit denser, unified, and longer tail structures compared to non-segregated clusters. The mean stellar mass distribution along the tails shows distinct patterns for primordially segregated and non-segregated clusters, converging at later evolutionary stages. The retention of stellar remnants has a weak impact on the mean mass distribution along the tails and on its morphology. We find that although mean mass differences persist along the tidal tails, the rate of change in primordially mass-segregated clusters eventually converges with that of non-segregated clusters, suggesting that the influence of primordial mass segregation on the tidal tails gradually diminishes over the course of cluster evolution.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-01T18:00:05Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "S. Mojtaba Ghasemi"
-        },
-        {
-          "name": "Hosein Haghi"
-        },
-        {
-          "name": "Mohammad Mansoury"
-        },
-        {
-          "name": "Akram Hasani Zonoozi"
-        },
-        {
-          "name": "Pouriya Miri"
-        },
-        {
-          "name": "Pavel Kroupa"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
       "title": "OCCAM X. Neutron Capture Abundances with Keck/HIRES & Magellan/MIKE",
@@ -116,7 +68,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2607.00098v1",
@@ -162,7 +114,7 @@
           "name": "Hai-Jun Tian"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -214,7 +166,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 12.0
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -406,7 +358,7 @@
           "name": "N. J. Wright"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27502v1",
@@ -476,7 +428,7 @@
           "name": "D. Anish Roshi"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v2",
@@ -598,7 +550,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -638,7 +590,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 29.5
+      "score": 29.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -684,7 +636,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 43.0
+      "score": 42.5
     }
   ]
 }
