@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T13:40:44.599972",
+  "fetched_at": "2026-07-05T03:46:52.521428",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -68,53 +68,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 10.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.00098v1",
-      "title": "The Stellar \"Snake\"-V: the census within 3 kpc in the Solar Neighborhood",
-      "updated": "2026-06-30T19:38:38Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.00098v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.00098v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a Gaia DR3 source-level census of \\emph{Stellar Snake} complexes within 3\\,kpc of the Sun. We define a Stellar Snake as a mutually coherent association of two or more stellar overdensities, characterised by consistent positions, kinematics, orbital invariants, ages, and chemical properties, rather than as a single gravitationally bound object. Moving beyond catalogue-driven searches seeded by known open clusters, our framework operates directly on individual Gaia sources to recover extended, low-density substructures and interconnecting stellar bridges. The multi-stage pipeline extracts statistically significant, non-overlapping base nodes, infers homogeneous parameters using a PointNet point-cloud regressor, and links these nodes into large-scale macro-structures across a 9D space spanning positions, tangential velocities, radial velocity, age \\(\\log t\\), and orbital integrals \\((E,L_Z)\\). After FoF-topology cross-validation and boundary resolution, the final catalogue contains 1,256 Stellar Snake candidates comprising 802,489 unique member-star entries in 5,491 final base nodes selected from a 9,909-node input pool. Derived parameters are validated against external open-cluster catalogues and spectroscopic benchmarks. To quantify structural coherence, we introduce a graph-relation Snake Reliability Index (SRI), coupled with a peripheral-branch diagnostic and Gold/Silver/Bronze quality flags. At the population level, the census shows a broad age--metallicity pattern, a declining upper envelope of member-star entries toward older ages, and a projected association between young Snake nodes, nearby spiral-arm loci, and the Radcliffe Wave. This homogeneous inventory provides an observational foundation for probing the formation, coherence, and dynamical evolution of hierarchical stellar complexes in the Milky Way.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-30T19:38:38Z",
-      "arxiv:comment": "35 pages, 13 figures, 5 tables. Comments and collaboration are welcome. The Snake Serials: https://astrotian.github.io/snake. The visualization: https://astrotian.github.io/snake/visualization",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Xiang-Ming Yang"
-        },
-        {
-          "name": "Ju-Yong Zhang"
-        },
-        {
-          "name": "Hai-Jun Tian"
-        }
-      ],
-      "score": 0.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -166,7 +120,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -358,7 +312,7 @@
           "name": "N. J. Wright"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27502v1",
@@ -428,7 +382,7 @@
           "name": "D. Anish Roshi"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v2",
@@ -550,7 +504,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -590,7 +544,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 29.0
+      "score": 28.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -636,7 +590,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 42.5
+      "score": 42.0
     }
   ]
 }
