@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T03:46:52.521428",
+  "fetched_at": "2026-07-05T13:47:43.667026",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -233,7 +233,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27623v1",
@@ -461,7 +461,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
