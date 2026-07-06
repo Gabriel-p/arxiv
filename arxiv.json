@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T13:47:43.667026",
+  "fetched_at": "2026-07-06T03:54:37.388017",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -68,7 +68,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -120,7 +120,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -234,155 +234,6 @@
         }
       ],
       "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.27623v1",
-      "title": "EWOCS-VI: Probing the hidden intermediate-mass population of Westerlund 1",
-      "updated": "2026-06-26T00:37:35Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.27623v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.27623v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Context: Westerlund 1 (Wd1), the most massive young star cluster in the Milky Way, is an excellent laboratory for studying star formation and early stellar evolution in a starburst-like environment. However, high extinction restricts studies of its stellar content, and focus on high-mass stars limits our knowledge of the full spatial extent of the cluster. Aims: We characterize the near-infrared (NIR) variability of the stellar population of Wd1, filling the mass gap between massive stars traced by Gaia and very low-mass stars from previous Extended Westerlund 1 and 2 Open Clusters Survey (EWOCS) studies, to provide a more complete view of cluster membership across solar and super-solar masses.} Methods: We exploited data from the VISTA Variables of the Vía Láctea survey and its extension (VVVX), using NIR point spread function (PSF) photometry and astrometric solutions from its latest data release, namely the VIRAC2 catalogs, mainly in the Ks band. Their large spatial coverage enables study of both the central regions and outskirts of the cluster. We applied HDBSCAN clustering algorithm in a 6D parameter space to differentiate cluster members from field contaminants, assessing robustness through Monte Carlo simulations. Variable sources along the line of sight were also identified and characterized. Results: We identify 1286 high-probability candidate members (12 < J < 18 mag) spanning $\\sim 1.5$--$20\\,M_{\\odot}$, adopting both PARSEC 5 and 6 Myr isochrones ($A_{K_{\\rm{s}}}=0.6\\,\\rm{mag}$, $d=4.23\\,\\rm{kpc}$). A considerable fraction (34%) shows statistically significant flux variations. We present, for the first time, a parametric analysis of variability modes of Wd1 candidate members in the Ks band, providing a membership catalog suitable for future kinematic studies.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-26T00:37:35Z",
-      "arxiv:comment": "Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "C. Ordenes-Huanca"
-        },
-        {
-          "name": "A. Bayo"
-        },
-        {
-          "name": "M. Guarcello"
-        },
-        {
-          "name": "M. Zoccali"
-        },
-        {
-          "name": "A. Rojas-Arriagada"
-        },
-        {
-          "name": "V. Almendros-Abad"
-        },
-        {
-          "name": "M. Andersen"
-        },
-        {
-          "name": "R. Bonito"
-        },
-        {
-          "name": "V. Guzmán"
-        },
-        {
-          "name": "E. Moraux"
-        },
-        {
-          "name": "K. Muzic"
-        },
-        {
-          "name": "L. Prisinzano"
-        },
-        {
-          "name": "S. Sciortino"
-        },
-        {
-          "name": "N. J. Wright"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.27502v1",
-      "title": "The Impact and Environment of Massive Stars and Stellar Clusters",
-      "updated": "2026-06-25T19:36:50Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.27502v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.27502v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Massive stars and stellar clusters shape galactic evolution through powerful feedback mechanisms including radiation pressure, photoionization, stellar winds, and cosmic ray acceleration. However, their impact remains poorly understood due to observational challenges: they are rare, distant on average, and deeply embedded within dense, dusty environments. Radio observations provide a unique window into these processes, as radio emission penetrates obscuring material and traces both thermal free-free emission from ionized gas and non-thermal synchrotron emission from shocks and particle acceleration. The Square Kilometre Array (SKA) will revolutionize massive star studies through unprecedented sensitivity and angular resolution. SKA observations will enable detailed characterization of hierarchical structures within HII regions, measurements of physical conditions through hydrogen, helium, and carbon radio recombination lines (RRLs), and detection of non-thermal emission from cosmic ray acceleration in star-forming regions. SKA will permit systematic measurements of stellar wind mass-loss rates, studies of photoionized gas kinematics and dynamics, and exploration of photodissociation regions surrounding ultracompact HII regions. Additionally, magnetic field strengths can be probed through Zeeman effect observations of RRLs. This chapter discusses the current understanding of massive stars and stellar clusters and their feedback processes. We highlight how SKA observations will advance our knowledge of massive star formation, stellar winds, hierarchical structures in HII regions, cosmic ray acceleration, and magnetic field regulation of star formation - providing crucial insights into feedback mechanisms governing the structure and evolution of the Milky Way and galaxies.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-25T19:36:50Z",
-      "arxiv:comment": "Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv: 2606.20366)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Loren Anderson"
-        },
-        {
-          "name": "Jagadheep D. Pandian"
-        },
-        {
-          "name": "Jyotirmoy Dey"
-        },
-        {
-          "name": "Marco Padovani"
-        },
-        {
-          "name": "Ramlal Unnikrishnan"
-        },
-        {
-          "name": "Annie Zavagno"
-        },
-        {
-          "name": "Grazia Maria Umana"
-        },
-        {
-          "name": "Jakob van den Eijnden"
-        },
-        {
-          "name": "Giovanni Sabatini"
-        },
-        {
-          "name": "Kimberly L. Emig"
-        },
-        {
-          "name": "Alessio Traficante"
-        },
-        {
-          "name": "Álvaro Sánchez-Monge"
-        },
-        {
-          "name": "D. Anish Roshi"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v2",
@@ -504,7 +355,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -544,7 +395,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 28.5
+      "score": 28.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -590,7 +441,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 42.0
+      "score": 41.5
     }
   ]
 }
