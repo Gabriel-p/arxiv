@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T03:54:37.388017",
+  "fetched_at": "2026-07-06T15:40:34.546752",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -120,7 +120,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -233,7 +233,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.24114v2",
@@ -312,7 +312,7 @@
           "name": "Hans Martin Schwengeler"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
@@ -395,7 +395,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 28.0
+      "score": 27.5
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -441,7 +441,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 41.5
+      "score": 41.0
     }
   ]
 }
