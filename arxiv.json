@@ -1,6 +1,174 @@
 {
-  "fetched_at": "2026-07-06T15:40:34.546752",
+  "fetched_at": "2026-07-07T03:44:32.831364",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.03774v1",
+      "title": "A Homogeneous Determination of the Interstellar Extinction Law and Metallicity for 105 Galactic Open Clusters",
+      "updated": "2026-07-04T08:53:18Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.03774v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.03774v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "This work presents an investigation of the interstellar extinction law toward 105 Galactic open clusters using ultraviolet-optical photometry. The photometric dataset and reddening determinations were previously introduced in Ramezani et al., (2025); hereafter Paper I, where homogeneous ultraviolet photometry and colour-colour diagrams were used to derive reddening values for the cluster sample. In the present study, we extend that analysis by determining extinction law and metallicity parameters for the same clusters. Ground-based U-band observations obtained with the 2.15-m CASLEO telescope and the 1.54-m Danish telescope are combined with Gaia Data Release 3 photometry to construct ultraviolet-optical colour indices. Using extinction-ratio combinations and the Fitzpatrick, (1999) extinction model, we derive mean total-to-selective extinction law values (RV) for all clusters. The resulting RV values span approximately 2.5-4.5, with a mean value of RV = 3.53, indicating significant spatial variations of dust properties across the Galactic disk and deviations from the canonical diffuse interstellar medium value RV = 3.1. Afterward, by fitting the isochrone to the Colour-Magnitude Diagrams, we estimated the metallicity values of 105 observed clusters. This work provides the first homogeneous catalogue of extinction law measurements based on combined ground-based ultraviolet and Gaia photometry for a large open-cluster sample, establishing an important reference for studies of Galactic dust structure and stellar parameter corrections.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-04T08:53:18Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Tahereh Ramezani"
+      },
+      "score": 10.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.03536v1",
+      "title": "Pebbles to Gems: Intermediate-mass black holes in the first star clusters",
+      "updated": "2026-07-03T18:00:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.03536v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.03536v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The rapid assembly of supermassive black holes (SMBHs) observed at $z\\gtrsim7$ requires efficient seeding mechanisms in the early Universe. Population III (Pop. III) star clusters have recently emerged as a promising pathway that may bridge the gap between traditional light- and heavy-seed scenarios by producing intermediate-mass black holes (IMBHs) with masses up to $\\sim10^4\\,\\rm M_{\\odot}$. We investigate the properties and number densities of IMBHs forming in Pop. III star clusters with masses $M_{\\rm cl}\\sim10^3-4\\times10^5\\,\\rm M_{\\odot}$, and hosted in isolated dark matter minihalos, using a suite of direct $N$-body simulations. We adopt cosmologically motivated initial conditions and explore different stellar evolution prescriptions, binary orbital parameter distributions, and cluster dynamical configurations. By $z\\sim19$, the IMBH mass function consistently peaks at $m_{\\rm IMBH}\\sim200\\,\\rm M_{\\odot}$, with number densities of $n_{\\rm IMBH}\\sim0.2-5\\,\\rm cMpc^{-3}$. In sufficiently dense and massive clusters, IMBHs with masses $>10^3\\,\\rm M_{\\odot}$ can already form by $z\\sim19$, reaching number densities of $n_{\\rm IMBH}\\sim10^{-4}-10^{-2}\\,\\rm cMpc^{-3}$. The most massive IMBHs in our models reach $\\sim6200\\,\\rm M_{\\odot}$ through the collapse of very massive stars assembled by repeated stellar collisions, a process enhanced in fractal clusters. Lower-mass IMBHs form instead predominantly through single and binary stellar evolution and binary stellar mergers. We find that models combining large stellar radii and tight binaries produce the highest IMBH abundances relative to isolated Pop. III evolution. Owing to the high retention fraction of IMBHs ($\\gtrsim88\\%$), massive dense Pop. III star clusters can act as efficient incubators of both light and heavy SMBH seeds, even if only a fraction of Pop. III stars formed in such environments.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.CO",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-03T18:00:02Z",
+      "arxiv:comment": "14 pages, 8 figures, 2 tables. Comments are welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Benedetta Mestichelli"
+        },
+        {
+          "name": "Manuel Arca Sedda"
+        },
+        {
+          "name": "Marta Volonteri"
+        },
+        {
+          "name": "Michela Mapelli"
+        },
+        {
+          "name": "Stefano Torniamenti"
+        },
+        {
+          "name": "Alessandro Lupi"
+        },
+        {
+          "name": "Marica Branchesi"
+        },
+        {
+          "name": "Shingo Hirano"
+        },
+        {
+          "name": "Tomoaki Ishiyama"
+        },
+        {
+          "name": "Ralf S. Klessen"
+        },
+        {
+          "name": "Veronika Lipatova"
+        },
+        {
+          "name": "Boyuan Liu"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.02923v1",
+      "title": "Revisiting the Radial Velocities of Nearby Open Clusters using Gaia DR3",
+      "updated": "2026-07-03T03:29:08Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.02923v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.02923v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters (OCs) are essential laboratories for probing stellar dynamics and tracing the structure and evolution of the Milky Way. Accurate measurements of their average radial velocities (RVs) and RV dispersions are crucial for estimating dynamical masses, orbital evolution, and overall kinematic states. Gaia Data Release 3 (DR3) provides an unprecedented volume of high-precision RVs. However, when applied to OCs, Gaia DR3 RVs often yield unusually large and overestimated RV dispersions. This inflation is primarily driven by RV measurement systematics for hot and faint stars, as well as unresolved binary contamination. To mitigate this, we revisit the average RVs and RV dispersions of OCs within 500 pc of the Sun using Gaia DR3. We evaluate the reliability of RV measurements and employ a color-based filtering method. By selecting member stars within an intrinsic color range of $0.2 \\le (BP-RP)_{0} \\le 1.2$ mag, we exclude hot and cool stars with less reliable RVs. This filtering significantly reduces the inferred RV dispersions while maintaining average RVs consistent with previous literature. Specifically, the median RV dispersion decreases by 26%, dropping from 3.76 km s$^{-1}$ prior to filtering to 2.79 km s$^{-1}$ afterward. These filtered RV dispersions remain systematically larger than tangential velocity dispersions, likely due to residual biases and undetected binaries. However, RV dispersions measured exclusively from red clump giants (found in 6 clusters) are remarkably small ($\\lesssim 1.6$ km s$^{-1}$) and align closely with tangential dispersions ($\\lesssim 1$ km s$^{-1}$). Ultimately, we provide a practical, Gaia-only strategy to derive more realistic RV dispersions for OCs, identifying red clump giants as exceptionally high-fidelity kinematic tracers for robust cluster studies.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-03T03:29:08Z",
+      "arxiv:comment": "12 pages, 7 figures, 2 tables. Accepted for publication in PASP",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Tong Tang"
+        },
+        {
+          "name": "Yu Zhang"
+        },
+        {
+          "name": "Jing Zhong"
+        },
+        {
+          "name": "Guimei Liu"
+        },
+        {
+          "name": "Songmei Qin"
+        },
+        {
+          "name": "Shusong Wang"
+        },
+        {
+          "name": "Li Chen"
+        }
+      ],
+      "score": 6.0
+    },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
       "title": "OCCAM X. Neutron Capture Abundances with Keck/HIRES & Magellan/MIKE",
@@ -68,7 +236,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -355,7 +523,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
