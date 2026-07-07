@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T03:44:32.831364",
+  "fetched_at": "2026-07-07T14:43:59.836852",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -36,7 +36,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2607.03536v1",
@@ -288,7 +288,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -401,86 +401,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 6.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.24114v2",
-      "title": "Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819",
-      "updated": "2026-06-29T23:09:44Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.24114v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.24114v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Variable stars in open clusters are valuable probes of stellar evolution. They provide precise measurements of stellar properties, constrain cluster ages and distances, and trace the angular momentum evolution of stellar populations. To advance these studies, we applied image subtraction and systematic reduction techniques to the NGC 6819 Kepler superstamp time-series data (Quarters 1-16), using the Gaia DR3 catalog to identify the positions of individual sources. We produce 81,498 high-precision light curves for 11,055 sources in the crowded field harboring the 2.5 Gyr open cluster NGC 6819. Our detrended light curves achieve a best root-mean-square precision of 33 ppm (6.5-hour bins) for stars with Kepler magnitudes 12 - 12.5 mag, falling to 79 ppm at 14 - 14.5 mag. Using Gaia DR3 proper motions, and parallaxes, we distinguished likely cluster members from field stars. We identified and classified 87 periodic variables that are potential members of NGC 6819, including 26 newly-discovered variables. We make our light curves and variable classifications publicly available to enable further studies of stellar variability and angular momentum evolution in this intermediate-aged open cluster.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-23T04:01:13Z",
-      "arxiv:comment": "19 pages, 6 figures, 1 table. Accepted for publication in The Astronomical Journal",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Melinda Soares-Furtado"
-        },
-        {
-          "name": "Rianna Kuenzi"
-        },
-        {
-          "name": "Rachel Lee McClure"
-        },
-        {
-          "name": "Nicholas T. Marston"
-        },
-        {
-          "name": "Evan Linck"
-        },
-        {
-          "name": "Robert D. Mathieu"
-        },
-        {
-          "name": "Andrew Vanderburg"
-        },
-        {
-          "name": "Joel D. Hartman"
-        },
-        {
-          "name": "Kyle Cudworth"
-        },
-        {
-          "name": "Robert Gagliano"
-        },
-        {
-          "name": "Thomas Jacobs"
-        },
-        {
-          "name": "Martti H. Kristiansen"
-        },
-        {
-          "name": "Mark Omohundro"
-        },
-        {
-          "name": "Hans Martin Schwengeler"
-        }
-      ],
-      "score": 0.5
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
