@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T14:43:59.836852",
+  "fetched_at": "2026-07-08T03:13:39.217192",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -109,7 +109,7 @@
           "name": "Boyuan Liu"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -236,7 +236,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -444,7 +444,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -484,7 +484,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 27.5
+      "score": 27.0
     },
     {
       "id": "http://arxiv.org/abs/2606.14833v1",
@@ -530,7 +530,7 @@
           "name": "S. V. Vereshchagin"
         }
       ],
-      "score": 41.0
+      "score": 40.5
     }
   ]
 }
