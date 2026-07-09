@@ -1,6 +1,140 @@
 {
-  "fetched_at": "2026-07-08T14:22:25.230394",
+  "fetched_at": "2026-07-09T03:37:43.067061",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.07451v1",
+      "title": "Milky Way Atlas: A radial-velocity-resolved, three-dimensional map of H I within 1.25 kpc",
+      "updated": "2026-07-08T14:21:18Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.07451v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.07451v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a velocity-resolved three-dimensional map of local atomic hydrogen (HI) within 1.25 kpc of the Sun, tackling the challenge of converting emission from position-position-velocity space into true 3D structure. Our method combines the HI4PI full-sky survey with the Edenhofer et al. (2024) 3D dust map in the framework of Information Field Theory, enabling a joint reconstruction of the local HI density, radial velocity field, and effective line width while also separating emission arising inside the mapped local volume from more distant Galactic HI. The inference is driven by morphological matching between dust and HI structures together with kinematic coherence in 3D space. Synthetic data tests show that the method recovers the local density and velocity structure, even in the presence of substantial contamination from distant emission. The resulting map reveals a smoother, more diffuse local HI distribution than the dust, a declining HI-to-dust ratio toward high dust column densities consistent with the atomic-to-molecular transition, and a velocity field that captures both large-scale Galactic rotation and local non-circular velocities. Independent comparisons with maser and young stellar cluster velocities agree with the recovered kinematics. This HI map provides a new three-dimensional, kinematically resolved view of the nearby atomic interstellar medium and a foundation for localising other velocity-resolved Galactic emission in physical space.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-08T14:21:18Z",
+      "arxiv:comment": "24 pages, 21 figures, accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Lewis McCallum"
+        },
+        {
+          "name": "Laurin Söding"
+        },
+        {
+          "name": "Mareike Berkner"
+        },
+        {
+          "name": "Philipp Frank"
+        },
+        {
+          "name": "Matteo Guardiani"
+        },
+        {
+          "name": "Jakob Roth"
+        },
+        {
+          "name": "Juan D. Soler"
+        },
+        {
+          "name": "Robert Benjamin"
+        },
+        {
+          "name": "Torsten Enßlin"
+        },
+        {
+          "name": "Philipp Mertsch"
+        },
+        {
+          "name": "Konstantinos Tassis"
+        },
+        {
+          "name": "Vasiliki Pavlidou"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.07266v1",
+      "title": "Hubble Space Telescope survey of Magellanic Cloud star clusters. Binaries, mass functions, blue stragglers, and structural parameters",
+      "updated": "2026-07-08T10:50:54Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.07266v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.07266v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Binary stars are key tracers of the dynamical evolution of star clusters and provide important constraints on stellar populations and mass functions. The Magellanic Clouds host clusters spanning a wide range of ages and masses, offering an ideal laboratory to investigate these properties in regimes poorly sampled in the Milky Way. We aim to characterize the binary populations, mass functions, blue straggler content, and structural parameters of intermediate-age Magellanic Cloud clusters, and to explore their dependence on global cluster properties. We analyze HST photometry for 16 clusters obtained with ACS/WFC and WFC3/UVIS. Structural parameters are derived from stellar density profiles. Binary fractions are measured using the binary map technique, focusing on systems with mass ratios q > 0.7. We derive MFs accounting for unresolved binaries and identify candidate BS populations from color-magnitude diagrams. The fraction of binaries with q > 0.7 ranges from 5% in NGC 2121 up to 13% in NGC 2173, with a mass-ratio distribution that is consistent with being flat on average. By combining our results with literature data, we confirm a clear anti-correlation between the core binary fraction and cluster mass, while no significant dependence on cluster age is found. The clusters follow the established relation between age and core radius, although with substantial scatter at fixed age. Within the narrow age range explored here, clusters exhibiting steeper MFs are found to have smaller core radii. We find no evidence for a correlation between the fractions of binaries and BS fractions. These findings are consistent with a scenario in which dynamical evolution plays a primary role in the formation of binary populations. The connection between MF slope and structural parameters provides new constraints on cluster evolution and suggests a link between MF slope and structural evolution.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-08T10:50:54Z",
+      "arxiv:comment": "11 pages, 11 figures. Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "F. Muratore"
+        },
+        {
+          "name": "M. V. Legnardi"
+        },
+        {
+          "name": "A. P. Milone"
+        },
+        {
+          "name": "G. Cordoni"
+        },
+        {
+          "name": "A. Mastrobuono-Battisti"
+        },
+        {
+          "name": "A. F. Marino"
+        },
+        {
+          "name": "T. Ziliotto"
+        },
+        {
+          "name": "E. Dondoglio"
+        },
+        {
+          "name": "E. Bortolan"
+        },
+        {
+          "name": "E. P. Lagioia"
+        }
+      ],
+      "score": 10.6
+    },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
       "title": "A Homogeneous Determination of the Interstellar Extinction Law and Metallicity for 105 Galactic Open Clusters",
@@ -109,7 +243,7 @@
           "name": "Boyuan Liu"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -167,7 +301,7 @@
           "name": "Li Chen"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -236,7 +370,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -444,7 +578,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -484,53 +618,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 27.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.14833v1",
-      "title": "Encounters of star clusters as a possible source of disturbances in their internal structure",
-      "updated": "2026-06-12T15:11:58Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.14833v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.14833v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We searched for past close encounters of the Hyades and Pleiades with all 5736 clusters of the Hunt & Reffert catalog, integrating orbits with galpy over the last 100 Myr and validating candidates by Monte Carlo. Most nominally close pairs are unstable under catalog errors; only two remain reliable: Pleiades and HSC 751 and Hyades and HSC 2986. HSC 2986 coincides with the star-forming cloud Corona Australis, which the Hyades crossed about 5 Myr ago, passing ~11 pc from its dense core. Such interactions may be the cause of the mini-clusters discovered in the Pleiades.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-06-12T15:11:58Z",
-      "arxiv:comment": "11 pages, 4 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "M. D. Sizova"
-        },
-        {
-          "name": "L. A. Maksimova"
-        },
-        {
-          "name": "S. V. Vereshchagin"
-        }
-      ],
-      "score": 40.5
+      "score": 26.5
     }
   ]
 }
