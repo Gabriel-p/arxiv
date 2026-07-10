@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T15:17:04.149184",
+  "fetched_at": "2026-07-10T03:39:03.575860",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.07451v1",
@@ -173,79 +173,6 @@
       "score": 8.5
     },
     {
-      "id": "http://arxiv.org/abs/2607.03536v1",
-      "title": "Pebbles to Gems: Intermediate-mass black holes in the first star clusters",
-      "updated": "2026-07-03T18:00:02Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.03536v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.03536v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The rapid assembly of supermassive black holes (SMBHs) observed at $z\\gtrsim7$ requires efficient seeding mechanisms in the early Universe. Population III (Pop. III) star clusters have recently emerged as a promising pathway that may bridge the gap between traditional light- and heavy-seed scenarios by producing intermediate-mass black holes (IMBHs) with masses up to $\\sim10^4\\,\\rm M_{\\odot}$. We investigate the properties and number densities of IMBHs forming in Pop. III star clusters with masses $M_{\\rm cl}\\sim10^3-4\\times10^5\\,\\rm M_{\\odot}$, and hosted in isolated dark matter minihalos, using a suite of direct $N$-body simulations. We adopt cosmologically motivated initial conditions and explore different stellar evolution prescriptions, binary orbital parameter distributions, and cluster dynamical configurations. By $z\\sim19$, the IMBH mass function consistently peaks at $m_{\\rm IMBH}\\sim200\\,\\rm M_{\\odot}$, with number densities of $n_{\\rm IMBH}\\sim0.2-5\\,\\rm cMpc^{-3}$. In sufficiently dense and massive clusters, IMBHs with masses $>10^3\\,\\rm M_{\\odot}$ can already form by $z\\sim19$, reaching number densities of $n_{\\rm IMBH}\\sim10^{-4}-10^{-2}\\,\\rm cMpc^{-3}$. The most massive IMBHs in our models reach $\\sim6200\\,\\rm M_{\\odot}$ through the collapse of very massive stars assembled by repeated stellar collisions, a process enhanced in fractal clusters. Lower-mass IMBHs form instead predominantly through single and binary stellar evolution and binary stellar mergers. We find that models combining large stellar radii and tight binaries produce the highest IMBH abundances relative to isolated Pop. III evolution. Owing to the high retention fraction of IMBHs ($\\gtrsim88\\%$), massive dense Pop. III star clusters can act as efficient incubators of both light and heavy SMBH seeds, even if only a fraction of Pop. III stars formed in such environments.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.CO",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-03T18:00:02Z",
-      "arxiv:comment": "14 pages, 8 figures, 2 tables. Comments are welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Benedetta Mestichelli"
-        },
-        {
-          "name": "Manuel Arca Sedda"
-        },
-        {
-          "name": "Marta Volonteri"
-        },
-        {
-          "name": "Michela Mapelli"
-        },
-        {
-          "name": "Stefano Torniamenti"
-        },
-        {
-          "name": "Alessandro Lupi"
-        },
-        {
-          "name": "Marica Branchesi"
-        },
-        {
-          "name": "Shingo Hirano"
-        },
-        {
-          "name": "Tomoaki Ishiyama"
-        },
-        {
-          "name": "Ralf S. Klessen"
-        },
-        {
-          "name": "Veronika Lipatova"
-        },
-        {
-          "name": "Boyuan Liu"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2607.02923v1",
       "title": "Revisiting the Radial Velocities of Nearby Open Clusters using Gaia DR3",
       "updated": "2026-07-03T03:29:08Z",
@@ -301,7 +228,7 @@
           "name": "Li Chen"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -370,7 +297,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -578,7 +505,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -618,7 +545,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 26.5
+      "score": 26.0
     }
   ]
 }
