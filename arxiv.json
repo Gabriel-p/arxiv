@@ -1,73 +1,6 @@
 {
-  "fetched_at": "2026-07-10T03:39:03.575860",
+  "fetched_at": "2026-07-10T14:35:01.635584",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2607.07451v1",
-      "title": "Milky Way Atlas: A radial-velocity-resolved, three-dimensional map of H I within 1.25 kpc",
-      "updated": "2026-07-08T14:21:18Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.07451v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.07451v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a velocity-resolved three-dimensional map of local atomic hydrogen (HI) within 1.25 kpc of the Sun, tackling the challenge of converting emission from position-position-velocity space into true 3D structure. Our method combines the HI4PI full-sky survey with the Edenhofer et al. (2024) 3D dust map in the framework of Information Field Theory, enabling a joint reconstruction of the local HI density, radial velocity field, and effective line width while also separating emission arising inside the mapped local volume from more distant Galactic HI. The inference is driven by morphological matching between dust and HI structures together with kinematic coherence in 3D space. Synthetic data tests show that the method recovers the local density and velocity structure, even in the presence of substantial contamination from distant emission. The resulting map reveals a smoother, more diffuse local HI distribution than the dust, a declining HI-to-dust ratio toward high dust column densities consistent with the atomic-to-molecular transition, and a velocity field that captures both large-scale Galactic rotation and local non-circular velocities. Independent comparisons with maser and young stellar cluster velocities agree with the recovered kinematics. This HI map provides a new three-dimensional, kinematically resolved view of the nearby atomic interstellar medium and a foundation for localising other velocity-resolved Galactic emission in physical space.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-08T14:21:18Z",
-      "arxiv:comment": "24 pages, 21 figures, accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Lewis McCallum"
-        },
-        {
-          "name": "Laurin Söding"
-        },
-        {
-          "name": "Mareike Berkner"
-        },
-        {
-          "name": "Philipp Frank"
-        },
-        {
-          "name": "Matteo Guardiani"
-        },
-        {
-          "name": "Jakob Roth"
-        },
-        {
-          "name": "Juan D. Soler"
-        },
-        {
-          "name": "Robert Benjamin"
-        },
-        {
-          "name": "Torsten Enßlin"
-        },
-        {
-          "name": "Philipp Mertsch"
-        },
-        {
-          "name": "Konstantinos Tassis"
-        },
-        {
-          "name": "Vasiliki Pavlidou"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
       "title": "Hubble Space Telescope survey of Magellanic Cloud star clusters. Binaries, mass functions, blue stragglers, and structural parameters",
@@ -133,7 +66,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 10.1
+      "score": 9.6
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -170,7 +103,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -349,7 +282,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -462,7 +395,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.17131v1",
