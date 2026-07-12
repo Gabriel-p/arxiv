@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T13:26:45.993987",
+  "fetched_at": "2026-07-12T03:19:02.234852",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -230,7 +230,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -282,7 +282,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -438,7 +438,7 @@
           "name": "Mark R. Morris"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.16853v1",
@@ -478,7 +478,7 @@
           "name": "Yogesh Wadadekar"
         }
       ],
-      "score": 25.5
+      "score": 25.0
     }
   ]
 }
