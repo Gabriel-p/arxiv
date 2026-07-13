@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T03:21:40.926126",
+  "fetched_at": "2026-07-13T14:41:34.776075",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -66,7 +66,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 8.6
+      "score": 8.1
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -103,7 +103,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -161,7 +161,7 @@
           "name": "Li Chen"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -282,7 +282,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -395,7 +395,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     }
   ]
 }
