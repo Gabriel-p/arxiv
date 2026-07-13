@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T13:27:20.138352",
+  "fetched_at": "2026-07-13T03:21:40.926126",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -230,7 +230,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -282,7 +282,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -396,89 +396,6 @@
         }
       ],
       "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.17131v1",
-      "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
-      "updated": "2026-06-15T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.17131v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.17131v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The mini-cavity is a low-density region observed in the complex of streams of ionized gas around the Galactic central supermassive black hole, Sgr A$^\\star$, known as the mini-spiral. Its near-circular shape is suggestive of a formation due to the effect of stellar winds. No suitable stars are currently observed within the mini-cavity, however. In this study we assessed whether the mini-cavity could have been formed by the winds of the stars from the neighbouring IRS 13 cluster that were located at the position of the mini-cavity in the past but moved away from it later on owing to their orbital motions around Sgr A$^\\star$. Furthermore, we estimated the rate of accretion of the then-abundant interstellar medium onto the putative intermediate-mass black hole that has been proposed to reside in the IRS 13 cluster and the corresponding X-ray luminosity of this black hole. The estimates were obtained analytically using the astrophysical properties reported for the involved objects and the environment. Based on our results, we suggest that the mini-cavity was formed by the winds of the IRS 13 cluster member stars about 300 years ago, when this cluster went through the Bar region of the mini-spiral. The accompanying accretion of the interstellar medium onto the putative intermediate-mass black hole in this cluster may have produced multiple X-ray flares with luminosities of $\\approx10^{39}$ erg/s. Such flares are compatible with the X-ray reflections currently observed on the molecular clouds in the complexes Sgr A, B, and C, including the necessary light-travel time delay.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-15T18:00:00Z",
-      "arxiv:comment": "To be published in Astronomy & Astrophysics; 5 pages, 2 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jaroslav Haas"
-        },
-        {
-          "name": "Pavel Kroupa"
-        },
-        {
-          "name": "Florian Peißker"
-        },
-        {
-          "name": "Mark R. Morris"
-        }
-      ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2606.16853v1",
-      "title": "Optically Invisible Galaxies at Cosmic Noon and beyond with JWST/UNCOVER",
-      "updated": "2026-06-15T15:26:53Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2606.16853v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2606.16853v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The traditional selection bias in high-redshift galaxy surveys toward rest-frame ultraviolet emission has constrained our understanding of the high-redshift universe by systematically excluding optically faint (observer-frame) galaxies. Utilising JWST UNCOVER and MegaScience data of the Abell 2744 cluster field, we identify 113 high-redshift ($z > 2$) and 94 low-redshift ($z < 2$) HST-dark galaxies using a red $1.50-3.56 \\ μ$m color criterion. Their physical properties were derived using multiwavelength photometry from 20 JWST/NIRCam and 7 HST filters. Unlike classical submillimeter and \\textit{Spitzer}-selected HST-dark galaxies that primarily identify the most massive, dusty, highly star-forming galaxies, our study uncovers a moderately dusty population across a significantly broader range of stellar mass and star-formation rate. Leveraging gravitational magnification and ultra-deep JWST imaging, we found HST-dark galaxies with a stellar mass as low as $10^{7.5}$ at $z>2$. These galaxies have smaller sizes and follow the star-forming main sequence. Our analysis reveals a prominent peak in the Star Formation Rate Density at $z \\approx 4.5$ ($9.89^{+6.93}_{-4.34} \\times 10^{-3} \\, M_{\\odot} \\, \\text{yr}^{-1} \\, \\text{Mpc}^{-3}$). We also characterise a sub-population at $z < 2$ of Highly Extincted Low-Mass analogues with extremely low stellar masses (median $\\log M_{\\star}/M_{\\odot} \\approx 7.10$) and high dust extinction (median $A_V \\approx 1.97$ mag). Our sample demonstrates the unique power of JWST to reveal this previously missing galaxy population and to provide a more complete census of galaxies in the high-z universe.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-06-15T15:26:53Z",
-      "arxiv:comment": "21 pages, 12 figures, 8 tables. Submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Pralay Biswas"
-        },
-        {
-          "name": "Rashi Jain"
-        },
-        {
-          "name": "Yogesh Wadadekar"
-        }
-      ],
-      "score": 25.0
     }
   ]
 }
