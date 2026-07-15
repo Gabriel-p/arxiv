@@ -1,6 +1,43 @@
 {
-  "fetched_at": "2026-07-14T13:51:32.254021",
+  "fetched_at": "2026-07-15T13:49:24.948757",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.12465v1",
+      "title": "Accretion-disk formation around orbiting stellar black holes in gaseous star clusters",
+      "updated": "2026-07-14T07:50:23Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.12465v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.12465v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We consider low-mass black holes (BHs) moving in regular orbits in the cores of non-rotating gaseous star clusters, representative of proto-stellar clusters or the centers of protogalaxies. We argue that as the BH's sphere of influence -- the Bondi sphere -- is advected along the BH trajectory, the transverse velocity shear between the inner and outer hemispheres injects angular momentum, driving the formation of an accretion disk. Coriolis forces oppose angular momentum injection, delaying disk formation but not preventing it. The disk lies in the BH orbital plane and is counter-rotating with respect to the orbital BH motion. We verify this picture with 2D and 3D hydrodynamic simulations in the non-inertial frame of the orbiting BH. We find that the disk-formation timescale following a disruption event is of order the Bondi crossing timescale, $τ_{\\rm d} \\sim R_{\\rm B}/V_{\\bullet}$, and that the disk radius is of order $R_{\\rm d} \\sim ω_{\\bullet}^2 R_{\\rm B}^4/ G m_{\\bullet} $, set by the circularization radius of gas captured in the Bondi sphere. For the case of a BH with $m_{\\bullet} = 50\\,{\\rm M}_\\odot$, inside the core of a typical compact proto-stellar cluster, these values read $τ_{\\rm d} \\sim 0.1 P_{\\rm orbit}$ and $R_{\\rm d} \\sim 10^{-3} R_{\\rm B}$.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-14T07:50:23Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Zacharias Roupas"
+      },
+      "score": 2.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
       "title": "The white dwarf population of open clusters and their tidal tails. Tracers of contamination and stellar interactions",
@@ -54,53 +91,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 13.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.10766v1",
-      "title": "Young star clusters in the extended UV disk of M83",
-      "updated": "2026-07-12T13:45:31Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.10766v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.10766v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The process of star formation in a low-metallicity environment and whether it differs from star formation in the solar neighbourhood is an open topic. Recently, CO clumps were identified within the extended ultraviolet (XUV) disk of M83 despite the low metallicity and distance from the galaxy center which allows a search for any recent star formation in the clumps. We aim to probe whether active star formation is occurring within the CO clumps in the XUV disk, and to assess its implications for star formation in such environments. We analyse deep Subaru Suprime-Cam Halpha, Hyper Suprime-Cam g, r, & i, and Gemini/FLAMINGOS 2 J and Ks band imaging to search for evidence of star formation within the ALMA-identified CO clumps. We identify sources within the CO clump contours, and we evaluate the probability that these sources are associated with the CO clumps rather than being chance alignments. Based on their magnitudes and adopting single-age stellar population models, we estimate their masses. Four of the clumps have an associated near-infrared counterpart. Based on their magnitude, color, and the general source density in the field, two of these could be chance alignments. One counterpart is associated with the most massive clump in the sample, while another is an unresolved cluster near-infrared source with an estimated age of 5 Myr and a mass of 2000 Msun. The other, an extended complex, is consistent with an age of 6Myr and a mass of 700Msun. The near-infrared photometry is sensitive to young clusters with masses down to a few hundred of Msun for a fully sampled IMF. Star formation is ongoing in a few of the CO clumps, and despite their location on the outskirts of M83, favourable conditions for star formation persist in at least a few clusters. One of the detected sources appears to be interacting with an adjacent molecular clump, which could trigger further star formation.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-12T13:45:31Z",
-      "arxiv:comment": "Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "M. Andersen"
-        },
-        {
-          "name": "A. Zavagno"
-        },
-        {
-          "name": "J. Koda"
-        },
-        {
-          "name": "S. Boissier"
-        },
-        {
-          "name": "F. Combes"
-        }
-      ],
-      "score": 3.0
+      "score": 12.8
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -167,7 +158,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 7.6
+      "score": 7.1
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -204,7 +195,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -262,7 +253,7 @@
           "name": "Li Chen"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -331,7 +322,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -383,7 +374,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -496,7 +487,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     }
   ]
 }
