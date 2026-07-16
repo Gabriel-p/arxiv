@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T02:50:35.835862",
+  "fetched_at": "2026-07-16T14:00:47.900333",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.14066v1",
@@ -130,7 +130,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 12.8
+      "score": 12.3
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v1",
@@ -192,7 +192,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13152v1",
@@ -272,7 +272,7 @@
       "author": {
         "name": "Zacharias Roupas"
       },
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -327,7 +327,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 12.8
+      "score": 12.3
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -394,7 +394,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 7.1
+      "score": 6.6
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -431,7 +431,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -489,7 +489,7 @@
           "name": "Li Chen"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -723,7 +723,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     }
   ]
 }
