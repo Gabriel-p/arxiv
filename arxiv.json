@@ -1,6 +1,520 @@
 {
-  "fetched_at": "2026-07-16T14:00:47.900333",
+  "fetched_at": "2026-07-17T13:45:37.001807",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.15149v1",
+      "title": "Cluster characteristics of Galactic open clusters",
+      "updated": "2026-07-16T15:51:07Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.15149v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.15149v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Star clusters are perfectly suited for studying the formation, evolution, and dynamics of stars and their host galaxies. For this, we need to estimate total masses, radii and shapes of star clusters. These parameters strongly influence their fates in the host galaxies. However, there is no agreement about these characteristics in the literature. The published values widely disagree. We estimated total masses and cluster radii using a very conservative approach: calculating member masses and summing them. Furthermore, we investigated the three-dimensional characteristics of open clusters and their limitations. We used a commonly used grid of evolutionary tracks for different photometric sources, including 2MASS, Gaia, and Pan-STARRS. The interpolation method was tested using synthetic clusters built with ASteCA. To estimate three-dimensional shapes, we used the distribution of the well-known Galactic coordinates and inverse parallaxes. We estimated the total masses and radii of about 7000 open clusters and observed traces of tidal tails. Individual values can be used in future $Gaia$ data releases to obtain even more precise values. The current DR3 allows the study of only three-dimensional shapes up to 500 pc. Beyond this distance, we find a significant needle-like shape due to uncertainties in observed parallaxes.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-16T15:51:07Z",
+      "arxiv:comment": "11 pages, 17 figures, submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "K. Neumannová"
+        },
+        {
+          "name": "J. Supíková"
+        },
+        {
+          "name": "N. Faltová"
+        },
+        {
+          "name": "P. Mondal"
+        },
+        {
+          "name": "E. Paunzen"
+        },
+        {
+          "name": "T. Ramezani"
+        },
+        {
+          "name": "G. Szász"
+        }
+      ],
+      "score": 62.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.15131v1",
+      "title": "Berkeley 32: A Metal-poor and Dynamically Evolved Open Cluster with Evidence of Radial Migration",
+      "updated": "2026-07-16T15:41:20Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.15131v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.15131v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a comprehensive chemo-dynamical analysis of the old, metal-poor open cluster Berkeley 32 based on Gaia DR3 astrometry and Gaia-ESO Survey DR5.1 spectroscopy. Cluster membership is determined using a Gaussian Mixture Model applied to proper-motion components and trigonometric parallaxes. Isochrone fitting yields an age of 4.9 +/- 0.5 Gyr, a heliocentric distance of 3325 pc, and an extinction of A_V = 0.38 +/- 0.12 mag. Spectroscopic member stars exhibit a mean metallicity of [Fe/H] = -0.39 +/- 0.02 dex, near-solar alpha-element abundances, and a weighted mean radial velocity of V_rad = 106.26 +/- 0.03 km s^-1. The [Y/Mg] chemical clock yields an age of 4.73 +/- 2.39 Gyr, consistent with the isochrone estimate. Orbital integration indicates a moderately eccentric orbit (e = 0.268 +/- 0.004) with a guiding radius of R_g = 8.82 kpc. The inferred chemical birth radius, R_b = 9.82 kpc, together with DeltaR ~ -1 kpc, suggests moderate inward radial migration, while the offsets among R_b, R_g, and R_GC are consistent with both churning and blurring processes. A photometric analysis identifies a binary fraction of f_b = 0.449 +/- 0.017 for systems with mass ratios q >= 0.5, implying a substantial unresolved binary population. Radial cumulative distribution functions further reveal significant mass segregation, with evolved stars more centrally concentrated than main-sequence stars. These results indicate that Berkeley 32 is a dynamically evolved old-disk cluster whose present-day structure and orbit preserve signatures of both internal dynamical evolution and radial migration within the Galactic disk.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-16T15:41:20Z",
+      "arxiv:comment": "27 pages, including 15 figures and 4 tables, accepted for publication in the The Astronomical Journal (AJ)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ing-Guey Jiang"
+        },
+        {
+          "name": "W. H. Elsanhoury"
+        },
+        {
+          "name": "K. Belwal"
+        },
+        {
+          "name": "Selçuk Bilir"
+        }
+      ],
+      "score": 10.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14987v1",
+      "title": "Stellar Multiplicity in Open Clusters: Investigating Binary Fractions and Their Relationship with Cluster Properties",
+      "updated": "2026-07-16T13:37:49Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.14987v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.14987v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/1538-4357/ae7de9",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Stellar multiplicity is key in dynamical evolution of open clusters (OCs) and processes of stellar formation and evolution. Since most stars form in multiple systems, investigating how environmental properties affect their occurrence is crucial. We aim to investigate how binary fraction and mass ratios change across different OC environments. Using a sample of 773 OCs, we identified binary systems and estimated binary fractions, obtaining values in the ranges 0.10-0.85 overall and 0.06-0.79 for high mass-ratio systems. No strong dependence on age or evolutionary stage is found, while an anticorrelation between metallicity and the binary fraction is identified. However, young and old clusters exhibit distinct mass-ratio distributions. We also find that the probability of a star being the primary component increases with stellar mass. In contrast, the probability of a star belonging to a binary system increases with mass for masses below 1 solar mass, and remains between 60% and 70% for high masses. Binary systems are preferentially located in the inner regions of clusters compared to single stars, and the mean mass ratio decreases with increasing distance from the cluster center. These results suggest that the binary fraction appears to be set at early times and remains largely unaffected by cluster dynamical evolution. The concentration of binaries in the inner regions of clusters likely reduces their susceptibility to dynamical escape.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-16T13:37:49Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "arxiv:journal_ref": "The Astrophysical Journal, Volume 1006, Article 92, 2026",
+      "author": [
+        {
+          "name": "Ruan P. Alves"
+        },
+        {
+          "name": "Hektor Monteiro"
+        },
+        {
+          "name": "Wilton S. Dias"
+        },
+        {
+          "name": "Gabriel R. Hickel"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae7de9",
+      "score": 8.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14633v1",
+      "title": "Runaway OB stars within 1 kpc of the Sun",
+      "updated": "2026-07-16T06:56:44Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.14633v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.14633v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Runaway stars are high-velocity stars ejected from their birth environments that can provide insights into the kinematic history of the stellar cluster they were ejected from. We derived runaway star probabilities for 40 O-type stars and $24,487$ B-type stars taken from a recently published volume-complete sample of OB stars within 1 kpc of the Sun. We fit a Galactic rotation model to the observed proper motions of these stars and identify runaway stars using both a fixed 2D peculiar velocity threshold of $23\\,km\\,s^{-1}$ and by comparing individual peculiar velocities to the dispersion of the whole sample. We find runaway fractions of $17.5^{+0.1}_{-2.5}\\%$ for O-type stars and $6.9\\pm0.1\\%$ for B-type stars; both using the fixed velocity threshold method. These values are consistent with previous studies, but with differences that are largely attributable to the underlying samples of OB stars used in various studies to identify runaway stars and to variations in the methods used to select them.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-16T06:56:44Z",
+      "arxiv:comment": "13 pages, 8 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Juan Martinez Garcia"
+        },
+        {
+          "name": "Nicholas Wright"
+        },
+        {
+          "name": "Alexis Quintana"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14355v1",
+      "title": "VENUS: an ultra-faint galaxy hosting the metal-poor type II supernova at $z=5.13$ Witnessing the initial metal enrichment with extremely frequent core-collapse supernovae?",
+      "updated": "2026-07-15T20:40:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.14355v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.14355v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the first characterization of the host galaxy of a recently discovered type IIP SN at $z=5.13$ (SN Eos). SN Eos and its host galaxy are gravitationally lensed and multiply imaged. The total magnification $μ\\sim53$ enables spatially resolving the system, allowing us to localize the core-collapse supernova (CCSN) position and to characterize its local environment within an early galaxy. Our observation reveals that the host is an ultra-faint ($M_{\\rm UV}=-14.4\\pm0.3$ mag) Lyman-$α$ emitter with a very high equivalent width. The host galaxy also shows very weak [O iii]4959,5007 lines despite an H$α$ line detection ([O iii]5007/H$β<0.7$ with case B recombination). Assuming that the weak [O iii] is due to low gas-phase metallicity given the low-metallicity of SN Eos itself, SN Eos plausibly marks the formation and explosion of a metal-poor star in an extremely metal-poor environment ($<1\\ \\%\\ Z_\\odot$), facilitating the initial stages of the chemical enrichment of the host. Finding the CCSN in such an ultra-faint galaxy at $z=5.13$ also indicates that the SN rate could be considerably higher in high-$z$, metal-poor environments, potentially implying e.g., a $Z$-dependent IMF, $Z$-dependent massive star explodability, or runaway stellar collisions in dense star clusters. Without lensing, only SN Eos would be detectable and the host would be below the detection limit in any NIRCam surveys ever performed. The Eos host galaxy can thus be representative of the origin of {\\it hostless} supernovae frequently found in JWST blank field surveys.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-15T20:40:46Z",
+      "arxiv:comment": "Submitted to ApJ. Comments are welcome!",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yoshihisa Asada"
+        },
+        {
+          "name": "Seiji Fujimoto"
+        },
+        {
+          "name": "Joseph F. V. Allingham"
+        },
+        {
+          "name": "David A. Coulter"
+        },
+        {
+          "name": "Conor Larison"
+        },
+        {
+          "name": "Matthew R. Siebert"
+        },
+        {
+          "name": "Gabriel Brammer"
+        },
+        {
+          "name": "Dan Coe"
+        },
+        {
+          "name": "Pratika Dayal"
+        },
+        {
+          "name": "Qinyue Fei"
+        },
+        {
+          "name": "Lukas J. Furtak"
+        },
+        {
+          "name": "Vasily Kokorev"
+        },
+        {
+          "name": "Keiichi Maeda"
+        },
+        {
+          "name": "Richard Pan"
+        },
+        {
+          "name": "Johan Richard"
+        },
+        {
+          "name": "Fengwu Sun"
+        },
+        {
+          "name": "Abdurro'uf"
+        },
+        {
+          "name": "Jacqueline Antwi-Danso"
+        },
+        {
+          "name": "Franz E. Bauer"
+        },
+        {
+          "name": "Marusa Bradac"
+        },
+        {
+          "name": "Larry D. Bradley"
+        },
+        {
+          "name": "Volker Bromm"
+        },
+        {
+          "name": "John Chisholm"
+        },
+        {
+          "name": "Christopher J. Conselice"
+        },
+        {
+          "name": "Christa DeCoursey"
+        },
+        {
+          "name": "Anderas L. Faisst"
+        },
+        {
+          "name": "Brenda Frye"
+        },
+        {
+          "name": "Mauro Gonzalez-Otero"
+        },
+        {
+          "name": "Yuichi Harikane"
+        },
+        {
+          "name": "Tiger Y. Y. Hsiao"
+        },
+        {
+          "name": "Kohei Inayoshi"
+        },
+        {
+          "name": "Yolanda Jimenez-Teja"
+        },
+        {
+          "name": "Anton M. Koekemoer"
+        },
+        {
+          "name": "Kotaro Kohno"
+        },
+        {
+          "name": "Paulo A. A. Lopes"
+        },
+        {
+          "name": "Ray A. Lucas"
+        },
+        {
+          "name": "Georgios E. Magdis"
+        },
+        {
+          "name": "Vladan Markov"
+        },
+        {
+          "name": "Nicholas Martis"
+        },
+        {
+          "name": "Jorryt Matthee"
+        },
+        {
+          "name": "Minami Nakane"
+        },
+        {
+          "name": "Rohan P. Naidu"
+        },
+        {
+          "name": "Gael Noirot"
+        },
+        {
+          "name": "Masami Ouchi"
+        },
+        {
+          "name": "Armin Rest"
+        },
+        {
+          "name": "Massimo Ricotti"
+        },
+        {
+          "name": "Louis-Gregory Strolger"
+        },
+        {
+          "name": "Raffaella Schneider"
+        },
+        {
+          "name": "Francesco Valentino"
+        },
+        {
+          "name": "Eros Vanzella"
+        },
+        {
+          "name": "Hayley Williams"
+        },
+        {
+          "name": "Rogier A. Windhorst"
+        },
+        {
+          "name": "Adi Zitrin"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14224v1",
+      "title": "Chemodynamical evidence of the HR 1614 moving group as a bar resonance",
+      "updated": "2026-07-15T18:00:29Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.14224v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.14224v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Moving groups (MGs) are ensembles of disk stars that clump in velocity and action space. A multitude of explanations as to their origin has been attempted, from dissolved star clusters to resonances with the Galactic bar, or other non-axisymmetric perturbations. The object of this work, the old HR 1614 group, has in the past already been shown to not be a disrupted cluster in terms of its broad age and metallicity distribution. Thus its stars have more likely been trapped by the Milky Way bar at corotation. Here, we present a new study that aims to chemically and dynamically characterize this group in the context of such a resonance. To this end, we used MIKE/Magellan high-resolution, high signal-to-noise spectra of six member stars of the HR 1614 MG to determine the chemical abundance ratios for 24 elements, several for the first time in those stars. The Fe-abundances of our sample range from +0.13 to +0.38 dex and the majority of abundance ratios is fully in line with those of metal-rich Milky Way disk stars, with few exceptions. In particular, the group's eponym, HR 1614, is enhanced in essentially all abundances and coincides with the higher-[X/Fe] trends of the Milky Way's thick disk. All elements (but S and Ca) show significant intrinsic abundance scatter that argue against this MG having formed in a contained environment such as a dissolved cluster. Isochrone ages, tailored to the measured metallicities support earlier findings of a broad age mix in this group, ranging from 1 Gyr to as old as 8 Gyr. We performed an orbital frequency analysis in a Galactic potential that includes a rotating bar. Indeed, our sample stars fall onto thin resonances on corotation. Hence, our results support the idea that the HR 1614 MG is a resonantly perturbed disk feature, mustering a melange of stars from different parent populations in the inner Galaxy.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-15T18:00:29Z",
+      "arxiv:comment": "19 pages, 14 figures (incl. appendices); acccepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Andreas J. Koch-Hansen"
+        },
+        {
+          "name": "Vladislav Gulaev"
+        },
+        {
+          "name": "Dominik H. Plonka"
+        },
+        {
+          "name": "Camilla Juul Hansen"
+        },
+        {
+          "name": "Andrew McWilliam"
+        },
+        {
+          "name": "Victor P. Debattista"
+        },
+        {
+          "name": "Zdenek Prudil"
+        }
+      ],
+      "score": 2.9
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14208v1",
+      "title": "The Open Cluster Chemical Abundances and Mapping Survey: IX. Measuring the Effects of Stellar Diffusion in the Open Clusters NGC 752 and Ruprecht 147 using APOGEE",
+      "updated": "2026-07-15T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.14208v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.14208v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A growing understanding of stellar processes that alter surface chemical abundances over time has opened new avenues for using these changes as probes of stellar properties. On the main sequence and near the turnoff, stellar surface abundances are affected by gravitational settling and radiative acceleration, collectively known as atomic diffusion. In this work, we use SDSS/APOGEE DR17/DR19 data to investigate atomic diffusion in the open clusters NGC~752 and Ruprecht~147, thereby constraining how these signatures vary with age. From the analysis of Fe, C, N, Na, Mg, Al, Si, S, K, Ca, Ti, V, Cr, Mn, Co, and Ni, we find significant abundance differences between stars near the turnoff and the cooler main-sequence, where warmer stars are depleted relative to the cooler main-sequence stars at the $\\geq1σ$ level for all elements available in the analysis. These abundance differences are consistent with the signatures expected from atomic diffusion and are further supported by comparisons with stellar models that include diffusion. By fitting the observed $T_{\\rm eff}$--[Fe/H] patterns with MIST isochrones, we obtain best-fit ages of 1.0~Gyr for NGC~752 and 2.5--3.2~Gyr for Ruprecht~147. Carbon is a key diagnostic, as it shows both atomic diffusion and extra-mixing signatures associated with first-dredge-up. For NGC~752, the coolest stars in our sample, which provide the best proxy for the initial cluster composition, yield [Fe/H]$_{\\rm CS} = 0.01~\\pm~0.02(\\pm~0.05)$ dex. For Ruprecht~147, we obtain [Fe/H]$_{\\rm CS} = 0.17~\\pm~0.00(\\pm~0.05)$ dex. Our findings further constrain atomic diffusion models, suggesting that atomic diffusion affects age estimates of stars near the main-sequence turnoff.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-15T18:00:00Z",
+      "arxiv:comment": "Accepted for publication in the ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Diogo Souto"
+        },
+        {
+          "name": "Taylor Spoo"
+        },
+        {
+          "name": "Peter M. Frinchaboy"
+        },
+        {
+          "name": "Katia Cunha"
+        },
+        {
+          "name": "Jamie Tayar"
+        },
+        {
+          "name": "Alessa Ibrahim Wiggins"
+        },
+        {
+          "name": "Natalie Myers"
+        }
+      ],
+      "score": 13.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.14066v1",
       "title": "The complex stellar system M 22: constraining the chemical enrichment from AGB stars using magnesium isotope ratios",
@@ -78,7 +592,7 @@
         "10.1093/mnras/stad2999",
         "10.1093/mnras/stad2999"
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v1",
@@ -130,7 +644,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 12.3
+      "score": 11.8
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v1",
@@ -192,50 +706,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.13152v1",
-      "title": "Dynamics in Nuclear Stellar Clusters: The Impact of Collisions and Disrupted Binaries",
-      "updated": "2026-07-14T18:03:32Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.13152v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.13152v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The nuclear stellar clusters surrounding supermassive black holes (SMBHs) host millions of stars and stellar remnants. We study how stellar collisions and binary disruptions, alongside two-body scattering and gravitational-wave (GW) emission, shape the stellar distribution and regulate the abundance of stars on tightly bound orbits. We show the following. (a) Stars in the inner region of the cluster follow a steady-state density profile scaling as $n(r)\\propto r^{-5/4}$, set by the balance between collisional depletion and binary replenishment. This profile is largely independent of whether two-body scattering or GW emission drives the orbital evolution prior to the collisions. (b) For SMBHs with $M\\lesssim2 \\times 10^7 M_\\odot$, roughly half of the stars injected by the Hills mechanism eventually collide. The rest are tidally disrupted while on orbits with periods of order months to years. (c) For more massive SMBHs, these short-orbital-period tidal disruption events are suppressed, and most injected stars are ultimately destroyed by collisions. (d) Stellar extreme-mass-ratio inspirals (sEMRIs) can form around SMBHs with $M\\gtrsim2\\times10^6 M_\\odot$, but are typically terminated by collisions before circularizing. Our model highlights the dynamical challenge stellar collisions pose for the formation of sEMRIs and, consequently, for stellar models of quasiperiodic eruptions. Applied to the Galactic Center, the collision-regulated density profile is consistent with the observed stellar distribution slope. Based on this profile, we estimate the stellar mass within the orbit of S2, finding it consistent with the observational upper limit, account for the recently discovered star S301, predict that most stars near Sgr$~{\\rm A}^*$ follow eccentric orbits, and determine their typical eccentricities.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-14T18:03:32Z",
-      "arxiv:comment": "16 pages, 5 figures. Accepted for publication in ApJL",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Barak Rom"
-        },
-        {
-          "name": "Re'em Sari"
-        }
-      ],
-      "score": 0.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2607.12465v1",
@@ -272,7 +743,7 @@
       "author": {
         "name": "Zacharias Roupas"
       },
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -327,7 +798,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 12.3
+      "score": 11.8
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -394,7 +865,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 6.6
+      "score": 6.1
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -431,7 +902,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.02923v1",
@@ -489,7 +960,7 @@
           "name": "Li Chen"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
@@ -558,7 +1029,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -610,7 +1081,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2606.27796v1",
@@ -723,7 +1194,7 @@
           "name": "Qijun Zhi"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     }
   ]
 }
