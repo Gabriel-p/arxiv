@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T03:15:16.184937",
+  "fetched_at": "2026-07-19T13:24:12.583657",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -323,7 +323,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 11.3
+      "score": 10.8
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v1",
@@ -385,7 +385,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2607.12465v1",
@@ -422,7 +422,7 @@
       "author": {
         "name": "Zacharias Roupas"
       },
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -477,7 +477,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 11.3
+      "score": 10.8
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -544,7 +544,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 5.6
+      "score": 5.1
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -581,65 +581,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.02923v1",
-      "title": "Revisiting the Radial Velocities of Nearby Open Clusters using Gaia DR3",
-      "updated": "2026-07-03T03:29:08Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.02923v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.02923v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters (OCs) are essential laboratories for probing stellar dynamics and tracing the structure and evolution of the Milky Way. Accurate measurements of their average radial velocities (RVs) and RV dispersions are crucial for estimating dynamical masses, orbital evolution, and overall kinematic states. Gaia Data Release 3 (DR3) provides an unprecedented volume of high-precision RVs. However, when applied to OCs, Gaia DR3 RVs often yield unusually large and overestimated RV dispersions. This inflation is primarily driven by RV measurement systematics for hot and faint stars, as well as unresolved binary contamination. To mitigate this, we revisit the average RVs and RV dispersions of OCs within 500 pc of the Sun using Gaia DR3. We evaluate the reliability of RV measurements and employ a color-based filtering method. By selecting member stars within an intrinsic color range of $0.2 \\le (BP-RP)_{0} \\le 1.2$ mag, we exclude hot and cool stars with less reliable RVs. This filtering significantly reduces the inferred RV dispersions while maintaining average RVs consistent with previous literature. Specifically, the median RV dispersion decreases by 26%, dropping from 3.76 km s$^{-1}$ prior to filtering to 2.79 km s$^{-1}$ afterward. These filtered RV dispersions remain systematically larger than tangential velocity dispersions, likely due to residual biases and undetected binaries. However, RV dispersions measured exclusively from red clump giants (found in 6 clusters) are remarkably small ($\\lesssim 1.6$ km s$^{-1}$) and align closely with tangential dispersions ($\\lesssim 1$ km s$^{-1}$). Ultimately, we provide a practical, Gaia-only strategy to derive more realistic RV dispersions for OCs, identifying red clump giants as exceptionally high-fidelity kinematic tracers for robust cluster studies.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-03T03:29:08Z",
-      "arxiv:comment": "12 pages, 7 figures, 2 tables. Accepted for publication in PASP",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Tong Tang"
-        },
-        {
-          "name": "Yu Zhang"
-        },
-        {
-          "name": "Jing Zhong"
-        },
-        {
-          "name": "Guimei Liu"
-        },
-        {
-          "name": "Songmei Qin"
-        },
-        {
-          "name": "Shusong Wang"
-        },
-        {
-          "name": "Li Chen"
-        }
-      ],
-      "score": 0.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
