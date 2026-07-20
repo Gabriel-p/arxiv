@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T03:29:53.560173",
+  "fetched_at": "2026-07-20T14:12:44.044661",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.15340v1",
@@ -237,7 +237,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14224v1",
@@ -399,7 +399,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 10.8
+      "score": 10.3
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v1",
@@ -461,44 +461,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.12465v1",
-      "title": "Accretion-disk formation around orbiting stellar black holes in gaseous star clusters",
-      "updated": "2026-07-14T07:50:23Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.12465v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.12465v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We consider low-mass black holes (BHs) moving in regular orbits in the cores of non-rotating gaseous star clusters, representative of proto-stellar clusters or the centers of protogalaxies. We argue that as the BH's sphere of influence -- the Bondi sphere -- is advected along the BH trajectory, the transverse velocity shear between the inner and outer hemispheres injects angular momentum, driving the formation of an accretion disk. Coriolis forces oppose angular momentum injection, delaying disk formation but not preventing it. The disk lies in the BH orbital plane and is counter-rotating with respect to the orbital BH motion. We verify this picture with 2D and 3D hydrodynamic simulations in the non-inertial frame of the orbiting BH. We find that the disk-formation timescale following a disruption event is of order the Bondi crossing timescale, $τ_{\\rm d} \\sim R_{\\rm B}/V_{\\bullet}$, and that the disk radius is of order $R_{\\rm d} \\sim ω_{\\bullet}^2 R_{\\rm B}^4/ G m_{\\bullet} $, set by the circularization radius of gas captured in the Bondi sphere. For the case of a BH with $m_{\\bullet} = 50\\,{\\rm M}_\\odot$, inside the core of a typical compact proto-stellar cluster, these values read $τ_{\\rm d} \\sim 0.1 P_{\\rm orbit}$ and $R_{\\rm d} \\sim 10^{-3} R_{\\rm B}$.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-14T07:50:23Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Zacharias Roupas"
-      },
-      "score": 0.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -553,7 +516,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 10.8
+      "score": 10.3
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -620,7 +583,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 5.1
+      "score": 4.6
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -657,7 +620,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
