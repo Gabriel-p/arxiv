@@ -1,6 +1,82 @@
 {
-  "fetched_at": "2026-07-19T13:24:12.583657",
+  "fetched_at": "2026-07-20T03:29:53.560173",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.15340v1",
+      "title": "How large can galaxies be? Ultra-deep imaging of IC 1101, the most extended known galaxy",
+      "updated": "2026-07-16T18:00:27Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.15340v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.15340v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The maximum physical extent that galaxies can reach is poorly understood. In this regard, IC 1101, one of the most extended and massive galaxies known, provides a valuable opportunity to constrain the upper limit of galaxy sizes at the present epoch. Previous deep imaging of the system confirmed its enormous extension, but did not indicate whether it has an edge. We explore this issue using the deepest images ever taken of this galaxy; ultra-deep g- and r- band imaging from the INT/WFC, reaching μ = 30 mag arcsec^-2 (3σ in an area equivalent to 10 x 10 arcsec^2). We model and subtract the scattered light from both stars and the galaxy itself using an extended PSF characterization and a hybrid wavelet-based deconvolution. Using a combination of surface brightness, colour, and stellar mass density profiles oriented at different position angles, we find that the main body of IC 1101 extends to Redge = 260 kpc along the semi-major axis (assuming the redshift of Abell 2029, z = 0.077), enclosing 3.4 x 10^12 M_sun in stars. This Redge is among the largest edge radii measured for any galaxy to date, placing IC 1101 at the extreme upper end of the mass-size relation. In addition, we report a large number of asymmetrical, very low surface brightness features around the galaxy that are spatially consistent with the large-scale disturbances observed in the intracluster medium through X-ray studies of the Abell 2029 cluster, in which IC 1101 is embedded. With a confirmed diameter of around 520 kpc, IC 1101 stands as the largest galaxy known to date; yet, its outskirts show clear signatures of ongoing mass assembly, indicating that its spatial extent is still growing.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-16T18:00:27Z",
+      "arxiv:comment": "20 pages, 15 figures. Accepted for publication in Astronomy and Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Carlos Marrero-de la Rosa"
+        },
+        {
+          "name": "Ignacio Trujillo"
+        },
+        {
+          "name": "Ignacio Ruiz Cejudo"
+        },
+        {
+          "name": "Mireia Montes"
+        },
+        {
+          "name": "Fernando Buitrago"
+        },
+        {
+          "name": "Giulia Golini"
+        },
+        {
+          "name": "Sergio Guerra Arencibia"
+        },
+        {
+          "name": "Andrés Asensio Ramos"
+        },
+        {
+          "name": "Raúl Infante-Sainz"
+        },
+        {
+          "name": "Adriana de Lorenzo-Cáceres"
+        },
+        {
+          "name": "Jairo Méndez-Abreu"
+        },
+        {
+          "name": "Samane Raji"
+        },
+        {
+          "name": "Javier Román"
+        },
+        {
+          "name": "Manuel Sánchez-Benavente"
+        },
+        {
+          "name": "Zahra Sharbaf"
+        }
+      ],
+      "score": 44.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
       "title": "Cluster characteristics of Galactic open clusters",
@@ -57,7 +133,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 61.0
+      "score": 60.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -106,7 +182,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -161,7 +237,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14224v1",
@@ -213,7 +289,7 @@
           "name": "Zdenek Prudil"
         }
       ],
-      "score": 1.9
+      "score": 1.4
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -271,7 +347,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 12.5
+      "score": 12.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v1",
@@ -650,7 +726,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -702,7 +778,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     }
   ]
 }
