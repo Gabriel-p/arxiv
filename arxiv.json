@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T02:56:01.721612",
+  "fetched_at": "2026-07-21T13:59:43.789270",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.18224v1",
@@ -112,49 +112,7 @@
       "author": {
         "name": "Zacharias Roupas"
       },
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.17776v1",
-      "title": "Structural and dynamical properties of Tidal dwarf galaxies in the tails and bridge of the Guitar galaxy Arp 105",
-      "updated": "2026-07-20T10:08:34Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.17776v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.17776v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1093/mnras/stag1373",
-          "@title": "doi"
-        }
-      ],
-      "summary": "We present a multi-wavelength (far-ultraviolet to infrared) analysis of two tidal dwarf galaxy (TDG) candidates and a tidal bridge in the interacting system Arp 105 at $z = 0.029$ in the Abell 1185 cluster. Far-ultraviolet observations obtained with the Ultraviolet Imaging Telescope onboard AstroSat reveal strong FUV emission from the tidal galaxies Arp~105N and Arp~105S, indicating recent star formation. In Arp~105N, strong nebular emission lines and large equivalent widths $EW(Hα)=77.6\\pm1.3$ $\\overset{\\circ}{\\mathrm {A}}$ and $EW(Hβ)=15.8\\pm1.7$ $\\overset{\\circ}{\\mathrm {A}}$ imply a dominant starburst age of $\\sim$6 - 10~Myr under an instantaneous-burst assumption, while the FUV emission suggests star formation sustained over the past $\\sim100 - 200$~Myr. The relatively high metallicity, $\\sim2/3,Z_\\odot$ (based on the strong-line method), is consistent with expectations for a tidal dwarf galaxy formed from material inherited from the host galaxy. Together, these results suggest that Arp~105N hosts a composite stellar population, consisting of older stars stripped from the host galaxy and younger stars formed in situ. Spectral energy distribution modeling yields stellar masses of $5.75\\times10^{9}$, $0.8\\times10^{9}$, and $6.8\\times10^{9},\\rm M_\\odot$ for Arp~105N, Arp~105S, and the tidal bridge, respectively. Based on the dynamical mass estimate from VLA HI measurements for Arp~105N and based on CFHT H$α$ kinematics for A105S, they have a dynamical-to-baryonic mass ratio of $\\sim1.95$ and $\\sim1.30$, respectively, indicating a deficiency of dark matter. Further observations, particularly integral field spectroscopy and high-resolution 21~cm observations, may provide better constraints into the kinematics and improve understanding of TDG formation.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-20T10:08:34Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jyoti Prakash"
-        },
-        {
-          "name": "Kanak Saha"
-        }
-      ],
-      "arxiv:doi": "10.1093/mnras/stag1373",
-      "score": 44.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.17300v1",
@@ -252,7 +210,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 10.4
+      "score": 9.9
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -414,7 +372,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14224v1",
@@ -573,7 +531,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v2",
@@ -632,7 +590,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -687,7 +645,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -754,7 +712,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 4.6
+      "score": 4.1
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -791,7 +749,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2607.00291v1",
