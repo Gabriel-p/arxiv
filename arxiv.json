@@ -1,81 +1,258 @@
 {
-  "fetched_at": "2026-07-20T14:12:44.044661",
+  "fetched_at": "2026-07-21T02:56:01.721612",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2607.15340v1",
-      "title": "How large can galaxies be? Ultra-deep imaging of IC 1101, the most extended known galaxy",
-      "updated": "2026-07-16T18:00:27Z",
+      "id": "http://arxiv.org/abs/2607.18224v1",
+      "title": "Discovery of an Unbound Flyby Companion of UBC 63: In the Immediate Aftermath of a Close Encounter",
+      "updated": "2026-07-20T17:57:14Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2607.15340v1",
+          "@href": "https://arxiv.org/abs/2607.18224v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2607.15340v1",
+          "@href": "https://arxiv.org/pdf/2607.18224v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/1538-3881/ae8c38",
+          "@title": "doi"
         }
       ],
-      "summary": "The maximum physical extent that galaxies can reach is poorly understood. In this regard, IC 1101, one of the most extended and massive galaxies known, provides a valuable opportunity to constrain the upper limit of galaxy sizes at the present epoch. Previous deep imaging of the system confirmed its enormous extension, but did not indicate whether it has an edge. We explore this issue using the deepest images ever taken of this galaxy; ultra-deep g- and r- band imaging from the INT/WFC, reaching μ = 30 mag arcsec^-2 (3σ in an area equivalent to 10 x 10 arcsec^2). We model and subtract the scattered light from both stars and the galaxy itself using an extended PSF characterization and a hybrid wavelet-based deconvolution. Using a combination of surface brightness, colour, and stellar mass density profiles oriented at different position angles, we find that the main body of IC 1101 extends to Redge = 260 kpc along the semi-major axis (assuming the redshift of Abell 2029, z = 0.077), enclosing 3.4 x 10^12 M_sun in stars. This Redge is among the largest edge radii measured for any galaxy to date, placing IC 1101 at the extreme upper end of the mass-size relation. In addition, we report a large number of asymmetrical, very low surface brightness features around the galaxy that are spatially consistent with the large-scale disturbances observed in the intracluster medium through X-ray studies of the Abell 2029 cluster, in which IC 1101 is embedded. With a confirmed diameter of around 520 kpc, IC 1101 stands as the largest galaxy known to date; yet, its outskirts show clear signatures of ongoing mass assembly, indicating that its spatial extent is still growing.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-16T18:00:27Z",
-      "arxiv:comment": "20 pages, 15 figures. Accepted for publication in Astronomy and Astrophysics",
+      "summary": "We re-investigate the open cluster UBC 63 using the Gaia DR3 data and show that, rather than being a single cluster as previously classified, it is a compelling candidate for a double cluster undergoing an unbound flyby interaction. A GMM decomposition performed in the 5D astrometric space reveals the two statistically distinct components, namely UBC 63A (98 members, Age = 21 $\\pm$ 4 Myr) and UBC 63B (148 members, Age = 562 $\\pm$ 43 Myr). A significant age difference of $Δ\\mathrm{Age} = 541 \\pm 43$ Myr between the clusters, rules out coeval formation. Their 3D separation of $60 \\pm 29$ pc at the birth-epoch of the younger cluster, indicates that the clusters might have originated from the same molecular cloud complex. At present, the system exhibits a 3D separation of $26 \\pm 8$ pc, with a relative velocity of $3.60 \\pm 1.80$ km s$^{-1}$. Orbital integrations and \\textit{N}-body simulations of the pair suggest that the systems had a close encounter, reaching a separation of $7 \\pm 2$ pc only $\\sim$~6 Myr ago and predict a rapid divergence to a separation of $491 \\pm 213$ pc within the next $\\sim$100 Myr. The low escape velocity ($V_{\\rm esc} = 0.51 \\pm 0.12$ km s$^{-1}$) of the system compared to the relative 3D velocity indicates that they are gravitationally unbound. Their low tidal factors, elongated structures and populations extending beyond the Jacobi radii may reflect a strong transient tidal interaction between the clusters.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-20T17:57:14Z",
+      "arxiv:comment": "10 pages, 11 figures, 2 tables; Accepted for publication in The Astronomical Journal",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Carlos Marrero-de la Rosa"
+          "name": "Samrat Biswas"
         },
         {
-          "name": "Ignacio Trujillo"
+          "name": "Biman J Medhi"
         },
         {
-          "name": "Ignacio Ruiz Cejudo"
+          "name": "Sergio Messina"
         },
         {
-          "name": "Mireia Montes"
+          "name": "Zhanpeng Zhu"
         },
         {
-          "name": "Fernando Buitrago"
+          "name": "Songmei Qin"
         },
         {
-          "name": "Giulia Golini"
+          "name": "Sukanta Deb"
         },
         {
-          "name": "Sergio Guerra Arencibia"
+          "name": "A. H. Sheikh"
         },
         {
-          "name": "Andrés Asensio Ramos"
+          "name": "H. S Das"
         },
         {
-          "name": "Raúl Infante-Sainz"
+          "name": "Motohide Tamura"
         },
         {
-          "name": "Adriana de Lorenzo-Cáceres"
+          "name": "Maheshwar Gopinathan"
         },
         {
-          "name": "Jairo Méndez-Abreu"
-        },
-        {
-          "name": "Samane Raji"
-        },
-        {
-          "name": "Javier Román"
-        },
-        {
-          "name": "Manuel Sánchez-Benavente"
-        },
-        {
-          "name": "Zahra Sharbaf"
+          "name": "Ram sagar"
         }
       ],
-      "score": 44.5
+      "arxiv:doi": "10.3847/1538-3881/ae8c38",
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.17869v1",
+      "title": "Black hole spin-mass correlation and vector resonant relaxation in gaseous star clusters: the origin of GW231123?",
+      "updated": "2026-07-20T12:14:20Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.17869v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.17869v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "During the formation of a star cluster a spin-mass correlation of stellar black holes is generated as they grow via accretion of the residual gas. Moreover, the black hole spin tends to be anti-aligned with its orbital angular momentum in the cluster. We show that GW231123, reported by the LIGO-Virgo-KAGRA (LVK) collaboration, lies on our predicted high-mass, high-spin plateau of the spin-mass correlation with positive Bayesian evidence over the LVK prior. Furthermore, vector resonant relaxation (VRR) equilibrium is favored over the isotropic LVK prior in reproducing the distribution of the relative spin tilt. The joint Bayes factor suggests strong evidence for the favored cluster models. GW231123 is thus consistent with our proposed channel that generates correlated black hole masses and spins, and drives the spins' orientations.",
+      "category": [
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-20T12:14:20Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.HE"
+      },
+      "author": {
+        "name": "Zacharias Roupas"
+      },
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.17776v1",
+      "title": "Structural and dynamical properties of Tidal dwarf galaxies in the tails and bridge of the Guitar galaxy Arp 105",
+      "updated": "2026-07-20T10:08:34Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.17776v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.17776v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1093/mnras/stag1373",
+          "@title": "doi"
+        }
+      ],
+      "summary": "We present a multi-wavelength (far-ultraviolet to infrared) analysis of two tidal dwarf galaxy (TDG) candidates and a tidal bridge in the interacting system Arp 105 at $z = 0.029$ in the Abell 1185 cluster. Far-ultraviolet observations obtained with the Ultraviolet Imaging Telescope onboard AstroSat reveal strong FUV emission from the tidal galaxies Arp~105N and Arp~105S, indicating recent star formation. In Arp~105N, strong nebular emission lines and large equivalent widths $EW(Hα)=77.6\\pm1.3$ $\\overset{\\circ}{\\mathrm {A}}$ and $EW(Hβ)=15.8\\pm1.7$ $\\overset{\\circ}{\\mathrm {A}}$ imply a dominant starburst age of $\\sim$6 - 10~Myr under an instantaneous-burst assumption, while the FUV emission suggests star formation sustained over the past $\\sim100 - 200$~Myr. The relatively high metallicity, $\\sim2/3,Z_\\odot$ (based on the strong-line method), is consistent with expectations for a tidal dwarf galaxy formed from material inherited from the host galaxy. Together, these results suggest that Arp~105N hosts a composite stellar population, consisting of older stars stripped from the host galaxy and younger stars formed in situ. Spectral energy distribution modeling yields stellar masses of $5.75\\times10^{9}$, $0.8\\times10^{9}$, and $6.8\\times10^{9},\\rm M_\\odot$ for Arp~105N, Arp~105S, and the tidal bridge, respectively. Based on the dynamical mass estimate from VLA HI measurements for Arp~105N and based on CFHT H$α$ kinematics for A105S, they have a dynamical-to-baryonic mass ratio of $\\sim1.95$ and $\\sim1.30$, respectively, indicating a deficiency of dark matter. Further observations, particularly integral field spectroscopy and high-resolution 21~cm observations, may provide better constraints into the kinematics and improve understanding of TDG formation.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-20T10:08:34Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jyoti Prakash"
+        },
+        {
+          "name": "Kanak Saha"
+        }
+      ],
+      "arxiv:doi": "10.1093/mnras/stag1373",
+      "score": 44.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.17300v1",
+      "title": "The initial conditions and initial mass functions of Alpha Persei, Pleiades and Praesepe",
+      "updated": "2026-07-19T15:34:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.17300v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.17300v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We have determined the initial mass function (IMF) and structural properties of the open clusters Alpha Persei, Pleiades and Praesepe using Gaia DR3 astrometry and photometry. Cluster members were identified using primarily Gaia astrometry, supplemented with near-infrared UKIDSS and optical HIPPARCOS survey data with stellar masses down to $0.10-0.17$ MSun. We measure and correct for unresolved binaries in each cluster using photometry and Monte Carlo simulations in a Bayesian framework, finding present-day fractions between ($20.0\\pm0.8$)% and ($23.8\\pm1.2$)%. Through a novel approach that combines N-body simulations with machine learning emulators and MCMC algorithms, we have also determined the most probable initial number of stars, binary fraction, half-mass radius and mass function under the assumption that early gas removal does not significantly influence the subsequent cluster evolution. We find a best-fitting initial mass function described by a three-stage broken power-law distribution with break masses in the ranges $0.24-0.50$ MSun and $0.91-1.20$ MSun and average slopes of $α_{\\rm med}=1.72\\pm0.09$ and $α_{\\rm high}=2.98\\pm0.22$. While the low-mass slope remains sensitive to the adopted mass-luminosity relation, this IMF reproduces the present-day clusters well once their dynamical evolution is taken into account. We find evidence of scatter in the high mass IMF between the individual clusters, as described by the measured dispersions in mass function slopes of $σ_{\\rm high}=0.29\\pm0.16$, whereas the intermediate mass slope shows no significant variation with $σ_{\\rm med}=0.00\\pm0.14$. Our findings provide additional evidence for a (compared to a Salpeter MF) top-light IMF and a cluster-to-cluster variation of the IMF. They therefore provide constraints on the universality of the IMF and its dependence on environmental conditions.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-19T15:34:06Z",
+      "arxiv:comment": "Accepted for publication in PASA. 27 pages, 17 figures, 7 tables",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "L. Hobart"
+        },
+        {
+          "name": "H. Baumgardt"
+        },
+        {
+          "name": "S. Sweet"
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.16815v1",
+      "title": "Escaped White Dwarf Candidates from Open Clusters",
+      "updated": "2026-07-18T13:16:17Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.16815v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.16815v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Observations reveal a pronounced deficit of white dwarfs (WDs) in open clusters (OCs) relative to theoretical expectations, suggesting that a significant fraction of WDs may have escaped from their parent clusters after formation. In this work, we perform a systematic search for escaped WD candidates from OCs by back-tracing the motions of WDs and star clusters from Gaia DR3 catalogs. We identify 476 candidate WDs with kinematics consistent with having escaped from one of 175 OCs. A control-field Monte Carlo (MC) test yields a contamination rate of 87.6% +/- 4.3%. Given this high contamination rate, we filter the candidates by ensuring each WD's total age is consistent with its host cluster age, thereby establishing a more reliable follow-up sample of 109 stars. The excluded candidates with anomalous ages are more likely field interlopers or products of accelerated binary evolution. Among these, the low-mass regime exhibits a clear excess over expected field binary merger rates, whereas the high-mass regime remains broadly consistent with binary population synthesis predictions. Finally, comparing escaped WDs with cluster properties, absolute escape counts appear limited by Gaia's distance-dependent incompleteness. The normalized escape fraction shows little dependence on cluster age, possibly favouring WD loss near formation over gradual evaporation, but is strongly anticorrelated with cluster mass, plausibly because deeper potential wells of massive clusters retain more of their WDs.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-18T13:16:17Z",
+      "arxiv:comment": "Accepted by ApJS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Huahui Yan"
+        },
+        {
+          "name": "David R. Miller"
+        },
+        {
+          "name": "Jingkun Zhao"
+        },
+        {
+          "name": "Jincheng Guo"
+        },
+        {
+          "name": "Chengyuan Li"
+        }
+      ],
+      "score": 10.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -133,7 +310,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 60.5
+      "score": 60.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -182,7 +359,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -289,7 +466,7 @@
           "name": "Zdenek Prudil"
         }
       ],
-      "score": 1.4
+      "score": 0.9
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -347,20 +524,20 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 12.0
+      "score": 11.5
     },
     {
-      "id": "http://arxiv.org/abs/2607.13747v1",
+      "id": "http://arxiv.org/abs/2607.13747v2",
       "title": "On the current status of tidal tails of Galactic open clusters",
-      "updated": "2026-07-15T12:03:41Z",
+      "updated": "2026-07-19T21:02:58Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2607.13747v1",
+          "@href": "https://arxiv.org/abs/2607.13747v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2607.13747v1",
+          "@href": "https://arxiv.org/pdf/2607.13747v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -381,9 +558,6 @@
           "name": "Tahereh Ramezani"
         },
         {
-          "name": "Nikola Faltova"
-        },
-        {
           "name": "Prapti Mondal"
         },
         {
@@ -402,17 +576,17 @@
       "score": 10.3
     },
     {
-      "id": "http://arxiv.org/abs/2607.13711v1",
+      "id": "http://arxiv.org/abs/2607.13711v2",
       "title": "The different methods to calculate cluster membership probabilities",
-      "updated": "2026-07-15T11:26:18Z",
+      "updated": "2026-07-19T21:00:05Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2607.13711v1",
+          "@href": "https://arxiv.org/abs/2607.13711v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2607.13711v1",
+          "@href": "https://arxiv.org/pdf/2607.13711v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -441,9 +615,6 @@
       "author": [
         {
           "name": "Tahereh Ramezani"
-        },
-        {
-          "name": "Nikola Faltova"
         },
         {
           "name": "Prapti Mondal"
@@ -689,7 +860,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -741,7 +912,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     }
   ]
 }
