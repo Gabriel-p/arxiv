@@ -1,6 +1,91 @@
 {
-  "fetched_at": "2026-07-21T13:59:43.789270",
+  "fetched_at": "2026-07-22T02:53:51.757024",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.18707v1",
+      "title": "Estimating stellar metallicities from Gaia DR3 XP data using LAMOST DR10",
+      "updated": "2026-07-21T05:03:29Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.18707v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.18707v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Gaia DR3 provides astrophysical parameters for hundreds of millions of stars, but the metallicities [M/H] from its GSP-Phot module suffer from systematic biases. We estimate stellar metallicities from Gaia DR3 data using the homogeneous spectroscopic iron abundances [Fe/H] of LAMOST DR10 as training labels. We cross-matched LAMOST DR10 with Gaia DR3 and trained a gradient-boosted decision-tree regressor (XGBoost) on 1.20 million AFGK stars using only Gaia-derived inputs and proxies. We validated the estimates on held-out LAMOST stars, GALAH DR4, APOGEE DR17, and 46 open clusters, and applied the model to measure the radial metallicity gradient of the Milky Way disk. On the held-out test set, the model achieves a mean absolute error of 0.052 dex and $R^2=0.94$ with negligible bias, compared with 0.242 dex for GSP-Phot on the same stars. The estimates transfer well to external surveys, with mean absolute errors of 0.066 dex for GALAH and 0.068 dex for APOGEE. For open clusters, the median difference between our estimated [Fe/H] and spectroscopic values is 0.041 dex, smaller than both GSP-Phot (0.248 dex) and a previous APOGEE-trained XGBoost model (0.067 dex). Applied to the Galactic disk, our model recovers a broken thin-disk radial gradient, with inner and outer slopes of $+0.119$ and $-0.058\\,\\mathrm{dex\\,kpc^{-1}}$, respectively, and a break near 5.9 kpc, as well as an open-cluster gradient of $-0.066\\,\\mathrm{dex\\,kpc^{-1}}$; both agree with previous high-resolution spectroscopic studies. Our [Fe/H] estimates are accurate to 0.05-0.07 dex for AFGK stars with $[\\mathrm{Fe/H}]\\gtrsim-2.5$; below this limit, the predictions should be treated as lower bounds. The catalogue and trained model are publicly available on Zenodo and are suitable for chemical studies of the Milky Way.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-21T05:03:29Z",
+      "arxiv:comment": "12 pages, 16 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Divyansh Srivastava"
+        },
+        {
+          "name": "Andrzej Niedzielski"
+        },
+        {
+          "name": "Rodolfo Smiljanic"
+        }
+      ],
+      "score": 9.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.18681v1",
+      "title": "Examining the stellar-merger origin of the blue main sequence in the open cluster NGC\\,3532 with N-body simulations",
+      "updated": "2026-07-21T03:57:22Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.18681v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.18681v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Extended main-sequence turnoffs, extended main sequences, and split main sequences observed in the colour-magnitude diagrams of young and intermediate-age star clusters are now widely interpreted as the consequence of a distribution of stellar rotation rates among their intermediate-mass (1.5-1.8~M$_\\odot$) members. However, the origin of the slowly rotating population that occupies the blue main sequence (bMS) remains uncertain, and stellar mergers have been proposed as one possible pathway. We investigate whether stellar mergers can account for the observed bMS population in the 330-Myr Galactic open cluster NGC 3532. We perform fourteen direct NBODY7 simulations spanning different initial cluster masses, radii, binary fractions, and binary orbital distributions. The simulations are selected to reproduce the present-day properties of NGC 3532 within the observational uncertainties, allowing us to estimate the expected number of merger products among its intermediate-mass main-sequence (MS) members. The cluster hosts $\\approx 37\\%$ bMS members among its intermediate-mass MS population, which are predominantly slow rotators. Despite this large bMS population, our simulations produce only a handful of MS-MS merger products, due to the cluster's low density and substantial mass loss during its evolution. Stellar mergers are unlikely to be the dominant formation channel for the observed slowly rotating bMS population in NGC 3532 and other disperse open clusters. Our results instead favour angular-momentum loss mechanisms operating before or shortly after the zero-age main sequence, such as pre-main-sequence star-disk interactions or tidal synchronization in low-mass ratio binaries.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-21T03:57:22Z",
+      "arxiv:comment": "Submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Khushboo K. Rao",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, 300 Zhongda Road, Zhongli 32001 Taoyuan, Taiwan"
+        },
+        {
+          "name": "Sambaran Banerjee",
+          "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
+        }
+      ],
+      "score": 11.0
+    },
     {
       "id": "http://arxiv.org/abs/2607.18224v1",
       "title": "Discovery of an Unbound Flyby Companion of UBC 63: In the Immediate Aftermath of a Close Encounter",
@@ -75,7 +160,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-3881/ae8c38",
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.17869v1",
@@ -158,7 +243,7 @@
           "name": "S. Sweet"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -268,7 +353,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 60.0
+      "score": 59.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -317,7 +402,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -424,7 +509,7 @@
           "name": "Zdenek Prudil"
         }
       ],
-      "score": 0.9
+      "score": 0.4
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -482,7 +567,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -818,7 +903,7 @@
           "name": "Alessa I. Wiggins"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -870,7 +955,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     }
   ]
 }
