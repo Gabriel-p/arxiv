@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T02:53:51.757024",
+  "fetched_at": "2026-07-25T13:41:51.305805",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -45,7 +45,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 9.0
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -84,120 +84,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 11.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.18224v1",
-      "title": "Discovery of an Unbound Flyby Companion of UBC 63: In the Immediate Aftermath of a Close Encounter",
-      "updated": "2026-07-20T17:57:14Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.18224v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.18224v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-3881/ae8c38",
-          "@title": "doi"
-        }
-      ],
-      "summary": "We re-investigate the open cluster UBC 63 using the Gaia DR3 data and show that, rather than being a single cluster as previously classified, it is a compelling candidate for a double cluster undergoing an unbound flyby interaction. A GMM decomposition performed in the 5D astrometric space reveals the two statistically distinct components, namely UBC 63A (98 members, Age = 21 $\\pm$ 4 Myr) and UBC 63B (148 members, Age = 562 $\\pm$ 43 Myr). A significant age difference of $Δ\\mathrm{Age} = 541 \\pm 43$ Myr between the clusters, rules out coeval formation. Their 3D separation of $60 \\pm 29$ pc at the birth-epoch of the younger cluster, indicates that the clusters might have originated from the same molecular cloud complex. At present, the system exhibits a 3D separation of $26 \\pm 8$ pc, with a relative velocity of $3.60 \\pm 1.80$ km s$^{-1}$. Orbital integrations and \\textit{N}-body simulations of the pair suggest that the systems had a close encounter, reaching a separation of $7 \\pm 2$ pc only $\\sim$~6 Myr ago and predict a rapid divergence to a separation of $491 \\pm 213$ pc within the next $\\sim$100 Myr. The low escape velocity ($V_{\\rm esc} = 0.51 \\pm 0.12$ km s$^{-1}$) of the system compared to the relative 3D velocity indicates that they are gravitationally unbound. Their low tidal factors, elongated structures and populations extending beyond the Jacobi radii may reflect a strong transient tidal interaction between the clusters.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-20T17:57:14Z",
-      "arxiv:comment": "10 pages, 11 figures, 2 tables; Accepted for publication in The Astronomical Journal",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Samrat Biswas"
-        },
-        {
-          "name": "Biman J Medhi"
-        },
-        {
-          "name": "Sergio Messina"
-        },
-        {
-          "name": "Zhanpeng Zhu"
-        },
-        {
-          "name": "Songmei Qin"
-        },
-        {
-          "name": "Sukanta Deb"
-        },
-        {
-          "name": "A. H. Sheikh"
-        },
-        {
-          "name": "H. S Das"
-        },
-        {
-          "name": "Motohide Tamura"
-        },
-        {
-          "name": "Maheshwar Gopinathan"
-        },
-        {
-          "name": "Ram sagar"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-3881/ae8c38",
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.17869v1",
-      "title": "Black hole spin-mass correlation and vector resonant relaxation in gaseous star clusters: the origin of GW231123?",
-      "updated": "2026-07-20T12:14:20Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.17869v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.17869v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "During the formation of a star cluster a spin-mass correlation of stellar black holes is generated as they grow via accretion of the residual gas. Moreover, the black hole spin tends to be anti-aligned with its orbital angular momentum in the cluster. We show that GW231123, reported by the LIGO-Virgo-KAGRA (LVK) collaboration, lies on our predicted high-mass, high-spin plateau of the spin-mass correlation with positive Bayesian evidence over the LVK prior. Furthermore, vector resonant relaxation (VRR) equilibrium is favored over the isotropic LVK prior in reproducing the distribution of the relative spin tilt. The joint Bayes factor suggests strong evidence for the favored cluster models. GW231123 is thus consistent with our proposed channel that generates correlated black hole masses and spins, and drives the spins' orientations.",
-      "category": [
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-20T12:14:20Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.HE"
-      },
-      "author": {
-        "name": "Zacharias Roupas"
-      },
-      "score": 0.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2607.17300v1",
@@ -243,7 +130,7 @@
           "name": "S. Sweet"
         }
       ],
-      "score": 2.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -295,7 +182,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 9.9
+      "score": 7.9
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -353,7 +240,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 59.5
+      "score": 58.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -402,7 +289,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 7.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -457,59 +344,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.14224v1",
-      "title": "Chemodynamical evidence of the HR 1614 moving group as a bar resonance",
-      "updated": "2026-07-15T18:00:29Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.14224v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.14224v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Moving groups (MGs) are ensembles of disk stars that clump in velocity and action space. A multitude of explanations as to their origin has been attempted, from dissolved star clusters to resonances with the Galactic bar, or other non-axisymmetric perturbations. The object of this work, the old HR 1614 group, has in the past already been shown to not be a disrupted cluster in terms of its broad age and metallicity distribution. Thus its stars have more likely been trapped by the Milky Way bar at corotation. Here, we present a new study that aims to chemically and dynamically characterize this group in the context of such a resonance. To this end, we used MIKE/Magellan high-resolution, high signal-to-noise spectra of six member stars of the HR 1614 MG to determine the chemical abundance ratios for 24 elements, several for the first time in those stars. The Fe-abundances of our sample range from +0.13 to +0.38 dex and the majority of abundance ratios is fully in line with those of metal-rich Milky Way disk stars, with few exceptions. In particular, the group's eponym, HR 1614, is enhanced in essentially all abundances and coincides with the higher-[X/Fe] trends of the Milky Way's thick disk. All elements (but S and Ca) show significant intrinsic abundance scatter that argue against this MG having formed in a contained environment such as a dissolved cluster. Isochrone ages, tailored to the measured metallicities support earlier findings of a broad age mix in this group, ranging from 1 Gyr to as old as 8 Gyr. We performed an orbital frequency analysis in a Galactic potential that includes a rotating bar. Indeed, our sample stars fall onto thin resonances on corotation. Hence, our results support the idea that the HR 1614 MG is a resonantly perturbed disk feature, mustering a melange of stars from different parent populations in the inner Galaxy.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-15T18:00:29Z",
-      "arxiv:comment": "19 pages, 14 figures (incl. appendices); acccepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Andreas J. Koch-Hansen"
-        },
-        {
-          "name": "Vladislav Gulaev"
-        },
-        {
-          "name": "Dominik H. Plonka"
-        },
-        {
-          "name": "Camilla Juul Hansen"
-        },
-        {
-          "name": "Andrew McWilliam"
-        },
-        {
-          "name": "Victor P. Debattista"
-        },
-        {
-          "name": "Zdenek Prudil"
-        }
-      ],
-      "score": 0.4
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -567,7 +402,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 11.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -616,7 +451,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 9.8
+      "score": 7.8
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v2",
@@ -675,7 +510,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 3.0
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -730,7 +565,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 9.8
+      "score": 7.8
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -797,7 +632,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 4.1
+      "score": 2.1
     },
     {
       "id": "http://arxiv.org/abs/2607.03774v1",
@@ -834,76 +669,7 @@
       "author": {
         "name": "Tahereh Ramezani"
       },
-      "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.00291v1",
-      "title": "OCCAM X. Neutron Capture Abundances with Keck/HIRES & Magellan/MIKE",
-      "updated": "2026-07-01T00:35:52Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.00291v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.00291v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The chemistry of stars provides powerful insight into the history of the Milky Way. With multiple large-sky spectroscopic surveys that are currently available, using chemistry as a means to study the evolution and history of the Milky Way has flourished. Open clusters have long been used as landmarks to calibrate different age dating methods (e.g., gyrochronology and asteroseismology). In this work, we utilize the SDSS-IV/APOGEE-based Open Cluster Chemical Abundances and Mapping (OCCAM) survey as our foundation for new optical observations; enabling us to characterize neutron-capture abundances for known cluster members. For 56 stars in 18 open clusters, we collected high-resolution (R > 50,000), high-S/N (>75 at 5500A), spectra from Keck I and Magellan Baade telescopes. With these data, we derive abundances for 23 elements using BACCHUS, including 7 neutron capture abundances not measurable by APOGEE. Finally, we characterize the radial distribution of these neutron-capture elements in the Milky Way. We find that the second-peak s-process and r-process abundances exhibit relatively flat gradients in the Milky Way. Although not as distinct, the first-peak s-process abundances also have slopes which are shallower than the alpha and iron-peak elements. The differences in the neutron-capture gradients from the lighter elements not just indicates the sources producing these elements are fundamentally different, but that the timescales on which they are produced also differ (especially for the r-process). Moreover, a metallicity dependence of the AGB stars responsible for producing the heaviest s-process abundances may be necessary to consider in Galactic evolution models.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-01T00:35:52Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Natalie R. Myers"
-        },
-        {
-          "name": "Peter M. Frinchaboy"
-        },
-        {
-          "name": "Henrique Reggiani"
-        },
-        {
-          "name": "Sarah Loebman"
-        },
-        {
-          "name": "Catherine Manea"
-        },
-        {
-          "name": "Matthew Shetrone"
-        },
-        {
-          "name": "Katia Cunha"
-        },
-        {
-          "name": "Keith Hawkins"
-        },
-        {
-          "name": "Amaya Sinha"
-        },
-        {
-          "name": "Gail Zasowski"
-        },
-        {
-          "name": "John Donor"
-        },
-        {
-          "name": "Jonah M. Otto"
-        },
-        {
-          "name": "Alessa I. Wiggins"
-        }
-      ],
-      "score": 1.5
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
@@ -955,7 +721,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 2.5
+      "score": 1.0
     }
   ]
 }
