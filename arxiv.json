@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T13:41:51.305805",
+  "fetched_at": "2026-07-26T03:19:36.014689",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -85,52 +85,6 @@
         }
       ],
       "score": 9.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.17300v1",
-      "title": "The initial conditions and initial mass functions of Alpha Persei, Pleiades and Praesepe",
-      "updated": "2026-07-19T15:34:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.17300v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.17300v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We have determined the initial mass function (IMF) and structural properties of the open clusters Alpha Persei, Pleiades and Praesepe using Gaia DR3 astrometry and photometry. Cluster members were identified using primarily Gaia astrometry, supplemented with near-infrared UKIDSS and optical HIPPARCOS survey data with stellar masses down to $0.10-0.17$ MSun. We measure and correct for unresolved binaries in each cluster using photometry and Monte Carlo simulations in a Bayesian framework, finding present-day fractions between ($20.0\\pm0.8$)% and ($23.8\\pm1.2$)%. Through a novel approach that combines N-body simulations with machine learning emulators and MCMC algorithms, we have also determined the most probable initial number of stars, binary fraction, half-mass radius and mass function under the assumption that early gas removal does not significantly influence the subsequent cluster evolution. We find a best-fitting initial mass function described by a three-stage broken power-law distribution with break masses in the ranges $0.24-0.50$ MSun and $0.91-1.20$ MSun and average slopes of $α_{\\rm med}=1.72\\pm0.09$ and $α_{\\rm high}=2.98\\pm0.22$. While the low-mass slope remains sensitive to the adopted mass-luminosity relation, this IMF reproduces the present-day clusters well once their dynamical evolution is taken into account. We find evidence of scatter in the high mass IMF between the individual clusters, as described by the measured dispersions in mass function slopes of $σ_{\\rm high}=0.29\\pm0.16$, whereas the intermediate mass slope shows no significant variation with $σ_{\\rm med}=0.00\\pm0.14$. Our findings provide additional evidence for a (compared to a Salpeter MF) top-light IMF and a cluster-to-cluster variation of the IMF. They therefore provide constraints on the universality of the IMF and its dependence on environmental conditions.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-19T15:34:06Z",
-      "arxiv:comment": "Accepted for publication in PASA. 27 pages, 17 figures, 7 tables",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "L. Hobart"
-        },
-        {
-          "name": "H. Baumgardt"
-        },
-        {
-          "name": "S. Sweet"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -240,7 +194,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 58.0
+      "score": 57.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -289,7 +243,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -402,7 +356,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -721,7 +675,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     }
   ]
 }
