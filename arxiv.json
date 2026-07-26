@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26T03:19:36.014689",
+  "fetched_at": "2026-07-26T13:36:07.517159",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -45,7 +45,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -84,7 +84,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -136,7 +136,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 7.9
+      "score": 7.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -405,7 +405,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 7.8
+      "score": 7.3
     },
     {
       "id": "http://arxiv.org/abs/2607.13711v2",
@@ -464,7 +464,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -519,7 +519,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 7.8
+      "score": 7.3
     },
     {
       "id": "http://arxiv.org/abs/2607.07266v1",
@@ -586,44 +586,7 @@
           "name": "E. P. Lagioia"
         }
       ],
-      "score": 2.1
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.03774v1",
-      "title": "A Homogeneous Determination of the Interstellar Extinction Law and Metallicity for 105 Galactic Open Clusters",
-      "updated": "2026-07-04T08:53:18Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.03774v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.03774v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "This work presents an investigation of the interstellar extinction law toward 105 Galactic open clusters using ultraviolet-optical photometry. The photometric dataset and reddening determinations were previously introduced in Ramezani et al., (2025); hereafter Paper I, where homogeneous ultraviolet photometry and colour-colour diagrams were used to derive reddening values for the cluster sample. In the present study, we extend that analysis by determining extinction law and metallicity parameters for the same clusters. Ground-based U-band observations obtained with the 2.15-m CASLEO telescope and the 1.54-m Danish telescope are combined with Gaia Data Release 3 photometry to construct ultraviolet-optical colour indices. Using extinction-ratio combinations and the Fitzpatrick, (1999) extinction model, we derive mean total-to-selective extinction law values (RV) for all clusters. The resulting RV values span approximately 2.5-4.5, with a mean value of RV = 3.53, indicating significant spatial variations of dust properties across the Galactic disk and deviations from the canonical diffuse interstellar medium value RV = 3.1. Afterward, by fitting the isochrone to the Colour-Magnitude Diagrams, we estimated the metallicity values of 105 observed clusters. This work provides the first homogeneous catalogue of extinction law measurements based on combined ground-based ultraviolet and Gaia photometry for a large open-cluster sample, establishing an important reference for studies of Galactic dust structure and stellar parameter corrections.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-04T08:53:18Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Tahereh Ramezani"
-      },
-      "score": 0.5
+      "score": 1.6
     },
     {
       "id": "http://arxiv.org/abs/2606.31714v1",
