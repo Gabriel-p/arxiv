@@ -1,6 +1,172 @@
 {
-  "fetched_at": "2026-07-27T14:42:57.641697",
+  "fetched_at": "2026-07-28T02:50:21.232006",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.24614v1",
+      "title": "Stellar Dynamics and Evolution of the Intermediate-Age Open Clusters NGC 2266 and NGC 2324",
+      "updated": "2026-07-27T16:13:22Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.24614v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.24614v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a refined astrometric and photometric analysis of the well-studied intermediate-age open clusters NGC 2266 and NGC 2324 using high-precision Gaia DR3 data, complemented by 2MASS and LAMOST DR7 catalogs. Probable cluster members are identified using unsupervised machine learning techniques. We apply both Gaussian Mixture Models (GMMs) and \\texttt{pyUPMASK}. We find that the GMM-based membership sample yields a cleaner, more coherent cluster sequence in the Gaia CMDs than pyUPMASK. We identified 719 and 852 high-probability members ($P \\geq 0.7$) for NGC 2266 and NGC 2324, respectively. Using the parallax method, we determine distances of 3.55 $\\pm$ 0.23~kpc for NGC 2266 and 4.18 $\\pm$ 0.24~kpc for NGC 2324. The radius estimates for both clusters are 7.23 $\\pm$ 0.47 pc and 10.94 $\\pm$ 0.63 pc. Isochrone fitting estimated ages of $1.1 \\pm 0.1$~Gyr for NGC 2266 and $790 \\pm 150$~Myr for NGC 2324. These age estimates were derived assuming metallicities of $Z = 0.0084$ and $Z = 0.0038$, respectively. The King profile fitting indicates that both clusters exhibit compact, well-defined radial structures. Their tidal radii are $8.84'$ (9.13 pc) for NGC 2266 and $10.97'$ (13.34 pc) for NGC 2324. The slopes of the present-day mass functions are $1.13\\pm0.18$ for NGC 2266 and $1.24\\pm0.19$ for NGC 2324, indicating a deficiency of low-mass stars. The derived mass-function slopes are consistent with dynamical evolution in both clusters. The clusters exhibit short relaxation times, while only NGC 2324 shows a mild indication of mass segregation. This study highlights the power of Gaia astrometry to resolve internal structures within open clusters and refine their dynamical parameters.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-27T16:13:22Z",
+      "arxiv:comment": "22 pages, 16 figures, 5 tables, accepted for publication in Advances in Space Research",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Cyrus Raj"
+        },
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ashish Raj"
+        }
+      ],
+      "score": 11.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.24580v1",
+      "title": "Constraining young massive cluster properties with radio-continuum observations: The Arches cluster",
+      "updated": "2026-07-27T15:49:14Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.24580v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.24580v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The Arches cluster, located in the Galactic Centre (GC) is one of the best astrophysical laboratories to study the properties of massive stars and young massive clusters (YMCs). However, several fundamental parameters of the Arches cluster remain uncertain.\n  Our goal is to constrain key cluster parameters (cluster age, mass, and initial mass function, IMF) by comparing the observed stellar radio flux density distribution of the Arches cluster to those derived from a set of synthetic clusters.\n  We use the deep X-band (10 GHz) Very Large Array data from our previous radio continuum study of the Arches cluster. We model each simulated cluster with three parameters: age, mass, and IMF slope. We use three different stellar evolutionary models: GENEC, PARSEC, and MIST at two different metallicities, solar ($Z=0.014$) and super-solar ($Z=0.020$). We run Markov-chain Monte-Carlo simulations for each model/metallicity combination in order to explore parameter space.\n  All models and metallicities return preferred ages in the $2\\lesssim t_{\\rm age}/{\\rm Myr}\\lesssim 3$ range. We obtain an IMF slope of $α_{\\rm IMF}=-1.85^{+0.28}_{-0.20}$, averaged over all models, where uncertainties are dominated by the degeneracy between cluster mass and IMF slope. If we use the IMF slope from previous infrared studies as prior, the cluster mass distributions peak at $\\sim2.7\\times10^4\\, M_\\odot$ and we can establish a lower limit at $\\gtrsim2\\times10^4 M_\\odot$ for the Arches cluster mass.\n  Radio continuum observations of their most massive stars can be used to constrain YMC parameters. In the case of the Arches cluster, age can be determined regardless of prior spectroscopic information, which can be useful to characterise newly discovered YMCs in the GC. Our results support the idea that a top-heavy IMF may be preferred in the GC or in YMCs in general.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-27T15:49:14Z",
+      "arxiv:comment": "14 pages. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "M. Cano-González"
+        },
+        {
+          "name": "R. Schödel"
+        },
+        {
+          "name": "A. Alberdi"
+        },
+        {
+          "name": "F. Najarro"
+        },
+        {
+          "name": "J. Moldón"
+        },
+        {
+          "name": "M. Pérez-Torres"
+        },
+        {
+          "name": "F. Nogueras-Lara"
+        }
+      ],
+      "score": 3.2
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.23128v1",
+      "title": "Correlation between the two-armed $V_R$ spiral in the $Z$--$V_Z$ plane and moving groups",
+      "updated": "2026-07-25T10:06:58Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.23128v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.23128v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/1538-4357/ae7f0e",
+          "@title": "doi"
+        }
+      ],
+      "summary": "We use a cross-matched sample of 3.7 million stars from Gaia DR3 and LAMOST DR7 to investigate the velocity substructures in the Milky Way disk. The median radial velocity $V_R$ as a function of guiding-center radius $R_g$ exhibits alternating positive and negative stripes, which are strongly correlated with known moving groups. By examining the $V_R$ distribution in the $Z$--$V_Z$ phase space, we find that the D1, P2, D2, and P3 $V_R$ stripes display clear two-armed spirals.\n  Among the moving groups embedded in these $V_R$ stripes, the Coma Berenices moving group in the P3 stripe exhibits the most pronounced two-armed spiral and serves as the primary contributor to the left arm of the overall P3 spiral. The angular momentum, eccentricities, orbital frequencies, and frequency ratios of its stars are consistent with either the corotation resonance of the spiral arms or the $m=4$ inner Lindblad resonance of the bar.\n  Test-particle simulations confirm that a bar with a varying pattern speed, together with static or transient spiral arms, can produce such two-armed spirals.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-25T10:06:58Z",
+      "arxiv:comment": "33 pages, 21 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "arxiv:journal_ref": "Yan, Xu 2026, ApJ, 1006, 143",
+      "author": [
+        {
+          "name": "Yan Xu"
+        },
+        {
+          "name": "Chao Liu"
+        },
+        {
+          "name": "Chengdong Li"
+        },
+        {
+          "name": "Heidi Neiberg"
+        },
+        {
+          "name": "Hao Tian"
+        },
+        {
+          "name": "Hua Jian Wang"
+        },
+        {
+          "name": "Xiao Dian Chen"
+        },
+        {
+          "name": "Li Cai Deng"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae7f0e",
+      "score": 2.6
+    },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
       "title": "Estimating stellar metallicities from Gaia DR3 XP data using LAMOST DR10",
@@ -137,397 +303,6 @@
         }
       ],
       "score": 6.9
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.15149v1",
-      "title": "Cluster characteristics of Galactic open clusters",
-      "updated": "2026-07-16T15:51:07Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.15149v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.15149v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Star clusters are perfectly suited for studying the formation, evolution, and dynamics of stars and their host galaxies. For this, we need to estimate total masses, radii and shapes of star clusters. These parameters strongly influence their fates in the host galaxies. However, there is no agreement about these characteristics in the literature. The published values widely disagree. We estimated total masses and cluster radii using a very conservative approach: calculating member masses and summing them. Furthermore, we investigated the three-dimensional characteristics of open clusters and their limitations. We used a commonly used grid of evolutionary tracks for different photometric sources, including 2MASS, Gaia, and Pan-STARRS. The interpolation method was tested using synthetic clusters built with ASteCA. To estimate three-dimensional shapes, we used the distribution of the well-known Galactic coordinates and inverse parallaxes. We estimated the total masses and radii of about 7000 open clusters and observed traces of tidal tails. Individual values can be used in future $Gaia$ data releases to obtain even more precise values. The current DR3 allows the study of only three-dimensional shapes up to 500 pc. Beyond this distance, we find a significant needle-like shape due to uncertainties in observed parallaxes.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-16T15:51:07Z",
-      "arxiv:comment": "11 pages, 17 figures, submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "K. Neumannová"
-        },
-        {
-          "name": "J. Supíková"
-        },
-        {
-          "name": "N. Faltová"
-        },
-        {
-          "name": "P. Mondal"
-        },
-        {
-          "name": "E. Paunzen"
-        },
-        {
-          "name": "T. Ramezani"
-        },
-        {
-          "name": "G. Szász"
-        }
-      ],
-      "score": 57.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.15131v1",
-      "title": "Berkeley 32: A Metal-poor and Dynamically Evolved Open Cluster with Evidence of Radial Migration",
-      "updated": "2026-07-16T15:41:20Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.15131v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.15131v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a comprehensive chemo-dynamical analysis of the old, metal-poor open cluster Berkeley 32 based on Gaia DR3 astrometry and Gaia-ESO Survey DR5.1 spectroscopy. Cluster membership is determined using a Gaussian Mixture Model applied to proper-motion components and trigonometric parallaxes. Isochrone fitting yields an age of 4.9 +/- 0.5 Gyr, a heliocentric distance of 3325 pc, and an extinction of A_V = 0.38 +/- 0.12 mag. Spectroscopic member stars exhibit a mean metallicity of [Fe/H] = -0.39 +/- 0.02 dex, near-solar alpha-element abundances, and a weighted mean radial velocity of V_rad = 106.26 +/- 0.03 km s^-1. The [Y/Mg] chemical clock yields an age of 4.73 +/- 2.39 Gyr, consistent with the isochrone estimate. Orbital integration indicates a moderately eccentric orbit (e = 0.268 +/- 0.004) with a guiding radius of R_g = 8.82 kpc. The inferred chemical birth radius, R_b = 9.82 kpc, together with DeltaR ~ -1 kpc, suggests moderate inward radial migration, while the offsets among R_b, R_g, and R_GC are consistent with both churning and blurring processes. A photometric analysis identifies a binary fraction of f_b = 0.449 +/- 0.017 for systems with mass ratios q >= 0.5, implying a substantial unresolved binary population. Radial cumulative distribution functions further reveal significant mass segregation, with evolved stars more centrally concentrated than main-sequence stars. These results indicate that Berkeley 32 is a dynamically evolved old-disk cluster whose present-day structure and orbit preserve signatures of both internal dynamical evolution and radial migration within the Galactic disk.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-16T15:41:20Z",
-      "arxiv:comment": "27 pages, including 15 figures and 4 tables, accepted for publication in the The Astronomical Journal (AJ)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Deniz Cennet Çınar"
-        },
-        {
-          "name": "D. Bisht"
-        },
-        {
-          "name": "Ing-Guey Jiang"
-        },
-        {
-          "name": "W. H. Elsanhoury"
-        },
-        {
-          "name": "K. Belwal"
-        },
-        {
-          "name": "Selçuk Bilir"
-        }
-      ],
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.14987v1",
-      "title": "Stellar Multiplicity in Open Clusters: Investigating Binary Fractions and Their Relationship with Cluster Properties",
-      "updated": "2026-07-16T13:37:49Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.14987v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.14987v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-4357/ae7de9",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Stellar multiplicity is key in dynamical evolution of open clusters (OCs) and processes of stellar formation and evolution. Since most stars form in multiple systems, investigating how environmental properties affect their occurrence is crucial. We aim to investigate how binary fraction and mass ratios change across different OC environments. Using a sample of 773 OCs, we identified binary systems and estimated binary fractions, obtaining values in the ranges 0.10-0.85 overall and 0.06-0.79 for high mass-ratio systems. No strong dependence on age or evolutionary stage is found, while an anticorrelation between metallicity and the binary fraction is identified. However, young and old clusters exhibit distinct mass-ratio distributions. We also find that the probability of a star being the primary component increases with stellar mass. In contrast, the probability of a star belonging to a binary system increases with mass for masses below 1 solar mass, and remains between 60% and 70% for high masses. Binary systems are preferentially located in the inner regions of clusters compared to single stars, and the mean mass ratio decreases with increasing distance from the cluster center. These results suggest that the binary fraction appears to be set at early times and remains largely unaffected by cluster dynamical evolution. The concentration of binaries in the inner regions of clusters likely reduces their susceptibility to dynamical escape.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-16T13:37:49Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "arxiv:journal_ref": "The Astrophysical Journal, Volume 1006, Article 92, 2026",
-      "author": [
-        {
-          "name": "Ruan P. Alves"
-        },
-        {
-          "name": "Hektor Monteiro"
-        },
-        {
-          "name": "Wilton S. Dias"
-        },
-        {
-          "name": "Gabriel R. Hickel"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 3.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.14208v1",
-      "title": "The Open Cluster Chemical Abundances and Mapping Survey: IX. Measuring the Effects of Stellar Diffusion in the Open Clusters NGC 752 and Ruprecht 147 using APOGEE",
-      "updated": "2026-07-15T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.14208v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.14208v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A growing understanding of stellar processes that alter surface chemical abundances over time has opened new avenues for using these changes as probes of stellar properties. On the main sequence and near the turnoff, stellar surface abundances are affected by gravitational settling and radiative acceleration, collectively known as atomic diffusion. In this work, we use SDSS/APOGEE DR17/DR19 data to investigate atomic diffusion in the open clusters NGC~752 and Ruprecht~147, thereby constraining how these signatures vary with age. From the analysis of Fe, C, N, Na, Mg, Al, Si, S, K, Ca, Ti, V, Cr, Mn, Co, and Ni, we find significant abundance differences between stars near the turnoff and the cooler main-sequence, where warmer stars are depleted relative to the cooler main-sequence stars at the $\\geq1σ$ level for all elements available in the analysis. These abundance differences are consistent with the signatures expected from atomic diffusion and are further supported by comparisons with stellar models that include diffusion. By fitting the observed $T_{\\rm eff}$--[Fe/H] patterns with MIST isochrones, we obtain best-fit ages of 1.0~Gyr for NGC~752 and 2.5--3.2~Gyr for Ruprecht~147. Carbon is a key diagnostic, as it shows both atomic diffusion and extra-mixing signatures associated with first-dredge-up. For NGC~752, the coolest stars in our sample, which provide the best proxy for the initial cluster composition, yield [Fe/H]$_{\\rm CS} = 0.01~\\pm~0.02(\\pm~0.05)$ dex. For Ruprecht~147, we obtain [Fe/H]$_{\\rm CS} = 0.17~\\pm~0.00(\\pm~0.05)$ dex. Our findings further constrain atomic diffusion models, suggesting that atomic diffusion affects age estimates of stars near the main-sequence turnoff.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-15T18:00:00Z",
-      "arxiv:comment": "Accepted for publication in the ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Diogo Souto"
-        },
-        {
-          "name": "Taylor Spoo"
-        },
-        {
-          "name": "Peter M. Frinchaboy"
-        },
-        {
-          "name": "Katia Cunha"
-        },
-        {
-          "name": "Jamie Tayar"
-        },
-        {
-          "name": "Alessa Ibrahim Wiggins"
-        },
-        {
-          "name": "Natalie Myers"
-        }
-      ],
-      "score": 8.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.13747v2",
-      "title": "On the current status of tidal tails of Galactic open clusters",
-      "updated": "2026-07-19T21:02:58Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.13747v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.13747v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Tidal tails of open clusters provide direct observational evidence of cluster mass loss and dynamical interaction with the Galactic tidal field. The advent of $Gaia$ astrometry has enabled systematic detection of extended stellar structures around nearby clusters, revealing that many systems exhibit complex and extended morphologies beyond their classical tidal radii. In this review, we summarise the current observational and theoretical status of tidal tails in open clusters, focusing on results obtained in the $Gaia$ era. We compare different detection methodologies, including density-based clustering, probabilistic models, and orbit-based selection techniques, and discuss how methodological choices influence the inferred morphology of tidal structures. While the Hyades remains the most robust example of well-defined tidal tails, other clusters show a wide range of extended features with varying degrees of coherence and symmetry. We argue that the diversity of reported results reflects both genuine astrophysical variation and systematic differences in analysis approaches. We outline prospects enabled by upcoming astrometric, spectroscopic, and photometric surveys, which will allow a more unified and physically consistent understanding of cluster dissolution in the Milky Way.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-15T12:03:41Z",
-      "arxiv:comment": "12 pages; 6 figures; 4 tables; submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Tahereh Ramezani"
-        },
-        {
-          "name": "Prapti Mondal"
-        },
-        {
-          "name": "Katerina Neumannova"
-        },
-        {
-          "name": "Ernst Paunzen"
-        },
-        {
-          "name": "Johana Supikova"
-        },
-        {
-          "name": "Gabriel Szasz"
-        }
-      ],
-      "score": 6.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.11299v1",
-      "title": "The white dwarf population of open clusters and their tidal tails. Tracers of contamination and stellar interactions",
-      "updated": "2026-07-13T09:15:44Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.11299v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.11299v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Recent Gaia studies have identified numerous open clusters (OCs) & tidal tail catalogues, enabling systematic searches for white dwarfs (WDs) associated with clusters & their extended structures. We compile a literature-based sample of OC-WD pairs to validate WD membership in cluster cores & tails, investigate the initial-final mass relation (IFMR), identify WDs formed through non-canonical evolution, and interpret the observed WD populations using a grid of N-body simulations. We combine Gaia DR3 cluster & tail catalogues with UV-IR photometry to analyse the OC-WD pairs. WD masses, cooling ages, radii, temperatures & luminosities are estimated using colour-magnitude diagrams & spectral energy distributions. These observations are interpreted in the context of N-body simulations. We identify 235 OC-WD pairs (99 in tails) in 80 clusters. More than 28% of the pairs are likely spurious, with contamination substantially higher in the tails (>48%) than in the cluster cores (>13%), indicating significant field-star contamination in current Gaia-based catalogues. The Pleiade tails also show severe contamination by old WDs. Simulations predict that the fraction of core WDs increases with cluster age, reaching >10%, whereas the observed fractions remain systematically lower, consistent with the WD deficit problem. Despite the high contamination rate, most tail WDs (~83%) are consistent with having been born inside the tidal radius. We also identify 63 candidate binary-origin WDs & 47 new IFMR candidates. WDs provide a powerful probe of contamination in cluster and tail catalogues and place important constraints on cluster detection methods & N-body simulations. Resolving the WD deficit and improving membership validation will require improved observations, membership methods, WD physics, and spectroscopic follow-up, enabling stronger constraints on dynamical cluster evolution & the WD IFMR.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-13T09:15:44Z",
-      "arxiv:comment": "12 pages main text, 48 pages appendix. Appendix C is only available on arXiv. Tables B1 and B2 will be available on CDS. Accepted in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Vikrant V. Jadhav"
-        },
-        {
-          "name": "Pavel Kroupa"
-        },
-        {
-          "name": "David R. Miller"
-        },
-        {
-          "name": "Snehalata Sahu"
-        },
-        {
-          "name": "Dinnbier Frantisek"
-        },
-        {
-          "name": "Ladislav Šubr"
-        }
-      ],
-      "score": 6.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.07266v1",
-      "title": "Hubble Space Telescope survey of Magellanic Cloud star clusters. Binaries, mass functions, blue stragglers, and structural parameters",
-      "updated": "2026-07-08T10:50:54Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.07266v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.07266v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Binary stars are key tracers of the dynamical evolution of star clusters and provide important constraints on stellar populations and mass functions. The Magellanic Clouds host clusters spanning a wide range of ages and masses, offering an ideal laboratory to investigate these properties in regimes poorly sampled in the Milky Way. We aim to characterize the binary populations, mass functions, blue straggler content, and structural parameters of intermediate-age Magellanic Cloud clusters, and to explore their dependence on global cluster properties. We analyze HST photometry for 16 clusters obtained with ACS/WFC and WFC3/UVIS. Structural parameters are derived from stellar density profiles. Binary fractions are measured using the binary map technique, focusing on systems with mass ratios q > 0.7. We derive MFs accounting for unresolved binaries and identify candidate BS populations from color-magnitude diagrams. The fraction of binaries with q > 0.7 ranges from 5% in NGC 2121 up to 13% in NGC 2173, with a mass-ratio distribution that is consistent with being flat on average. By combining our results with literature data, we confirm a clear anti-correlation between the core binary fraction and cluster mass, while no significant dependence on cluster age is found. The clusters follow the established relation between age and core radius, although with substantial scatter at fixed age. Within the narrow age range explored here, clusters exhibiting steeper MFs are found to have smaller core radii. We find no evidence for a correlation between the fractions of binaries and BS fractions. These findings are consistent with a scenario in which dynamical evolution plays a primary role in the formation of binary populations. The connection between MF slope and structural parameters provides new constraints on cluster evolution and suggests a link between MF slope and structural evolution.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-08T10:50:54Z",
-      "arxiv:comment": "11 pages, 11 figures. Accepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "F. Muratore"
-        },
-        {
-          "name": "M. V. Legnardi"
-        },
-        {
-          "name": "A. P. Milone"
-        },
-        {
-          "name": "G. Cordoni"
-        },
-        {
-          "name": "A. Mastrobuono-Battisti"
-        },
-        {
-          "name": "A. F. Marino"
-        },
-        {
-          "name": "T. Ziliotto"
-        },
-        {
-          "name": "E. Dondoglio"
-        },
-        {
-          "name": "E. Bortolan"
-        },
-        {
-          "name": "E. P. Lagioia"
-        }
-      ],
-      "score": 1.1
     }
   ]
 }
