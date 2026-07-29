@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-07-28T14:15:09.491619",
+  "fetched_at": "2026-07-29T02:53:20.096614",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.24941v1",
+      "title": "Investigating the Observational Progenitor Mass Gap in the White Dwarf Initial-Final Mass Relation. I. Cluster Census and Characterization of the First White Dwarfs in the Gap",
+      "updated": "2026-07-27T18:00:37Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.24941v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.24941v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In recent years, Gaia has been the primary driver of the expansion of the white dwarf (WD) initial-final mass relation (IFMR) in open clusters. The increased sample size has highlighted a pronounced observational gap at progenitor masses of $\\simeq2$--$2.7\\,M_\\odot$, with no spectroscopically confirmed cluster-member WDs in this range. Analysis of the Milky Way open cluster census shows that this absence is primarily driven by the scarcity of appropriately aged, nearby clusters capable of hosting Gaia-detectable WDs, implying that deeper, targeted photometry will be required to build a substantial sample in this progenitor mass range. We further searched for previously unexamined Gaia WD candidates in clusters with ages consistent with producing gap progenitors and identified two viable targets, which we observed spectroscopically with Gemini GMOS-N. Both targets yield inferred progenitor masses within the observational gap, making them the first spectroscopically confirmed cluster-member WDs in this progenitor mass range. The NGC 6991 candidate, in particular, is confirmed as a DA WD with an inferred progenitor mass of $2.12^{+0.04}_{-0.15}\\,M_\\odot$, providing further support for a non-monotonic trend in the IFMR.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-27T18:00:37Z",
+      "arxiv:comment": "11 pages, 9 figures, 3 tables",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "David R. Miller"
+        },
+        {
+          "name": "Jeremy Heyl"
+        },
+        {
+          "name": "Pier-Emmanuel Tremblay"
+        }
+      ],
+      "score": 10.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
       "title": "Stellar Dynamics and Evolution of the Intermediate-Age Open Clusters NGC 2266 and NGC 2324",
@@ -45,7 +91,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24580v1",
@@ -103,7 +149,7 @@
           "name": "F. Nogueras-Lara"
         }
       ],
-      "score": 3.2
+      "score": 2.7
     },
     {
       "id": "http://arxiv.org/abs/2607.23128v1",
@@ -360,7 +406,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 56.5
+      "score": 56.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -409,7 +455,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -522,7 +568,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
