@@ -1,6 +1,139 @@
 {
-  "fetched_at": "2026-07-29T14:18:16.506295",
+  "fetched_at": "2026-07-30T14:09:06.938571",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.26347v1",
+      "title": "Stellar Population Astrophysics (SPA) with the TNG. Beyond the iron peak: Galactic evolution of molybdenum, ruthenium and zirconium through open clusters",
+      "updated": "2026-07-28T23:41:15Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.26347v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.26347v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Context: Open clusters serve as key laboratories for studying the chemical evolution of the Milky Way. In particular, leveraging these coeval groups of stars to study elements beyond the iron peak provides insights into heavy-element nucleosynthesis, whose origins remain uncertain.\n  Aims: This work aims to determine the Mo, Ru, and Zr abundances for 81 stars across 30 open clusters. We compare these new chemical patterns with those of key reference elements (Y, Sr, Eu), which were previously derived by our group. This comparison seeks to disentangle the distinct contributions from various nucleosynthetic processes.\n  Methods: Using the high-resolution spectra acquired within the Stellar Population Astrophysics programme using the HARPS-N echelle spectrograph at the Telescopio Nazionale Galileo, we estimate chemical abundances through spectral synthesis with TSFitPy under local thermodynamic equilibrium (LTE) conditions.\n  Results: This study provides the first Ru abundances for a large open cluster sample, alongside new measurements for Mo and Zr. We observe tight correlations between Mo, Ru, and other s-process elements (Sr, Y, Zr), with slopes near unity, suggesting common enrichment timescales. Conversely, relations with the r-process element Eu show significant deviations, implying additional nucleosynthetic contributions. Crucially, chemical planes involving [Mo/Ru] and [s/Mo] ratios suggest systematic offsets when compared to theoretical s-process predictions.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-28T23:41:15Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Natalia Alvarez-Baena"
+        },
+        {
+          "name": "Valentina D'Orazi"
+        },
+        {
+          "name": "Christopher Sneden"
+        },
+        {
+          "name": "Athanasios Psaltis"
+        },
+        {
+          "name": "Frédéric Thévenin"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Tamara Mishenina"
+        },
+        {
+          "name": "Shilpa Bijavara Seshashayana"
+        },
+        {
+          "name": "Ricardo Carrera"
+        },
+        {
+          "name": "Laia Casamiquela"
+        },
+        {
+          "name": "Marina Dal Ponte"
+        },
+        {
+          "name": "Henrik Jönsson"
+        },
+        {
+          "name": "Antonino Nunnari"
+        },
+        {
+          "name": "Marco Pignatari"
+        }
+      ],
+      "score": 18.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.26330v1",
+      "title": "Automated Computer Vision Cluster Identification in the Fireworks Galaxy",
+      "updated": "2026-07-28T23:04:11Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.26330v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.26330v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the integrated photometry, radii, and spatial distribution of young ($\\leq$ 25 Myr) star cluster candidates in NGC 6946. NGC 6946, also known as the Fireworks Galaxy, is a highly star-forming galaxy with numerous young massive clusters. We have developed a modified computer vision algorithm using photometry from images taken with Hubble Space Telescope (HST) Wide Field Camera 3 Ultraviolet channel (WFC3/UVIS) F275W and F336W filters to identify and outline candidate clusters. We describe our technique in detail, including extensive testing with artificial clusters, where the algorithm recovers 60.7% of synthetic clusters and has a conservative false positive rate of 27.3% down to luminosities of M$_{F336W} \\sim -6$. We identify 6410 cluster candidates down to much fainter magnitudes (M$_{F336W} \\sim -4$) via the aforementioned algorithm which are more difficult to verify, but are still of interest as the luminosity function of these candidates is consistent with a standard power law with a slope of $\\sim$2.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-28T23:04:11Z",
+      "arxiv:comment": "15 pages, 9 figures; accepted for publication in The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Debby Tran"
+        },
+        {
+          "name": "Benjamin F. Williams"
+        },
+        {
+          "name": "Emily M. Levesque"
+        },
+        {
+          "name": "Tobin M. Wainer"
+        },
+        {
+          "name": "Emerson Bowles"
+        },
+        {
+          "name": "Bo-Eun Choi"
+        },
+        {
+          "name": "L. Clifton Johnson"
+        },
+        {
+          "name": "Anil C. Seth"
+        }
+      ],
+      "score": 52.9
+    },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
       "title": "Investigating the Observational Progenitor Mass Gap in the White Dwarf Initial-Final Mass Relation. I. Cluster Census and Characterization of the First White Dwarfs in the Gap",
@@ -45,7 +178,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -91,7 +224,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24580v1",
@@ -149,7 +282,7 @@
           "name": "F. Nogueras-Lara"
         }
       ],
-      "score": 2.7
+      "score": 2.2
     },
     {
       "id": "http://arxiv.org/abs/2607.23128v1",
@@ -211,7 +344,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7f0e",
-      "score": 1.6
+      "score": 1.1
     },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -257,7 +390,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -296,7 +429,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -348,7 +481,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 5.9
+      "score": 5.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -406,7 +539,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 56.0
+      "score": 55.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -455,7 +588,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -510,7 +643,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -568,7 +701,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -617,7 +750,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 5.8
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -672,74 +805,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 5.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.07266v1",
-      "title": "Hubble Space Telescope survey of Magellanic Cloud star clusters. Binaries, mass functions, blue stragglers, and structural parameters",
-      "updated": "2026-07-08T10:50:54Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.07266v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.07266v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Binary stars are key tracers of the dynamical evolution of star clusters and provide important constraints on stellar populations and mass functions. The Magellanic Clouds host clusters spanning a wide range of ages and masses, offering an ideal laboratory to investigate these properties in regimes poorly sampled in the Milky Way. We aim to characterize the binary populations, mass functions, blue straggler content, and structural parameters of intermediate-age Magellanic Cloud clusters, and to explore their dependence on global cluster properties. We analyze HST photometry for 16 clusters obtained with ACS/WFC and WFC3/UVIS. Structural parameters are derived from stellar density profiles. Binary fractions are measured using the binary map technique, focusing on systems with mass ratios q > 0.7. We derive MFs accounting for unresolved binaries and identify candidate BS populations from color-magnitude diagrams. The fraction of binaries with q > 0.7 ranges from 5% in NGC 2121 up to 13% in NGC 2173, with a mass-ratio distribution that is consistent with being flat on average. By combining our results with literature data, we confirm a clear anti-correlation between the core binary fraction and cluster mass, while no significant dependence on cluster age is found. The clusters follow the established relation between age and core radius, although with substantial scatter at fixed age. Within the narrow age range explored here, clusters exhibiting steeper MFs are found to have smaller core radii. We find no evidence for a correlation between the fractions of binaries and BS fractions. These findings are consistent with a scenario in which dynamical evolution plays a primary role in the formation of binary populations. The connection between MF slope and structural parameters provides new constraints on cluster evolution and suggests a link between MF slope and structural evolution.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-08T10:50:54Z",
-      "arxiv:comment": "11 pages, 11 figures. Accepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "F. Muratore"
-        },
-        {
-          "name": "M. V. Legnardi"
-        },
-        {
-          "name": "A. P. Milone"
-        },
-        {
-          "name": "G. Cordoni"
-        },
-        {
-          "name": "A. Mastrobuono-Battisti"
-        },
-        {
-          "name": "A. F. Marino"
-        },
-        {
-          "name": "T. Ziliotto"
-        },
-        {
-          "name": "E. Dondoglio"
-        },
-        {
-          "name": "E. Bortolan"
-        },
-        {
-          "name": "E. P. Lagioia"
-        }
-      ],
-      "score": 0.1
+      "score": 5.3
     }
   ]
 }
