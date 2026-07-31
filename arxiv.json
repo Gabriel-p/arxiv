@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T03:19:29.098337",
+  "fetched_at": "2026-07-31T14:14:40.820279",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.28278v1",
@@ -86,7 +86,7 @@
           "name": "Christian Schneider"
         }
       ],
-      "score": 2.6
+      "score": 2.1
     },
     {
       "id": "http://arxiv.org/abs/2607.27317v1",
@@ -458,7 +458,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7f0e",
-      "score": 1.1
+      "score": 0.6
     },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -504,7 +504,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -543,7 +543,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -595,7 +595,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 5.4
+      "score": 4.9
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -757,7 +757,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -864,7 +864,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -919,7 +919,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     }
   ]
 }
