@@ -1,6 +1,175 @@
 {
-  "fetched_at": "2026-07-30T14:09:06.938571",
+  "fetched_at": "2026-07-31T03:19:29.098337",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.28278v1",
+      "title": "JWST's Constraints on the Substellar IMF in NGC 2024",
+      "updated": "2026-07-30T14:28:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.28278v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.28278v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A recent study has reported the detection of a turnover in the initial mass function (IMF) below 12 Mjup and the possible detection of a minimum mass near 3 Mjup in the heavily embedded cluster NGC 2024 (<1 Myr), which was based on a sample of brown dwarf candidates in NIRCam images from the James Webb Space Telescope (JWST). I have used those NIRCam data in conjunction with archival spectra from JWST's Near-Infrared Spectrograph (NIRSpec) to constrain the substellar IMF in NGC 2024. I present NIRSpec data for 87 sources, 67 of which are within the NIRCam field. Based on those spectra and data from previous studies (e.g., X-ray emission), I have classified 45 of the NIRSpec targets as members of NGC 2024, 17 of which have spectral types indicative of brown dwarfs (M6.5-L; 13 are within NIRCam). The latter have mass estimates as low as 4 Mjup according to theoretical evolutionary models. There remain a few photometric candidates lacking spectra that extend down to the completeness limit of the images (>=2 Mjup for Ak>=1), so the minimum mass of the IMF has not been detected. It is not possible to measure a reliable substellar IMF from the NIRCam images because of the small number of brown dwarfs encompassed by them, a bias against objects at lower masses due to the high extinctions, and incompleteness at >=10 Mjup due to the saturation limit. Thus, there is no evidence in the JWST data for a turnover below 12jup.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-30T14:28:02Z",
+      "arxiv:comment": "MNRAS, in press",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "K. L. Luhman"
+      },
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.27831v1",
+      "title": "The Volans-Carina association An X-ray Bridge Between Younger and Older Stellar Populations",
+      "updated": "2026-07-30T08:10:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.27831v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.27831v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Nearby young moving groups (NYMGs) provide benchmarks for studying the evolution of magnetic activity and planetary environments at early ages. The Volans-Carina association (VCA), as a pre-main sequence association at a distance of ~90 pc, occupies a sparsely sampled region of parameter space between younger nearby associations and older distant open clusters. We have re-evaluated the membership probabilities of the VCA catalog presented in Gagne et al. (2018a) with BANYAN as well as updated kinematics from Gaia DR3. Stellar parameters were derived from multi-wavelength spectral energy distributions, with the obtained bolometric luminosity and effective temperature being used in combination with pre-main sequence evolutionary models to obtain an isochronal age of the association. We joined data from the SRG (Spectrum Roentgen Gamma)/eROSITA and ROSAT all-sky surveys with a dedicated XMM-Newton Large Programme to construct a comprehensive X-ray catalog. Our updated census of the VCA comprises 29 highly probable members, 30 candidate members, and four uncertain objects. Isochronal analysis of the association yields an age of 80+-20 Myr, consistent with previous estimates. We detect X-ray emission from 56 objects, reaching ~90% completeness, one of the most complete X-ray censuses achieved for a NYMG. Low-mass members and candidates (<0.6 Msolar) have X-ray to bolometric luminosity ratios around the canonical saturation limit (Lx/Lbol~10^-3). X-ray luminosity functions show the VCA to be consistent with the similarly aged Pleiades (in the F5 to M3 range) and significantly more active than the older Hyades (in the F5 to K4 range). The combination of an updated membership census and a nearly complete X-ray census establishes the VCA as a particularly robust calibration point for studies of the early evolution of coronal X-ray activity.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-30T08:10:00Z",
+      "arxiv:comment": "12 pages, 14 figures. Submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Daniela Muñoz-Giraldo"
+        },
+        {
+          "name": "Beate Stelzer"
+        },
+        {
+          "name": "Alex Binks"
+        },
+        {
+          "name": "Enza Magaudda"
+        },
+        {
+          "name": "Stefanie Raetz"
+        },
+        {
+          "name": "Christian Schneider"
+        }
+      ],
+      "score": 2.6
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.27317v1",
+      "title": "Superdiffusion at the Galactic Centre",
+      "updated": "2026-07-29T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.27317v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.27317v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Tracking S-star cluster orbits around Sgr A* calibrates orbital transport models for space-borne gravitational wave detectors. Standard kinetic theories model this cluster via local Fokker-Planck equations, which predict that general relativistic precession halts angular momentum diffusion at the Schwarzschild barrier. Because inverse-square gravitational encounters generate a Holtsmark torque distribution with infinite variance, resonant relaxation operates as a space-fractional process governed by non-local Lévy flights. We simulate this superdiffusive continuous-time random walk using a Markov chain initialized with empirical S-star orbits, including the recently observd S301. Integro-differential fractional operators allow trajectories to cross regions of quenched local diffusion without density buildup at the barrier. Non-equilibrium regimes yield immediate linear flux growth, while secular tidal heating at periastron inflates stellar radii to shift disruption boundaries. Regularized backward integration of the fractional transport equation traces current phase space configurations back to initial deposition states, matching the energy requirements of the \\emph{Fermi} bubbles. Relativistic precession does not suppress mass-ratio inspiral rates, which provides a model for event topologies in target galactic nuclei.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-07-29T18:00:00Z",
+      "arxiv:comment": "Submitted",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Pau Amaro Seoane"
+        },
+        {
+          "name": "Kostas Tzanavaris"
+        },
+        {
+          "name": "Reinhard Genzel"
+        },
+        {
+          "name": "Frank Eisenhauer"
+        },
+        {
+          "name": "Thomas Ott"
+        },
+        {
+          "name": "Stefan Gillessen"
+        },
+        {
+          "name": "Guillaume Bourdarot"
+        },
+        {
+          "name": "Diogo C. Ribeiro"
+        },
+        {
+          "name": "Matteo Sadun Bordoni"
+        },
+        {
+          "name": "Simran Joharle"
+        },
+        {
+          "name": "Felix Mang"
+        },
+        {
+          "name": "Andreas Burkert"
+        },
+        {
+          "name": "Jorge Cuadra"
+        },
+        {
+          "name": "Diego Calderón"
+        },
+        {
+          "name": "Hagai B. Perets"
+        },
+        {
+          "name": "Tsvi Piran"
+        },
+        {
+          "name": "Re'em Sari"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
       "title": "Stellar Population Astrophysics (SPA) with the TNG. Beyond the iron peak: Galactic evolution of molybdenum, ruthenium and zirconium through open clusters",
@@ -77,62 +246,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 18.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.26330v1",
-      "title": "Automated Computer Vision Cluster Identification in the Fireworks Galaxy",
-      "updated": "2026-07-28T23:04:11Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.26330v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.26330v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the integrated photometry, radii, and spatial distribution of young ($\\leq$ 25 Myr) star cluster candidates in NGC 6946. NGC 6946, also known as the Fireworks Galaxy, is a highly star-forming galaxy with numerous young massive clusters. We have developed a modified computer vision algorithm using photometry from images taken with Hubble Space Telescope (HST) Wide Field Camera 3 Ultraviolet channel (WFC3/UVIS) F275W and F336W filters to identify and outline candidate clusters. We describe our technique in detail, including extensive testing with artificial clusters, where the algorithm recovers 60.7% of synthetic clusters and has a conservative false positive rate of 27.3% down to luminosities of M$_{F336W} \\sim -6$. We identify 6410 cluster candidates down to much fainter magnitudes (M$_{F336W} \\sim -4$) via the aforementioned algorithm which are more difficult to verify, but are still of interest as the luminosity function of these candidates is consistent with a standard power law with a slope of $\\sim$2.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-28T23:04:11Z",
-      "arxiv:comment": "15 pages, 9 figures; accepted for publication in The Astrophysical Journal",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Debby Tran"
-        },
-        {
-          "name": "Benjamin F. Williams"
-        },
-        {
-          "name": "Emily M. Levesque"
-        },
-        {
-          "name": "Tobin M. Wainer"
-        },
-        {
-          "name": "Emerson Bowles"
-        },
-        {
-          "name": "Bo-Eun Choi"
-        },
-        {
-          "name": "L. Clifton Johnson"
-        },
-        {
-          "name": "Anil C. Seth"
-        }
-      ],
-      "score": 52.9
+      "score": 17.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -178,7 +292,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -224,7 +338,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24580v1",
@@ -282,7 +396,7 @@
           "name": "F. Nogueras-Lara"
         }
       ],
-      "score": 2.2
+      "score": 1.7
     },
     {
       "id": "http://arxiv.org/abs/2607.23128v1",
@@ -539,7 +653,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 55.5
+      "score": 55.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -588,7 +702,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -701,7 +815,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
