@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T14:14:40.820279",
+  "fetched_at": "2026-08-01T03:17:58.690919",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.28278v1",
@@ -31,7 +31,7 @@
       "author": {
         "name": "K. L. Luhman"
       },
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.27831v1",
@@ -87,88 +87,6 @@
         }
       ],
       "score": 2.1
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.27317v1",
-      "title": "Superdiffusion at the Galactic Centre",
-      "updated": "2026-07-29T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.27317v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.27317v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Tracking S-star cluster orbits around Sgr A* calibrates orbital transport models for space-borne gravitational wave detectors. Standard kinetic theories model this cluster via local Fokker-Planck equations, which predict that general relativistic precession halts angular momentum diffusion at the Schwarzschild barrier. Because inverse-square gravitational encounters generate a Holtsmark torque distribution with infinite variance, resonant relaxation operates as a space-fractional process governed by non-local Lévy flights. We simulate this superdiffusive continuous-time random walk using a Markov chain initialized with empirical S-star orbits, including the recently observd S301. Integro-differential fractional operators allow trajectories to cross regions of quenched local diffusion without density buildup at the barrier. Non-equilibrium regimes yield immediate linear flux growth, while secular tidal heating at periastron inflates stellar radii to shift disruption boundaries. Regularized backward integration of the fractional transport equation traces current phase space configurations back to initial deposition states, matching the energy requirements of the \\emph{Fermi} bubbles. Relativistic precession does not suppress mass-ratio inspiral rates, which provides a model for event topologies in target galactic nuclei.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-29T18:00:00Z",
-      "arxiv:comment": "Submitted",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Pau Amaro Seoane"
-        },
-        {
-          "name": "Kostas Tzanavaris"
-        },
-        {
-          "name": "Reinhard Genzel"
-        },
-        {
-          "name": "Frank Eisenhauer"
-        },
-        {
-          "name": "Thomas Ott"
-        },
-        {
-          "name": "Stefan Gillessen"
-        },
-        {
-          "name": "Guillaume Bourdarot"
-        },
-        {
-          "name": "Diogo C. Ribeiro"
-        },
-        {
-          "name": "Matteo Sadun Bordoni"
-        },
-        {
-          "name": "Simran Joharle"
-        },
-        {
-          "name": "Felix Mang"
-        },
-        {
-          "name": "Andreas Burkert"
-        },
-        {
-          "name": "Jorge Cuadra"
-        },
-        {
-          "name": "Diego Calderón"
-        },
-        {
-          "name": "Hagai B. Perets"
-        },
-        {
-          "name": "Tsvi Piran"
-        },
-        {
-          "name": "Re'em Sari"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -246,7 +164,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 17.5
+      "score": 17.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -292,7 +210,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -338,7 +256,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24580v1",
@@ -396,7 +314,7 @@
           "name": "F. Nogueras-Lara"
         }
       ],
-      "score": 1.7
+      "score": 1.2
     },
     {
       "id": "http://arxiv.org/abs/2607.23128v1",
@@ -653,7 +571,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 55.0
+      "score": 54.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -702,7 +620,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -815,7 +733,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
