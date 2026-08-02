@@ -1,38 +1,6 @@
 {
-  "fetched_at": "2026-08-01T13:28:04.061306",
+  "fetched_at": "2026-08-02T03:18:09.865451",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2607.28278v1",
-      "title": "JWST's Constraints on the Substellar IMF in NGC 2024",
-      "updated": "2026-07-30T14:28:02Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.28278v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.28278v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A recent study has reported the detection of a turnover in the initial mass function (IMF) below 12 Mjup and the possible detection of a minimum mass near 3 Mjup in the heavily embedded cluster NGC 2024 (<1 Myr), which was based on a sample of brown dwarf candidates in NIRCam images from the James Webb Space Telescope (JWST). I have used those NIRCam data in conjunction with archival spectra from JWST's Near-Infrared Spectrograph (NIRSpec) to constrain the substellar IMF in NGC 2024. I present NIRSpec data for 87 sources, 67 of which are within the NIRCam field. Based on those spectra and data from previous studies (e.g., X-ray emission), I have classified 45 of the NIRSpec targets as members of NGC 2024, 17 of which have spectral types indicative of brown dwarfs (M6.5-L; 13 are within NIRCam). The latter have mass estimates as low as 4 Mjup according to theoretical evolutionary models. There remain a few photometric candidates lacking spectra that extend down to the completeness limit of the images (>=2 Mjup for Ak>=1), so the minimum mass of the IMF has not been detected. It is not possible to measure a reliable substellar IMF from the NIRCam images because of the small number of brown dwarfs encompassed by them, a bias against objects at lower masses due to the high extinctions, and incompleteness at >=10 Mjup due to the saturation limit. Thus, there is no evidence in the JWST data for a turnover below 12jup.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-30T14:28:02Z",
-      "arxiv:comment": "MNRAS, in press",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "K. L. Luhman"
-      },
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2607.27831v1",
       "title": "The Volans-Carina association An X-ray Bridge Between Younger and Older Stellar Populations",
@@ -164,7 +132,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 17.0
+      "score": 16.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -210,7 +178,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -256,7 +224,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24580v1",
@@ -314,7 +282,7 @@
           "name": "F. Nogueras-Lara"
         }
       ],
-      "score": 1.2
+      "score": 0.7
     },
     {
       "id": "http://arxiv.org/abs/2607.23128v1",
@@ -571,7 +539,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 54.5
+      "score": 54.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -620,7 +588,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -675,7 +643,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -733,7 +701,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
