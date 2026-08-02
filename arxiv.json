@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T03:18:09.865451",
+  "fetched_at": "2026-08-02T13:34:53.880273",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.27831v1",
@@ -54,7 +54,7 @@
           "name": "Christian Schneider"
         }
       ],
-      "score": 1.6
+      "score": 1.1
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -285,68 +285,6 @@
       "score": 0.7
     },
     {
-      "id": "http://arxiv.org/abs/2607.23128v1",
-      "title": "Correlation between the two-armed $V_R$ spiral in the $Z$--$V_Z$ plane and moving groups",
-      "updated": "2026-07-25T10:06:58Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.23128v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.23128v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-4357/ae7f0e",
-          "@title": "doi"
-        }
-      ],
-      "summary": "We use a cross-matched sample of 3.7 million stars from Gaia DR3 and LAMOST DR7 to investigate the velocity substructures in the Milky Way disk. The median radial velocity $V_R$ as a function of guiding-center radius $R_g$ exhibits alternating positive and negative stripes, which are strongly correlated with known moving groups. By examining the $V_R$ distribution in the $Z$--$V_Z$ phase space, we find that the D1, P2, D2, and P3 $V_R$ stripes display clear two-armed spirals.\n  Among the moving groups embedded in these $V_R$ stripes, the Coma Berenices moving group in the P3 stripe exhibits the most pronounced two-armed spiral and serves as the primary contributor to the left arm of the overall P3 spiral. The angular momentum, eccentricities, orbital frequencies, and frequency ratios of its stars are consistent with either the corotation resonance of the spiral arms or the $m=4$ inner Lindblad resonance of the bar.\n  Test-particle simulations confirm that a bar with a varying pattern speed, together with static or transient spiral arms, can produce such two-armed spirals.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-25T10:06:58Z",
-      "arxiv:comment": "33 pages, 21 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "arxiv:journal_ref": "Yan, Xu 2026, ApJ, 1006, 143",
-      "author": [
-        {
-          "name": "Yan Xu"
-        },
-        {
-          "name": "Chao Liu"
-        },
-        {
-          "name": "Chengdong Li"
-        },
-        {
-          "name": "Heidi Neiberg"
-        },
-        {
-          "name": "Hao Tian"
-        },
-        {
-          "name": "Hua Jian Wang"
-        },
-        {
-          "name": "Xiao Dian Chen"
-        },
-        {
-          "name": "Li Cai Deng"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae7f0e",
-      "score": 0.1
-    },
-    {
       "id": "http://arxiv.org/abs/2607.18707v1",
       "title": "Estimating stellar metallicities from Gaia DR3 XP data using LAMOST DR10",
       "updated": "2026-07-21T05:03:29Z",
@@ -390,7 +328,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -429,7 +367,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -481,7 +419,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 4.4
+      "score": 3.9
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -750,7 +688,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -805,7 +743,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     }
   ]
 }
