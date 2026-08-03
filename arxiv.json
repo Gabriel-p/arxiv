@@ -1,6 +1,173 @@
 {
-  "fetched_at": "2026-08-02T13:34:53.880273",
+  "fetched_at": "2026-08-03T03:19:54.410539",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.29023v1",
+      "title": "The Open Cluster Chemical Abundances and Mapping Survey XI. First Gradients from SDSS/MWM BOSS Determined Clusters",
+      "updated": "2026-07-31T04:52:28Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.29023v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.29023v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The Milky Way Mapper program in the fifth generation of the Sloan Digital Sky Survey (SDSS-V/MWM) has observed millions of stars, thousands of them in open clusters. The Open Cluster Chemical Abundances and Mapping (OCCAM) survey continues to create comprehensive datasets of open clusters and their members in order to constrain Galactic parameters. This eleventh contribution from the OCCAM survey is the first to use stellar parameters from stars observed with the optical Baryon Oscillation Spectroscopic Survey (BOSS) spectrograph to determine cluster membership. We use data from SDSS-V/MWM's 20th Data Release (DR20) and curate a sample of 1883 stars in 111 open clusters, including 95 not in previous OCCAM samples based on infrared data from the Apache Point Observatory Galactic Evolution Experiment (APOGEE) spectrograph. The sample includes 16 clusters with stars observed using both the BOSS and APOGEE spectrographs, and we find consistent agreement in measurements of both [Fe/H] and [$α/M$]. The BOSS sample includes the majority of the clusters at young ages (Age $< 150$ Myr) that complement the APOGEE sample of primarily older clusters. We use the combined BOSS+APOGEE OCCAM sample to constrain the radial metallicity gradient with respect to $R_{guide}$ ($-0.079 \\pm 0.005 \\text{ dex kpc}^{-1}$) and $R_{gc}$ ($-0.082 \\pm 0.006 \\text{ dex kpc}^{-1}$), which agree well with results from previous OCCAM papers using only APOGEE data. Finally, the inclusion of the primarily young BOSS clusters has not changed that the OCCAM open cluster sample indicates no significant evolution of this gradient in different mono-age populations.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-31T04:52:28Z",
+      "arxiv:comment": "18 pages, 10 figures, submitted to the Astronomical Journalhttps://info.arxiv.org/help/prep#journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jonah M. Otto"
+        },
+        {
+          "name": "Peter M. Frinchaboy"
+        },
+        {
+          "name": "John Donor"
+        },
+        {
+          "name": "Ilija Medan"
+        },
+        {
+          "name": "Natalie R. Myers"
+        },
+        {
+          "name": "Audrey Hauck"
+        },
+        {
+          "name": "Katia Cunha"
+        },
+        {
+          "name": "Gail Zasowski"
+        },
+        {
+          "name": "Madeleine McKenzie"
+        },
+        {
+          "name": "Jingkun Zhao"
+        },
+        {
+          "name": "Jose Eduardo Mendez-Delgado"
+        },
+        {
+          "name": "Amaya Sinha"
+        },
+        {
+          "name": "Zachary Way"
+        },
+        {
+          "name": "Dmitry Bizyaev"
+        },
+        {
+          "name": "Andrew R. Casey"
+        },
+        {
+          "name": "Jose G. Fernandez-Trincado"
+        }
+      ],
+      "score": 32.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.28832v1",
+      "title": "EWOCS-VIII: Internal kinematics and expansion of Westerlund 1 from VVVX proper motions",
+      "updated": "2026-07-30T20:51:36Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2607.28832v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2607.28832v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Westerlund 1 (Wd1) is the most massive young star cluster known in the Milky Way and a key laboratory for studying the early dynamical evolution of massive clusters. Owing to its high extinction, the internal kinematics of its intermediate-mass stellar population remain largely unexplored. We aim to characterize the internal kinematic properties of Wd1 using a homogeneous census of near-infrared (NIR) selected cluster members and their proper motions (PMs). We considered PMs from the VIRAC2 catalog, based on multi-epoch VVV/VVVX observations. For $1286$ candidate members previously identified through NIR photometry and astrometry (Paper I), we computed their PMs relative to the cluster mean motion and analyzed them as a function of position and radius. We also investigate radial trends, test the robustness of the results against the assumed cluster center, and search for preferred directions of motion. We detect a statistically significant signature of expansion in the outer regions of Wd1, with the radial component of the relative PMs increasing with distance from the cluster center. The expansion appears asymmetric, with the strongest gradient detected along a PA$=84\\degree \\pm 8\\degree$ in the plane of the sky and with $5.9σ$ significance. We also find hints for inward radial motions in the central region, consistent with ongoing mass segregation, but only at $\\approx 2σ$ significance. Taken together, these results are consistent with a nearly monolithic formation scenario.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-07-30T20:51:36Z",
+      "arxiv:comment": "Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "C. Ordenes-Huanca"
+        },
+        {
+          "name": "A. Bayo"
+        },
+        {
+          "name": "M. Guarcello"
+        },
+        {
+          "name": "M. Zoccali"
+        },
+        {
+          "name": "A. Rojas-Arriagada"
+        },
+        {
+          "name": "Nicholas J. Wright"
+        },
+        {
+          "name": "S. Sciortino"
+        },
+        {
+          "name": "F. Damiani"
+        },
+        {
+          "name": "K. Muzic"
+        },
+        {
+          "name": "V. Almendros-Abad"
+        },
+        {
+          "name": "M. Andersen"
+        },
+        {
+          "name": "R. Bonito"
+        },
+        {
+          "name": "M. Haberle"
+        },
+        {
+          "name": "T. J. Haworth"
+        },
+        {
+          "name": "L. Prisinzano L. Prisinzano"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2607.27831v1",
       "title": "The Volans-Carina association An X-ray Bridge Between Younger and Older Stellar Populations",
@@ -132,7 +299,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 16.5
+      "score": 16.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -178,7 +345,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -224,7 +391,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24580v1",
@@ -282,7 +449,7 @@
           "name": "F. Nogueras-Lara"
         }
       ],
-      "score": 0.7
+      "score": 0.2
     },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -477,7 +644,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 54.0
+      "score": 53.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -526,7 +693,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14987v1",
@@ -581,7 +748,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -639,7 +806,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
