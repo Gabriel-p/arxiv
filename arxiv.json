@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T03:19:54.410539",
+  "fetched_at": "2026-08-03T14:46:14.019385",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -84,7 +84,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 32.5
+      "score": 32.0
     },
     {
       "id": "http://arxiv.org/abs/2607.28832v1",
@@ -221,7 +221,7 @@
           "name": "Christian Schneider"
         }
       ],
-      "score": 1.1
+      "score": 0.6
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -495,7 +495,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -534,7 +534,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -586,7 +586,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 3.9
+      "score": 3.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -696,61 +696,6 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2607.14987v1",
-      "title": "Stellar Multiplicity in Open Clusters: Investigating Binary Fractions and Their Relationship with Cluster Properties",
-      "updated": "2026-07-16T13:37:49Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.14987v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.14987v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-4357/ae7de9",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Stellar multiplicity is key in dynamical evolution of open clusters (OCs) and processes of stellar formation and evolution. Since most stars form in multiple systems, investigating how environmental properties affect their occurrence is crucial. We aim to investigate how binary fraction and mass ratios change across different OC environments. Using a sample of 773 OCs, we identified binary systems and estimated binary fractions, obtaining values in the ranges 0.10-0.85 overall and 0.06-0.79 for high mass-ratio systems. No strong dependence on age or evolutionary stage is found, while an anticorrelation between metallicity and the binary fraction is identified. However, young and old clusters exhibit distinct mass-ratio distributions. We also find that the probability of a star being the primary component increases with stellar mass. In contrast, the probability of a star belonging to a binary system increases with mass for masses below 1 solar mass, and remains between 60% and 70% for high masses. Binary systems are preferentially located in the inner regions of clusters compared to single stars, and the mean mass ratio decreases with increasing distance from the cluster center. These results suggest that the binary fraction appears to be set at early times and remains largely unaffected by cluster dynamical evolution. The concentration of binaries in the inner regions of clusters likely reduces their susceptibility to dynamical escape.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-16T13:37:49Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "arxiv:journal_ref": "The Astrophysical Journal, Volume 1006, Article 92, 2026",
-      "author": [
-        {
-          "name": "Ruan P. Alves"
-        },
-        {
-          "name": "Hektor Monteiro"
-        },
-        {
-          "name": "Wilton S. Dias"
-        },
-        {
-          "name": "Gabriel R. Hickel"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae7de9",
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2607.14208v1",
       "title": "The Open Cluster Chemical Abundances and Mapping Survey: IX. Measuring the Effects of Stellar Diffusion in the Open Clusters NGC 752 and Ruprecht 147 using APOGEE",
       "updated": "2026-07-15T18:00:00Z",
@@ -855,7 +800,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 3.8
+      "score": 3.3
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -910,7 +855,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 3.8
+      "score": 3.3
     }
   ]
 }
