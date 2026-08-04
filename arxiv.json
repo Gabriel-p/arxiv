@@ -1,6 +1,62 @@
 {
-  "fetched_at": "2026-08-03T14:46:14.019385",
+  "fetched_at": "2026-08-04T14:22:58.347005",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.02563v1",
+      "title": "Radial abundance gradients of 18 elements in Galactic open clusters from infrared MWM spectra A detailed analysis of 655 giants in 133 clusters",
+      "updated": "2026-08-03T17:44:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.02563v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.02563v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are powerful tools for studying the Milky Way. While large spectroscopic surveys now provide spectra for many cluster members, automated pipelines and heterogeneous membership selections can introduce systematics and inflate apparent cluster scatter. Therefore, a homogeneous re-analysis with careful membership control and an explicit treatment of departures from Local Thermodynamic Equilibrium is valuable for establishing robust abundance gradients. The aim is to derive precise Galactic radial abundance gradients for multiple elements using open cluster giants, and to investigate how these gradients depend on cluster age. We re-analysed high-resolution infrared APOGEE Milky Way Mapper spectra from DR19 of the Sloan Digital Sky Survey for 655 open cluster members selected from Gaia data that satisfied strict quality cuts on signal-to-noise ratio. Stellar parameters and 18 elemental abundances were obtained using spectrum fitting with the Python version of Spectroscopy Made Easy, applying Non-Local Thermodynamic Equilibrium corrections for several key atomic species. Further quality control of the results was made by visual inspection of all fitted synthetic spectra. The metallicity of the clusters decreases with Galactocentric radius, following a global slope close to -0.06 dex/kpc. Beyond 10-11 kpc, there is modest flattening. In addition to the elements analysed in the \\cite{otto2026} study, we derive open-cluster gradients for V, Cu, Zn and Yb using APOGEE spectra.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-03T17:44:09Z",
+      "arxiv:comment": "18 pages, 11 figures, Accepted",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "arxiv:journal_ref": "Astronomy and Astrophysics, 2026",
+      "author": [
+        {
+          "name": "S. Bijavara Seshashayana"
+        },
+        {
+          "name": "H. Jönsson"
+        },
+        {
+          "name": "V. D'Orazi"
+        },
+        {
+          "name": "K. Cunha"
+        },
+        {
+          "name": "P. Frinchaboy"
+        },
+        {
+          "name": "J. M. Otto"
+        }
+      ],
+      "score": 24.8
+    },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
       "title": "The Open Cluster Chemical Abundances and Mapping Survey XI. First Gradients from SDSS/MWM BOSS Determined Clusters",
@@ -84,89 +140,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 32.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.28832v1",
-      "title": "EWOCS-VIII: Internal kinematics and expansion of Westerlund 1 from VVVX proper motions",
-      "updated": "2026-07-30T20:51:36Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.28832v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.28832v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Westerlund 1 (Wd1) is the most massive young star cluster known in the Milky Way and a key laboratory for studying the early dynamical evolution of massive clusters. Owing to its high extinction, the internal kinematics of its intermediate-mass stellar population remain largely unexplored. We aim to characterize the internal kinematic properties of Wd1 using a homogeneous census of near-infrared (NIR) selected cluster members and their proper motions (PMs). We considered PMs from the VIRAC2 catalog, based on multi-epoch VVV/VVVX observations. For $1286$ candidate members previously identified through NIR photometry and astrometry (Paper I), we computed their PMs relative to the cluster mean motion and analyzed them as a function of position and radius. We also investigate radial trends, test the robustness of the results against the assumed cluster center, and search for preferred directions of motion. We detect a statistically significant signature of expansion in the outer regions of Wd1, with the radial component of the relative PMs increasing with distance from the cluster center. The expansion appears asymmetric, with the strongest gradient detected along a PA$=84\\degree \\pm 8\\degree$ in the plane of the sky and with $5.9σ$ significance. We also find hints for inward radial motions in the central region, consistent with ongoing mass segregation, but only at $\\approx 2σ$ significance. Taken together, these results are consistent with a nearly monolithic formation scenario.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-30T20:51:36Z",
-      "arxiv:comment": "Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "C. Ordenes-Huanca"
-        },
-        {
-          "name": "A. Bayo"
-        },
-        {
-          "name": "M. Guarcello"
-        },
-        {
-          "name": "M. Zoccali"
-        },
-        {
-          "name": "A. Rojas-Arriagada"
-        },
-        {
-          "name": "Nicholas J. Wright"
-        },
-        {
-          "name": "S. Sciortino"
-        },
-        {
-          "name": "F. Damiani"
-        },
-        {
-          "name": "K. Muzic"
-        },
-        {
-          "name": "V. Almendros-Abad"
-        },
-        {
-          "name": "M. Andersen"
-        },
-        {
-          "name": "R. Bonito"
-        },
-        {
-          "name": "M. Haberle"
-        },
-        {
-          "name": "T. J. Haworth"
-        },
-        {
-          "name": "L. Prisinzano L. Prisinzano"
-        }
-      ],
-      "score": 0.5
+      "score": 31.5
     },
     {
       "id": "http://arxiv.org/abs/2607.27831v1",
@@ -221,7 +195,7 @@
           "name": "Christian Schneider"
         }
       ],
-      "score": 0.6
+      "score": 0.1
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -299,7 +273,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 16.0
+      "score": 15.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -345,7 +319,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -391,65 +365,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 8.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.24580v1",
-      "title": "Constraining young massive cluster properties with radio-continuum observations: The Arches cluster",
-      "updated": "2026-07-27T15:49:14Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.24580v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.24580v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The Arches cluster, located in the Galactic Centre (GC) is one of the best astrophysical laboratories to study the properties of massive stars and young massive clusters (YMCs). However, several fundamental parameters of the Arches cluster remain uncertain.\n  Our goal is to constrain key cluster parameters (cluster age, mass, and initial mass function, IMF) by comparing the observed stellar radio flux density distribution of the Arches cluster to those derived from a set of synthetic clusters.\n  We use the deep X-band (10 GHz) Very Large Array data from our previous radio continuum study of the Arches cluster. We model each simulated cluster with three parameters: age, mass, and IMF slope. We use three different stellar evolutionary models: GENEC, PARSEC, and MIST at two different metallicities, solar ($Z=0.014$) and super-solar ($Z=0.020$). We run Markov-chain Monte-Carlo simulations for each model/metallicity combination in order to explore parameter space.\n  All models and metallicities return preferred ages in the $2\\lesssim t_{\\rm age}/{\\rm Myr}\\lesssim 3$ range. We obtain an IMF slope of $α_{\\rm IMF}=-1.85^{+0.28}_{-0.20}$, averaged over all models, where uncertainties are dominated by the degeneracy between cluster mass and IMF slope. If we use the IMF slope from previous infrared studies as prior, the cluster mass distributions peak at $\\sim2.7\\times10^4\\, M_\\odot$ and we can establish a lower limit at $\\gtrsim2\\times10^4 M_\\odot$ for the Arches cluster mass.\n  Radio continuum observations of their most massive stars can be used to constrain YMC parameters. In the case of the Arches cluster, age can be determined regardless of prior spectroscopic information, which can be useful to characterise newly discovered YMCs in the GC. Our results support the idea that a top-heavy IMF may be preferred in the GC or in YMCs in general.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-27T15:49:14Z",
-      "arxiv:comment": "14 pages. Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "M. Cano-González"
-        },
-        {
-          "name": "R. Schödel"
-        },
-        {
-          "name": "A. Alberdi"
-        },
-        {
-          "name": "F. Najarro"
-        },
-        {
-          "name": "J. Moldón"
-        },
-        {
-          "name": "M. Pérez-Torres"
-        },
-        {
-          "name": "F. Nogueras-Lara"
-        }
-      ],
-      "score": 0.2
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -495,7 +411,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -534,7 +450,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -586,7 +502,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 3.4
+      "score": 2.9
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -644,7 +560,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 53.5
+      "score": 53.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -693,7 +609,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -751,7 +667,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -800,7 +716,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -855,7 +771,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     }
   ]
 }
