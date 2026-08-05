@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-08-04T14:22:58.347005",
+  "fetched_at": "2026-08-05T14:16:11.697459",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.02814v1",
+      "title": "The Bimodal Mass Ratio Distribution of the Hyades",
+      "updated": "2026-08-03T19:09:39Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.02814v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.02814v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The distribution of stellar mass ratios, q, in binary systems provides critical insights into the dynamical history and star-formation processes of open clusters. Here, I re-evaluate the recently published mass ratio distribution (MRD) of a sample of spectroscopic binaries in the Hyades cluster, which was based on stellar positions in colour-magnitude diagrams. I demonstrate that the mass ratios derived in that work are statistically inconsistent with a random distribution of orbital inclinations. Furthermore, several systems yielded non-physical results. By applying a Richardson-Lucy deconvolution to the spectroscopic mass functions and assuming a random distribution of inclinations, I re-derive the MRD for this sample, showing that it is statistically different from a uniform distribution. I further find a significant dependence on the primary mass: systems with lower-mass primaries exhibit a peak near q~1, whereas more massive primaries show a distribution heavily skewed toward low mass ratios (q~0.15). These findings highlight the potential pitfalls of photometric mass ratio derivations and underscore the need for further verification with future data releases such as Gaia DR4.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "physics.data-an",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-03T19:09:39Z",
+      "arxiv:comment": "Submitted to RevMexAA",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": {
+        "name": "Henri M. J. Boffin"
+      },
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
       "title": "Radial abundance gradients of 18 elements in Galactic open clusters from infrared MWM spectra A detailed analysis of 655 giants in 133 clusters",
@@ -55,7 +101,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 24.8
+      "score": 24.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -140,62 +186,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 31.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.27831v1",
-      "title": "The Volans-Carina association An X-ray Bridge Between Younger and Older Stellar Populations",
-      "updated": "2026-07-30T08:10:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.27831v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.27831v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Nearby young moving groups (NYMGs) provide benchmarks for studying the evolution of magnetic activity and planetary environments at early ages. The Volans-Carina association (VCA), as a pre-main sequence association at a distance of ~90 pc, occupies a sparsely sampled region of parameter space between younger nearby associations and older distant open clusters. We have re-evaluated the membership probabilities of the VCA catalog presented in Gagne et al. (2018a) with BANYAN as well as updated kinematics from Gaia DR3. Stellar parameters were derived from multi-wavelength spectral energy distributions, with the obtained bolometric luminosity and effective temperature being used in combination with pre-main sequence evolutionary models to obtain an isochronal age of the association. We joined data from the SRG (Spectrum Roentgen Gamma)/eROSITA and ROSAT all-sky surveys with a dedicated XMM-Newton Large Programme to construct a comprehensive X-ray catalog. Our updated census of the VCA comprises 29 highly probable members, 30 candidate members, and four uncertain objects. Isochronal analysis of the association yields an age of 80+-20 Myr, consistent with previous estimates. We detect X-ray emission from 56 objects, reaching ~90% completeness, one of the most complete X-ray censuses achieved for a NYMG. Low-mass members and candidates (<0.6 Msolar) have X-ray to bolometric luminosity ratios around the canonical saturation limit (Lx/Lbol~10^-3). X-ray luminosity functions show the VCA to be consistent with the similarly aged Pleiades (in the F5 to M3 range) and significantly more active than the older Hyades (in the F5 to K4 range). The combination of an updated membership census and a nearly complete X-ray census establishes the VCA as a particularly robust calibration point for studies of the early evolution of coronal X-ray activity.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-30T08:10:00Z",
-      "arxiv:comment": "12 pages, 14 figures. Submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Daniela Muñoz-Giraldo"
-        },
-        {
-          "name": "Beate Stelzer"
-        },
-        {
-          "name": "Alex Binks"
-        },
-        {
-          "name": "Enza Magaudda"
-        },
-        {
-          "name": "Stefanie Raetz"
-        },
-        {
-          "name": "Christian Schneider"
-        }
-      ],
-      "score": 0.1
+      "score": 31.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -273,7 +264,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 15.5
+      "score": 15.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -319,7 +310,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -365,7 +356,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -411,7 +402,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -450,7 +441,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -502,7 +493,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 2.9
+      "score": 2.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -560,7 +551,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 53.0
+      "score": 52.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15131v1",
@@ -609,7 +600,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -667,7 +658,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -716,7 +707,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -771,7 +762,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     }
   ]
 }
