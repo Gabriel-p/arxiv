@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-08-05T14:16:11.697459",
+  "fetched_at": "2026-08-06T14:20:02.445882",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.04165v1",
+      "title": "Chemo-dynamical stratification of the Galactic disc using \\emph{Gaia}-ESO open clusters",
+      "updated": "2026-08-04T19:21:56Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.04165v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.04165v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Understanding how the Milky Way disc assembled and evolved requires tracing the coupled evolution of stellar chemistry and orbital structure over time. Open clusters, as coeval stellar populations with well-constrained ages, distances, and chemical properties, provide powerful benchmarks for this purpose. We aim to characterise the age-dependent chemo-dynamical structure of the Galactic disc and to investigate how open clusters populate dynamical phase space as a function of age. We analysed a sample of Galactic open clusters using homogeneous chemical abundances from the Gaia-ESO Survey together with Gaia DR3 phase-space information. Combining cluster ages with orbital parameters and actions, we examined how clusters populate dynamical phase space over the last ~4 Gyr. We find that clusters with similar chemical properties occupy coherent regions of action space, while their orbital structure shows a clear dependence on age. Radial excursions and orbital eccentricities broaden systematically toward older ages, indicating increasingly diverse orbital configurations in the older cluster population. The dispersion in the [Fe/H]-Rg relation also increases with age, consistent with a combination of secular redistribution, survival bias, and dynamically distinct outer-disc populations. In addition, older clusters reach larger vertical amplitudes and vertical actions, revealing a coupled but anisotropic evolution between in-plane and vertical orbital structure. Open clusters provide precise, age-resolved tracers of the chemo-dynamical structure of the Galactic disc. Our results reveal systematic age-dependent variations in the orbital and chemical properties of the cluster population, consistent with the combined effects of secular evolution, orbital redistribution, and environmentally dependent cluster survival over the last few Gyr.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-04T19:21:56Z",
+      "arxiv:comment": "15 pages, 7 main Figures and two appendix figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Casmir O. Obasi"
+        },
+        {
+          "name": "M. Gómez"
+        },
+        {
+          "name": "J. G. Fernández-Trincado"
+        },
+        {
+          "name": "D. Minniti"
+        },
+        {
+          "name": "B. Dias"
+        },
+        {
+          "name": "B. Barbuy"
+        },
+        {
+          "name": "M. V. Alonso"
+        },
+        {
+          "name": "L. D. Baravalle"
+        }
+      ],
+      "score": 13.5
+    },
     {
       "id": "http://arxiv.org/abs/2608.02814v1",
       "title": "The Bimodal Mass Ratio Distribution of the Hyades",
@@ -45,7 +106,7 @@
       "author": {
         "name": "Henri M. J. Boffin"
       },
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -101,7 +162,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 24.3
+      "score": 23.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -186,7 +247,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 31.0
+      "score": 30.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -264,7 +325,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 15.0
+      "score": 14.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -310,7 +371,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -356,7 +417,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18707v1",
@@ -402,7 +463,7 @@
           "name": "Rodolfo Smiljanic"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -441,7 +502,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -493,7 +554,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 2.4
+      "score": 1.9
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -551,56 +612,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 52.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.15131v1",
-      "title": "Berkeley 32: A Metal-poor and Dynamically Evolved Open Cluster with Evidence of Radial Migration",
-      "updated": "2026-07-16T15:41:20Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.15131v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.15131v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a comprehensive chemo-dynamical analysis of the old, metal-poor open cluster Berkeley 32 based on Gaia DR3 astrometry and Gaia-ESO Survey DR5.1 spectroscopy. Cluster membership is determined using a Gaussian Mixture Model applied to proper-motion components and trigonometric parallaxes. Isochrone fitting yields an age of 4.9 +/- 0.5 Gyr, a heliocentric distance of 3325 pc, and an extinction of A_V = 0.38 +/- 0.12 mag. Spectroscopic member stars exhibit a mean metallicity of [Fe/H] = -0.39 +/- 0.02 dex, near-solar alpha-element abundances, and a weighted mean radial velocity of V_rad = 106.26 +/- 0.03 km s^-1. The [Y/Mg] chemical clock yields an age of 4.73 +/- 2.39 Gyr, consistent with the isochrone estimate. Orbital integration indicates a moderately eccentric orbit (e = 0.268 +/- 0.004) with a guiding radius of R_g = 8.82 kpc. The inferred chemical birth radius, R_b = 9.82 kpc, together with DeltaR ~ -1 kpc, suggests moderate inward radial migration, while the offsets among R_b, R_g, and R_GC are consistent with both churning and blurring processes. A photometric analysis identifies a binary fraction of f_b = 0.449 +/- 0.017 for systems with mass ratios q >= 0.5, implying a substantial unresolved binary population. Radial cumulative distribution functions further reveal significant mass segregation, with evolved stars more centrally concentrated than main-sequence stars. These results indicate that Berkeley 32 is a dynamically evolved old-disk cluster whose present-day structure and orbit preserve signatures of both internal dynamical evolution and radial migration within the Galactic disk.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-16T15:41:20Z",
-      "arxiv:comment": "27 pages, including 15 figures and 4 tables, accepted for publication in the The Astronomical Journal (AJ)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Deniz Cennet Çınar"
-        },
-        {
-          "name": "D. Bisht"
-        },
-        {
-          "name": "Ing-Guey Jiang"
-        },
-        {
-          "name": "W. H. Elsanhoury"
-        },
-        {
-          "name": "K. Belwal"
-        },
-        {
-          "name": "Selçuk Bilir"
-        }
-      ],
-      "score": 0.5
+      "score": 52.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -658,7 +670,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -707,7 +719,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -762,7 +774,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     }
   ]
 }
