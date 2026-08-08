@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T13:10:44.848048",
+  "fetched_at": "2026-08-08T12:54:33.004342",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.05297v1",
@@ -38,7 +38,7 @@
           "arxiv:affiliation": "University of Barcelona"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -99,53 +99,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 13.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.02814v1",
-      "title": "The Bimodal Mass Ratio Distribution of the Hyades",
-      "updated": "2026-08-03T19:09:39Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.02814v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.02814v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The distribution of stellar mass ratios, q, in binary systems provides critical insights into the dynamical history and star-formation processes of open clusters. Here, I re-evaluate the recently published mass ratio distribution (MRD) of a sample of spectroscopic binaries in the Hyades cluster, which was based on stellar positions in colour-magnitude diagrams. I demonstrate that the mass ratios derived in that work are statistically inconsistent with a random distribution of orbital inclinations. Furthermore, several systems yielded non-physical results. By applying a Richardson-Lucy deconvolution to the spectroscopic mass functions and assuming a random distribution of inclinations, I re-derive the MRD for this sample, showing that it is statistically different from a uniform distribution. I further find a significant dependence on the primary mass: systems with lower-mass primaries exhibit a peak near q~1, whereas more massive primaries show a distribution heavily skewed toward low mass ratios (q~0.15). These findings highlight the potential pitfalls of photometric mass ratio derivations and underscore the need for further verification with future data releases such as Gaia DR4.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "physics.data-an",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-03T19:09:39Z",
-      "arxiv:comment": "Submitted to RevMexAA",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": {
-        "name": "Henri M. J. Boffin"
-      },
-      "score": 0.5
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -201,7 +155,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 23.3
+      "score": 22.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -286,7 +240,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 30.0
+      "score": 29.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -364,7 +318,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 14.0
+      "score": 13.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -410,7 +364,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -456,53 +410,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 6.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.18707v1",
-      "title": "Estimating stellar metallicities from Gaia DR3 XP data using LAMOST DR10",
-      "updated": "2026-07-21T05:03:29Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.18707v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.18707v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Gaia DR3 provides astrophysical parameters for hundreds of millions of stars, but the metallicities [M/H] from its GSP-Phot module suffer from systematic biases. We estimate stellar metallicities from Gaia DR3 data using the homogeneous spectroscopic iron abundances [Fe/H] of LAMOST DR10 as training labels. We cross-matched LAMOST DR10 with Gaia DR3 and trained a gradient-boosted decision-tree regressor (XGBoost) on 1.20 million AFGK stars using only Gaia-derived inputs and proxies. We validated the estimates on held-out LAMOST stars, GALAH DR4, APOGEE DR17, and 46 open clusters, and applied the model to measure the radial metallicity gradient of the Milky Way disk. On the held-out test set, the model achieves a mean absolute error of 0.052 dex and $R^2=0.94$ with negligible bias, compared with 0.242 dex for GSP-Phot on the same stars. The estimates transfer well to external surveys, with mean absolute errors of 0.066 dex for GALAH and 0.068 dex for APOGEE. For open clusters, the median difference between our estimated [Fe/H] and spectroscopic values is 0.041 dex, smaller than both GSP-Phot (0.248 dex) and a previous APOGEE-trained XGBoost model (0.067 dex). Applied to the Galactic disk, our model recovers a broken thin-disk radial gradient, with inner and outer slopes of $+0.119$ and $-0.058\\,\\mathrm{dex\\,kpc^{-1}}$, respectively, and a break near 5.9 kpc, as well as an open-cluster gradient of $-0.066\\,\\mathrm{dex\\,kpc^{-1}}$; both agree with previous high-resolution spectroscopic studies. Our [Fe/H] estimates are accurate to 0.05-0.07 dex for AFGK stars with $[\\mathrm{Fe/H}]\\gtrsim-2.5$; below this limit, the predictions should be treated as lower bounds. The catalogue and trained model are publicly available on Zenodo and are suitable for chemical studies of the Milky Way.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-21T05:03:29Z",
-      "arxiv:comment": "12 pages, 16 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Divyansh Srivastava"
-        },
-        {
-          "name": "Andrzej Niedzielski"
-        },
-        {
-          "name": "Rodolfo Smiljanic"
-        }
-      ],
-      "score": 0.5
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -541,7 +449,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -593,7 +501,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 1.9
+      "score": 1.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -651,7 +559,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 51.5
+      "score": 51.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -709,7 +617,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2607.13747v2",
@@ -758,7 +666,7 @@
           "name": "Gabriel Szasz"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     },
     {
       "id": "http://arxiv.org/abs/2607.11299v1",
@@ -813,7 +721,7 @@
           "name": "Ladislav Šubr"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     }
   ]
 }
