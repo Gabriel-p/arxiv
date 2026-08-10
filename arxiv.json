@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T12:57:11.733436",
+  "fetched_at": "2026-08-10T13:15:30.750889",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.05297v1",
@@ -38,7 +38,7 @@
           "arxiv:affiliation": "University of Barcelona"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -99,7 +99,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 12.0
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -155,7 +155,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 22.3
+      "score": 21.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -240,7 +240,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 29.0
+      "score": 28.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -318,7 +318,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 13.0
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -364,7 +364,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -410,7 +410,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2607.18681v1",
@@ -449,7 +449,7 @@
           "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.16815v1",
@@ -501,7 +501,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 0.9
+      "score": 0.4
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -559,7 +559,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 50.5
+      "score": 50.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -617,111 +617,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.13747v2",
-      "title": "On the current status of tidal tails of Galactic open clusters",
-      "updated": "2026-07-19T21:02:58Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.13747v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.13747v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Tidal tails of open clusters provide direct observational evidence of cluster mass loss and dynamical interaction with the Galactic tidal field. The advent of $Gaia$ astrometry has enabled systematic detection of extended stellar structures around nearby clusters, revealing that many systems exhibit complex and extended morphologies beyond their classical tidal radii. In this review, we summarise the current observational and theoretical status of tidal tails in open clusters, focusing on results obtained in the $Gaia$ era. We compare different detection methodologies, including density-based clustering, probabilistic models, and orbit-based selection techniques, and discuss how methodological choices influence the inferred morphology of tidal structures. While the Hyades remains the most robust example of well-defined tidal tails, other clusters show a wide range of extended features with varying degrees of coherence and symmetry. We argue that the diversity of reported results reflects both genuine astrophysical variation and systematic differences in analysis approaches. We outline prospects enabled by upcoming astrometric, spectroscopic, and photometric surveys, which will allow a more unified and physically consistent understanding of cluster dissolution in the Milky Way.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-15T12:03:41Z",
-      "arxiv:comment": "12 pages; 6 figures; 4 tables; submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Tahereh Ramezani"
-        },
-        {
-          "name": "Prapti Mondal"
-        },
-        {
-          "name": "Katerina Neumannova"
-        },
-        {
-          "name": "Ernst Paunzen"
-        },
-        {
-          "name": "Johana Supikova"
-        },
-        {
-          "name": "Gabriel Szasz"
-        }
-      ],
-      "score": 0.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.11299v1",
-      "title": "The white dwarf population of open clusters and their tidal tails. Tracers of contamination and stellar interactions",
-      "updated": "2026-07-13T09:15:44Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.11299v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.11299v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Recent Gaia studies have identified numerous open clusters (OCs) & tidal tail catalogues, enabling systematic searches for white dwarfs (WDs) associated with clusters & their extended structures. We compile a literature-based sample of OC-WD pairs to validate WD membership in cluster cores & tails, investigate the initial-final mass relation (IFMR), identify WDs formed through non-canonical evolution, and interpret the observed WD populations using a grid of N-body simulations. We combine Gaia DR3 cluster & tail catalogues with UV-IR photometry to analyse the OC-WD pairs. WD masses, cooling ages, radii, temperatures & luminosities are estimated using colour-magnitude diagrams & spectral energy distributions. These observations are interpreted in the context of N-body simulations. We identify 235 OC-WD pairs (99 in tails) in 80 clusters. More than 28% of the pairs are likely spurious, with contamination substantially higher in the tails (>48%) than in the cluster cores (>13%), indicating significant field-star contamination in current Gaia-based catalogues. The Pleiade tails also show severe contamination by old WDs. Simulations predict that the fraction of core WDs increases with cluster age, reaching >10%, whereas the observed fractions remain systematically lower, consistent with the WD deficit problem. Despite the high contamination rate, most tail WDs (~83%) are consistent with having been born inside the tidal radius. We also identify 63 candidate binary-origin WDs & 47 new IFMR candidates. WDs provide a powerful probe of contamination in cluster and tail catalogues and place important constraints on cluster detection methods & N-body simulations. Resolving the WD deficit and improving membership validation will require improved observations, membership methods, WD physics, and spectroscopic follow-up, enabling stronger constraints on dynamical cluster evolution & the WD IFMR.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-13T09:15:44Z",
-      "arxiv:comment": "12 pages main text, 48 pages appendix. Appendix C is only available on arXiv. Tables B1 and B2 will be available on CDS. Accepted in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Vikrant V. Jadhav"
-        },
-        {
-          "name": "Pavel Kroupa"
-        },
-        {
-          "name": "David R. Miller"
-        },
-        {
-          "name": "Snehalata Sahu"
-        },
-        {
-          "name": "Dinnbier Frantisek"
-        },
-        {
-          "name": "Ladislav Šubr"
-        }
-      ],
-      "score": 0.3
+      "score": 1.5
     }
   ]
 }
