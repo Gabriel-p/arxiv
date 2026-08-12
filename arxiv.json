@@ -1,6 +1,250 @@
 {
-  "fetched_at": "2026-08-10T13:15:30.750889",
+  "fetched_at": "2026-08-12T13:16:03.376737",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.10884v1",
+      "title": "The Radcliffe Wave is not alone in the Local System",
+      "updated": "2026-08-11T13:02:17Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.10884v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.10884v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The spatial distribution of open star clusters (OSCs) younger than 30 million years old in the Local System was studied. It was shown for the first time that a significant number of OSCs belong to the recently discovered Vela Ridge gas and dust supercloud. The most intriguing property of this sample of OSCs is the presence of periodic perturbations in their vertical coordinates with a maximum amplitude of 47 pc and a wavelength of 1.1 kpc. Thus, the discovered chain of young OSCs is analogous to the Radcliffe Wave, but with a lower amplitude of vertical perturbations, a shorter wavelength, and is, on average, 2 million years older.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-11T13:02:17Z",
+      "arxiv:comment": "10 pages, 6 figures. Submitted to astronomy Letters",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "V. V. Bobylev"
+        },
+        {
+          "name": "A. T. Bajkova"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.10750v1",
+      "title": "SIRIUS Project: Dynamical Evolution of Primordial Binaries during Star Cluster Formation",
+      "updated": "2026-08-11T10:08:25Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.10750v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.10750v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Binary populations are closely linked to the star formation process; however, their primordial properties can be changed by subsequent dynamical interactions within their natal clusters. The aim of this study is to clarify how different primordial binary populations affect the evolution of multiplicity and the global structure of forming star clusters. We investigate the dynamical evolution of primordial binaries during star cluster formation using self-consistent Nbody/smoothed particle hydrodynamics simulations that follow the collapse of a molecular cloud to a star cluster. We systematically compare three star formation models: close binary (CB), wide binary (WB), and single star (SS) formation model. In CB and WB models, the multiplicity fraction decreases with time due to dynamical interactions. In particular, the fraction in the WB model drops to a level comparable to that in the SS model. The multiplicity fraction of high-mass stars is similarly high in all models, whereas only the CB model shows a relatively high fraction for low-mass stars. Due to the assumption of equal-mass binary formation, the CB and WB models exhibit an excess at q= 1 in the mass-ratio distribution, while the SS model has no clear trend. Frequent few-body interactions generate distinct stellar populations inside and outside the cluster: the multiplicity fraction within the cluster is systematically higher, while mass functions in the outside have a shallower slope. Finally, stellar density profiles in the clusters are broadly similar among all models. The primordial binary population significantly affects the final binary properties, while having only a limited impact on their host cluster structures. Our results suggest that close binaries need to form at the star formation stage to reproduce the observed multiplicity fraction of low-mass stars and the excess of equal-mass binaries.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-11T10:08:25Z",
+      "arxiv:comment": "11 pages, 14 figures, accepted for publication in Astronomy and Astrophysics (A&A)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Naoto Harada"
+        },
+        {
+          "name": "Michiko S. Fujii"
+        },
+        {
+          "name": "Takayuki R. Saitoh"
+        },
+        {
+          "name": "Yutaka Hirai"
+        }
+      ],
+      "score": 5.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.10077v1",
+      "title": "Filling the Gap: Calibrating Gyrochronology at 1.3 Gyr with the Benchmark Cluster NGC-752",
+      "updated": "2026-08-10T18:00:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.10077v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.10077v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Empirical gyrochronology relies on co-eval stellar associations to map stellar rotation as a function of mass and age. The accuracy of its age predictions is therefore limited by the number and quality of benchmark rotation sequences. The well-characterized clusters NGC-6811 (t ~ 1 Gyr) and NGC-6819 (t ~ 2.5 Gyr) bracket an intermediate-age interval in which stellar spin-down remains poorly constrained due to lack of available rotation data. At t ~ 1.3 Gyr, NGC-752 provides a critical benchmark within this gap, but previous measurements could not define the G- and K-dwarf rotation sequence needed for calibration. Here, we combine Gaia-based NGC-752 membership lists with literature rotation periods to map NGC-752's slow-rotator sequence for the first time. We identify a well-defined sequence intermediate between those of NGC-6811 and NGC-6819. Stars near Teff ~ 4500 K rotate more slowly than their counterparts in NGC-6811, indicating that stars experiencing stalled spin-down at ~1 Gyr have resumed appreciable spin-down by the age of NGC-752. Adopting an age of 1.3 Gyr for NGC-752, we further show that existing empirical gyrochronology models overestimate the ages of many G and early-K dwarfs by 20--50% because they lack intermediate-age calibration data, although uncertainty in the absolute age of NGC-752 may account for part of this offset. NGC-752 therefore provides a necessary anchor for improving rotational age estimates. This calibration is especially timely because Gaia DR4, Roman, and PLATO are expected to yield rotation periods for tens of millions of stars, making the age coverage of benchmark sequences a principal limitation on large-scale gyrochronology.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-10T18:00:05Z",
+      "arxiv:comment": "Accepted to ApJ Letters",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Andrew W. Boyle"
+        },
+        {
+          "name": "Andrew W. Mann"
+        }
+      ],
+      "score": 0.3
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.09439v1",
+      "title": "The Environmental Dependence of Star Cluster Demographics",
+      "updated": "2026-08-10T11:13:11Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.09439v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.09439v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Both the star cluster mass function and the lifetimes of clusters may vary with galactic environment, but measuring this variation is challenging because in observational surveys real features of cluster demographics are invariably entangled with catalogue incompleteness. Here we analyse $\\approx$ 8300 star clusters in 12 galaxies drawn from the LEGUS survey using the slug Bayesian forward modelling framework coupled to our new c-4 neural network-based completeness estimator, which allows us to incorporate realistic catalogue-inclusion probabilities directly into the likelihood and compensate for these biases. We show that this approach allows us to fit observed cluster luminosity functions with excellent fidelity at both galactic and sub-galactic scales. We find that mass function slopes are relatively universal and broadly consistent with a power law $M^{-2}$ form, but high mass truncations vary by orders of magnitude both between and within galaxies. Our fits also strongly favour models where cluster disruption is mass-independent, but the time at which disruption begins again shows wide environmental variations. Our results demonstrate that young cluster demographics are environmentally dependent, with the clearest signal appearing at the upper end of the cluster mass function, but that these variations are not well-explained by any of the models currently in the literature, and do not correlate straightforwardly with properties such as star formation rate per unit area or strength of shear.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-10T11:13:11Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jianling Tang"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Mark R. Krumholz"
+        },
+        {
+          "name": "Tomasz Różański"
+        }
+      ],
+      "score": 57.6
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.08216v1",
+      "title": "Kings of the Milky Way: A Homogeneous Gaia DR3 Analysis of King Open Clusters and the Galactic Disc Metallicity Gradient",
+      "updated": "2026-08-08T16:25:45Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.08216v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.08216v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "This study aims to establish an internally homogeneous set of structural, astrophysical, and kinematical parameters for King open clusters and to assess their role as tracers of the Galactic thin disc. We present a homogeneous structural, astrophysical, and kinematical analysis of 27 King open clusters using high-precision Gaia DR3 astrometry, photometry, and spectroscopy. Cluster reddenings, distances, metallicities, and ages are determined via a homogeneous Markov Chain Monte Carlo isochrone-fitting approach applied to Gaia colour-magnitude diagrams. The derived parameters span E(G_BP-G_RP) = 0.113-1.933 mag, metallicities of [Fe/H] = -0.40 to +0.28 dex, ages from 17 to 6166 Myr, and heliocentric distances between 739 and 6272 pc. A comparison between astrometric and isochrone-based distances yields a median parallax difference of $-13μ$as, indicating a good level of internal consistency between the photometric and astrometric distance scales within the adopted homogeneous framework. The radial metallicity behaviour of the King clusters is also examined using three complementary Galactic distance definitions and compared with the metallicity-radius relations obtained independently from 164 spectroscopically analysed open clusters from the literature. The King-cluster gradients are close to $-0.060$ dex kpc$^{-1}$ and are broadly consistent with those of the external reference sample, indicating that the homogeneously analysed King clusters follow the negative metallicity-radius trend traced by the broader thin-disc open-cluster population. Flatter gradients are found for young clusters, suggesting more homogeneous chemical enrichment at recent epochs. When dynamical constraints are applied to reduce the effects of radial migration and orbital blurring, the inferred gradient remains close to $-0.059$ dex kpc$^{-1}$.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-08T16:25:45Z",
+      "arxiv:comment": "40 pages, 18 figures, 7 tables. Accepted for publication in Advances in Space Research",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Talar Yontan"
+        },
+        {
+          "name": "Selçuk Bilir"
+        },
+        {
+          "name": "Hikmet Çakmak"
+        },
+        {
+          "name": "Olcay Plevne"
+        },
+        {
+          "name": "Esin Soydugan"
+        },
+        {
+          "name": "Seval Taşdemir"
+        },
+        {
+          "name": "Remziye Canbay"
+        },
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "Seliz Koç"
+        },
+        {
+          "name": "Hülya Karagöz"
+        },
+        {
+          "name": "Burçin Tanık Öztürk"
+        },
+        {
+          "name": "Furkan Akbaba"
+        },
+        {
+          "name": "Özcan Çalışkan"
+        },
+        {
+          "name": "Timothy Banks"
+        }
+      ],
+      "score": 11.5
+    },
     {
       "id": "http://arxiv.org/abs/2608.05297v1",
       "title": "Expanding stellar associations as Galactic accelerometers",
@@ -38,7 +282,7 @@
           "arxiv:affiliation": "University of Barcelona"
         }
       ],
-      "score": 2.0
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -99,7 +343,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 11.5
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -155,7 +399,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 21.8
+      "score": 20.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -240,7 +484,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 28.5
+      "score": 27.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -318,7 +562,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 12.5
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -364,7 +608,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 4.5
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -410,98 +654,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.18681v1",
-      "title": "Examining the stellar-merger origin of the blue main sequence in the open cluster NGC\\,3532 with N-body simulations",
-      "updated": "2026-07-21T03:57:22Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.18681v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.18681v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Extended main-sequence turnoffs, extended main sequences, and split main sequences observed in the colour-magnitude diagrams of young and intermediate-age star clusters are now widely interpreted as the consequence of a distribution of stellar rotation rates among their intermediate-mass (1.5-1.8~M$_\\odot$) members. However, the origin of the slowly rotating population that occupies the blue main sequence (bMS) remains uncertain, and stellar mergers have been proposed as one possible pathway. We investigate whether stellar mergers can account for the observed bMS population in the 330-Myr Galactic open cluster NGC 3532. We perform fourteen direct NBODY7 simulations spanning different initial cluster masses, radii, binary fractions, and binary orbital distributions. The simulations are selected to reproduce the present-day properties of NGC 3532 within the observational uncertainties, allowing us to estimate the expected number of merger products among its intermediate-mass main-sequence (MS) members. The cluster hosts $\\approx 37\\%$ bMS members among its intermediate-mass MS population, which are predominantly slow rotators. Despite this large bMS population, our simulations produce only a handful of MS-MS merger products, due to the cluster's low density and substantial mass loss during its evolution. Stellar mergers are unlikely to be the dominant formation channel for the observed slowly rotating bMS population in NGC 3532 and other disperse open clusters. Our results instead favour angular-momentum loss mechanisms operating before or shortly after the zero-age main sequence, such as pre-main-sequence star-disk interactions or tidal synchronization in low-mass ratio binaries.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-07-21T03:57:22Z",
-      "arxiv:comment": "Submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Khushboo K. Rao",
-          "arxiv:affiliation": "Institute of Astronomy, National Central University, 300 Zhongda Road, Zhongli 32001 Taoyuan, Taiwan"
-        },
-        {
-          "name": "Sambaran Banerjee",
-          "arxiv:affiliation": "Helmholtz-Instituts für Strahlen- und Kernphysik"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.16815v1",
-      "title": "Escaped White Dwarf Candidates from Open Clusters",
-      "updated": "2026-07-18T13:16:17Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.16815v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.16815v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Observations reveal a pronounced deficit of white dwarfs (WDs) in open clusters (OCs) relative to theoretical expectations, suggesting that a significant fraction of WDs may have escaped from their parent clusters after formation. In this work, we perform a systematic search for escaped WD candidates from OCs by back-tracing the motions of WDs and star clusters from Gaia DR3 catalogs. We identify 476 candidate WDs with kinematics consistent with having escaped from one of 175 OCs. A control-field Monte Carlo (MC) test yields a contamination rate of 87.6% +/- 4.3%. Given this high contamination rate, we filter the candidates by ensuring each WD's total age is consistent with its host cluster age, thereby establishing a more reliable follow-up sample of 109 stars. The excluded candidates with anomalous ages are more likely field interlopers or products of accelerated binary evolution. Among these, the low-mass regime exhibits a clear excess over expected field binary merger rates, whereas the high-mass regime remains broadly consistent with binary population synthesis predictions. Finally, comparing escaped WDs with cluster properties, absolute escape counts appear limited by Gaia's distance-dependent incompleteness. The normalized escape fraction shows little dependence on cluster age, possibly favouring WD loss near formation over gradual evaporation, but is strongly anticorrelated with cluster mass, plausibly because deeper potential wells of massive clusters retain more of their WDs.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-18T13:16:17Z",
-      "arxiv:comment": "Accepted by ApJS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Huahui Yan"
-        },
-        {
-          "name": "David R. Miller"
-        },
-        {
-          "name": "Jingkun Zhao"
-        },
-        {
-          "name": "Jincheng Guo"
-        },
-        {
-          "name": "Chengyuan Li"
-        }
-      ],
-      "score": 0.4
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -559,7 +712,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 50.0
+      "score": 49.0
     },
     {
       "id": "http://arxiv.org/abs/2607.14208v1",
@@ -617,7 +770,7 @@
           "name": "Natalie Myers"
         }
       ],
-      "score": 1.5
+      "score": 0.5
     }
   ]
 }
