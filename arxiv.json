@@ -1,42 +1,53 @@
 {
-  "fetched_at": "2026-08-12T13:16:03.376737",
+  "fetched_at": "2026-08-13T13:18:12.836015",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2608.10884v1",
-      "title": "The Radcliffe Wave is not alone in the Local System",
-      "updated": "2026-08-11T13:02:17Z",
+      "id": "http://arxiv.org/abs/2608.12301v1",
+      "title": "From Cluster Cores to the Low-Density Field: Strong Environmental Quenching of Galaxy Star Formation at Low Redshift",
+      "updated": "2026-08-12T17:45:56Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2608.10884v1",
+          "@href": "https://arxiv.org/abs/2608.12301v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2608.10884v1",
+          "@href": "https://arxiv.org/pdf/2608.12301v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "The spatial distribution of open star clusters (OSCs) younger than 30 million years old in the Local System was studied. It was shown for the first time that a significant number of OSCs belong to the recently discovered Vela Ridge gas and dust supercloud. The most intriguing property of this sample of OSCs is the presence of periodic perturbations in their vertical coordinates with a maximum amplitude of 47 pc and a wavelength of 1.1 kpc. Thus, the discovered chain of young OSCs is analogous to the Radcliffe Wave, but with a lower amplitude of vertical perturbations, a shorter wavelength, and is, on average, 2 million years older.",
+      "summary": "We investigate how galaxy star formation activity depends on environment using a sample of 81,647 SDSS galaxies selected over $0.03\\leq z\\leq0.075$ and $9.7\\leq\\log_{10}(M_\\star/h^{-2}M_\\odot)\\leq11.0$, including 18,426 members from 572 clusters in the \\texttt{GalWCat19} catalog. We characterize environment in two complementary ways: (1) nearest-neighbor density for the full sample, and (2) clustercentric radius and host halo mass for \\texttt{GalWCat19}. The sSFR distribution remains bimodal across all environments, with distinct quenched and star-forming components. As local density increases, the quenched component becomes more prominent, while the characteristic sSFR of the star-forming component decreases by approximately $0.29$--$0.35$ dex from the lowest- to highest-density classes. Within clusters, the quenched fraction decreases with increasing projected clustercentric radius, while the star-forming peak shifts by approximately $0.42$ dex toward lower sSFR from the outskirts to the inner cluster region. This extends the picture from previous studies, in which environmental trends are primarily associated with changes in the quenched fraction, by showing that galaxies remaining in the star-forming population also exhibit systematically suppressed sSFR in denser environments. The dependence on host halo mass is weaker and is most apparent among lower-stellar-mass galaxies in the inner cluster regions. By measuring the environmental quenching efficiency at fixed stellar mass, we find excess quenching in cluster environments beyond that expected from stellar-mass quenching alone. These results show that environment is associated not only with an increased probability of quenching, but also with suppressed star formation among galaxies that remain star forming, with local density and clustercentric radius showing the strongest associations.",
       "category": {
         "@term": "astro-ph.GA",
         "@scheme": "http://arxiv.org/schemas/atom"
       },
-      "published": "2026-08-11T13:02:17Z",
-      "arxiv:comment": "10 pages, 6 figures. Submitted to astronomy Letters",
+      "published": "2026-08-12T17:45:56Z",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "V. V. Bobylev"
+          "name": "Mohamed H. Abdullah"
         },
         {
-          "name": "A. T. Bajkova"
+          "name": "A. E. Abdelaziz"
+        },
+        {
+          "name": "Gillian Wilson"
+        },
+        {
+          "name": "Ahmed M. Abdelbar"
+        },
+        {
+          "name": "M. M. Beheary"
+        },
+        {
+          "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 0.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -85,50 +96,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.10077v1",
-      "title": "Filling the Gap: Calibrating Gyrochronology at 1.3 Gyr with the Benchmark Cluster NGC-752",
-      "updated": "2026-08-10T18:00:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.10077v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.10077v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Empirical gyrochronology relies on co-eval stellar associations to map stellar rotation as a function of mass and age. The accuracy of its age predictions is therefore limited by the number and quality of benchmark rotation sequences. The well-characterized clusters NGC-6811 (t ~ 1 Gyr) and NGC-6819 (t ~ 2.5 Gyr) bracket an intermediate-age interval in which stellar spin-down remains poorly constrained due to lack of available rotation data. At t ~ 1.3 Gyr, NGC-752 provides a critical benchmark within this gap, but previous measurements could not define the G- and K-dwarf rotation sequence needed for calibration. Here, we combine Gaia-based NGC-752 membership lists with literature rotation periods to map NGC-752's slow-rotator sequence for the first time. We identify a well-defined sequence intermediate between those of NGC-6811 and NGC-6819. Stars near Teff ~ 4500 K rotate more slowly than their counterparts in NGC-6811, indicating that stars experiencing stalled spin-down at ~1 Gyr have resumed appreciable spin-down by the age of NGC-752. Adopting an age of 1.3 Gyr for NGC-752, we further show that existing empirical gyrochronology models overestimate the ages of many G and early-K dwarfs by 20--50% because they lack intermediate-age calibration data, although uncertainty in the absolute age of NGC-752 may account for part of this offset. NGC-752 therefore provides a necessary anchor for improving rotational age estimates. This calibration is especially timely because Gaia DR4, Roman, and PLATO are expected to yield rotation periods for tens of millions of stars, making the age coverage of benchmark sequences a principal limitation on large-scale gyrochronology.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-10T18:00:05Z",
-      "arxiv:comment": "Accepted to ApJ Letters",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Andrew W. Boyle"
-        },
-        {
-          "name": "Andrew W. Mann"
-        }
-      ],
-      "score": 0.3
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -170,7 +138,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 57.6
+      "score": 57.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -243,7 +211,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2608.05297v1",
@@ -282,7 +250,7 @@
           "arxiv:affiliation": "University of Barcelona"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -343,7 +311,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -399,7 +367,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 20.8
+      "score": 20.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -484,7 +452,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 27.5
+      "score": 27.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -562,7 +530,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -608,7 +576,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -654,7 +622,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -712,65 +680,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 49.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.14208v1",
-      "title": "The Open Cluster Chemical Abundances and Mapping Survey: IX. Measuring the Effects of Stellar Diffusion in the Open Clusters NGC 752 and Ruprecht 147 using APOGEE",
-      "updated": "2026-07-15T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.14208v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.14208v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A growing understanding of stellar processes that alter surface chemical abundances over time has opened new avenues for using these changes as probes of stellar properties. On the main sequence and near the turnoff, stellar surface abundances are affected by gravitational settling and radiative acceleration, collectively known as atomic diffusion. In this work, we use SDSS/APOGEE DR17/DR19 data to investigate atomic diffusion in the open clusters NGC~752 and Ruprecht~147, thereby constraining how these signatures vary with age. From the analysis of Fe, C, N, Na, Mg, Al, Si, S, K, Ca, Ti, V, Cr, Mn, Co, and Ni, we find significant abundance differences between stars near the turnoff and the cooler main-sequence, where warmer stars are depleted relative to the cooler main-sequence stars at the $\\geq1σ$ level for all elements available in the analysis. These abundance differences are consistent with the signatures expected from atomic diffusion and are further supported by comparisons with stellar models that include diffusion. By fitting the observed $T_{\\rm eff}$--[Fe/H] patterns with MIST isochrones, we obtain best-fit ages of 1.0~Gyr for NGC~752 and 2.5--3.2~Gyr for Ruprecht~147. Carbon is a key diagnostic, as it shows both atomic diffusion and extra-mixing signatures associated with first-dredge-up. For NGC~752, the coolest stars in our sample, which provide the best proxy for the initial cluster composition, yield [Fe/H]$_{\\rm CS} = 0.01~\\pm~0.02(\\pm~0.05)$ dex. For Ruprecht~147, we obtain [Fe/H]$_{\\rm CS} = 0.17~\\pm~0.00(\\pm~0.05)$ dex. Our findings further constrain atomic diffusion models, suggesting that atomic diffusion affects age estimates of stars near the main-sequence turnoff.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-15T18:00:00Z",
-      "arxiv:comment": "Accepted for publication in the ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Diogo Souto"
-        },
-        {
-          "name": "Taylor Spoo"
-        },
-        {
-          "name": "Peter M. Frinchaboy"
-        },
-        {
-          "name": "Katia Cunha"
-        },
-        {
-          "name": "Jamie Tayar"
-        },
-        {
-          "name": "Alessa Ibrahim Wiggins"
-        },
-        {
-          "name": "Natalie Myers"
-        }
-      ],
-      "score": 0.5
+      "score": 48.5
     }
   ]
 }
