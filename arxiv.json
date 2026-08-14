@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-08-13T13:18:12.836015",
+  "fetched_at": "2026-08-14T13:12:46.196264",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.13313v1",
+      "title": "Differential Reddening and Extinction Law Analyses of Galactic Open Clusters",
+      "updated": "2026-08-13T14:37:57Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.13313v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.13313v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Extinction significantly affects open cluster parameters and their use in studies of Galactic structure, yet homogeneous large sample measurements of open cluster extinction properties remain limited. Using Gaia-era open cluster member samples combined with multi-band photometry and stellar parameters, we derive color excesses of member stars and provide the homogeneous characterization of the mean reddening, differential reddening, and color excess ratio (CER) at the cluster scale. Differential reddening increases systematically with mean reddening, with highly reddened clusters near the Galactic plane showing stronger extinction variations. Star-by-star reddening corrections narrow color--magnitude diagram (CMD) sequences in 369 of 435 clusters (85%) with reliable CMD-width measurements, and cluster color excess maps reveal small-scale extinction structures. The median CER is compatible with the standard diffuse interstellar medium extinction curve, while the broad CER distribution and its large-scale variations across the Galactic disk likely reflect differences in the dominant dust environments sampled along different Galactic sight lines.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-13T14:37:57Z",
+      "arxiv:comment": "15 pages, 9 figures, 1 table, Accepted for publication in AJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Xiaohan Chen"
+        },
+        {
+          "name": "Shu Wang"
+        },
+        {
+          "name": "Xiaodian Chen"
+        }
+      ],
+      "score": 22.0
+    },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
       "title": "From Cluster Cores to the Low-Density Field: Strong Environmental Quenching of Galaxy Star Formation at Low Redshift",
@@ -47,7 +93,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -96,7 +142,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -138,7 +184,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 57.1
+      "score": 56.6
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -211,46 +257,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 11.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.05297v1",
-      "title": "Expanding stellar associations as Galactic accelerometers",
-      "updated": "2026-08-05T18:00:17Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.05297v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.05297v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The gravitational potential of the Milky Way is fundamental for understanding the evolution of our Galaxy and the nature of dark matter. We introduce a new method to constrain the Galactic potential using expanding young stellar associations. We exploit the physical constraint that these stars share a common, compact origin to reconstruct their most likely orbits and infer the gravitational potential in which they have evolved. We define the size of an association using the trace and determinant of its position covariance matrix. By integrating synthetic associations backward in different trial potentials, we show how the true potential can be identified as the one that minimises these metrics. We demonstrate that, while current observational errors are still too large, upcoming observations will allow us to distinguish between different potentials. Our results suggest that with Gaia DR4 astrometry and radial velocity errors below 0.2 km/s, the halo mass can be constrained with a precision of 0.6 trillion solar masses and the concentration with a precision of < 0.8 using a single association, albeit with significant degeneracies. In addition, we show that the inferred dynamical traceback age is sensitive to the gravitational potential, suggesting that independent age information can help break existing degeneracies, but also that traceback-age estimates are not independent of the assumed potential. Expanding stellar associations carry information about the gravitational potential in which they have evolved. With the arrival of next-generation astrometry and high-precision radial velocities, they will provide a complementary tool for constraining the Galactic potential.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-05T18:00:17Z",
-      "arxiv:comment": "13 pages, 8 figures. Accepted in A&A. Full analysis code is provided",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Till Sawala",
-          "arxiv:affiliation": "University of Helsinki"
-        },
-        {
-          "name": "Núria Miret Roig",
-          "arxiv:affiliation": "University of Barcelona"
-        }
-      ],
-      "score": 0.5
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -311,7 +318,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -367,7 +374,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 20.3
+      "score": 19.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -452,7 +459,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 27.0
+      "score": 26.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -530,7 +537,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -576,7 +583,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -622,7 +629,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -680,7 +687,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 48.5
+      "score": 48.0
     }
   ]
 }
