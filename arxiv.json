@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T13:12:46.196264",
+  "fetched_at": "2026-08-15T12:42:09.217228",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -45,7 +45,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 22.0
+      "score": 21.5
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -93,7 +93,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -142,7 +142,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -184,7 +184,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 56.6
+      "score": 56.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -257,7 +257,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -318,7 +318,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -374,7 +374,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 19.8
+      "score": 19.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -459,7 +459,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 26.5
+      "score": 26.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -537,7 +537,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -583,7 +583,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -629,7 +629,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2607.15149v1",
@@ -687,7 +687,7 @@
           "name": "G. Szász"
         }
       ],
-      "score": 48.0
+      "score": 47.5
     }
   ]
 }
