@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T12:42:09.217228",
+  "fetched_at": "2026-08-16T12:44:31.912515",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -45,7 +45,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 21.5
+      "score": 21.0
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -93,7 +93,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -142,7 +142,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -184,7 +184,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 56.1
+      "score": 55.6
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -257,7 +257,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -318,7 +318,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -374,7 +374,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 19.3
+      "score": 18.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -459,7 +459,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 26.0
+      "score": 25.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -537,7 +537,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -583,7 +583,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -629,65 +629,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.15149v1",
-      "title": "Cluster characteristics of Galactic open clusters",
-      "updated": "2026-07-16T15:51:07Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.15149v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.15149v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Star clusters are perfectly suited for studying the formation, evolution, and dynamics of stars and their host galaxies. For this, we need to estimate total masses, radii and shapes of star clusters. These parameters strongly influence their fates in the host galaxies. However, there is no agreement about these characteristics in the literature. The published values widely disagree. We estimated total masses and cluster radii using a very conservative approach: calculating member masses and summing them. Furthermore, we investigated the three-dimensional characteristics of open clusters and their limitations. We used a commonly used grid of evolutionary tracks for different photometric sources, including 2MASS, Gaia, and Pan-STARRS. The interpolation method was tested using synthetic clusters built with ASteCA. To estimate three-dimensional shapes, we used the distribution of the well-known Galactic coordinates and inverse parallaxes. We estimated the total masses and radii of about 7000 open clusters and observed traces of tidal tails. Individual values can be used in future $Gaia$ data releases to obtain even more precise values. The current DR3 allows the study of only three-dimensional shapes up to 500 pc. Beyond this distance, we find a significant needle-like shape due to uncertainties in observed parallaxes.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-16T15:51:07Z",
-      "arxiv:comment": "11 pages, 17 figures, submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "K. Neumannová"
-        },
-        {
-          "name": "J. Supíková"
-        },
-        {
-          "name": "N. Faltová"
-        },
-        {
-          "name": "P. Mondal"
-        },
-        {
-          "name": "E. Paunzen"
-        },
-        {
-          "name": "T. Ramezani"
-        },
-        {
-          "name": "G. Szász"
-        }
-      ],
-      "score": 47.5
+      "score": 1.5
     }
   ]
 }
