@@ -1,6 +1,70 @@
 {
-  "fetched_at": "2026-08-16T12:44:31.912515",
+  "fetched_at": "2026-08-17T12:49:42.143041",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.14514v1",
+      "title": "The deepest color-magnitude diagrams for the benchmark open cluster NGC 2437 from Gaia and VVVX",
+      "updated": "2026-08-14T17:33:39Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.14514v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.14514v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Deep photometry of Galactic star clusters provides one of the most powerful tools for determining their physical properties. In particular, in low Galactic latitude regions that suffer from heavy extinction and crowding. NGC2437 is the most extended star cluster in the near-IR footprint of the VVV Extended Survey (VVVX), covering more than one degree on the sky. We aim to characterize its physical properties using Gaia DR3 in the optical and the VVVX in the near-IR. We use Gaia DR3 proper motions to select NGC2437 members in order to make optical and near-IR color-magnitude and color-color diagrams. We further exploited the newly constructed VVVX deep stack images to obtain the deepest near-IR color-magnitude diagram currently available for this cluster. We estimate the main physical parameters for NGC2437, including the mean parallax of 0.608 mas and PMs (-3.85, 0.41) mas/yr. The mean reddening E(J-Ks) = 0.059 mag and extinction of A_k = 0.034 mag for the cluster field, with no significant differential reddening spread. A distance modulus of 11.08 mag is estimated, equivalent to a distance of 1644 pc. This places NGC2437 at z=115 pc above the Galactic plane and at a galactocentric distance of 9.24 kpc. We measure the cluster structural parameters, obtaining a core radius of 10.79 arcmin. The estimated total absolute magnitudes are Mk = -4.91 mag and Mv = -3.70 mag. The cluster mean age is 350 Myr, using PARSEC-COLIBRI isochrones for solar metallicity. We measure a binary fraction of 28.6%. We also discuss the implications of the revised cluster parameters for the nearby open cluster NGC2425, the planetary nebula NGC2438, and the evolved OH/IR source OH231.8+04.2. The VVVX deep stacks increase the Ks photometric depth by 1.6 mag, nearly doubling the detected point sources and enabling significantly improved studies of stellar populations throughout the southern Galactic plane.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-14T17:33:39Z",
+      "arxiv:comment": "9 pages, 12 figures, 1 tables. Accepted for Publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Tali Palma"
+        },
+        {
+          "name": "Matías Gómez"
+        },
+        {
+          "name": "Dante Minniti"
+        },
+        {
+          "name": "Alan Montecinos"
+        },
+        {
+          "name": "Nicholas J. G. Cross"
+        },
+        {
+          "name": "Javier Alonso-García"
+        },
+        {
+          "name": "Daniel Majaess"
+        },
+        {
+          "name": "Bruno Dias"
+        },
+        {
+          "name": "Maren Hempel"
+        },
+        {
+          "name": "Roberto K. Saito"
+        },
+        {
+          "name": "Joyce B. Pullen"
+        }
+      ],
+      "score": 9.0
+    },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
       "title": "Differential Reddening and Extinction Law Analyses of Galactic Open Clusters",
@@ -45,7 +109,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 21.0
+      "score": 20.5
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -93,7 +157,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -142,7 +206,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -184,7 +248,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 55.6
+      "score": 55.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -257,7 +321,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -318,7 +382,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -374,7 +438,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 18.8
+      "score": 18.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -459,7 +523,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 25.5
+      "score": 25.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -537,7 +601,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -583,7 +647,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -629,7 +693,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     }
   ]
 }
