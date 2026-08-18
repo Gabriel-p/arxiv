@@ -1,6 +1,61 @@
 {
-  "fetched_at": "2026-08-17T12:49:42.143041",
+  "fetched_at": "2026-08-18T12:52:05.423078",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.16179v1",
+      "title": "Star Formation in the H II Region Sh 2-205: 3D Morphology and Kinematics from Young Stars and Molecular Gas",
+      "updated": "2026-08-17T06:50:48Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.16179v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.16179v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Using Gaia astrometry of young stars combined with CO observations, we present the first systematic three-dimensional (3D) analysis of the structure, kinematics, and evolutionary history of the star-forming regions in the environs of the H II region Sh 2-205 (S205). S205 exhibits a complex morphology and coherent expansion on both global and subregional scales. We identify several O9-B1 stars and a 0.56 Myr old pulsar that are likely associated with the region. A momentum estimate suggests that feedback from these objects may account for the observed overall expansion. Trace-back analysis of the expansion, combined with color-magnitude diagram fitting for young star clusters, indicates at least two episodes of star formation. These results reveal a complex star-formation history of S205 and provide new insights into its 3D evolution.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-17T06:50:48Z",
+      "arxiv:comment": "28 pages, 18 figures. Accepted for publication in ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yiwei Dong"
+        },
+        {
+          "name": "Chaojie Hao"
+        },
+        {
+          "name": "Ye Xu"
+        },
+        {
+          "name": "Yingjie Li"
+        },
+        {
+          "name": "Zehao Lin"
+        },
+        {
+          "name": "Dejian Liu"
+        },
+        {
+          "name": "Yan Sun"
+        },
+        {
+          "name": "Longhui Yang"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
       "title": "The deepest color-magnitude diagrams for the benchmark open cluster NGC 2437 from Gaia and VVVX",
@@ -63,7 +118,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -109,7 +164,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 20.5
+      "score": 20.0
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -157,7 +212,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -206,7 +261,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -248,7 +303,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 55.1
+      "score": 54.6
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -321,7 +376,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -382,7 +437,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -438,7 +493,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 18.3
+      "score": 17.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -523,7 +578,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 25.0
+      "score": 24.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -601,7 +656,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24941v1",
@@ -647,7 +702,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2607.24614v1",
@@ -693,7 +748,7 @@
           "name": "Ashish Raj"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     }
   ]
 }
