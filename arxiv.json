@@ -1,60 +1,94 @@
 {
-  "fetched_at": "2026-08-18T12:52:05.423078",
+  "fetched_at": "2026-08-19T12:52:35.975776",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2608.16179v1",
-      "title": "Star Formation in the H II Region Sh 2-205: 3D Morphology and Kinematics from Young Stars and Molecular Gas",
-      "updated": "2026-08-17T06:50:48Z",
+      "id": "http://arxiv.org/abs/2608.17887v1",
+      "title": "The segmented spiral structure of the Solar neighbourhood traced by young clustered populations",
+      "updated": "2026-08-18T15:21:06Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2608.16179v1",
+          "@href": "https://arxiv.org/abs/2608.17887v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2608.16179v1",
+          "@href": "https://arxiv.org/pdf/2608.17887v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "Using Gaia astrometry of young stars combined with CO observations, we present the first systematic three-dimensional (3D) analysis of the structure, kinematics, and evolutionary history of the star-forming regions in the environs of the H II region Sh 2-205 (S205). S205 exhibits a complex morphology and coherent expansion on both global and subregional scales. We identify several O9-B1 stars and a 0.56 Myr old pulsar that are likely associated with the region. A momentum estimate suggests that feedback from these objects may account for the observed overall expansion. Trace-back analysis of the expansion, combined with color-magnitude diagram fitting for young star clusters, indicates at least two episodes of star formation. These results reveal a complex star-formation history of S205 and provide new insights into its 3D evolution.",
+      "summary": "The Milky Way spiral pattern remains poorly constrained, and the youngest tracers in the solar neighbourhood do not always follow a few smooth, continuous logarithmic arms. We analyse young open clusters, both independently and combined with young stellar object (YSO)-based groups, to test whether they define continuous spiral-arm ridges or shorter, partially connected structures. In the (theta_G, ln R_G) plane, we identify local overdensities using a density-supported Bayesian Gaussian Mixture Model (BGMM), introducing published Perseus, Local, Sagittarius, and Scutum arm tracks only afterwards as reference curves. We then apply a Minimum Spanning Tree (MST) analysis in the heliocentric (X,Y) plane to examine spatial connectivity. The open-cluster sample already resolves into several local components, while the addition of YSO-based groups highlights branches and intermediate regions without producing continuous arms. The MST likewise shows distinct local branches at small pruning scales that progressively merge as the linking scale increases. The Local--Sagittarius region provides the clearest agreement between both diagnostics: the BGMM identifies an intermediate component between the reference arms, while the MST connects neighbouring branches through the same region. Overall, young structures near the Sun appear as fragmented, spiral-like segments with partial links rather than smooth continuations of a few grand-design arms. Determining whether this morphology reflects spiral-arm formation mechanisms or subsequent evolution will require additional age, vertical, and kinematic information.",
       "category": {
         "@term": "astro-ph.GA",
         "@scheme": "http://arxiv.org/schemas/atom"
       },
-      "published": "2026-08-17T06:50:48Z",
-      "arxiv:comment": "28 pages, 18 figures. Accepted for publication in ApJ",
+      "published": "2026-08-18T15:21:06Z",
+      "arxiv:comment": "12 pages, 4 figures, 5 tables. Accepted for publication in Astronomy & Astrophysics",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Yiwei Dong"
+          "name": "M. Carmen Sánchez-Gil"
         },
         {
-          "name": "Chaojie Hao"
-        },
-        {
-          "name": "Ye Xu"
-        },
-        {
-          "name": "Yingjie Li"
-        },
-        {
-          "name": "Zehao Lin"
-        },
-        {
-          "name": "Dejian Liu"
-        },
-        {
-          "name": "Yan Sun"
-        },
-        {
-          "name": "Longhui Yang"
+          "name": "Emilio J. Alfaro"
         }
       ],
-      "score": 0.5
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.16989v1",
+      "title": "A comprehensive cluster census of Orion. An application of the Significance Mode Analysis (SigMA) algorithm",
+      "updated": "2026-08-17T18:00:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.16989v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.16989v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Precise astrometric surveys and modern clustering algorithms are working in step to transform our view of star-forming regions. By revealing a much richer substructure than previously accessible, they pave the way for reconstructing star formation histories by accurately resolving and age-dating individual sub-populations. The Orion star-forming complex is the best-studied stellar nursery in the solar neighborhood and the nearest one currently forming massive stars. Even so, a comprehensive characterization of its substructure, including a homogeneous age mapping and extinction analysis, is still incomplete. Here, we present the most complete census of stellar populations across the Orion complex from the newest version of the SigMA algorithm and outline our additions and improvements to the algorithm that have extended its usage to distant (>300 pc) regions. We separate the Orion complex into 47 co-spatial and co-moving stellar groups comprising 11,996 reliable members, with ages ranging from 1.5 to 25 Myr. To evaluate the statistical robustness of each group, we derive cluster persistence values and individual membership probabilities for each source from 10 independent clustering repetitions. Our group memberships agree well with the literature, but SigMA consistently finds a factor of ~2-3 more members. In particular, it resolves more very young populations, such as NGC 2024, RV Orionis, B30, NGC 1977, NGC 2068, and NGC 2071, than previous algorithms. In addition to recovering 28 known clusters and three groups previously classified as substructures, we present 16 new co-eval substructure candidates of the Orion star-forming complex. This work builds up a new high-resolution time-resolved picture of Orion. This spatio-temporal map allows us to relate its stellar content to the surrounding ISM and paves the way for a detailed analysis of its star formation history in the future.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-17T18:00:05Z",
+      "arxiv:comment": "14 pages, 10 figures, 6 pages appendix. Submitted to A&A. Comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Alena Rottensteiner"
+        },
+        {
+          "name": "Sebastian Ratzenböck"
+        },
+        {
+          "name": "João Alves"
+        },
+        {
+          "name": "Stefan Meingast"
+        },
+        {
+          "name": "Sebastian Hutschenreuter"
+        }
+      ],
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -118,7 +152,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -164,7 +198,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 20.0
+      "score": 19.5
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -212,7 +246,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -261,7 +295,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -303,7 +337,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 54.6
+      "score": 54.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -376,7 +410,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -437,7 +471,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -493,7 +527,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 17.8
+      "score": 17.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -578,7 +612,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 24.5
+      "score": 24.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -656,99 +690,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 8.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.24941v1",
-      "title": "Investigating the Observational Progenitor Mass Gap in the White Dwarf Initial-Final Mass Relation. I. Cluster Census and Characterization of the First White Dwarfs in the Gap",
-      "updated": "2026-07-27T18:00:37Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.24941v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.24941v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In recent years, Gaia has been the primary driver of the expansion of the white dwarf (WD) initial-final mass relation (IFMR) in open clusters. The increased sample size has highlighted a pronounced observational gap at progenitor masses of $\\simeq2$--$2.7\\,M_\\odot$, with no spectroscopically confirmed cluster-member WDs in this range. Analysis of the Milky Way open cluster census shows that this absence is primarily driven by the scarcity of appropriately aged, nearby clusters capable of hosting Gaia-detectable WDs, implying that deeper, targeted photometry will be required to build a substantial sample in this progenitor mass range. We further searched for previously unexamined Gaia WD candidates in clusters with ages consistent with producing gap progenitors and identified two viable targets, which we observed spectroscopically with Gemini GMOS-N. Both targets yield inferred progenitor masses within the observational gap, making them the first spectroscopically confirmed cluster-member WDs in this progenitor mass range. The NGC 6991 candidate, in particular, is confirmed as a DA WD with an inferred progenitor mass of $2.12^{+0.04}_{-0.15}\\,M_\\odot$, providing further support for a non-monotonic trend in the IFMR.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-27T18:00:37Z",
-      "arxiv:comment": "11 pages, 9 figures, 3 tables",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "David R. Miller"
-        },
-        {
-          "name": "Jeremy Heyl"
-        },
-        {
-          "name": "Pier-Emmanuel Tremblay"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.24614v1",
-      "title": "Stellar Dynamics and Evolution of the Intermediate-Age Open Clusters NGC 2266 and NGC 2324",
-      "updated": "2026-07-27T16:13:22Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.24614v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.24614v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a refined astrometric and photometric analysis of the well-studied intermediate-age open clusters NGC 2266 and NGC 2324 using high-precision Gaia DR3 data, complemented by 2MASS and LAMOST DR7 catalogs. Probable cluster members are identified using unsupervised machine learning techniques. We apply both Gaussian Mixture Models (GMMs) and \\texttt{pyUPMASK}. We find that the GMM-based membership sample yields a cleaner, more coherent cluster sequence in the Gaia CMDs than pyUPMASK. We identified 719 and 852 high-probability members ($P \\geq 0.7$) for NGC 2266 and NGC 2324, respectively. Using the parallax method, we determine distances of 3.55 $\\pm$ 0.23~kpc for NGC 2266 and 4.18 $\\pm$ 0.24~kpc for NGC 2324. The radius estimates for both clusters are 7.23 $\\pm$ 0.47 pc and 10.94 $\\pm$ 0.63 pc. Isochrone fitting estimated ages of $1.1 \\pm 0.1$~Gyr for NGC 2266 and $790 \\pm 150$~Myr for NGC 2324. These age estimates were derived assuming metallicities of $Z = 0.0084$ and $Z = 0.0038$, respectively. The King profile fitting indicates that both clusters exhibit compact, well-defined radial structures. Their tidal radii are $8.84'$ (9.13 pc) for NGC 2266 and $10.97'$ (13.34 pc) for NGC 2324. The slopes of the present-day mass functions are $1.13\\pm0.18$ for NGC 2266 and $1.24\\pm0.19$ for NGC 2324, indicating a deficiency of low-mass stars. The derived mass-function slopes are consistent with dynamical evolution in both clusters. The clusters exhibit short relaxation times, while only NGC 2324 shows a mild indication of mass segregation. This study highlights the power of Gaia astrometry to resolve internal structures within open clusters and refine their dynamical parameters.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-27T16:13:22Z",
-      "arxiv:comment": "22 pages, 16 figures, 5 tables, accepted for publication in Advances in Space Research",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Cyrus Raj"
-        },
-        {
-          "name": "D. Bisht"
-        },
-        {
-          "name": "Ashish Raj"
-        }
-      ],
-      "score": 0.5
+      "score": 8.0
     }
   ]
 }
