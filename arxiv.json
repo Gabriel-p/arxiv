@@ -1,6 +1,114 @@
 {
-  "fetched_at": "2026-08-19T12:52:35.975776",
+  "fetched_at": "2026-08-20T12:54:45.588301",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.18596v1",
+      "title": "Investigating the properties of nearby young moving groups using GaiaDR3",
+      "updated": "2026-08-19T06:39:53Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.18596v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.18596v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Moving groups, which are gravitationally unbound collections of stars spread over large portions of the sky, pose challenges to their identification. Analyzing the three-dimensional spatial motion of stars is one method to identify their members. Despite several studies in the past, a reliable and conclusive catalog of moving group stars is currently lacking. Our objective is to present a most recent and updated catalog of nearby young moving group (NYMG) candidates in the solar neighborhood and investigate their properties using updated science data from the Gaia Data Release 3 (DR3). We searched for candidates of twelve NYMGs within a distance of 150 pc using Gaia DR3. To determine the membership, we employed the Bayesian algorithm BANYAN-Sigma. We compiled a total list of 3,153 NYMG candidates, of which 1,651 were new candidates. We also assessed the credibility of the literature defined 'Good-box' criterion with the latest comprehensive catalog of NYMGs from our study. We homogeneously estimated the ages of the NYMG candidates using Gaia DR3 photometry data. The analysis revealed that our NYMG candidates display a large scatter on the CMDs resulting in a large range of estimated ages from isochrones. Additionally, we conducted an infrared (IR) excess analysis to identify disk candidates among our final sample. Our spectral energy distribution (SED) analysis found 51 stars with IR excess. We present a largely inclusive list of all the NYMG candidates within 150 pc of Solar neighbourhood using Gaia DR3. The wide range of ages obtained from isochrone fitting underscores the need for more robust age analysis techniques to accurately determine the ages of NYMG members. The presence of IR excess in the 51 stars confirms the existence of disks indicating that they could be potential candidates for exoplanet detections.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.EP",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-19T06:39:53Z",
+      "arxiv:comment": "15 pages, 8 figures, 2 tables, Accepted for publication in Journal of Astronomy and Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Mamta Lad"
+        },
+        {
+          "name": "Ujjwal Krishnan"
+        },
+        {
+          "name": "Blesson Mathew"
+        },
+        {
+          "name": "Raksha Olakal"
+        },
+        {
+          "name": "Arun Roy"
+        },
+        {
+          "name": "Sreeja Kartha"
+        },
+        {
+          "name": "Vineeth Valsan"
+        }
+      ],
+      "score": 3.1
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.18550v1",
+      "title": "Kinematics and Dynamics of the Open Cluster NGC 2302",
+      "updated": "2026-08-19T05:20:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.18550v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.18550v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are ideal observational testbeds to understand the dynamics of stellar systems. We present a dynamical study of the young open cluster NGC 2302. The latest Gaia data and $UBVIJHK_s$ photometric data are used in this study. A total of 117 stars are selected as the genuine members using the Gaia data. This cluster is, on average, reddened by $<E(B-V)> = 0.24 \\pm 0.06$ (s.d.). The ratio of total-to-selective extinction ($R_V$) in the direction of NGC 2302 is $2.8 \\pm 0.1$. The cluster distance is determined to be $1.16 \\pm 0.08$ kpc using Gaia parallaxes. Theoretical isochrone fitting for $Z = 0.008$ on color-magnitude diagrams yields an age of $80 \\pm 20$ Myr. The relative proper motions of individual members show no significant radial expansion or contraction. NGC 2302 contains a total stellar mass of $333 \\pm 48 M_{\\odot}$. The one-dimensional velocity dispersion is approximately 0.26 km s$^{-1}$, which is comparable to the viral velocity dispersion of 0.27 km s$^{-1}$ derived from its total mass. Its relaxation time is estimated to be approximately 90 Myr, which is similar to the age of the cluster within the uncertainty in age estimation. Finally, we report a pattern of mass segregation in the radial distribution of stellar masses. Our results suggest that NGC 2302 is virialized and currently approaching a state of dynamical relaxation. However, because no definitive evidence of kinetic energy equipartition is found, the possibility of the in-situ formation of high-mass stars within the central region should be carefully considered.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-19T05:20:00Z",
+      "arxiv:comment": "10 pages, 13 figures, accepted for publication in JKAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yuna Lee"
+        },
+        {
+          "name": "Jongsuk Hong"
+        },
+        {
+          "name": "Beomdu Lim"
+        }
+      ],
+      "score": 10.3
+    },
     {
       "id": "http://arxiv.org/abs/2608.17887v1",
       "title": "The segmented spiral structure of the Solar neighbourhood traced by young clustered populations",
@@ -36,7 +144,7 @@
           "name": "Emilio J. Alfaro"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.16989v1",
@@ -88,7 +196,7 @@
           "name": "Sebastian Hutschenreuter"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -152,7 +260,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -198,7 +306,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 19.5
+      "score": 19.0
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -246,7 +354,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -295,7 +403,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -337,7 +445,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 54.1
+      "score": 53.6
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -410,7 +518,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -471,7 +579,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -527,7 +635,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 17.3
+      "score": 16.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -612,7 +720,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 24.0
+      "score": 23.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -690,7 +798,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     }
   ]
 }
