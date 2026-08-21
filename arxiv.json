@@ -1,6 +1,126 @@
 {
-  "fetched_at": "2026-08-20T12:54:45.588301",
+  "fetched_at": "2026-08-21T12:53:38.229483",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.20307v1",
+      "title": "The Nearby Star Formation and Supernova Histories Reconstructed from Young Star Clusters",
+      "updated": "2026-08-20T17:45:55Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.20307v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.20307v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We reconstruct the recent star formation and core-collapse supernova (ccSN) histories of the Solar Neighborhood from the past trajectories of young star clusters. Using a \\textit{Gaia}-based cluster sample with newly derived ages, masses, and bulk 3D velocities, we integrate orbits backward in an assumed axisymmetric Galactic potential and combine the trajectories with IMF sampling and stellar lifetimes to infer ccSN times and locations over the past 50 Myr. The result is an all-sky, 3D, time-resolved map of nearby ccSN activity for comparison with high-resolution 3D views of the local interstellar medium. The 0--15 Myr map shows strong enhancements toward Orion, Vela, Sco--Cen, and Cepheus, many within present-day cavities and shells. At earlier times, the dominant enhancements trace the Collinder 135, Messier 6, and Alpha Persei cluster families, showing how the remnants of massive star-forming complexes have shaped the recent local feedback history. We recover a bursty star formation history followed by a delayed, smoother ccSN history. Over the last 40 Myr, the mean star formation and ccSN rates are \\(823~M_\\odot~\\mathrm{Myr}^{-1}\\) and \\(7.7~\\mathrm{Myr}^{-1}\\), respectively, corresponding to a Milky Way rate of \\(0.55\\pm0.03~\\mathrm{century}^{-1}\\). Present-day OB-star catalogs yield rates ranging from agreement with the cluster reconstruction to several times higher. Because the catalogs overlap weakly and require different corrections, we do not rescale the ccSN map. Our reconstruction provides an empirical framework for connecting the recent history of massive-star feedback to the 3D structure and life cycle of gas in the nearby Milky Way.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-20T17:45:55Z",
+      "arxiv:comment": "27 pages, 9 figures. Submitted to ApJ. Comments are welcome. An interactive 3D version of Figures 2 and 3 is available at https://cswigg.github.io/cam_website/oviz_figures/oviz_supernovae.html",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Cameren Swiggum"
+        },
+        {
+          "name": "Catherine Zucker"
+        },
+        {
+          "name": "Michelangelo Pantaleoni González"
+        },
+        {
+          "name": "Emily L. Hunt"
+        },
+        {
+          "name": "Robert A. Benjamin"
+        },
+        {
+          "name": "Sebastian Hutschenreuter"
+        },
+        {
+          "name": "Alena K. Rottensteiner"
+        },
+        {
+          "name": "Efrem Maconi"
+        },
+        {
+          "name": "Lewis McCallum"
+        },
+        {
+          "name": "João Alves"
+        },
+        {
+          "name": "Sebastian Ratzenböck"
+        }
+      ],
+      "score": 5.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.19518v1",
+      "title": "Non-ideal MHD and protostellar feedback effects on disc formation and evolution in numerical simulations of star cluster formation",
+      "updated": "2026-08-20T00:22:28Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.19518v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.19518v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1093/mnras/stag1501",
+          "@title": "doi"
+        }
+      ],
+      "summary": "While recent surveys have resolved hundreds of nearby protostellar discs, numerical simulations assuming ideal magnetohydrodynamics (MHD) have historically struggled to achieve disc formation due to efficient angular momentum removal by magnetic torques. Non-ideal MHD effects, relevant at the low ionization fractions typical of molecular clouds, have been shown to reduce the effectiveness of magnetic braking and promote disc formation. In this work, we present the results from a suite of calculations following the gravitational collapse of 50 $M_{\\odot}$ turbulent molecular cloud cores down to the formation and evolution of stellar systems and protostellar discs. We use the radiation-MHD code GIZMO including non-ideal MHD (Ohmic resistivity, ambipolar diffusion, and the Hall effect) and the STARFORGE numerical framework for modeling star formation and stellar feedback. We compare the effects of assuming ideal vs. non-ideal MHD and including sub-grid protostellar jet feedback on disc formation and evolution. Discs form in all of our models but are least massive in the model with ideal MHD and sub-grid jet feedback. Apart from the ideal MHD$+$jets model, we do not observe any significant differences in disc properties between the ideal and non-ideal MHD models; however, ideal MHD discs are embedded in smaller rotating envelopes. Disc sizes are in general agreement with those of observed discs. Jet feedback increases core fragmentation and reduces final stellar masses. Our results suggest that magnetic braking does not efficiently suppress disc formation, regardless of whether ideal or non-ideal MHD is assumed, under the dynamical conditions in which multiple stellar systems form.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-20T00:22:28Z",
+      "arxiv:comment": "35 pages, 39 figures. Accepted for publication in MNRAS. Published version available at https://doi.org/10.1093/mnras/stag1501",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "arxiv:journal_ref": "MNRAS 551, stag1501 (2026)",
+      "author": [
+        {
+          "name": "Nina Filippova"
+        },
+        {
+          "name": "Stella S. R. Offner"
+        },
+        {
+          "name": "Michael Y. Grudic"
+        },
+        {
+          "name": "Philip F. Hopkins"
+        }
+      ],
+      "arxiv:doi": "10.1093/mnras/stag1501",
+      "score": 2.5
+    },
     {
       "id": "http://arxiv.org/abs/2608.18596v1",
       "title": "Investigating the properties of nearby young moving groups using GaiaDR3",
@@ -61,7 +181,7 @@
           "name": "Vineeth Valsan"
         }
       ],
-      "score": 3.1
+      "score": 2.6
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -107,7 +227,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2608.17887v1",
@@ -144,7 +264,7 @@
           "name": "Emilio J. Alfaro"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.16989v1",
@@ -196,7 +316,7 @@
           "name": "Sebastian Hutschenreuter"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -260,7 +380,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -306,7 +426,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 19.0
+      "score": 18.5
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -354,7 +474,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2608.10750v1",
@@ -403,7 +523,7 @@
           "name": "Yutaka Hirai"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -445,7 +565,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 53.6
+      "score": 53.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -518,7 +638,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -579,7 +699,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -635,7 +755,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 16.8
+      "score": 16.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -720,7 +840,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 23.5
+      "score": 23.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -798,7 +918,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     }
   ]
 }
