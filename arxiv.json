@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T12:44:40.823458",
+  "fetched_at": "2026-08-23T12:45:47.166572",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.20307v1",
@@ -63,7 +63,7 @@
           "name": "Sebastian Ratzenböck"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2608.19518v1",
@@ -119,7 +119,7 @@
         }
       ],
       "arxiv:doi": "10.1093/mnras/stag1501",
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.18596v1",
@@ -181,7 +181,7 @@
           "name": "Vineeth Valsan"
         }
       ],
-      "score": 2.1
+      "score": 1.6
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -227,7 +227,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 9.3
+      "score": 8.8
     },
     {
       "id": "http://arxiv.org/abs/2608.17887v1",
@@ -264,7 +264,7 @@
           "name": "Emilio J. Alfaro"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.16989v1",
@@ -316,7 +316,7 @@
           "name": "Sebastian Hutschenreuter"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -380,7 +380,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -426,7 +426,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 18.0
+      "score": 17.5
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -474,56 +474,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.10750v1",
-      "title": "SIRIUS Project: Dynamical Evolution of Primordial Binaries during Star Cluster Formation",
-      "updated": "2026-08-11T10:08:25Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.10750v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.10750v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Binary populations are closely linked to the star formation process; however, their primordial properties can be changed by subsequent dynamical interactions within their natal clusters. The aim of this study is to clarify how different primordial binary populations affect the evolution of multiplicity and the global structure of forming star clusters. We investigate the dynamical evolution of primordial binaries during star cluster formation using self-consistent Nbody/smoothed particle hydrodynamics simulations that follow the collapse of a molecular cloud to a star cluster. We systematically compare three star formation models: close binary (CB), wide binary (WB), and single star (SS) formation model. In CB and WB models, the multiplicity fraction decreases with time due to dynamical interactions. In particular, the fraction in the WB model drops to a level comparable to that in the SS model. The multiplicity fraction of high-mass stars is similarly high in all models, whereas only the CB model shows a relatively high fraction for low-mass stars. Due to the assumption of equal-mass binary formation, the CB and WB models exhibit an excess at q= 1 in the mass-ratio distribution, while the SS model has no clear trend. Frequent few-body interactions generate distinct stellar populations inside and outside the cluster: the multiplicity fraction within the cluster is systematically higher, while mass functions in the outside have a shallower slope. Finally, stellar density profiles in the clusters are broadly similar among all models. The primordial binary population significantly affects the final binary properties, while having only a limited impact on their host cluster structures. Our results suggest that close binaries need to form at the star formation stage to reproduce the observed multiplicity fraction of low-mass stars and the excess of equal-mass binaries.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-11T10:08:25Z",
-      "arxiv:comment": "11 pages, 14 figures, accepted for publication in Astronomy and Astrophysics (A&A)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Naoto Harada"
-        },
-        {
-          "name": "Michiko S. Fujii"
-        },
-        {
-          "name": "Takayuki R. Saitoh"
-        },
-        {
-          "name": "Yutaka Hirai"
-        }
-      ],
-      "score": 0.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -565,7 +516,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 52.6
+      "score": 52.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -638,7 +589,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -699,7 +650,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -755,7 +706,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 15.8
+      "score": 15.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -840,7 +791,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 22.5
+      "score": 22.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -918,7 +869,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     }
   ]
 }
