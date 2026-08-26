@@ -1,6 +1,222 @@
 {
-  "fetched_at": "2026-08-25T12:52:16.288965",
+  "fetched_at": "2026-08-26T12:57:53.282120",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.24874v1",
+      "title": "Flyby-induced high-eccentricity migration and the prevalence of hot Jupiters in M67",
+      "updated": "2026-08-25T17:55:03Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.24874v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.24874v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Few planetary systems form in isolation. Rather, interactions in their birth environments may sculpt their architectures or drive them into unstable configurations. Here we study the role of environmental perturbations in triggering dynamical instabilities leading to hot Jupiter formation in dense clusters, focusing on whether the elevated occurrence rate of hot Jupiters in the open cluster M67 can be explained through flyby-induced high-eccentricity migration. We develop a hybrid method for modelling the secular and tidal evolution of planetary systems under external perturbations by passing stars using a combination of analytic and numerical approaches. We evolve 10,000 realizations each of systems with either a single planet, two planets, or a planet and a stellar companion for $\\sim$4 Gyr in an M67-like cluster, comparing outcome statistics against a control sample without flybys. In single- and two-planet systems, the rate of flyby-induced hot Jupiter formation is negligible. However, in systems with an initially isotropically oriented stellar companion, the cluster environment boosts hot Jupiter formation by a factor of $\\sim$2, accompanied by a factor of $\\sim$3 increase in the rate of planets undergoing tidal disruption. Based on observationally motivated estimates of primordial populations, our hot Jupiter yields are consistent with both field and M67 occurrence rates, provided the primordial wide binary fraction among solar-type stars is close to $\\sim$50 per cent, binary-driven high-eccentricity migration is the dominant formation pathway, and a substantial fraction of tidally disrupted systems survive as hot Jupiters through partial mass loss.",
+      "category": [
+        {
+          "@term": "astro-ph.EP",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-25T17:55:03Z",
+      "arxiv:comment": "25 pages, 13 figures, accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.EP"
+      },
+      "author": [
+        {
+          "name": "Mika V. Kontiainen"
+        },
+        {
+          "name": "Cathie J. Clarke"
+        },
+        {
+          "name": "Andrew J. Winter"
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.24701v1",
+      "title": "Improving the Physical Interpretability of Gaussian Processes in Stellar Activity Modeling: A Study Case on Photometric Variability Among Stellar Clusters",
+      "updated": "2026-08-25T15:24:13Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.24701v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.24701v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/1538-4357/ae9bb9",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Gaussian Processes (GPs) are widely used to model stellar variability in photometric surveys, but a statistically successful fit does not guarantee that the inferred hyperparameters correspond to physically meaningful stellar properties. This is especially important for young, active stars, whose TESS light curves contain evolving spots, harmonics, and non-sinusoidal variability. We use stellar rotation as a case study to examine when the period hyperparameter of a quasi-periodic GP can be interpreted as a physical rotation period. We introduce a regularized GP likelihood that reweights the covariance-complexity term in the marginal likelihood, reducing the tendency of unconstrained models to converge toward preferred but misleading solutions.\n  We test this framework on 539 stars in IC2602, the Tucana-Horologium Association, Pisces-Eridanus, and GroupX, with independently reported and manually vetted rotation periods. This benchmark evaluates GP hyperparameter interpretability and automated period recovery with minimal human intervention. We compare regularized and unregularized models across several regularization strengths, λ, using literature agreement, sector-level diagnostics, and consistency across TESS sectors. Relative to the standard GP likelihood, regularization improves successful rotation-period recovery by an average of 7%. It also generally reduces the median absolute fractional deviation of periods across sectors, showing that the improvement is not limited to catastrophic failures but also mitigates smaller systematic errors.\n  Regularization is particularly beneficial for non-sinusoidal or evolving modulation, where unconstrained GPs may recover harmonics or spurious timescales. These results show that likelihood regularization and cross-sector consistency are practical diagnostics for assessing when GP-based rotation periods are robust.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-25T15:24:13Z",
+      "arxiv:comment": "(23 pages, 12 figures, 5 tables)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Leslie Moranta",
+          "arxiv:affiliation": [
+            "Planétarium de Montréal, Montréal, Canada",
+            "Trottier Institute for Research on Exoplanets, Université de Montréal, Montréal, Canada",
+            "Department of Astrophysics, American Museum of Natural History, New York, USA"
+          ]
+        },
+        {
+          "name": "Jonathan Gagné",
+          "arxiv:affiliation": [
+            "Planétarium de Montréal, Montréal, Canada",
+            "Trottier Institute for Research on Exoplanets, Université de Montréal, Montréal, Canada"
+          ]
+        },
+        {
+          "name": "Jacqueline K. Faherty",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Mark Popinchalk",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Jason Lee Curtis",
+          "arxiv:affiliation": "Department of Astronomy, Columbia University, New York, USA"
+        },
+        {
+          "name": "Johanna M. Vos",
+          "arxiv:affiliation": [
+            "Department of Astrophysics, American Museum of Natural History, New York, USA",
+            "School of Physics, Trinity College Dublin, The University of Dublin, Dublin, Ireland"
+          ]
+        },
+        {
+          "name": "Alexandrine L'Heureux",
+          "arxiv:affiliation": "Trottier Institute for Research on Exoplanets, Université de Montréal, Montréal, Canada"
+        },
+        {
+          "name": "Andrew Ayala",
+          "arxiv:affiliation": [
+            "Department of Astrophysics, American Museum of Natural History, New York, USA",
+            "Department of Physics and Astronomy, Hunter College, City University of New York, New York, USA"
+          ]
+        },
+        {
+          "name": "Eleanor Johnson",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Dawn McCullough",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Nicole Munoz",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Hannah Park",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Xue Weng",
+          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
+        },
+        {
+          "name": "Livia Poliquin",
+          "arxiv:affiliation": "Marianopolis College, Montréal, Canada"
+        },
+        {
+          "name": "Ilhem Lazizi",
+          "arxiv:affiliation": "McGill Institute for Aerospace Engineering, McGill University, Montréal, Canada"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae9bb9",
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.24321v1",
+      "title": "Synchrotron filaments in radio galaxies: rarity, stability, and environmental influences from LOFAR and ROSAT observations",
+      "updated": "2026-08-25T09:47:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.24321v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.24321v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a systematic investigation of filamentary synchrotron structures in radio galaxies, using deep 144 MHz observations from the LOFAR Two-Metre Sky Survey (LoTSS) in combination with archival ROSAT X-ray data. These narrow, collimated features, linking radio lobes and often aligned with jet axes, are rare: our visual inspection of 548 cluster-associated sources identified 12 candidates (~2.2%), of which three exhibit clearly resolved filaments suitable for detailed X-ray and synchrotron minimum pressure analysis. Minimum pressures in these filaments are consistently lower than the ambient thermal pressure derived from X-ray measurements. This disparity implies a role for external confinement in filament stability, aligning with theoretical predictions of thermal pressure support and potentially toroidal magnetic field configurations. We discuss filament formation scenarios, including relic AGN outflows, magnetic draping, and plasma instabilities. Our findings highlight the utility of filamentary structures as probes of intracluster magnetic field topology and AGN feedback, and demonstrate the need for high-resolution, multi-frequency studies to constrain their origin and evolution.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-25T09:47:19Z",
+      "arxiv:comment": "12 pages, 4 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Geoffrey Ong'alo"
+        },
+        {
+          "name": "Martin J. Hardcastle"
+        },
+        {
+          "name": "Willice Obonyo"
+        },
+        {
+          "name": "Marcus Brüggen"
+        },
+        {
+          "name": "Paul Baki"
+        }
+      ],
+      "score": 9.5
+    },
     {
       "id": "http://arxiv.org/abs/2608.23527v1",
       "title": "The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State",
@@ -64,7 +280,7 @@
           "arxiv:affiliation": "Department of Astronomy, University of Texas at Austin"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.23464v1",
@@ -96,7 +312,7 @@
       "author": {
         "name": "Xunchuan Liu"
       },
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.20307v1",
@@ -160,63 +376,7 @@
           "name": "Sebastian Ratzenböck"
         }
       ],
-      "score": 3.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.19518v1",
-      "title": "Non-ideal MHD and protostellar feedback effects on disc formation and evolution in numerical simulations of star cluster formation",
-      "updated": "2026-08-20T00:22:28Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.19518v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.19518v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1093/mnras/stag1501",
-          "@title": "doi"
-        }
-      ],
-      "summary": "While recent surveys have resolved hundreds of nearby protostellar discs, numerical simulations assuming ideal magnetohydrodynamics (MHD) have historically struggled to achieve disc formation due to efficient angular momentum removal by magnetic torques. Non-ideal MHD effects, relevant at the low ionization fractions typical of molecular clouds, have been shown to reduce the effectiveness of magnetic braking and promote disc formation. In this work, we present the results from a suite of calculations following the gravitational collapse of 50 $M_{\\odot}$ turbulent molecular cloud cores down to the formation and evolution of stellar systems and protostellar discs. We use the radiation-MHD code GIZMO including non-ideal MHD (Ohmic resistivity, ambipolar diffusion, and the Hall effect) and the STARFORGE numerical framework for modeling star formation and stellar feedback. We compare the effects of assuming ideal vs. non-ideal MHD and including sub-grid protostellar jet feedback on disc formation and evolution. Discs form in all of our models but are least massive in the model with ideal MHD and sub-grid jet feedback. Apart from the ideal MHD$+$jets model, we do not observe any significant differences in disc properties between the ideal and non-ideal MHD models; however, ideal MHD discs are embedded in smaller rotating envelopes. Disc sizes are in general agreement with those of observed discs. Jet feedback increases core fragmentation and reduces final stellar masses. Our results suggest that magnetic braking does not efficiently suppress disc formation, regardless of whether ideal or non-ideal MHD is assumed, under the dynamical conditions in which multiple stellar systems form.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-20T00:22:28Z",
-      "arxiv:comment": "35 pages, 39 figures. Accepted for publication in MNRAS. Published version available at https://doi.org/10.1093/mnras/stag1501",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "arxiv:journal_ref": "MNRAS 551, stag1501 (2026)",
-      "author": [
-        {
-          "name": "Nina Filippova"
-        },
-        {
-          "name": "Stella S. R. Offner"
-        },
-        {
-          "name": "Michael Y. Grudic"
-        },
-        {
-          "name": "Philip F. Hopkins"
-        }
-      ],
-      "arxiv:doi": "10.1093/mnras/stag1501",
-      "score": 0.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.18596v1",
@@ -278,7 +438,7 @@
           "name": "Vineeth Valsan"
         }
       ],
-      "score": 0.6
+      "score": 0.1
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -324,44 +484,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 7.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.17887v1",
-      "title": "The segmented spiral structure of the Solar neighbourhood traced by young clustered populations",
-      "updated": "2026-08-18T15:21:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.17887v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.17887v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The Milky Way spiral pattern remains poorly constrained, and the youngest tracers in the solar neighbourhood do not always follow a few smooth, continuous logarithmic arms. We analyse young open clusters, both independently and combined with young stellar object (YSO)-based groups, to test whether they define continuous spiral-arm ridges or shorter, partially connected structures. In the (theta_G, ln R_G) plane, we identify local overdensities using a density-supported Bayesian Gaussian Mixture Model (BGMM), introducing published Perseus, Local, Sagittarius, and Scutum arm tracks only afterwards as reference curves. We then apply a Minimum Spanning Tree (MST) analysis in the heliocentric (X,Y) plane to examine spatial connectivity. The open-cluster sample already resolves into several local components, while the addition of YSO-based groups highlights branches and intermediate regions without producing continuous arms. The MST likewise shows distinct local branches at small pruning scales that progressively merge as the linking scale increases. The Local--Sagittarius region provides the clearest agreement between both diagnostics: the BGMM identifies an intermediate component between the reference arms, while the MST connects neighbouring branches through the same region. Overall, young structures near the Sun appear as fragmented, spiral-like segments with partial links rather than smooth continuations of a few grand-design arms. Determining whether this morphology reflects spiral-arm formation mechanisms or subsequent evolution will require additional age, vertical, and kinematic information.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-18T15:21:06Z",
-      "arxiv:comment": "12 pages, 4 figures, 5 tables. Accepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "M. Carmen Sánchez-Gil"
-        },
-        {
-          "name": "Emilio J. Alfaro"
-        }
-      ],
-      "score": 0.5
+      "score": 7.3
     },
     {
       "id": "http://arxiv.org/abs/2608.16989v1",
@@ -413,7 +536,7 @@
           "name": "Sebastian Hutschenreuter"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -477,7 +600,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -523,7 +646,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 16.5
+      "score": 16.0
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -571,7 +694,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -613,7 +736,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 51.1
+      "score": 50.6
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -686,7 +809,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -747,7 +870,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -803,7 +926,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 14.3
+      "score": 13.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -888,7 +1011,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 21.0
+      "score": 20.5
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -966,7 +1089,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     }
   ]
 }
