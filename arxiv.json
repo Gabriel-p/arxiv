@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T12:57:53.282120",
+  "fetched_at": "2026-08-27T08:19:44.390734",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.24874v1",
@@ -49,7 +49,7 @@
           "name": "Andrew J. Winter"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.24701v1",
@@ -169,7 +169,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9bb9",
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -216,103 +216,6 @@
         }
       ],
       "score": 9.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.23527v1",
-      "title": "The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State",
-      "updated": "2026-08-24T17:30:20Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.23527v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.23527v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Massive stars characteristically form in clustered environments. Characterising young massive 'protoclusters' is therefore crucial to constraining the mechanism(s) of massive star formation, and of the assembly of stellar clusters. We present 1.3 mm continuum results from the ALMA EGO-10 imaging survey, targeting ten Spitzer GLIMPSE Extended Green Objects (EGOs) - massive protostars with active outflows traced by extended 4.5 $μ$m emission. Our sensitive 1'.6$\\times$1'.6 mosaics reveal rich protoclusters associated with all targets. With a mean spatial resolution 2200$\\times$1600 AU, we identify 570 cores - between 13 and 135 per field. We quantify protocluster structure with the $Q$-parameter, finding structural diversity with 0.5 $\\lesssim Q \\lesssim$ 0.9. The sample is notable for the wealth of complementary high-resolution multiwavelength data available. Correlating our cores with these observations, we find only 2%, 5% and 4% of cores host 6.7 GHz CH$_3$OH masers, 22 GHz H$_2$O masers and cm-$λ$ continuum sources, respectively. The massive protostars traced by 6.7 GHz masers typically reside near protocluster centres (median offset 0.045 pc), and all at $d<$ 3 kpc are found in clustered locales, with $>$10 cores within 10,000 AU. Using VLA cm-$λ$ continuum observations, we construct a new evolutionary indicator: the ratio of protocluster cm-$λ$ continuum luminosity to the mass of the associated ATLASGAL clump ($L_\\text{cm}/M_\\text{AGAL}$). This ratio correlates positively with $Q$, with the correlation driven primarily by the cm-$λ$ continuum emission from MYSOs. This suggests dynamic protocluster structure, evolving from subclustered to centrally condensed, consistent with the global collapse in hierarchical, clump-fed models of massive star formation.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-24T17:30:20Z",
-      "arxiv:comment": "31 pages, 15 figures, 12 tables. Accepted for publication in MNRAS. Data and code available at: doi:10.5281/zenodo.20156717",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Michael C. Logue",
-          "arxiv:affiliation": "Scottish Universities Physics Alliance"
-        },
-        {
-          "name": "Claudia J. Cyganowski",
-          "arxiv:affiliation": "Scottish Universities Physics Alliance"
-        },
-        {
-          "name": "Crystal L. Brogan",
-          "arxiv:affiliation": "National Radio Astronomy Observatory"
-        },
-        {
-          "name": "Todd R. Hunter",
-          "arxiv:affiliation": "National Radio Astronomy Observatory"
-        },
-        {
-          "name": "Alessio Traficante",
-          "arxiv:affiliation": "INAF-IAPS"
-        },
-        {
-          "name": "Allison P. M. Towner",
-          "arxiv:affiliation": "University of Arizona Department of Astronomy and Steward Observatory"
-        },
-        {
-          "name": "Stella S. R. Offner",
-          "arxiv:affiliation": "Department of Astronomy, University of Texas at Austin"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.23464v1",
-      "title": "Fragmentation and tidal locking in young quadruple systems",
-      "updated": "2026-08-24T16:32:09Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.23464v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.23464v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Young quadruple systems provide a particularly simple setting in which the connection between successive levels of fragmentation can be studied. Motivated by the recurring symmetric configurations observed in a small number of young systems, we propose a theoretical framework in which such configurations arise naturally during rapid collapse. Rotational fragmentation followed by secondary fragmentation can produce two comparable-mass components of a wide pair, each of which further fragments into an unequal-mass close pair. The combination of tidal forces and accretion-driven shear can then establish a preferred phase relation, with the lower-mass component located on the inner, preceding side of the higher-mass component in each close pair. During subsequent capture, this phase relation can shift, placing the lower-mass component on the inner, trailing side. Asymmetric partitioning of a coherent, rapidly accreting flow can also tilt the spin axes of the fragments, providing a possible origin for spin misalignments without requiring an initially incoherent large-scale flow. The proposed mechanism therefore provides a possible physical origin for the characteristic phase relations in young quadruple configurations and for stochastic spin orientations within star clusters.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-24T16:32:09Z",
-      "arxiv:comment": "first version",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Xunchuan Liu"
-      },
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.20307v1",
@@ -376,69 +279,7 @@
           "name": "Sebastian Ratzenböck"
         }
       ],
-      "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.18596v1",
-      "title": "Investigating the properties of nearby young moving groups using GaiaDR3",
-      "updated": "2026-08-19T06:39:53Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.18596v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.18596v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Moving groups, which are gravitationally unbound collections of stars spread over large portions of the sky, pose challenges to their identification. Analyzing the three-dimensional spatial motion of stars is one method to identify their members. Despite several studies in the past, a reliable and conclusive catalog of moving group stars is currently lacking. Our objective is to present a most recent and updated catalog of nearby young moving group (NYMG) candidates in the solar neighborhood and investigate their properties using updated science data from the Gaia Data Release 3 (DR3). We searched for candidates of twelve NYMGs within a distance of 150 pc using Gaia DR3. To determine the membership, we employed the Bayesian algorithm BANYAN-Sigma. We compiled a total list of 3,153 NYMG candidates, of which 1,651 were new candidates. We also assessed the credibility of the literature defined 'Good-box' criterion with the latest comprehensive catalog of NYMGs from our study. We homogeneously estimated the ages of the NYMG candidates using Gaia DR3 photometry data. The analysis revealed that our NYMG candidates display a large scatter on the CMDs resulting in a large range of estimated ages from isochrones. Additionally, we conducted an infrared (IR) excess analysis to identify disk candidates among our final sample. Our spectral energy distribution (SED) analysis found 51 stars with IR excess. We present a largely inclusive list of all the NYMG candidates within 150 pc of Solar neighbourhood using Gaia DR3. The wide range of ages obtained from isochrone fitting underscores the need for more robust age analysis techniques to accurately determine the ages of NYMG members. The presence of IR excess in the 51 stars confirms the existence of disks indicating that they could be potential candidates for exoplanet detections.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.EP",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-19T06:39:53Z",
-      "arxiv:comment": "15 pages, 8 figures, 2 tables, Accepted for publication in Journal of Astronomy and Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Mamta Lad"
-        },
-        {
-          "name": "Ujjwal Krishnan"
-        },
-        {
-          "name": "Blesson Mathew"
-        },
-        {
-          "name": "Raksha Olakal"
-        },
-        {
-          "name": "Arun Roy"
-        },
-        {
-          "name": "Sreeja Kartha"
-        },
-        {
-          "name": "Vineeth Valsan"
-        }
-      ],
-      "score": 0.1
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -484,59 +325,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 7.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.16989v1",
-      "title": "A comprehensive cluster census of Orion. An application of the Significance Mode Analysis (SigMA) algorithm",
-      "updated": "2026-08-17T18:00:05Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.16989v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.16989v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Precise astrometric surveys and modern clustering algorithms are working in step to transform our view of star-forming regions. By revealing a much richer substructure than previously accessible, they pave the way for reconstructing star formation histories by accurately resolving and age-dating individual sub-populations. The Orion star-forming complex is the best-studied stellar nursery in the solar neighborhood and the nearest one currently forming massive stars. Even so, a comprehensive characterization of its substructure, including a homogeneous age mapping and extinction analysis, is still incomplete. Here, we present the most complete census of stellar populations across the Orion complex from the newest version of the SigMA algorithm and outline our additions and improvements to the algorithm that have extended its usage to distant (>300 pc) regions. We separate the Orion complex into 47 co-spatial and co-moving stellar groups comprising 11,996 reliable members, with ages ranging from 1.5 to 25 Myr. To evaluate the statistical robustness of each group, we derive cluster persistence values and individual membership probabilities for each source from 10 independent clustering repetitions. Our group memberships agree well with the literature, but SigMA consistently finds a factor of ~2-3 more members. In particular, it resolves more very young populations, such as NGC 2024, RV Orionis, B30, NGC 1977, NGC 2068, and NGC 2071, than previous algorithms. In addition to recovering 28 known clusters and three groups previously classified as substructures, we present 16 new co-eval substructure candidates of the Orion star-forming complex. This work builds up a new high-resolution time-resolved picture of Orion. This spatio-temporal map allows us to relate its stellar content to the surrounding ISM and paves the way for a detailed analysis of its star formation history in the future.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-17T18:00:05Z",
-      "arxiv:comment": "14 pages, 10 figures, 6 pages appendix. Submitted to A&A. Comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Alena Rottensteiner"
-        },
-        {
-          "name": "Sebastian Ratzenböck"
-        },
-        {
-          "name": "João Alves"
-        },
-        {
-          "name": "Stefan Meingast"
-        },
-        {
-          "name": "Sebastian Hutschenreuter"
-        }
-      ],
-      "score": 0.5
+      "score": 6.8
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -600,7 +389,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -646,7 +435,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 16.0
+      "score": 15.5
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -694,7 +483,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -809,7 +598,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -870,7 +659,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -926,7 +715,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 13.8
+      "score": 13.3
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
@@ -1011,7 +800,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 20.5
+      "score": 20.0
     },
     {
       "id": "http://arxiv.org/abs/2607.26347v1",
@@ -1089,7 +878,7 @@
           "name": "Marco Pignatari"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     }
   ]
 }
