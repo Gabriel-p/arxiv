@@ -1,6 +1,142 @@
 {
-  "fetched_at": "2026-08-27T21:59:38.444060",
+  "fetched_at": "2026-08-28T10:21:01.058725",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.27359v1",
+      "title": "$N$-body simulations of the open cluster population in the Milky Way and the impact of GMC encounters",
+      "updated": "2026-08-27T16:57:41Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.27359v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.27359v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate the population of open clusters in the Solar Neighbourhood and model the effect of encounters with giant molecular clouds (GMCs) over the last 1 Gyr. We combine a Galactic model with $N$-body simulations of 20692 unique clusters in the mass range $[50-24000]$ $\\mathrm{M}_{\\odot}$. Each cluster is simulated twice: with and without tidal forces from the GMCs. We find that an initial cluster mass function truncated at $\\sim 9000$ $\\mathrm{M}_{\\odot}$ best reproduces the observed mass function evolution. For the age function, the observations show a decline in clusters for ages older than $\\sim 1$ Myr, whereas our simulated clusters show a decline after $\\sim 50$ Myr. The observed early disruption suggests that some clusters form supervirial, whereas our simulated clusters are created in virial equilibrium. Low-mass ($<600 \\, \\mathrm{M}_{\\odot}$) clusters are most sensitive to GMC encounters, which accelerate their disruption in the first $\\sim 200$ Myr. After $\\sim 500$ Myr, the impact of GMCs becomes irrelevant since the clusters will have been destroyed regardless of whether they experience GMC encounters or not. The survival of intermediate-mass ($600-6000\\, \\mathrm{M}_{\\odot}$) clusters is significantly reduced by GMCs at ages up to 1 Gyr. High-mass ($>6000 \\, \\mathrm{M}_{\\odot}$) clusters survive to 1 Gyr with minimal disruption with or without GMCs. We find that clusters that have had strong GMC encounters within the last $20$ Myr should have tidal tails that are randomly orientated with respect to the Galactic centre.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-27T16:57:41Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Timmi G. Jørgensen"
+        },
+        {
+          "name": "Ross P. Church"
+        }
+      ],
+      "score": 8.8
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.27170v1",
+      "title": "NGTS clusters survey - VI: Stellar rotation in seven young open clusters within the PLATO LOPS2 field",
+      "updated": "2026-08-27T14:22:54Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.27170v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.27170v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present NGTS measurements of rotation period distributions for FGKM stars in seven young open clusters spanning ~40--700 Myr within PLATO's first long-stare LOPS2 field. We measure 1063 rotation periods, of which 479 are newly analysed as part of cluster specific rotation studies, whilst 63 are unique periods not reported in the recent TESS All-Sky Rotation Survey. Of the 1063 rotation periods, 285 are identified as likely binary or higher order multiple systems using colour-magnitude diagrams and Gaia astrometry. These are the first comprehensive rotation period distributions for Trumpler 10, NGC 2451B and Alessi 3, while extending existing distributions for NGC 2451A, NGC 2516, Collinder 135 and IC 2391, to create a fuller picture on the rotation state of young stars in PLATO's LOPS2 field. We find that main-sequence solar-mass stars in the ~40 Myr old NGC 2451B cluster, form a slow sequence that can be distinguished from their counterparts at ~70--80 Myr, thereby significantly reducing the age at which young stellar groups can be relatively aged via their rotation sequences. We also observe stalled spin down from the age of NGC 2451A to at least that of NGC 2516 (~70--150 Myr) at masses $\\gtrsim1$ $M_{\\odot}$, supporting previous predictions that angular momentum redistribution and removal should result in a wave of stalled spin down that propagates as a function of both mass and age. Finally, we provide a new age estimate for Alessi 3 of 687$\\pm$106 Myr using differential gyrochronology age dating.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-27T14:22:54Z",
+      "arxiv:comment": "21 pages, 10 figures, Accepted by MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Alexander Hughes"
+        },
+        {
+          "name": "Edward Gillen"
+        },
+        {
+          "name": "Matthew Battley"
+        },
+        {
+          "name": "Deepak Chahal"
+        },
+        {
+          "name": "Beatrice Caccherano"
+        },
+        {
+          "name": "David Anderson"
+        },
+        {
+          "name": "Ioannis Apergis"
+        },
+        {
+          "name": "Daniel Bayliss"
+        },
+        {
+          "name": "Matthew Burleigh"
+        },
+        {
+          "name": "Jorge Fernández Fernández"
+        },
+        {
+          "name": "Michael Goad"
+        },
+        {
+          "name": "George Harvey"
+        },
+        {
+          "name": "James S. Jenkins"
+        },
+        {
+          "name": "Alicia Kendall"
+        },
+        {
+          "name": "James McCormac"
+        },
+        {
+          "name": "Jose Moyano"
+        },
+        {
+          "name": "Gavin Ramsay"
+        },
+        {
+          "name": "Suman Saha"
+        },
+        {
+          "name": "Jose Vines"
+        },
+        {
+          "name": "Richard G. West"
+        },
+        {
+          "name": "Peter J. Wheatley"
+        }
+      ],
+      "score": 8.0
+    },
     {
       "id": "http://arxiv.org/abs/2608.24874v1",
       "title": "Flyby-induced high-eccentricity migration and the prevalence of hot Jupiters in M67",
@@ -215,7 +351,7 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2608.20307v1",
@@ -325,7 +461,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 6.8
+      "score": 6.3
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -800,85 +936,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 20.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.26347v1",
-      "title": "Stellar Population Astrophysics (SPA) with the TNG. Beyond the iron peak: Galactic evolution of molybdenum, ruthenium and zirconium through open clusters",
-      "updated": "2026-07-28T23:41:15Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.26347v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.26347v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Context: Open clusters serve as key laboratories for studying the chemical evolution of the Milky Way. In particular, leveraging these coeval groups of stars to study elements beyond the iron peak provides insights into heavy-element nucleosynthesis, whose origins remain uncertain.\n  Aims: This work aims to determine the Mo, Ru, and Zr abundances for 81 stars across 30 open clusters. We compare these new chemical patterns with those of key reference elements (Y, Sr, Eu), which were previously derived by our group. This comparison seeks to disentangle the distinct contributions from various nucleosynthetic processes.\n  Methods: Using the high-resolution spectra acquired within the Stellar Population Astrophysics programme using the HARPS-N echelle spectrograph at the Telescopio Nazionale Galileo, we estimate chemical abundances through spectral synthesis with TSFitPy under local thermodynamic equilibrium (LTE) conditions.\n  Results: This study provides the first Ru abundances for a large open cluster sample, alongside new measurements for Mo and Zr. We observe tight correlations between Mo, Ru, and other s-process elements (Sr, Y, Zr), with slopes near unity, suggesting common enrichment timescales. Conversely, relations with the r-process element Eu show significant deviations, implying additional nucleosynthetic contributions. Crucially, chemical planes involving [Mo/Ru] and [s/Mo] ratios suggest systematic offsets when compared to theoretical s-process predictions.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-28T23:41:15Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Natalia Alvarez-Baena"
-        },
-        {
-          "name": "Valentina D'Orazi"
-        },
-        {
-          "name": "Christopher Sneden"
-        },
-        {
-          "name": "Athanasios Psaltis"
-        },
-        {
-          "name": "Frédéric Thévenin"
-        },
-        {
-          "name": "Angela Bragaglia"
-        },
-        {
-          "name": "Tamara Mishenina"
-        },
-        {
-          "name": "Shilpa Bijavara Seshashayana"
-        },
-        {
-          "name": "Ricardo Carrera"
-        },
-        {
-          "name": "Laia Casamiquela"
-        },
-        {
-          "name": "Marina Dal Ponte"
-        },
-        {
-          "name": "Henrik Jönsson"
-        },
-        {
-          "name": "Antonino Nunnari"
-        },
-        {
-          "name": "Marco Pignatari"
-        }
-      ],
-      "score": 4.0
+      "score": 19.5
     }
   ]
 }
