@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T06:20:55.128286",
+  "fetched_at": "2026-08-29T16:26:42.647712",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -135,7 +135,7 @@
           "name": "Peter J. Wheatley"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2608.24874v1",
@@ -305,7 +305,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9bb9",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -351,7 +351,7 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2608.20307v1",
@@ -571,7 +571,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 14.5
+      "score": 14.0
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -661,7 +661,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 49.6
+      "score": 49.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -734,7 +734,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
