@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T21:54:42.605678",
+  "fetched_at": "2026-08-29T06:20:55.128286",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -461,7 +461,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 6.3
+      "score": 5.8
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -936,7 +936,7 @@
           "name": "Jose G. Fernandez-Trincado"
         }
       ],
-      "score": 19.5
+      "score": 19.0
     }
   ]
 }
