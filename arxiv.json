@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T16:26:42.647712",
+  "fetched_at": "2026-08-30T04:31:17.898048",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -35,7 +35,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 8.3
+      "score": 7.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
@@ -136,56 +136,6 @@
         }
       ],
       "score": 7.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.24874v1",
-      "title": "Flyby-induced high-eccentricity migration and the prevalence of hot Jupiters in M67",
-      "updated": "2026-08-25T17:55:03Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.24874v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.24874v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Few planetary systems form in isolation. Rather, interactions in their birth environments may sculpt their architectures or drive them into unstable configurations. Here we study the role of environmental perturbations in triggering dynamical instabilities leading to hot Jupiter formation in dense clusters, focusing on whether the elevated occurrence rate of hot Jupiters in the open cluster M67 can be explained through flyby-induced high-eccentricity migration. We develop a hybrid method for modelling the secular and tidal evolution of planetary systems under external perturbations by passing stars using a combination of analytic and numerical approaches. We evolve 10,000 realizations each of systems with either a single planet, two planets, or a planet and a stellar companion for $\\sim$4 Gyr in an M67-like cluster, comparing outcome statistics against a control sample without flybys. In single- and two-planet systems, the rate of flyby-induced hot Jupiter formation is negligible. However, in systems with an initially isotropically oriented stellar companion, the cluster environment boosts hot Jupiter formation by a factor of $\\sim$2, accompanied by a factor of $\\sim$3 increase in the rate of planets undergoing tidal disruption. Based on observationally motivated estimates of primordial populations, our hot Jupiter yields are consistent with both field and M67 occurrence rates, provided the primordial wide binary fraction among solar-type stars is close to $\\sim$50 per cent, binary-driven high-eccentricity migration is the dominant formation pathway, and a substantial fraction of tidally disrupted systems survive as hot Jupiters through partial mass loss.",
-      "category": [
-        {
-          "@term": "astro-ph.EP",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-25T17:55:03Z",
-      "arxiv:comment": "25 pages, 13 figures, accepted for publication in MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.EP"
-      },
-      "author": [
-        {
-          "name": "Mika V. Kontiainen"
-        },
-        {
-          "name": "Cathie J. Clarke"
-        },
-        {
-          "name": "Andrew J. Winter"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.24701v1",
@@ -415,7 +365,7 @@
           "name": "Sebastian Ratzenböck"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -525,7 +475,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -619,7 +569,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -795,7 +745,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -851,7 +801,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 12.3
+      "score": 11.8
     },
     {
       "id": "http://arxiv.org/abs/2607.29023v1",
