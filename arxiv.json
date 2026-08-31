@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T16:19:40.051797",
+  "fetched_at": "2026-08-31T04:35:39.991298",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -35,7 +35,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 7.8
+      "score": 7.3
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
@@ -365,7 +365,7 @@
           "name": "Sebastian Ratzenböck"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -475,7 +475,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -569,7 +569,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -684,7 +684,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -745,7 +745,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -801,92 +801,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 11.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.29023v1",
-      "title": "The Open Cluster Chemical Abundances and Mapping Survey XI. First Gradients from SDSS/MWM BOSS Determined Clusters",
-      "updated": "2026-07-31T04:52:28Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2607.29023v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2607.29023v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The Milky Way Mapper program in the fifth generation of the Sloan Digital Sky Survey (SDSS-V/MWM) has observed millions of stars, thousands of them in open clusters. The Open Cluster Chemical Abundances and Mapping (OCCAM) survey continues to create comprehensive datasets of open clusters and their members in order to constrain Galactic parameters. This eleventh contribution from the OCCAM survey is the first to use stellar parameters from stars observed with the optical Baryon Oscillation Spectroscopic Survey (BOSS) spectrograph to determine cluster membership. We use data from SDSS-V/MWM's 20th Data Release (DR20) and curate a sample of 1883 stars in 111 open clusters, including 95 not in previous OCCAM samples based on infrared data from the Apache Point Observatory Galactic Evolution Experiment (APOGEE) spectrograph. The sample includes 16 clusters with stars observed using both the BOSS and APOGEE spectrographs, and we find consistent agreement in measurements of both [Fe/H] and [$α/M$]. The BOSS sample includes the majority of the clusters at young ages (Age $< 150$ Myr) that complement the APOGEE sample of primarily older clusters. We use the combined BOSS+APOGEE OCCAM sample to constrain the radial metallicity gradient with respect to $R_{guide}$ ($-0.079 \\pm 0.005 \\text{ dex kpc}^{-1}$) and $R_{gc}$ ($-0.082 \\pm 0.006 \\text{ dex kpc}^{-1}$), which agree well with results from previous OCCAM papers using only APOGEE data. Finally, the inclusion of the primarily young BOSS clusters has not changed that the OCCAM open cluster sample indicates no significant evolution of this gradient in different mono-age populations.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-07-31T04:52:28Z",
-      "arxiv:comment": "18 pages, 10 figures, submitted to the Astronomical Journalhttps://info.arxiv.org/help/prep#journal",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jonah M. Otto"
-        },
-        {
-          "name": "Peter M. Frinchaboy"
-        },
-        {
-          "name": "John Donor"
-        },
-        {
-          "name": "Ilija Medan"
-        },
-        {
-          "name": "Natalie R. Myers"
-        },
-        {
-          "name": "Audrey Hauck"
-        },
-        {
-          "name": "Katia Cunha"
-        },
-        {
-          "name": "Gail Zasowski"
-        },
-        {
-          "name": "Madeleine McKenzie"
-        },
-        {
-          "name": "Jingkun Zhao"
-        },
-        {
-          "name": "Jose Eduardo Mendez-Delgado"
-        },
-        {
-          "name": "Amaya Sinha"
-        },
-        {
-          "name": "Zachary Way"
-        },
-        {
-          "name": "Dmitry Bizyaev"
-        },
-        {
-          "name": "Andrew R. Casey"
-        },
-        {
-          "name": "Jose G. Fernandez-Trincado"
-        }
-      ],
-      "score": 18.5
+      "score": 11.3
     }
   ]
 }
