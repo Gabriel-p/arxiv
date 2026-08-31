@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T04:35:39.991298",
+  "fetched_at": "2026-08-31T18:57:04.756860",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -35,7 +35,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 7.3
+      "score": 6.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
@@ -135,127 +135,7 @@
           "name": "Peter J. Wheatley"
         }
       ],
-      "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.24701v1",
-      "title": "Improving the Physical Interpretability of Gaussian Processes in Stellar Activity Modeling: A Study Case on Photometric Variability Among Stellar Clusters",
-      "updated": "2026-08-25T15:24:13Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.24701v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.24701v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-4357/ae9bb9",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Gaussian Processes (GPs) are widely used to model stellar variability in photometric surveys, but a statistically successful fit does not guarantee that the inferred hyperparameters correspond to physically meaningful stellar properties. This is especially important for young, active stars, whose TESS light curves contain evolving spots, harmonics, and non-sinusoidal variability. We use stellar rotation as a case study to examine when the period hyperparameter of a quasi-periodic GP can be interpreted as a physical rotation period. We introduce a regularized GP likelihood that reweights the covariance-complexity term in the marginal likelihood, reducing the tendency of unconstrained models to converge toward preferred but misleading solutions.\n  We test this framework on 539 stars in IC2602, the Tucana-Horologium Association, Pisces-Eridanus, and GroupX, with independently reported and manually vetted rotation periods. This benchmark evaluates GP hyperparameter interpretability and automated period recovery with minimal human intervention. We compare regularized and unregularized models across several regularization strengths, λ, using literature agreement, sector-level diagnostics, and consistency across TESS sectors. Relative to the standard GP likelihood, regularization improves successful rotation-period recovery by an average of 7%. It also generally reduces the median absolute fractional deviation of periods across sectors, showing that the improvement is not limited to catastrophic failures but also mitigates smaller systematic errors.\n  Regularization is particularly beneficial for non-sinusoidal or evolving modulation, where unconstrained GPs may recover harmonics or spurious timescales. These results show that likelihood regularization and cross-sector consistency are practical diagnostics for assessing when GP-based rotation periods are robust.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-25T15:24:13Z",
-      "arxiv:comment": "(23 pages, 12 figures, 5 tables)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Leslie Moranta",
-          "arxiv:affiliation": [
-            "Planétarium de Montréal, Montréal, Canada",
-            "Trottier Institute for Research on Exoplanets, Université de Montréal, Montréal, Canada",
-            "Department of Astrophysics, American Museum of Natural History, New York, USA"
-          ]
-        },
-        {
-          "name": "Jonathan Gagné",
-          "arxiv:affiliation": [
-            "Planétarium de Montréal, Montréal, Canada",
-            "Trottier Institute for Research on Exoplanets, Université de Montréal, Montréal, Canada"
-          ]
-        },
-        {
-          "name": "Jacqueline K. Faherty",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Mark Popinchalk",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Jason Lee Curtis",
-          "arxiv:affiliation": "Department of Astronomy, Columbia University, New York, USA"
-        },
-        {
-          "name": "Johanna M. Vos",
-          "arxiv:affiliation": [
-            "Department of Astrophysics, American Museum of Natural History, New York, USA",
-            "School of Physics, Trinity College Dublin, The University of Dublin, Dublin, Ireland"
-          ]
-        },
-        {
-          "name": "Alexandrine L'Heureux",
-          "arxiv:affiliation": "Trottier Institute for Research on Exoplanets, Université de Montréal, Montréal, Canada"
-        },
-        {
-          "name": "Andrew Ayala",
-          "arxiv:affiliation": [
-            "Department of Astrophysics, American Museum of Natural History, New York, USA",
-            "Department of Physics and Astronomy, Hunter College, City University of New York, New York, USA"
-          ]
-        },
-        {
-          "name": "Eleanor Johnson",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Dawn McCullough",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Nicole Munoz",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Hannah Park",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Xue Weng",
-          "arxiv:affiliation": "Department of Astrophysics, American Museum of Natural History, New York, USA"
-        },
-        {
-          "name": "Livia Poliquin",
-          "arxiv:affiliation": "Marianopolis College, Montréal, Canada"
-        },
-        {
-          "name": "Ilhem Lazizi",
-          "arxiv:affiliation": "McGill Institute for Aerospace Engineering, McGill University, Montréal, Canada"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae9bb9",
-      "score": 0.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -301,71 +181,7 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 7.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.20307v1",
-      "title": "The Nearby Star Formation and Supernova Histories Reconstructed from Young Star Clusters",
-      "updated": "2026-08-20T17:45:55Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.20307v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.20307v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We reconstruct the recent star formation and core-collapse supernova (ccSN) histories of the Solar Neighborhood from the past trajectories of young star clusters. Using a \\textit{Gaia}-based cluster sample with newly derived ages, masses, and bulk 3D velocities, we integrate orbits backward in an assumed axisymmetric Galactic potential and combine the trajectories with IMF sampling and stellar lifetimes to infer ccSN times and locations over the past 50 Myr. The result is an all-sky, 3D, time-resolved map of nearby ccSN activity for comparison with high-resolution 3D views of the local interstellar medium. The 0--15 Myr map shows strong enhancements toward Orion, Vela, Sco--Cen, and Cepheus, many within present-day cavities and shells. At earlier times, the dominant enhancements trace the Collinder 135, Messier 6, and Alpha Persei cluster families, showing how the remnants of massive star-forming complexes have shaped the recent local feedback history. We recover a bursty star formation history followed by a delayed, smoother ccSN history. Over the last 40 Myr, the mean star formation and ccSN rates are \\(823~M_\\odot~\\mathrm{Myr}^{-1}\\) and \\(7.7~\\mathrm{Myr}^{-1}\\), respectively, corresponding to a Milky Way rate of \\(0.55\\pm0.03~\\mathrm{century}^{-1}\\). Present-day OB-star catalogs yield rates ranging from agreement with the cluster reconstruction to several times higher. Because the catalogs overlap weakly and require different corrections, we do not rescale the ccSN map. Our reconstruction provides an empirical framework for connecting the recent history of massive-star feedback to the 3D structure and life cycle of gas in the nearby Milky Way.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-20T17:45:55Z",
-      "arxiv:comment": "27 pages, 9 figures. Submitted to ApJ. Comments are welcome. An interactive 3D version of Figures 2 and 3 is available at https://cswigg.github.io/cam_website/oviz_figures/oviz_supernovae.html",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Cameren Swiggum"
-        },
-        {
-          "name": "Catherine Zucker"
-        },
-        {
-          "name": "Michelangelo Pantaleoni González"
-        },
-        {
-          "name": "Emily L. Hunt"
-        },
-        {
-          "name": "Robert A. Benjamin"
-        },
-        {
-          "name": "Sebastian Hutschenreuter"
-        },
-        {
-          "name": "Alena K. Rottensteiner"
-        },
-        {
-          "name": "Efrem Maconi"
-        },
-        {
-          "name": "Lewis McCallum"
-        },
-        {
-          "name": "João Alves"
-        },
-        {
-          "name": "Sebastian Ratzenböck"
-        }
-      ],
-      "score": 0.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -411,7 +227,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     },
     {
       "id": "http://arxiv.org/abs/2608.14514v1",
@@ -475,7 +291,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -521,7 +337,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 13.5
+      "score": 13.0
     },
     {
       "id": "http://arxiv.org/abs/2608.12301v1",
@@ -569,7 +385,7 @@
           "name": "Y. H. M. Hendy"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -611,7 +427,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 48.6
+      "score": 48.1
     },
     {
       "id": "http://arxiv.org/abs/2608.08216v1",
@@ -684,7 +500,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.04165v1",
@@ -801,7 +617,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 11.3
+      "score": 10.8
     }
   ]
 }
