@@ -1,6 +1,110 @@
 {
-  "fetched_at": "2026-08-31T18:57:04.756860",
+  "fetched_at": "2026-09-01T04:17:27.878334",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2608.30063v1",
+      "title": "Intermediate-mass runaway and hypervelocity star candidates in DESI DR1",
+      "updated": "2026-08-30T22:10:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.30063v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.30063v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Runaway stars ejected from the Galactic disc span a range of velocities, with two extreme regimes of particular interest. Hyper-runaway stars reach velocities approaching the local Galactic escape speed while remaining gravitationally bound to the Galaxy, while hypervelocity stars (HVS) have speeds which exceed the escape speed, leaving them formally unbound. Studying both populations places stringent constraints on star cluster formation, supernova explosions in massive binaries, and the shape of the stellar halo. Here we present a spectroscopic search for such extreme-velocity stars using data from the first data release of the Dark Energy Spectroscopic Instrument (DESI DR1). Because these objects are typically located at distances beyond the range where \\textit{gaia} parallaxes are reliable, we derive stellar parameters through a combined analysis of spectroscopy and spectral energy distributions (SEDs). These parameters are then compared with stellar evolutionary tracks to infer distances, which are subsequently used to compute the kinematics of the candidates. We identify a sub-sample of eight stars that appear unbound to the Galaxy, likely of extragalactic origin. These stars exhibit projected rotational velocities exceeding $50$ km s$^{-1}$, consistent with a main-sequence nature. An additional eleven stars are identified as potential HVS candidates under the assumption that they are main-sequence stars. This interpretation is not supported by their rotational velocities, making their unbound status less secure. Finally, $26$ stars show evidence of being main-sequence runaway stars ejected from the Galactic disc. The fastest object in the sample is a metal-poor HVS candidate with a Galactocentric velocity upper-limit of $934 \\pm 110$ km s$^{-1}$. The star with the largest measured radial velocity of $513$ km s$^{-1}$ is most likely a slowly pulsating B-type runaway star.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-30T22:10:09Z",
+      "arxiv:comment": "Accepted for publication in A&A. 12 Pages, 5 Appendix, 20 figures. Abstract shortened",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Aakash Bhat"
+        },
+        {
+          "name": "Matti Dorsch"
+        },
+        {
+          "name": "Ulrich Heber"
+        },
+        {
+          "name": "Stephan Geier"
+        },
+        {
+          "name": "Harry Dawson"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.29637v1",
+      "title": "Tracing Radial Migration in the Outer Disk: A Comprehensive Analysis of the Old Open Cluster Berkeley 36",
+      "updated": "2026-08-30T07:58:44Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.29637v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.29637v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a chemo-kinematical, structural, and photometric analysis of the old open cluster Berkeley 36 using Gaia DR3 astrometry and photometry together with high-resolution spectroscopy from the Gaia-ESO Survey DR5.1. Applying a Gaussian Mixture Model to Gaia astrometry, we identify 946 high-probability cluster members. We derive a core radius of 2.63 +/- 0.21 arcmin and a tidal radius of 14.84 +/- 0.47 arcmin, indicating a moderately concentrated and dynamically relaxed system. By fixing the cluster metallicity to the spectroscopic value of [Fe/H] = -0.19 +/- 0.02 dex and adopting an independently determined geometric distance of 4377 +/- 510 pc, we minimize the classical age-reddening-metallicity degeneracy and derive a robust isochrone age of 6.8 +/- 0.5 Gyr. Independent Ba-based chemical clocks yield a mean age of 7.75 +/- 1.94 Gyr, supporting the isochrone solution. The cluster exhibits a high main-sequence binary fraction of 48.0 +/- 1.7% and hosts 83 blue straggler star candidates with an extended spatial distribution, contrary to classical mass segregation. Orbit integration shows that Berkeley 36 follows a nearly circular orbit in the outer Galactic disc at R_GC = 11.42 +/- 0.44 kpc. Accounting for the Galactic warp and disc flare increases the cluster's maximum vertical excursion by 86% and the local disc scale height by 17%, respectively. Comparison with its chemically inferred birth radius at R_b = 6.71 +/- 0.66 kpc indicates an outward radial migration of approximately 5 kpc, predominantly driven by churning. These results establish Berkeley 36 as a benchmark for investigating radial migration, secular evolution, and the dynamical history of old Galactic open clusters.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-30T07:58:44Z",
+      "arxiv:comment": "28 pages, including 13 figures and 4 tables, accepted for publication in the The Astronomical Journal (AJ)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ing-Guey Jiang"
+        },
+        {
+          "name": "K. Belwal"
+        },
+        {
+          "name": "Selçuk Bilir"
+        }
+      ],
+      "score": 11.3
+    },
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
       "title": "$N$-body simulations of the open cluster population in the Milky Way and the impact of GMC encounters",
@@ -561,7 +665,7 @@
           "name": "L. D. Baravalle"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
