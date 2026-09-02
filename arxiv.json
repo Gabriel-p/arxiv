@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-09-01T16:18:19.966770",
+  "fetched_at": "2026-09-02T03:39:48.944649",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2608.30063v1",
-      "title": "Intermediate-mass runaway and hypervelocity star candidates in DESI DR1",
-      "updated": "2026-08-30T22:10:09Z",
+      "id": "http://arxiv.org/abs/2609.00134v1",
+      "title": "Modeling Rotation in the Old, Cold Domain: Implications on Gyrochronology and the Stellar Magnetic Wind",
+      "updated": "2026-08-31T18:00:02Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2608.30063v1",
+          "@href": "https://arxiv.org/abs/2609.00134v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2608.30063v1",
+          "@href": "https://arxiv.org/pdf/2609.00134v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "Runaway stars ejected from the Galactic disc span a range of velocities, with two extreme regimes of particular interest. Hyper-runaway stars reach velocities approaching the local Galactic escape speed while remaining gravitationally bound to the Galaxy, while hypervelocity stars (HVS) have speeds which exceed the escape speed, leaving them formally unbound. Studying both populations places stringent constraints on star cluster formation, supernova explosions in massive binaries, and the shape of the stellar halo. Here we present a spectroscopic search for such extreme-velocity stars using data from the first data release of the Dark Energy Spectroscopic Instrument (DESI DR1). Because these objects are typically located at distances beyond the range where \\textit{gaia} parallaxes are reliable, we derive stellar parameters through a combined analysis of spectroscopy and spectral energy distributions (SEDs). These parameters are then compared with stellar evolutionary tracks to infer distances, which are subsequently used to compute the kinematics of the candidates. We identify a sub-sample of eight stars that appear unbound to the Galaxy, likely of extragalactic origin. These stars exhibit projected rotational velocities exceeding $50$ km s$^{-1}$, consistent with a main-sequence nature. An additional eleven stars are identified as potential HVS candidates under the assumption that they are main-sequence stars. This interpretation is not supported by their rotational velocities, making their unbound status less secure. Finally, $26$ stars show evidence of being main-sequence runaway stars ejected from the Galactic disc. The fastest object in the sample is a metal-poor HVS candidate with a Galactocentric velocity upper-limit of $934 \\pm 110$ km s$^{-1}$. The star with the largest measured radial velocity of $513$ km s$^{-1}$ is most likely a slowly pulsating B-type runaway star.",
+      "summary": "Gyrochronology ties stellar rotation periods to ages. It is well studied in the young, open cluster age domain, but there are few constraints on gyrochronology in the old field star regime. In this work we use gyro-kinematic ages to explore the spin down of stars in this formerly inaccessible domain. Using forward modeling techniques which relax strict Rossby scaled assumptions, we find evidence for a departure from a standard spin down models. This departure can be explained with a mass-dependent term either in the global strength of the stellar wind or in the relationship between angular velocity and wind strength. Models with this additional mass- dependence help explain prior difficulty in fitting open cluster rotation distributions across the full mass range. Additionally, we use rotation models to identify an mass-dependent age domain over which wind driven stellar spin down can be isolated from other physical effects. For lower mass stars, this age domain is most affected by the core-envelope coupling timescale, where as higher mass stars are more subject to inertial effects late in their main sequence lifetimes. Using simple, analytic models of stellar spin down in this domain is unable to determine whether the stellar wind has a mass-dependence or if the stellar wind is strictly Skumanich-like in nature. In future studies of rotational and dynamo evolution we advocate for a forward modeling approach to gyrochronology over purely empirical approaches due to its superior ability to trace physical effects governing stellar spin down.",
       "category": [
         {
           "@term": "astro-ph.SR",
@@ -29,26 +29,65 @@
           "@scheme": "http://arxiv.org/schemas/atom"
         }
       ],
-      "published": "2026-08-30T22:10:09Z",
-      "arxiv:comment": "Accepted for publication in A&A. 12 Pages, 5 Appendix, 20 figures. Abstract shortened",
+      "published": "2026-08-31T18:00:02Z",
+      "arxiv:comment": "21 Pages, 14 figures, submitted to AAS journals",
       "arxiv:primary_category": {
         "@term": "astro-ph.SR"
       },
       "author": [
         {
-          "name": "Aakash Bhat"
+          "name": "Amanda L. Ash",
+          "arxiv:affiliation": "Lucy"
         },
         {
-          "name": "Matti Dorsch"
+          "name": "Yuxi",
+          "arxiv:affiliation": "Lucy"
         },
         {
-          "name": "Ulrich Heber"
+          "name": "Lu"
         },
         {
-          "name": "Stephan Geier"
+          "name": "Marc H. Pinsonneault"
+        }
+      ],
+      "score": 4.3
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.00114v1",
+      "title": "Reconciling Galactic rotation curve constraints with stellar stream modeling",
+      "updated": "2026-08-31T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.00114v1",
+          "@rel": "alternate",
+          "@type": "text/html"
         },
         {
-          "name": "Harry Dawson"
+          "@href": "https://arxiv.org/pdf/2609.00114v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Recent Gaia-based measurements of the Milky Way rotation curve and stellar-stream modeling give significantly different estimates of the Galactic dynamical mass beyond Galactocentric radii of 15 kpc. The stream-based model predicts an outer halo five times more massive than that predicted by the Gaia rotation curve. We aim to test the impact of analytic assumptions used in stream modeling and to assess whether the currently available stream constraints can distinguish between low- and high-mass Galactic potentials. We first compared globular-cluster disruption in analytic and N-body Milky Way potentials. We then modeled Palomar~5 and ATLAS--Aliqa Uma, which are unique in probing the outer region beyond $R_{GC}$=15 kpc and are the most relevant to understanding the mass discrepancy. Both streams have usable constraints on sky position, proper motion, line-of-sight velocity, and RR~Lyrae distance. They were modeled for both a rotation-curve-based and a stream-based Galactic potential. In the N-body simulations, tidal shocks have a stronger effect on the closer orbit than on the more distant orbit, and therefore do not naturally explain the outer-Galaxy mass discrepancy. For the streams Palomar 5 and ATLAS--Aliqa Uma, simulations performed for both low- and high-mass Galactic potentials provide comparably good fits of their morphologies and kinematics. Neither potential provides a uniformly better match to all observables, and their differences are comparable to the present observational and modeling uncertainties.\n  Current stream data do not discriminate between the low- and high-mass Milky Way models over the radial range probed by Palomar~5 and ATLAS--Aliqa Uma. This resolves the apparent tension between the rotation-curve- and stream-based constraints over this radial range.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-31T18:00:00Z",
+      "arxiv:comment": "12 pages (+ 2 pages in Appendix), 12 (+1) Figures, 2 (+1) Tables, accepted in Astronomy and Astrophysics, August 18th 2026. As a consequence, stellar streams are consistent with Galaxy masses ranging from 2.8 to 12.4 $10^{11}$ $M_{\\odot}$",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Mingyu Chang"
+        },
+        {
+          "name": "Francois Hammer"
+        },
+        {
+          "name": "Yanbin Yang"
         }
       ],
       "score": 0.5
@@ -139,7 +178,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 6.8
+      "score": 6.3
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
@@ -395,7 +434,7 @@
           "name": "Joyce B. Pullen"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -442,54 +481,6 @@
         }
       ],
       "score": 12.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.12301v1",
-      "title": "From Cluster Cores to the Low-Density Field: Strong Environmental Quenching of Galaxy Star Formation at Low Redshift",
-      "updated": "2026-08-12T17:45:56Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.12301v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.12301v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate how galaxy star formation activity depends on environment using a sample of 81,647 SDSS galaxies selected over $0.03\\leq z\\leq0.075$ and $9.7\\leq\\log_{10}(M_\\star/h^{-2}M_\\odot)\\leq11.0$, including 18,426 members from 572 clusters in the \\texttt{GalWCat19} catalog. We characterize environment in two complementary ways: (1) nearest-neighbor density for the full sample, and (2) clustercentric radius and host halo mass for \\texttt{GalWCat19}. The sSFR distribution remains bimodal across all environments, with distinct quenched and star-forming components. As local density increases, the quenched component becomes more prominent, while the characteristic sSFR of the star-forming component decreases by approximately $0.29$--$0.35$ dex from the lowest- to highest-density classes. Within clusters, the quenched fraction decreases with increasing projected clustercentric radius, while the star-forming peak shifts by approximately $0.42$ dex toward lower sSFR from the outskirts to the inner cluster region. This extends the picture from previous studies, in which environmental trends are primarily associated with changes in the quenched fraction, by showing that galaxies remaining in the star-forming population also exhibit systematically suppressed sSFR in denser environments. The dependence on host halo mass is weaker and is most apparent among lower-stellar-mass galaxies in the inner cluster regions. By measuring the environmental quenching efficiency at fixed stellar mass, we find excess quenching in cluster environments beyond that expected from stellar-mass quenching alone. These results show that environment is associated not only with an increased probability of quenching, but also with suppressed star formation among galaxies that remain star forming, with local density and clustercentric radius showing the strongest associations.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-12T17:45:56Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Mohamed H. Abdullah"
-        },
-        {
-          "name": "A. E. Abdelaziz"
-        },
-        {
-          "name": "Gillian Wilson"
-        },
-        {
-          "name": "Ahmed M. Abdelbar"
-        },
-        {
-          "name": "M. M. Beheary"
-        },
-        {
-          "name": "Y. H. M. Hendy"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -604,68 +595,7 @@
           "name": "Timothy Banks"
         }
       ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.04165v1",
-      "title": "Chemo-dynamical stratification of the Galactic disc using \\emph{Gaia}-ESO open clusters",
-      "updated": "2026-08-04T19:21:56Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.04165v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.04165v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Understanding how the Milky Way disc assembled and evolved requires tracing the coupled evolution of stellar chemistry and orbital structure over time. Open clusters, as coeval stellar populations with well-constrained ages, distances, and chemical properties, provide powerful benchmarks for this purpose. We aim to characterise the age-dependent chemo-dynamical structure of the Galactic disc and to investigate how open clusters populate dynamical phase space as a function of age. We analysed a sample of Galactic open clusters using homogeneous chemical abundances from the Gaia-ESO Survey together with Gaia DR3 phase-space information. Combining cluster ages with orbital parameters and actions, we examined how clusters populate dynamical phase space over the last ~4 Gyr. We find that clusters with similar chemical properties occupy coherent regions of action space, while their orbital structure shows a clear dependence on age. Radial excursions and orbital eccentricities broaden systematically toward older ages, indicating increasingly diverse orbital configurations in the older cluster population. The dispersion in the [Fe/H]-Rg relation also increases with age, consistent with a combination of secular redistribution, survival bias, and dynamically distinct outer-disc populations. In addition, older clusters reach larger vertical amplitudes and vertical actions, revealing a coupled but anisotropic evolution between in-plane and vertical orbital structure. Open clusters provide precise, age-resolved tracers of the chemo-dynamical structure of the Galactic disc. Our results reveal systematic age-dependent variations in the orbital and chemical properties of the cluster population, consistent with the combined effects of secular evolution, orbital redistribution, and environmentally dependent cluster survival over the last few Gyr.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-04T19:21:56Z",
-      "arxiv:comment": "15 pages, 7 main Figures and two appendix figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Casmir O. Obasi"
-        },
-        {
-          "name": "M. Gómez"
-        },
-        {
-          "name": "J. G. Fernández-Trincado"
-        },
-        {
-          "name": "D. Minniti"
-        },
-        {
-          "name": "B. Dias"
-        },
-        {
-          "name": "B. Barbuy"
-        },
-        {
-          "name": "M. V. Alonso"
-        },
-        {
-          "name": "L. D. Baravalle"
-        }
-      ],
-      "score": 0.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.02563v1",
@@ -721,7 +651,7 @@
           "name": "J. M. Otto"
         }
       ],
-      "score": 10.8
+      "score": 10.3
     }
   ]
 }
