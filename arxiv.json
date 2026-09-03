@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T03:43:04.629661",
+  "fetched_at": "2026-09-03T16:04:02.887643",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.01880v1",
@@ -266,7 +266,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -402,7 +402,7 @@
           "name": "Peter J. Wheatley"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -448,7 +448,278 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 6.0
+      "score": 5.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.18550v1",
+      "title": "Kinematics and Dynamics of the Open Cluster NGC 2302",
+      "updated": "2026-08-19T05:20:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.18550v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.18550v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are ideal observational testbeds to understand the dynamics of stellar systems. We present a dynamical study of the young open cluster NGC 2302. The latest Gaia data and $UBVIJHK_s$ photometric data are used in this study. A total of 117 stars are selected as the genuine members using the Gaia data. This cluster is, on average, reddened by $<E(B-V)> = 0.24 \\pm 0.06$ (s.d.). The ratio of total-to-selective extinction ($R_V$) in the direction of NGC 2302 is $2.8 \\pm 0.1$. The cluster distance is determined to be $1.16 \\pm 0.08$ kpc using Gaia parallaxes. Theoretical isochrone fitting for $Z = 0.008$ on color-magnitude diagrams yields an age of $80 \\pm 20$ Myr. The relative proper motions of individual members show no significant radial expansion or contraction. NGC 2302 contains a total stellar mass of $333 \\pm 48 M_{\\odot}$. The one-dimensional velocity dispersion is approximately 0.26 km s$^{-1}$, which is comparable to the viral velocity dispersion of 0.27 km s$^{-1}$ derived from its total mass. Its relaxation time is estimated to be approximately 90 Myr, which is similar to the age of the cluster within the uncertainty in age estimation. Finally, we report a pattern of mass segregation in the radial distribution of stellar masses. Our results suggest that NGC 2302 is virialized and currently approaching a state of dynamical relaxation. However, because no definitive evidence of kinetic energy equipartition is found, the possibility of the in-situ formation of high-mass stars within the central region should be carefully considered.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-19T05:20:00Z",
+      "arxiv:comment": "10 pages, 13 figures, accepted for publication in JKAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yuna Lee"
+        },
+        {
+          "name": "Jongsuk Hong"
+        },
+        {
+          "name": "Beomdu Lim"
+        }
+      ],
+      "score": 3.3
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.14514v1",
+      "title": "The deepest color-magnitude diagrams for the benchmark open cluster NGC 2437 from Gaia and VVVX",
+      "updated": "2026-08-14T17:33:39Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.14514v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.14514v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Deep photometry of Galactic star clusters provides one of the most powerful tools for determining their physical properties. In particular, in low Galactic latitude regions that suffer from heavy extinction and crowding. NGC2437 is the most extended star cluster in the near-IR footprint of the VVV Extended Survey (VVVX), covering more than one degree on the sky. We aim to characterize its physical properties using Gaia DR3 in the optical and the VVVX in the near-IR. We use Gaia DR3 proper motions to select NGC2437 members in order to make optical and near-IR color-magnitude and color-color diagrams. We further exploited the newly constructed VVVX deep stack images to obtain the deepest near-IR color-magnitude diagram currently available for this cluster. We estimate the main physical parameters for NGC2437, including the mean parallax of 0.608 mas and PMs (-3.85, 0.41) mas/yr. The mean reddening E(J-Ks) = 0.059 mag and extinction of A_k = 0.034 mag for the cluster field, with no significant differential reddening spread. A distance modulus of 11.08 mag is estimated, equivalent to a distance of 1644 pc. This places NGC2437 at z=115 pc above the Galactic plane and at a galactocentric distance of 9.24 kpc. We measure the cluster structural parameters, obtaining a core radius of 10.79 arcmin. The estimated total absolute magnitudes are Mk = -4.91 mag and Mv = -3.70 mag. The cluster mean age is 350 Myr, using PARSEC-COLIBRI isochrones for solar metallicity. We measure a binary fraction of 28.6%. We also discuss the implications of the revised cluster parameters for the nearby open cluster NGC2425, the planetary nebula NGC2438, and the evolved OH/IR source OH231.8+04.2. The VVVX deep stacks increase the Ks photometric depth by 1.6 mag, nearly doubling the detected point sources and enabling significantly improved studies of stellar populations throughout the southern Galactic plane.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-14T17:33:39Z",
+      "arxiv:comment": "9 pages, 12 figures, 1 tables. Accepted for Publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Tali Palma"
+        },
+        {
+          "name": "Matías Gómez"
+        },
+        {
+          "name": "Dante Minniti"
+        },
+        {
+          "name": "Alan Montecinos"
+        },
+        {
+          "name": "Nicholas J. G. Cross"
+        },
+        {
+          "name": "Javier Alonso-García"
+        },
+        {
+          "name": "Daniel Majaess"
+        },
+        {
+          "name": "Bruno Dias"
+        },
+        {
+          "name": "Maren Hempel"
+        },
+        {
+          "name": "Roberto K. Saito"
+        },
+        {
+          "name": "Joyce B. Pullen"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.13313v1",
+      "title": "Differential Reddening and Extinction Law Analyses of Galactic Open Clusters",
+      "updated": "2026-08-13T14:37:57Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.13313v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.13313v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Extinction significantly affects open cluster parameters and their use in studies of Galactic structure, yet homogeneous large sample measurements of open cluster extinction properties remain limited. Using Gaia-era open cluster member samples combined with multi-band photometry and stellar parameters, we derive color excesses of member stars and provide the homogeneous characterization of the mean reddening, differential reddening, and color excess ratio (CER) at the cluster scale. Differential reddening increases systematically with mean reddening, with highly reddened clusters near the Galactic plane showing stronger extinction variations. Star-by-star reddening corrections narrow color--magnitude diagram (CMD) sequences in 369 of 435 clusters (85%) with reliable CMD-width measurements, and cluster color excess maps reveal small-scale extinction structures. The median CER is compatible with the standard diffuse interstellar medium extinction curve, while the broad CER distribution and its large-scale variations across the Galactic disk likely reflect differences in the dominant dust environments sampled along different Galactic sight lines.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-08-13T14:37:57Z",
+      "arxiv:comment": "15 pages, 9 figures, 1 table, Accepted for publication in AJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Xiaohan Chen"
+        },
+        {
+          "name": "Shu Wang"
+        },
+        {
+          "name": "Xiaodian Chen"
+        }
+      ],
+      "score": 11.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.09439v1",
+      "title": "The Environmental Dependence of Star Cluster Demographics",
+      "updated": "2026-08-10T11:13:11Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.09439v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.09439v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Both the star cluster mass function and the lifetimes of clusters may vary with galactic environment, but measuring this variation is challenging because in observational surveys real features of cluster demographics are invariably entangled with catalogue incompleteness. Here we analyse $\\approx$ 8300 star clusters in 12 galaxies drawn from the LEGUS survey using the slug Bayesian forward modelling framework coupled to our new c-4 neural network-based completeness estimator, which allows us to incorporate realistic catalogue-inclusion probabilities directly into the likelihood and compensate for these biases. We show that this approach allows us to fit observed cluster luminosity functions with excellent fidelity at both galactic and sub-galactic scales. We find that mass function slopes are relatively universal and broadly consistent with a power law $M^{-2}$ form, but high mass truncations vary by orders of magnitude both between and within galaxies. Our fits also strongly favour models where cluster disruption is mass-independent, but the time at which disruption begins again shows wide environmental variations. Our results demonstrate that young cluster demographics are environmentally dependent, with the clearest signal appearing at the upper end of the cluster mass function, but that these variations are not well-explained by any of the models currently in the literature, and do not correlate straightforwardly with properties such as star formation rate per unit area or strength of shear.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-10T11:13:11Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jianling Tang"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Mark R. Krumholz"
+        },
+        {
+          "name": "Tomasz Różański"
+        }
+      ],
+      "score": 46.6
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.08216v1",
+      "title": "Kings of the Milky Way: A Homogeneous Gaia DR3 Analysis of King Open Clusters and the Galactic Disc Metallicity Gradient",
+      "updated": "2026-08-08T16:25:45Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2608.08216v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2608.08216v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "This study aims to establish an internally homogeneous set of structural, astrophysical, and kinematical parameters for King open clusters and to assess their role as tracers of the Galactic thin disc. We present a homogeneous structural, astrophysical, and kinematical analysis of 27 King open clusters using high-precision Gaia DR3 astrometry, photometry, and spectroscopy. Cluster reddenings, distances, metallicities, and ages are determined via a homogeneous Markov Chain Monte Carlo isochrone-fitting approach applied to Gaia colour-magnitude diagrams. The derived parameters span E(G_BP-G_RP) = 0.113-1.933 mag, metallicities of [Fe/H] = -0.40 to +0.28 dex, ages from 17 to 6166 Myr, and heliocentric distances between 739 and 6272 pc. A comparison between astrometric and isochrone-based distances yields a median parallax difference of $-13μ$as, indicating a good level of internal consistency between the photometric and astrometric distance scales within the adopted homogeneous framework. The radial metallicity behaviour of the King clusters is also examined using three complementary Galactic distance definitions and compared with the metallicity-radius relations obtained independently from 164 spectroscopically analysed open clusters from the literature. The King-cluster gradients are close to $-0.060$ dex kpc$^{-1}$ and are broadly consistent with those of the external reference sample, indicating that the homogeneously analysed King clusters follow the negative metallicity-radius trend traced by the broader thin-disc open-cluster population. Flatter gradients are found for young clusters, suggesting more homogeneous chemical enrichment at recent epochs. When dynamical constraints are applied to reduce the effects of radial migration and orbital blurring, the inferred gradient remains close to $-0.059$ dex kpc$^{-1}$.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-08-08T16:25:45Z",
+      "arxiv:comment": "40 pages, 18 figures, 7 tables. Accepted for publication in Advances in Space Research",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Talar Yontan"
+        },
+        {
+          "name": "Selçuk Bilir"
+        },
+        {
+          "name": "Hikmet Çakmak"
+        },
+        {
+          "name": "Olcay Plevne"
+        },
+        {
+          "name": "Esin Soydugan"
+        },
+        {
+          "name": "Seval Taşdemir"
+        },
+        {
+          "name": "Remziye Canbay"
+        },
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "Seliz Koç"
+        },
+        {
+          "name": "Hülya Karagöz"
+        },
+        {
+          "name": "Burçin Tanık Öztürk"
+        },
+        {
+          "name": "Furkan Akbaba"
+        },
+        {
+          "name": "Özcan Çalışkan"
+        },
+        {
+          "name": "Timothy Banks"
+        }
+      ],
+      "score": 0.5
     }
   ]
 }
