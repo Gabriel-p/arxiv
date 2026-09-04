@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-09-03T16:04:02.887643",
+  "fetched_at": "2026-09-04T03:39:37.553940",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.03310v1",
+      "title": "NGC 1901: A new benchmark cluster for gyrochronology in the TESS Southern continuous viewing zone",
+      "updated": "2026-09-03T03:00:41Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.03310v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.03310v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We use Gaia DR3 astrometry and TESS time-series photometry to study NGC 1901, a sparse open cluster in the TESS Southern continuous viewing zone, that has been neglected due to its proximity on the sky to the Large Magellanic Cloud. We refine its membership list and measure rotation periods for 32 high-confidence rotating stars. By applying the gyro-interp empirical model, we calculate a gyrochronal age of 830 $\\pm$ 50 Myr. Because NGC 1901 possesses a sub-solar metallicity of [Fe/H]$\\approx -0.11$, its excellent agreement with empirical models suggests that temperature-period relations mitigate metallicity effects for Sun-like stars. Our results place NGC 1901 in the gap between the benchmark open clusters Praesepe (670 Myr) and NGC 6811 (1 Gyr). We find that the rotation sequence exhibits significant spin-down stalling in late K dwarfs, supporting models of core--envelope recoupling. Furthermore, our findings provide constraints for the cluster's structural evolution, including its recently identified tidal tail and corona. This study establishes NGC 1901 as a new benchmark for calibrating the next generation of gyrochronal models.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-03T03:00:41Z",
+      "arxiv:comment": "Submitted to MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Mara Bernizzoni"
+        },
+        {
+          "name": "Timothy R. Bedding"
+        },
+        {
+          "name": "Prasad Mani"
+        },
+        {
+          "name": "Luke G. Bouma"
+        },
+        {
+          "name": "Courtney L. Crawford"
+        },
+        {
+          "name": "Jason Lee Curtis"
+        },
+        {
+          "name": "Benjamin T. Montet"
+        },
+        {
+          "name": "Samir Nepal"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2609.01880v1",
       "title": "EWOCS-IX: JWST/NIRCam observations of Westerlund 2 - Identification of candidate substellar members",
@@ -123,7 +184,7 @@
           "name": "T. Ziliotto"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -163,7 +224,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2609.00134v1",
@@ -214,7 +275,7 @@
           "name": "Marc H. Pinsonneault"
         }
       ],
-      "score": 3.8
+      "score": 3.3
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -302,7 +363,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 5.8
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
@@ -497,70 +558,6 @@
       "score": 3.3
     },
     {
-      "id": "http://arxiv.org/abs/2608.14514v1",
-      "title": "The deepest color-magnitude diagrams for the benchmark open cluster NGC 2437 from Gaia and VVVX",
-      "updated": "2026-08-14T17:33:39Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.14514v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.14514v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Deep photometry of Galactic star clusters provides one of the most powerful tools for determining their physical properties. In particular, in low Galactic latitude regions that suffer from heavy extinction and crowding. NGC2437 is the most extended star cluster in the near-IR footprint of the VVV Extended Survey (VVVX), covering more than one degree on the sky. We aim to characterize its physical properties using Gaia DR3 in the optical and the VVVX in the near-IR. We use Gaia DR3 proper motions to select NGC2437 members in order to make optical and near-IR color-magnitude and color-color diagrams. We further exploited the newly constructed VVVX deep stack images to obtain the deepest near-IR color-magnitude diagram currently available for this cluster. We estimate the main physical parameters for NGC2437, including the mean parallax of 0.608 mas and PMs (-3.85, 0.41) mas/yr. The mean reddening E(J-Ks) = 0.059 mag and extinction of A_k = 0.034 mag for the cluster field, with no significant differential reddening spread. A distance modulus of 11.08 mag is estimated, equivalent to a distance of 1644 pc. This places NGC2437 at z=115 pc above the Galactic plane and at a galactocentric distance of 9.24 kpc. We measure the cluster structural parameters, obtaining a core radius of 10.79 arcmin. The estimated total absolute magnitudes are Mk = -4.91 mag and Mv = -3.70 mag. The cluster mean age is 350 Myr, using PARSEC-COLIBRI isochrones for solar metallicity. We measure a binary fraction of 28.6%. We also discuss the implications of the revised cluster parameters for the nearby open cluster NGC2425, the planetary nebula NGC2438, and the evolved OH/IR source OH231.8+04.2. The VVVX deep stacks increase the Ks photometric depth by 1.6 mag, nearly doubling the detected point sources and enabling significantly improved studies of stellar populations throughout the southern Galactic plane.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-14T17:33:39Z",
-      "arxiv:comment": "9 pages, 12 figures, 1 tables. Accepted for Publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Tali Palma"
-        },
-        {
-          "name": "Matías Gómez"
-        },
-        {
-          "name": "Dante Minniti"
-        },
-        {
-          "name": "Alan Montecinos"
-        },
-        {
-          "name": "Nicholas J. G. Cross"
-        },
-        {
-          "name": "Javier Alonso-García"
-        },
-        {
-          "name": "Daniel Majaess"
-        },
-        {
-          "name": "Bruno Dias"
-        },
-        {
-          "name": "Maren Hempel"
-        },
-        {
-          "name": "Roberto K. Saito"
-        },
-        {
-          "name": "Joyce B. Pullen"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2608.13313v1",
       "title": "Differential Reddening and Extinction Law Analyses of Galactic Open Clusters",
       "updated": "2026-08-13T14:37:57Z",
@@ -647,79 +644,6 @@
         }
       ],
       "score": 46.6
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.08216v1",
-      "title": "Kings of the Milky Way: A Homogeneous Gaia DR3 Analysis of King Open Clusters and the Galactic Disc Metallicity Gradient",
-      "updated": "2026-08-08T16:25:45Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.08216v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.08216v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "This study aims to establish an internally homogeneous set of structural, astrophysical, and kinematical parameters for King open clusters and to assess their role as tracers of the Galactic thin disc. We present a homogeneous structural, astrophysical, and kinematical analysis of 27 King open clusters using high-precision Gaia DR3 astrometry, photometry, and spectroscopy. Cluster reddenings, distances, metallicities, and ages are determined via a homogeneous Markov Chain Monte Carlo isochrone-fitting approach applied to Gaia colour-magnitude diagrams. The derived parameters span E(G_BP-G_RP) = 0.113-1.933 mag, metallicities of [Fe/H] = -0.40 to +0.28 dex, ages from 17 to 6166 Myr, and heliocentric distances between 739 and 6272 pc. A comparison between astrometric and isochrone-based distances yields a median parallax difference of $-13μ$as, indicating a good level of internal consistency between the photometric and astrometric distance scales within the adopted homogeneous framework. The radial metallicity behaviour of the King clusters is also examined using three complementary Galactic distance definitions and compared with the metallicity-radius relations obtained independently from 164 spectroscopically analysed open clusters from the literature. The King-cluster gradients are close to $-0.060$ dex kpc$^{-1}$ and are broadly consistent with those of the external reference sample, indicating that the homogeneously analysed King clusters follow the negative metallicity-radius trend traced by the broader thin-disc open-cluster population. Flatter gradients are found for young clusters, suggesting more homogeneous chemical enrichment at recent epochs. When dynamical constraints are applied to reduce the effects of radial migration and orbital blurring, the inferred gradient remains close to $-0.059$ dex kpc$^{-1}$.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-08T16:25:45Z",
-      "arxiv:comment": "40 pages, 18 figures, 7 tables. Accepted for publication in Advances in Space Research",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Talar Yontan"
-        },
-        {
-          "name": "Selçuk Bilir"
-        },
-        {
-          "name": "Hikmet Çakmak"
-        },
-        {
-          "name": "Olcay Plevne"
-        },
-        {
-          "name": "Esin Soydugan"
-        },
-        {
-          "name": "Seval Taşdemir"
-        },
-        {
-          "name": "Remziye Canbay"
-        },
-        {
-          "name": "Deniz Cennet Çınar"
-        },
-        {
-          "name": "Seliz Koç"
-        },
-        {
-          "name": "Hülya Karagöz"
-        },
-        {
-          "name": "Burçin Tanık Öztürk"
-        },
-        {
-          "name": "Furkan Akbaba"
-        },
-        {
-          "name": "Özcan Çalışkan"
-        },
-        {
-          "name": "Timothy Banks"
-        }
-      ],
-      "score": 0.5
     }
   ]
 }
