@@ -1,67 +1,6 @@
 {
-  "fetched_at": "2026-09-04T15:59:45.444459",
+  "fetched_at": "2026-09-05T03:39:31.244464",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2609.03310v1",
-      "title": "NGC 1901: A new benchmark cluster for gyrochronology in the TESS Southern continuous viewing zone",
-      "updated": "2026-09-03T03:00:41Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.03310v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.03310v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We use Gaia DR3 astrometry and TESS time-series photometry to study NGC 1901, a sparse open cluster in the TESS Southern continuous viewing zone, that has been neglected due to its proximity on the sky to the Large Magellanic Cloud. We refine its membership list and measure rotation periods for 32 high-confidence rotating stars. By applying the gyro-interp empirical model, we calculate a gyrochronal age of 830 $\\pm$ 50 Myr. Because NGC 1901 possesses a sub-solar metallicity of [Fe/H]$\\approx -0.11$, its excellent agreement with empirical models suggests that temperature-period relations mitigate metallicity effects for Sun-like stars. Our results place NGC 1901 in the gap between the benchmark open clusters Praesepe (670 Myr) and NGC 6811 (1 Gyr). We find that the rotation sequence exhibits significant spin-down stalling in late K dwarfs, supporting models of core--envelope recoupling. Furthermore, our findings provide constraints for the cluster's structural evolution, including its recently identified tidal tail and corona. This study establishes NGC 1901 as a new benchmark for calibrating the next generation of gyrochronal models.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-03T03:00:41Z",
-      "arxiv:comment": "Submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Mara Bernizzoni"
-        },
-        {
-          "name": "Timothy R. Bedding"
-        },
-        {
-          "name": "Prasad Mani"
-        },
-        {
-          "name": "Luke G. Bouma"
-        },
-        {
-          "name": "Courtney L. Crawford"
-        },
-        {
-          "name": "Jason Lee Curtis"
-        },
-        {
-          "name": "Benjamin T. Montet"
-        },
-        {
-          "name": "Samir Nepal"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2609.01880v1",
       "title": "EWOCS-IX: JWST/NIRCam observations of Westerlund 2 - Identification of candidate substellar members",
@@ -184,7 +123,7 @@
           "name": "T. Ziliotto"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -224,7 +163,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2609.00134v1",
@@ -275,7 +214,7 @@
           "name": "Marc H. Pinsonneault"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -363,7 +302,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
