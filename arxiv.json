@@ -1,130 +1,6 @@
 {
-  "fetched_at": "2026-09-05T14:50:43.597662",
+  "fetched_at": "2026-09-06T03:41:59.547272",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2609.01880v1",
-      "title": "EWOCS-IX: JWST/NIRCam observations of Westerlund 2 - Identification of candidate substellar members",
-      "updated": "2026-09-01T21:25:26Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.01880v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.01880v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "[Abridged] Investigating substellar populations in young massive clusters offers crucial insights into the formation of brown dwarfs (BDs) and the role of environmental conditions in shaping their properties. Westerlund 2 (Wd2), as one of the nearest dense and massive clusters in the Milky Way, represents an ideal laboratory for studying the effects of high stellar density and ionizing radiation from massive stars on BD formation. This paper presents deep JWST/NIRCam observations of Wd2 in a large number of filters between 1.15 and 4.1 $μm$. Our analysis focuses on identifying and characterizing the BD population within the cluster. We carried out PSF photometry on deep JWST/NIRCam data obtained in 4 wide and 6 medium-band filters, using DOLPHOT. The resulting catalog was used to identify BD candidates in Wd2 through spectral energy distribution (SED) fitting with atmospheric models. The 50\\% detection limit of our NIRCam catalog is $\\sim$0.015-0.02 $M_\\odot$, at the distance, age, and extinction of Wd2, providing the deepest view of a supermassive star cluster to date. We identify 353 substellar candidates. Most candidates (301) lie above the 10 Myr isochrone in the Hertzsprung--Russell diagram consistent with cluster membership, which are defined as strong candidates. Comparison with a control field indicates a contamination level of $\\lesssim$5\\% for the strong candidate sample down to masses of $\\sim$0.01--0.015~$M_\\odot$. We identify 73 candidates exhibiting infrared excess indicative of circumstellar disks. These objects occupy the expected infrared-excess locus in de-reddened color diagrams and represent $27.7^{+3.4}_{-3.2}$\\% of the candidates detected in F410M. The resulting catalog provides a well-characterized sample for future spectroscopic confirmation and subsequent studies of the substellar population of Wd2.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-01T21:25:26Z",
-      "arxiv:comment": "Accepted for publication at A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "V. Almendros-Abad"
-        },
-        {
-          "name": "M. G. Guarcello"
-        },
-        {
-          "name": "K. Muzic"
-        },
-        {
-          "name": "A. Scholz"
-        },
-        {
-          "name": "M. Andersen"
-        },
-        {
-          "name": "A. Bayo"
-        },
-        {
-          "name": "W. Best"
-        },
-        {
-          "name": "D. Capela"
-        },
-        {
-          "name": "M. Gennaro"
-        },
-        {
-          "name": "A. Ginsburg"
-        },
-        {
-          "name": "J. B. Lovell"
-        },
-        {
-          "name": "K. Monsch"
-        },
-        {
-          "name": "E. Moraux"
-        },
-        {
-          "name": "L. Prisinzano"
-        },
-        {
-          "name": "T. Rom"
-        },
-        {
-          "name": "E. Sabbi"
-        },
-        {
-          "name": "P. Zeidler"
-        },
-        {
-          "name": "C. Argiroffi"
-        },
-        {
-          "name": "R. Bonito"
-        },
-        {
-          "name": "D. Calzetti"
-        },
-        {
-          "name": "V. Cusimano"
-        },
-        {
-          "name": "F. Damiani"
-        },
-        {
-          "name": "J. J. Drake"
-        },
-        {
-          "name": "T. J. Haworth"
-        },
-        {
-          "name": "N. D. Richardson"
-        },
-        {
-          "name": "M. Robberto"
-        },
-        {
-          "name": "S. Sciortino"
-        },
-        {
-          "name": "N. J. Wright"
-        },
-        {
-          "name": "T. Ziliotto"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
       "title": "The Comprehensive Investigations of the NGC 7419 Open Cluster and the New Perspective on Mass Populations",
@@ -163,7 +39,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2609.00134v1",
@@ -214,7 +90,7 @@
           "name": "Marc H. Pinsonneault"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -302,7 +178,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 4.8
+      "score": 4.3
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
