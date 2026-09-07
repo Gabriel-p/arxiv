@@ -1,6 +1,156 @@
 {
-  "fetched_at": "2026-09-06T15:10:03.368091",
+  "fetched_at": "2026-09-07T03:40:58.743431",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.05272v1",
+      "title": "ROCKETS I: Investigating the Impact of the Rocket Effect on Two Nearby Young Open Clusters Encased in Infrared Bubbles",
+      "updated": "2026-09-04T15:27:54Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.05272v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.05272v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We introduce ROCKETS (Rocket-driven Cluster Kinematics & Triggered Star-formation), a Gaia based programme investigating kinematic fingerprints of stellar feedback or rocket effect in young star forming regions. We analyse two young clusters with O-type stars enclosed by mid-infrared bubbles, Collinder 69 and IC 1396 as a methodological demonstration on two nearby benchmark regions. Co-moving candidates are selected within an astrometric ellipse defined by the median and median absolute deviation of Class I/II YSOs with Gaia data. For each star, we compute a relative proper-motion angle (RPMA) relative to the ionising source. In both regions the RPMA distribution shows a strong excess at RPMA $<15^{\\circ}$, corresponding to sources moving away from the respective ionising sources. We quantify this using the Rocket Effect Index (REI), finding $\\mathrm{REI}\\simeq 1.1$ for Collinder 69 and $\\mathrm{REI}\\simeq 1.7$ for IC 1396. When considering only Class I/II YSOs, the REI of both regions increases to $\\mathrm{REI}\\gtrsim 10$. Velocity-structure analysis of the sample shows that the RPMA $<15^\\circ$ subset has stronger positive pairwise expansion than the full co-moving population, providing additional support for the rocket effect. The outward-moving stars are not uniformly distributed; instead, their position angles are strongly anisotropic and preferentially aligned towards the bright-rimmed clouds. Gaia colour-magnitude diagrams show no strong age offset between sources moving outward and literature cluster members. The observed kinematic signatures support feedback-driven acceleration of gas and triggered star formation preferentially towards higher density regions of expanding bubbles due to the rocket effect.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-04T15:27:54Z",
+      "arxiv:comment": "13 Pages, 10 Figures, 1 Table, accepted for publication in Publications of the Astronomical Society of Australia",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "R. Arun"
+        },
+        {
+          "name": "G. Maheswar"
+        },
+        {
+          "name": "Annapurni Subramaniam"
+        },
+        {
+          "name": "Piyali Saha"
+        },
+        {
+          "name": "T. P. Sudheesh"
+        },
+        {
+          "name": "B. Shridharan"
+        },
+        {
+          "name": "Blesson Mathew"
+        },
+        {
+          "name": "Akhil Krishna R"
+        }
+      ],
+      "score": 7.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.05179v1",
+      "title": "The dispersal law of young star clusters: free expansion -- A Gaia/eROSITA census of Orion and Sco--Cen",
+      "updated": "2026-09-04T14:16:33Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.05179v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.05179v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We measure how young star clusters disperse over time in the two nearest star-forming complexes. Our sample comprises 44 \\texttt{SigMA}-\\textit{Gaia}-defined clusters in Orion and 31 in Sco--Cen, with isochronal ages of 2--25\\,Myr. We extend each cluster's census with \\textit{eROSITA}-selected young stars that share its parallax and motion and lie within the distance they could have traveled ballistically since birth. By 10--30\\,Myr, about one in three former cluster stars lies outside the cluster's cataloged boundary. Across both complexes and the full age range, we find that (1) the half-member radius increases linearly with age, $\\rfifty \\simeq \\sigbirth t$, (2) the velocity dispersion shows no measurable evolution, and (3) all studied clusters are unbound. These results support free expansion. Young clusters in Orion and Sco-Cen emerge unbound from their birth clouds and coast at their birth velocity dispersion without significant relaxation or a characteristic dispersal timescale. We further show that memberships defined by density contrast preferentially omit the fastest stars, making the same clusters appear to expand more slowly ($\\propto t^{0.6}$), cool with age, and approach equilibrium.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-04T14:16:33Z",
+      "arxiv:comment": "Submitted to A&A. Comments are welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "João Alves"
+        },
+        {
+          "name": "Stefan Meingast"
+        },
+        {
+          "name": "Alena Rottensteiner"
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.04857v1",
+      "title": "Membership Determination of 45 Open Clusters Beyond 3 kpc",
+      "updated": "2026-09-04T08:13:16Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.04857v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.04857v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Context. Open clusters (OCs) are fundamental tracers for studying the structure and chemical evolution of the Galactic disc. Reliable identification of cluster members, particularly at the faint end of the main sequence, remains challenging owing to severe field-star contamination and the declining photometric completeness for distant, obscured systems. Aims. We aim to identify and characterise distant OC candidates at heliocentric distances $d \\gtrsim 3$ kpc using Gaia DR3 astrometry, with emphasis on improving the recovery of faint candidate members in highly contaminated stellar fields. Methods. We apply a probabilistic membership method based on Gaia DR3 proper motions and parallaxes. Candidate members are selected through combined astrometric criteria and refined via spatial filtering using radial density profiles, with photometric data serving as a consistency check. For clusters affected by significant extinction, near-infrared photometry from 2MASS is incorporated to compensate for the limitations of optical data. Results. We analyse a sample of 45 targets, comprising 30 previously reported OCs and 15 newly identified candidates, all located at $d \\gtrsim 3$ kpc. The method yields more compact astrometric distributions and improves the recovery of faint candidate members in several systems. However, residual field contamination remains non-negligible for the most obscured clusters projected against the Galactic plane. Conclusions. Gaia DR3 astrometry provides an effective basis for the exploratory identification and first-order characterisation of distant OC candidates. Dedicated near-infrared follow-up observations will be essential for robust membership assessment in high extincted regions.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-04T08:13:16Z",
+      "arxiv:comment": "14 pages, accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Qian Cui"
+        },
+        {
+          "name": "Zhihong He"
+        },
+        {
+          "name": "Yangping Luo"
+        },
+        {
+          "name": "Yan Jiang"
+        }
+      ],
+      "score": 13.0
+    },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
       "title": "The Comprehensive Investigations of the NGC 7419 Open Cluster and the New Perspective on Mass Populations",
@@ -39,7 +189,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2609.00134v1",
@@ -90,7 +240,7 @@
           "name": "Marc H. Pinsonneault"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -178,7 +328,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
