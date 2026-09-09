@@ -1,6 +1,322 @@
 {
-  "fetched_at": "2026-09-08T16:17:41.227063",
+  "fetched_at": "2026-09-09T03:50:39.258281",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.09026v1",
+      "title": "Open Clusters as Laboratories for Cool Star Evolution: Highlights from the Cool Stars 23 Splinter Session",
+      "updated": "2026-09-08T16:56:27Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.09026v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.09026v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters remain among the most powerful laboratories for calibrating how fundamental stellar properties such as rotation, magnetic activity, surface chemistry, and internal structure evolve over the pre-main-sequence to main-sequence and post-main-sequence stellar lifetime. Because cluster members share a common age, galactic environment, and initial composition, they provide empirical anchors upon which age-dating techniques such as gyrochronology, activity-age relations, and chemical clocks are built. This paper summarizes the Cool Stars 23 splinter session - Open Clusters as Laboratories for Cool Star Evolution, held on 15 June 2026 in Tokyo, Japan. The session comprised one invited review, ten contributed talks, and ten poster pop-up presentations, organized around three themes: the evolution of rotation, magnetic activity, and chemical abundances (Li-depletion, [C/N], [Y/Mg], and neutron-capture elements). We close with a summary of the open questions identified in the panel discussion and the observational and theoretical work that new surveys (e.g. Gaia DR4, 4MOST, WEAVE) and missions (e.g. PLATO, Roman) will enable over the coming years. Together, these efforts will help assess the current state of the field and shape its future directions.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-08T16:56:27Z",
+      "arxiv:comment": "13 pages, 3 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Deepak Chahal"
+        },
+        {
+          "name": "Beatrice Caccherano"
+        },
+        {
+          "name": "Edward Gillen"
+        },
+        {
+          "name": "Dario J. Fritzewski"
+        },
+        {
+          "name": "Robin D. Jeffries"
+        },
+        {
+          "name": "Kevin R. Covey"
+        },
+        {
+          "name": "Andrew Boyle"
+        },
+        {
+          "name": "Lyra Cao"
+        },
+        {
+          "name": "Federica Chiti"
+        },
+        {
+          "name": "Alexander Hughes"
+        },
+        {
+          "name": "Leslie Moranta"
+        },
+        {
+          "name": "Natalie R. Myers"
+        },
+        {
+          "name": "Emily K. Pass"
+        },
+        {
+          "name": "Phil Van-Lane"
+        },
+        {
+          "name": "Fábio C. Wanderley"
+        },
+        {
+          "name": "Mackenna L. Wood"
+        },
+        {
+          "name": "Stephanie T. Douglas"
+        },
+        {
+          "name": "David T. Montes"
+        },
+        {
+          "name": "Loredana Prisinzano"
+        }
+      ],
+      "score": 11.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.08942v1",
+      "title": "An analysis of four stellar rings",
+      "updated": "2026-09-08T16:03:57Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.08942v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.08942v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1002/asna.201913547",
+          "@title": "doi"
+        }
+      ],
+      "summary": "About 50 years ago, one thousand ring-like structures (called stellar-rings) were discovered by Isserstedt (1968). They were believed to be groups of young stars formed by shell-like triggered star formation, which would make them excellent tracers of spiral arms, for example. Neglected for 40 years, we used highly accurate kinematic, astrometric, and photometric data to investigate the four most prominent stellar rings. The aim is to investigate if those structures are indeed physically related groups of stars. We used proper motions and parallaxes from the Gaia DR2 to calculate distances and to search for common properties. Color-magnitude diagrams using BVJHKs measurements were investigated and isochrones fitted. None of the four stellar rings consists of a physically related group of young stars. The location of stars in the line-of-sight mimics a ring-like structure on the sky. The color-magnitude diagrams are typical for an integrated field population and not for a young star cluster, for example. The currently available data are sufficient to analyze ring-like structures with a high statistical significance. This allows a new search for such structures in the Milky Way.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-08T16:03:57Z",
+      "arxiv:comment": "9 pages, 6 figures, Astronomische Nachrichten, 2018, Volume 339, Issue 672, pp. 672-679",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "E. Paunzen"
+        },
+        {
+          "name": "J. Florian"
+        },
+        {
+          "name": "A. Gütl-Wallner"
+        },
+        {
+          "name": "A. Herdin"
+        },
+        {
+          "name": "E. Kralofsky"
+        },
+        {
+          "name": "K. Leschinski"
+        },
+        {
+          "name": "M. Mach"
+        },
+        {
+          "name": "H. M. Maitzen"
+        },
+        {
+          "name": "M. Prišegen"
+        },
+        {
+          "name": "M. Rockenbauer"
+        },
+        {
+          "name": "M. Rode-Paunzen"
+        },
+        {
+          "name": "S. Wallner"
+        }
+      ],
+      "arxiv:doi": "10.1002/asna.201913547",
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.05722v1",
+      "title": "Unresolved triple systems in the aged open cluster Trumpler 19: Discovery, confirmation, and implications",
+      "updated": "2026-09-04T21:05:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.05722v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.05722v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1051/0004-6361/202661278",
+          "@title": "doi"
+        }
+      ],
+      "summary": "It is difficult to identify unresolved triple and higher-order systems beyond the solar vicinity. Star clusters yield controlled environments with known physical parameters, providing a way to explore homogeneous stellar samples. Combining modern optical and near-IR surveys, our main goal is to explore the region of the color-magnitude diagrams located above the sequence of equal-mass binaries, which is inhabited by unresolved triple and quadruple systems. Specifically, here we aim to discover and characterize the presence of multiple systems in the aged open star cluster Trumpler 19. We selected cluster members using Gaia astrometry and photometry from the VVVX and DECAPS2 surveys. We made optical and near-IR color-magnitude diagrams to select stars located >0.75 mag above the cluster main sequence, including suitable unresolved triple and quadruple systems. We confirm previous results that there is a sizable sequence of unresolved binaries in Trumpler 19. We also report the discovery of a sequence of unresolved multiple systems in this cluster, and confirm some of these multiple systems via radial velocities measured by the ESO KMOS VVVX-GalCen spectroscopic survey. The fraction of multiple stars in this cluster is comparable to that of the solar neighborhood, with the caveat that the local sample probes deeper down the main sequence. The fraction of unresolved triples and quadruples is also three times higher than that of the open cluster M 67, which is of a similar age and chemical composition. The discovery of unresolved triple systems in Trumpler 19 leads to our main conclusion that these systems were able to survive within the cluster for nearly 4 Gyr. In addition, this cluster contains more multiple systems than M 67, which has a similar total present mass. Further investigations are needed to unveil if this is a primordial feature or the result of dynamical evolution.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-04T21:05:19Z",
+      "arxiv:comment": "8 pages, 6 figures. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "arxiv:journal_ref": "A&A, forthcoming article (2026)",
+      "author": [
+        {
+          "name": "D. Minniti"
+        },
+        {
+          "name": "R. K. Saito"
+        },
+        {
+          "name": "V. D. Ivanov"
+        },
+        {
+          "name": "C. O. Obasi"
+        },
+        {
+          "name": "P. W. Lucas"
+        },
+        {
+          "name": "J. G. Fernández-Trincado"
+        },
+        {
+          "name": "J. Alonso-García"
+        },
+        {
+          "name": "E. R. Garro"
+        },
+        {
+          "name": "J. Corral-Santana"
+        },
+        {
+          "name": "A. Luna"
+        },
+        {
+          "name": "Z. Guo"
+        },
+        {
+          "name": "R. Kurtev"
+        },
+        {
+          "name": "J. Borissova"
+        },
+        {
+          "name": "V. Fermiano"
+        },
+        {
+          "name": "J. Osses"
+        },
+        {
+          "name": "C. Morris"
+        },
+        {
+          "name": "B. Dias"
+        },
+        {
+          "name": "C. Cáceres"
+        },
+        {
+          "name": "S. Saroon"
+        },
+        {
+          "name": "J. B. Pullen"
+        },
+        {
+          "name": "P. Rodriguez"
+        },
+        {
+          "name": "M. Lad"
+        },
+        {
+          "name": "S. Federle"
+        },
+        {
+          "name": "I. Petralia"
+        },
+        {
+          "name": "D. Bhadrakumar"
+        },
+        {
+          "name": "P. Esteves"
+        },
+        {
+          "name": "M. G. Navarro"
+        },
+        {
+          "name": "T. Palma"
+        },
+        {
+          "name": "L. Baravalle"
+        },
+        {
+          "name": "D. Galdeano"
+        },
+        {
+          "name": "M. V. Alonso"
+        },
+        {
+          "name": "J. L. Nilo Castellon"
+        },
+        {
+          "name": "A. N. Chené"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202661278",
+      "score": 9.0
+    },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
       "title": "ROCKETS I: Investigating the Impact of the Rocket Effect on Two Nearby Young Open Clusters Encased in Infrared Bubbles",
@@ -189,7 +505,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.00134v1",
@@ -240,7 +556,7 @@
           "name": "Marc H. Pinsonneault"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -328,7 +644,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
