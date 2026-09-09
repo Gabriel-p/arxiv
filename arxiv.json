@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-09-09T03:50:39.258281",
+  "fetched_at": "2026-09-09T16:12:27.461163",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.09122v1",
+      "title": "The fading hierarchy of Galactic open clusters",
+      "updated": "2026-09-08T17:48:47Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.09122v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.09122v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Galactic open clusters provide a record of both hierarchical star formation and the subsequent dynamical evolution of the Milky Way disk. We use the two-point correlation function to characterize the spatial and kinematic clustering of open clusters in the solar neighborhood, considering their three-dimensional (3D) distributions and their projections onto the Galactic plane, as well as subsamples divided by age, mass, and survey volume. We quantify the clustering through fractal dimensions and characteristic correlation scales. We find that the youngest clusters have fractal dimensions comparable to those measured in the interstellar medium, suggesting that they retain part of the hierarchical structure of their natal molecular clouds. The clustering strength then decreases systematically with age and becomes weak on a characteristic timescale of order 100 Myr. This evolution is scale dependent: the excess correlation at tens of parsecs fades more rapidly than the weaker correlation at hundreds of parsecs. By contrast, we find only a weak dependence of the clustering properties on cluster mass and volume. Using the same cluster sample, we derive an empirical mapping between projected and 3D fractal dimensions, providing an observational calibration for comparing the Milky Way with studies of external galaxies, where only projected measurements are available. The open-cluster population exhibits characteristic spatial and kinematic clustering scales of approximately 370 pc and 11 km/s, respectively. These results support a picture in which young open clusters inherit a spatial hierarchy from star formation and progressively lose their spatial correlations through subsequent evolution.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-08T17:48:47Z",
+      "arxiv:comment": "Submitted to A&A. Comments are welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Guimei Liu"
+        },
+        {
+          "name": "João Alves"
+        },
+        {
+          "name": "Yu Zhang"
+        },
+        {
+          "name": "Emily L. Hunt"
+        },
+        {
+          "name": "Ruqiu Lin"
+        },
+        {
+          "name": "Josefa E. Großschedl"
+        },
+        {
+          "name": "Efrem Maconi"
+        },
+        {
+          "name": "Nora Wagner"
+        },
+        {
+          "name": "Lilly Kormann"
+        },
+        {
+          "name": "Cameren Swiggum"
+        }
+      ],
+      "score": 14.3
+    },
     {
       "id": "http://arxiv.org/abs/2609.09026v1",
       "title": "Open Clusters as Laboratories for Cool Star Evolution: Highlights from the Cool Stars 23 Splinter Session",
@@ -172,7 +233,7 @@
         }
       ],
       "arxiv:doi": "10.1002/asna.201913547",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v1",
@@ -376,7 +437,7 @@
           "name": "Akhil Krishna R"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05179v1",
@@ -416,7 +477,7 @@
           "name": "Alena Rottensteiner"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -465,7 +526,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 12.0
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -608,7 +669,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 7.3
+      "score": 6.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -744,7 +805,7 @@
           "name": "Peter J. Wheatley"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -790,7 +851,7 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2608.18550v1",
@@ -836,7 +897,7 @@
           "name": "Beomdu Lim"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -882,7 +943,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2608.09439v1",
@@ -924,7 +985,7 @@
           "name": "Tomasz Różański"
         }
       ],
-      "score": 44.1
+      "score": 43.6
     }
   ]
 }
