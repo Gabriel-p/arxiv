@@ -1,6 +1,145 @@
 {
-  "fetched_at": "2026-09-09T16:12:27.461163",
+  "fetched_at": "2026-09-10T03:49:33.640484",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.10147v1",
+      "title": "The internal kinematics and chemistry of 20 Milky Way strings",
+      "updated": "2026-09-09T13:24:32Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.10147v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.10147v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1051/0004-6361/202660934",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Context: the recent discovery of filamentary stellar structures in the Milky Way disk raises the question of their formation in the context of the Galaxy evolution. Aims: in this work, we aim to kinematically and chemically characterize several filamentary stellar structures by looking for clues about their origin and formation mechanism. Methods: recent works using machine-learning techniques and $Gaia$ data have identified many previously unknown Galactic strings. We cross-matched such data with the kinematics derived from the most recent Gaia DR3 catalog as well as chemical data provided by the Galactic Archaeology with HERMES (GALAH) survey. Results: we found that most strings contain one or more open clusters and are kinematically hotter than open clusters (with internal velocity dispersions in the 1--7 km/s range) but cooler than field stars. 18 objects appear chemically homogeneous ($σ_{[Fe/H]}$ <= 0.1 dex), while two strings have a broad [Fe/H] distribution similar to the field stars but exhibit a different mean metallicity, which may identify them as migrating stellar structures. For seven objects the GALAH observations focus on the embedded open clusters; therefore, the chemical abundances are not representative of the whole structure. An object shows clues of chemical gradients along its extension in Galactic longitude. Conclusions: these objects may be evaporating or disrupted open clusters in which the chemical homogeneity is preserved in an unbound and expanding cloud of stars or co-moving stars belonging to a former and now disrupting star formation hub. In a few cases they appear to be moving groups with no chemical homogeneity, likely formed by the dynamical action of the Galactic bar or spiral arms. More data are needed to confirm such hypotheses.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-09T13:24:32Z",
+      "arxiv:comment": "15 pages, 10 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "C. Boeche"
+        },
+        {
+          "name": "A. Vallenari"
+        },
+        {
+          "name": "J. Alonso-Santiago"
+        },
+        {
+          "name": "A. Bragaglia"
+        },
+        {
+          "name": "R. Carrera"
+        },
+        {
+          "name": "E. Dalessandro"
+        },
+        {
+          "name": "E. Carretta"
+        },
+        {
+          "name": "E. Franciosini"
+        },
+        {
+          "name": "A. Frasca"
+        },
+        {
+          "name": "S. Lucatello"
+        },
+        {
+          "name": "G. Andreuzzi"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202660934",
+      "score": 8.6
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.09618v1",
+      "title": "Planetary Nebula Central Stars as Tracers of Planetary Nebula-Star Cluster Associations in the Galaxy",
+      "updated": "2026-09-09T02:22:30Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.09618v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.09618v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/1538-4357/ae9f58",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Planetary nebulae (PNe) that are physically associated with star clusters are rare but crucial for stellar evolution studies because they allow their initial and final stellar properties to be determined independently, contributing to constraints on the initial-to-final-mass relation (IFMR), which traces stellar mass loss. Although the identification of such pairs is essential, most reported cases have been identified incidentally rather than through systematic searches. Here, we attempt to uncover new such associations in our Galaxy employing literature PN central stars (CSs) and star cluster catalogues. Exploring relevant angular positions on the sky and kinematic Gaia DR3 data, we identify 38 candidate CS-cluster pairs. The components of eight of these pairs present consistent interstellar extinctions, and their CS properties are compatible with stellar evolution models. Two of these candidate pairs are already reported in the literature as true associations. We evaluate separately the remaining six pairs using literature PN observational data, assessing the likelihood of each pair being a true association. The initial and final masses of our best candidates are mostly consistent with the latest IFMR predictions and confirmed cluster-PNe points. An additional 46 CS-cluster pairs have components with compatible angular positions but lack kinematic CS data and are thus presented separately. More data are needed for a precise estimation of the physical parameters of most of our candidates and to confirm these associations, which will be addressed in future studies.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-09T02:22:30Z",
+      "arxiv:comment": "19 pages, 2 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Vasiliki Fragkou",
+          "arxiv:affiliation": "Observatório do Valongo, Universidade Federal do Rio de Janeiro"
+        },
+        {
+          "name": "Luis Lomelí-Núñez",
+          "arxiv:affiliation": "Observatório do Valongo, Universidade Federal do Rio de Janeiro"
+        },
+        {
+          "name": "Dante Minniti",
+          "arxiv:affiliation": [
+            "Instituto de Astrofísica, Depto. de. Física y Astronomía, Facultad de Ciencias Exactas, Universidad Andrés Bello",
+            "Vatican Observatory"
+          ]
+        },
+        {
+          "name": "Arianna Cortesi",
+          "arxiv:affiliation": [
+            "Observatório do Valongo, Universidade Federal do Rio de Janeiro",
+            "Instituto de Física, Universidade Federal do Rio de Janeiro"
+          ]
+        },
+        {
+          "name": "Denise R. Gonçalves",
+          "arxiv:affiliation": "Observatório do Valongo, Universidade Federal do Rio de Janeiro"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae9f58",
+      "score": 4.5
+    },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
       "title": "The fading hierarchy of Galactic open clusters",
@@ -60,7 +199,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 14.3
+      "score": 13.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v1",
@@ -77,6 +216,11 @@
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.5281/zenodo.22663067",
+          "@title": "doi"
         }
       ],
       "summary": "Open clusters remain among the most powerful laboratories for calibrating how fundamental stellar properties such as rotation, magnetic activity, surface chemistry, and internal structure evolve over the pre-main-sequence to main-sequence and post-main-sequence stellar lifetime. Because cluster members share a common age, galactic environment, and initial composition, they provide empirical anchors upon which age-dating techniques such as gyrochronology, activity-age relations, and chemical clocks are built. This paper summarizes the Cool Stars 23 splinter session - Open Clusters as Laboratories for Cool Star Evolution, held on 15 June 2026 in Tokyo, Japan. The session comprised one invited review, ten contributed talks, and ten poster pop-up presentations, organized around three themes: the evolution of rotation, magnetic activity, and chemical abundances (Li-depletion, [C/N], [Y/Mg], and neutron-capture elements). We close with a summary of the open questions identified in the panel discussion and the observational and theoretical work that new surveys (e.g. Gaia DR4, 4MOST, WEAVE) and missions (e.g. PLATO, Roman) will enable over the coming years. Together, these efforts will help assess the current state of the field and shape its future directions.",
@@ -154,7 +298,8 @@
           "name": "Loredana Prisinzano"
         }
       ],
-      "score": 11.0
+      "arxiv:doi": "10.5281/zenodo.22663067",
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2609.08942v1",
@@ -376,7 +521,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -566,7 +711,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2609.00134v1",
@@ -617,7 +762,7 @@
           "name": "Marc H. Pinsonneault"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -705,7 +850,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
@@ -944,48 +1089,6 @@
         }
       ],
       "score": 8.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.09439v1",
-      "title": "The Environmental Dependence of Star Cluster Demographics",
-      "updated": "2026-08-10T11:13:11Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.09439v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.09439v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Both the star cluster mass function and the lifetimes of clusters may vary with galactic environment, but measuring this variation is challenging because in observational surveys real features of cluster demographics are invariably entangled with catalogue incompleteness. Here we analyse $\\approx$ 8300 star clusters in 12 galaxies drawn from the LEGUS survey using the slug Bayesian forward modelling framework coupled to our new c-4 neural network-based completeness estimator, which allows us to incorporate realistic catalogue-inclusion probabilities directly into the likelihood and compensate for these biases. We show that this approach allows us to fit observed cluster luminosity functions with excellent fidelity at both galactic and sub-galactic scales. We find that mass function slopes are relatively universal and broadly consistent with a power law $M^{-2}$ form, but high mass truncations vary by orders of magnitude both between and within galaxies. Our fits also strongly favour models where cluster disruption is mass-independent, but the time at which disruption begins again shows wide environmental variations. Our results demonstrate that young cluster demographics are environmentally dependent, with the clearest signal appearing at the upper end of the cluster mass function, but that these variations are not well-explained by any of the models currently in the literature, and do not correlate straightforwardly with properties such as star formation rate per unit area or strength of shear.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-10T11:13:11Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jianling Tang"
-        },
-        {
-          "name": "Kathryn Grasha"
-        },
-        {
-          "name": "Mark R. Krumholz"
-        },
-        {
-          "name": "Tomasz Różański"
-        }
-      ],
-      "score": 43.6
     }
   ]
 }
