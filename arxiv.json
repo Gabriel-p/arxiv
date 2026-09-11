@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T03:46:23.950702",
+  "fetched_at": "2026-09-11T16:07:46.730875",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.11053v1",
@@ -56,7 +56,7 @@
           "arxiv:affiliation": "University of Texas, Austin, Texas, USA"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
@@ -126,7 +126,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 8.1
+      "score": 7.6
     },
     {
       "id": "http://arxiv.org/abs/2609.09618v1",
@@ -563,7 +563,7 @@
           "name": "Akhil Krishna R"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05179v1",
@@ -603,7 +603,7 @@
           "name": "Alena Rottensteiner"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -652,7 +652,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -744,7 +744,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 6.3
+      "score": 5.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -880,7 +880,7 @@
           "name": "Peter J. Wheatley"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -926,7 +926,7 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -972,7 +972,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     }
   ]
 }
