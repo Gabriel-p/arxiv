@@ -1,6 +1,63 @@
 {
-  "fetched_at": "2026-09-10T16:04:15.077757",
+  "fetched_at": "2026-09-11T03:46:23.950702",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.11053v1",
+      "title": "Uncovering the Origin of Slow Rotators among Intermediate-Mass Stars in the Star-Forming Cluster Trumpler 14",
+      "updated": "2026-09-10T03:57:53Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.11053v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.11053v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Intermediate-mass (about 1.5-8 M$_{\\odot}$) stars exhibit a wide range of rotation rates and have gained attention for their roles in the extended main-sequence turnoffs (eMSTO) seen in some young and intermediate-age clusters (ages $< 2$ Gyr). Although rapid rotation is expected due to their radiative envelopes, the presence of slow rotators remains puzzling. In this study, we examine disk and X-ray signatures among the intermediate-mass members of the star-forming cluster Trumpler 14. Of the 118 intermediate-mass members, 24 are considered disk-bearing on the basis of their infrared spectral indices derived from spectral energy distributions. The majority of these reside outside the heavily irradiated cluster core and are all slow rotators ($\\lessapprox 100$ km s$^{-1}$) except for three fast-rotating Class III objects. Additionally, in the same sample of 118, 37 are X-ray sources, and 22 having available $v \\sin i$ data show a systematically slower rotation than X-ray quiet sources. Our findings suggest that, while young stellar disks in intermediate-mass stars contribute to early spin-down, high-energy processes traced by X-ray emission during this phase could be an additional channel for angular-momentum loss in these stars.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-10T03:57:53Z",
+      "arxiv:comment": "Accepted for publication at ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Khushboo K. Rao",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
+        },
+        {
+          "name": "Wen-Ping Chen",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan and Department of Physics, National Central University, 320317 Taoyuan, Taiwan"
+        },
+        {
+          "name": "Hsiang-Yu Chen",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
+        },
+        {
+          "name": "Kristen Dage",
+          "arxiv:affiliation": "International Centre for Radio Astronomy Research -- Curtin University, GPO Box U1987, Perth, WA 6845, Australia"
+        },
+        {
+          "name": "Stella S. R. Offner",
+          "arxiv:affiliation": "University of Texas, Austin, Texas, USA"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
       "title": "The internal kinematics and chemistry of 20 Milky Way strings",
@@ -138,7 +195,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9f58",
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -199,20 +256,20 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 13.8
+      "score": 13.3
     },
     {
-      "id": "http://arxiv.org/abs/2609.09026v1",
+      "id": "http://arxiv.org/abs/2609.09026v2",
       "title": "Open Clusters as Laboratories for Cool Star Evolution: Highlights from the Cool Stars 23 Splinter Session",
-      "updated": "2026-09-08T16:56:27Z",
+      "updated": "2026-09-10T15:08:14Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2609.09026v1",
+          "@href": "https://arxiv.org/abs/2609.09026v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2609.09026v1",
+          "@href": "https://arxiv.org/pdf/2609.09026v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -292,27 +349,27 @@
           "name": "Stephanie T. Douglas"
         },
         {
-          "name": "David T. Montes"
+          "name": "David Montes"
         },
         {
           "name": "Loredana Prisinzano"
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 10.5
+      "score": 10.0
     },
     {
-      "id": "http://arxiv.org/abs/2609.05722v1",
+      "id": "http://arxiv.org/abs/2609.05722v2",
       "title": "Unresolved triple systems in the aged open cluster Trumpler 19: Discovery, confirmation, and implications",
-      "updated": "2026-09-04T21:05:19Z",
+      "updated": "2026-09-10T15:13:58Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2609.05722v1",
+          "@href": "https://arxiv.org/abs/2609.05722v2",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2609.05722v1",
+          "@href": "https://arxiv.org/pdf/2609.05722v2",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
@@ -352,6 +409,9 @@
         },
         {
           "name": "C. O. Obasi"
+        },
+        {
+          "name": "M. Gómez"
         },
         {
           "name": "P. W. Lucas"
@@ -442,7 +502,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -632,58 +692,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 5.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.00134v1",
-      "title": "Modeling Rotation in the Old, Cold Domain: Implications on Gyrochronology and the Stellar Magnetic Wind",
-      "updated": "2026-08-31T18:00:02Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.00134v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.00134v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Gyrochronology ties stellar rotation periods to ages. It is well studied in the young, open cluster age domain, but there are few constraints on gyrochronology in the old field star regime. In this work we use gyro-kinematic ages to explore the spin down of stars in this formerly inaccessible domain. Using forward modeling techniques which relax strict Rossby scaled assumptions, we find evidence for a departure from a standard spin down models. This departure can be explained with a mass-dependent term either in the global strength of the stellar wind or in the relationship between angular velocity and wind strength. Models with this additional mass- dependence help explain prior difficulty in fitting open cluster rotation distributions across the full mass range. Additionally, we use rotation models to identify an mass-dependent age domain over which wind driven stellar spin down can be isolated from other physical effects. For lower mass stars, this age domain is most affected by the core-envelope coupling timescale, where as higher mass stars are more subject to inertial effects late in their main sequence lifetimes. Using simple, analytic models of stellar spin down in this domain is unable to determine whether the stellar wind has a mass-dependence or if the stellar wind is strictly Skumanich-like in nature. In future studies of rotational and dynamo evolution we advocate for a forward modeling approach to gyrochronology over purely empirical approaches due to its superior ability to trace physical effects governing stellar spin down.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-31T18:00:02Z",
-      "arxiv:comment": "21 Pages, 14 figures, submitted to AAS journals",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Amanda L. Ash",
-          "arxiv:affiliation": "Lucy"
-        },
-        {
-          "name": "Yuxi",
-          "arxiv:affiliation": "Lucy"
-        },
-        {
-          "name": "Lu"
-        },
-        {
-          "name": "Marc H. Pinsonneault"
-        }
-      ],
-      "score": 0.3
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -771,7 +780,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2608.27170v1",
