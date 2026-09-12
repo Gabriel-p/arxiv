@@ -1,63 +1,6 @@
 {
-  "fetched_at": "2026-09-11T16:07:46.730875",
+  "fetched_at": "2026-09-12T15:15:18.752577",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2609.11053v1",
-      "title": "Uncovering the Origin of Slow Rotators among Intermediate-Mass Stars in the Star-Forming Cluster Trumpler 14",
-      "updated": "2026-09-10T03:57:53Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.11053v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.11053v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Intermediate-mass (about 1.5-8 M$_{\\odot}$) stars exhibit a wide range of rotation rates and have gained attention for their roles in the extended main-sequence turnoffs (eMSTO) seen in some young and intermediate-age clusters (ages $< 2$ Gyr). Although rapid rotation is expected due to their radiative envelopes, the presence of slow rotators remains puzzling. In this study, we examine disk and X-ray signatures among the intermediate-mass members of the star-forming cluster Trumpler 14. Of the 118 intermediate-mass members, 24 are considered disk-bearing on the basis of their infrared spectral indices derived from spectral energy distributions. The majority of these reside outside the heavily irradiated cluster core and are all slow rotators ($\\lessapprox 100$ km s$^{-1}$) except for three fast-rotating Class III objects. Additionally, in the same sample of 118, 37 are X-ray sources, and 22 having available $v \\sin i$ data show a systematically slower rotation than X-ray quiet sources. Our findings suggest that, while young stellar disks in intermediate-mass stars contribute to early spin-down, high-energy processes traced by X-ray emission during this phase could be an additional channel for angular-momentum loss in these stars.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-10T03:57:53Z",
-      "arxiv:comment": "Accepted for publication at ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Khushboo K. Rao",
-          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
-        },
-        {
-          "name": "Wen-Ping Chen",
-          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan and Department of Physics, National Central University, 320317 Taoyuan, Taiwan"
-        },
-        {
-          "name": "Hsiang-Yu Chen",
-          "arxiv:affiliation": "Institute of Astronomy, National Central University, 320317 Taoyuan, Taiwan"
-        },
-        {
-          "name": "Kristen Dage",
-          "arxiv:affiliation": "International Centre for Radio Astronomy Research -- Curtin University, GPO Box U1987, Perth, WA 6845, Australia"
-        },
-        {
-          "name": "Stella S. R. Offner",
-          "arxiv:affiliation": "University of Texas, Austin, Texas, USA"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
       "title": "The internal kinematics and chemistry of 20 Milky Way strings",
@@ -126,7 +69,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 7.6
+      "score": 7.1
     },
     {
       "id": "http://arxiv.org/abs/2609.09618v1",
@@ -195,7 +138,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9f58",
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -256,7 +199,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 13.3
+      "score": 12.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -356,7 +299,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -502,7 +445,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -603,7 +546,7 @@
           "name": "Alena Rottensteiner"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -652,7 +595,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -692,7 +635,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -744,7 +687,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 5.8
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2608.27359v1",
@@ -780,107 +723,7 @@
           "name": "Ross P. Church"
         }
       ],
-      "score": 1.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.27170v1",
-      "title": "NGTS clusters survey - VI: Stellar rotation in seven young open clusters within the PLATO LOPS2 field",
-      "updated": "2026-08-27T14:22:54Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.27170v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.27170v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present NGTS measurements of rotation period distributions for FGKM stars in seven young open clusters spanning ~40--700 Myr within PLATO's first long-stare LOPS2 field. We measure 1063 rotation periods, of which 479 are newly analysed as part of cluster specific rotation studies, whilst 63 are unique periods not reported in the recent TESS All-Sky Rotation Survey. Of the 1063 rotation periods, 285 are identified as likely binary or higher order multiple systems using colour-magnitude diagrams and Gaia astrometry. These are the first comprehensive rotation period distributions for Trumpler 10, NGC 2451B and Alessi 3, while extending existing distributions for NGC 2451A, NGC 2516, Collinder 135 and IC 2391, to create a fuller picture on the rotation state of young stars in PLATO's LOPS2 field. We find that main-sequence solar-mass stars in the ~40 Myr old NGC 2451B cluster, form a slow sequence that can be distinguished from their counterparts at ~70--80 Myr, thereby significantly reducing the age at which young stellar groups can be relatively aged via their rotation sequences. We also observe stalled spin down from the age of NGC 2451A to at least that of NGC 2516 (~70--150 Myr) at masses $\\gtrsim1$ $M_{\\odot}$, supporting previous predictions that angular momentum redistribution and removal should result in a wave of stalled spin down that propagates as a function of both mass and age. Finally, we provide a new age estimate for Alessi 3 of 687$\\pm$106 Myr using differential gyrochronology age dating.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-27T14:22:54Z",
-      "arxiv:comment": "21 pages, 10 figures, Accepted by MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Alexander Hughes"
-        },
-        {
-          "name": "Edward Gillen"
-        },
-        {
-          "name": "Matthew Battley"
-        },
-        {
-          "name": "Deepak Chahal"
-        },
-        {
-          "name": "Beatrice Caccherano"
-        },
-        {
-          "name": "David Anderson"
-        },
-        {
-          "name": "Ioannis Apergis"
-        },
-        {
-          "name": "Daniel Bayliss"
-        },
-        {
-          "name": "Matthew Burleigh"
-        },
-        {
-          "name": "Jorge Fernández Fernández"
-        },
-        {
-          "name": "Michael Goad"
-        },
-        {
-          "name": "George Harvey"
-        },
-        {
-          "name": "James S. Jenkins"
-        },
-        {
-          "name": "Alicia Kendall"
-        },
-        {
-          "name": "James McCormac"
-        },
-        {
-          "name": "Jose Moyano"
-        },
-        {
-          "name": "Gavin Ramsay"
-        },
-        {
-          "name": "Suman Saha"
-        },
-        {
-          "name": "Jose Vines"
-        },
-        {
-          "name": "Richard G. West"
-        },
-        {
-          "name": "Peter J. Wheatley"
-        }
-      ],
-      "score": 0.5
+      "score": 1.3
     },
     {
       "id": "http://arxiv.org/abs/2608.24321v1",
@@ -926,7 +769,7 @@
           "name": "Paul Baki"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.13313v1",
@@ -972,7 +815,7 @@
           "name": "Xiaodian Chen"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     }
   ]
 }
