@@ -1,6 +1,222 @@
 {
-  "fetched_at": "2026-09-12T15:15:18.752577",
+  "fetched_at": "2026-09-16T04:02:38.054922",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.16190v1",
+      "title": "JWST Observations of Starbursts: A Young Bubble in NGC 253's Central Starburst",
+      "updated": "2026-09-14T18:24:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.16190v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.16190v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a multi-wavelength analysis of a young bubble in the nuclear starburst of NGC 253 using new JWST MIRI-MRS observations together with archival ALMA (100, 350, 690 GHz) and Chandra data. The MIRI maps reveal a prominent bubble-like structure in both ionized and molecular emission lines. The bubble is spatially coincident with one of the least embedded massive young clusters detected with ALMA, suggesting that the cluster is driving the expansion. We measure a radius of $\\sim 11.5 \\pm 3.4$ pc and an expansion velocity of $\\sim 90 \\pm 44$ km s$^{-1}$, implying a dynamical age of $\\sim 0.1 \\pm 0.1$ Myr. Using RADEX modeling of multiple CO transitions, we infer a molecular mass in the range of $(1.3 \\pm 0.3) \\times 10^4$ to $(2.8 \\pm 0.8) \\times 10^5$ $M_\\odot$. We derive a kinetic energy of order $10^{51}$-$10^{52}$ erg, consistent with mechanical input from Wolf-Rayet stellar winds or supernovae in a $\\sim 10^6$ $M_\\odot$ cluster. The existence of a large population of Wolf-Rayet stars or past supernovae is supported by the presence of coincident X-ray emission. Our results provide direct evidence that individual clusters in a nuclear environment can carve out coherent structures on parsec scales and inject significant energy and momentum into the surrounding interstellar medium, which can contribute to the nuclear outflow in NGC 253.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-14T18:24:35Z",
+      "arxiv:comment": "24 pages, 12 figures, 4 tables. Accepted for publication in the Astronomical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Kaitlyn E. Sheriff",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Elisabeth A. C. Mills",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Xinyu Mai",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Utsav Siwakoti",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Sara E. Duval",
+          "arxiv:affiliation": "University of Toledo"
+        },
+        {
+          "name": "Alberto D. Bolatto",
+          "arxiv:affiliation": "University of Maryland"
+        },
+        {
+          "name": "Rebecca C. Levy",
+          "arxiv:affiliation": "Space Telescope Science Institute"
+        },
+        {
+          "name": "Jia Wei Teh",
+          "arxiv:affiliation": "Heidelberg University"
+        },
+        {
+          "name": "Torsten Böker",
+          "arxiv:affiliation": "European Space Agency"
+        },
+        {
+          "name": "Serena A. Cronin",
+          "arxiv:affiliation": "University of Maryland"
+        },
+        {
+          "name": "Daniel A. Dale",
+          "arxiv:affiliation": "University of Wyoming"
+        },
+        {
+          "name": "Keaton Donaghue",
+          "arxiv:affiliation": "University of Maryland"
+        },
+        {
+          "name": "Kimberly Emig",
+          "arxiv:affiliation": "National Radio Astronomy Observatory"
+        },
+        {
+          "name": "Simon C. O. Glover",
+          "arxiv:affiliation": "Heidelberg University"
+        },
+        {
+          "name": "Rodrigo Herrera-Camus",
+          "arxiv:affiliation": "University of Concepción, Millennium Nucleus for Galaxies"
+        },
+        {
+          "name": "Ralf S. Klessen",
+          "arxiv:affiliation": "Heidelberg University"
+        },
+        {
+          "name": "Thomas S. -Y Lai",
+          "arxiv:affiliation": "California Institute of Technology"
+        },
+        {
+          "name": "Ashley E. Lieber",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Laura Lenkić",
+          "arxiv:affiliation": "California Institute of Technology"
+        },
+        {
+          "name": "Sebastian Lopez",
+          "arxiv:affiliation": "The Ohio State University"
+        },
+        {
+          "name": "David S. Meier",
+          "arxiv:affiliation": "New Mexico Institute of Mining and Technology"
+        },
+        {
+          "name": "Jüergen Ott",
+          "arxiv:affiliation": "National Radio Astronomy Observatory"
+        },
+        {
+          "name": "J. D. T. Smith",
+          "arxiv:affiliation": "University of Toledo"
+        },
+        {
+          "name": "Yu-Hsuan Teng",
+          "arxiv:affiliation": "University of Maryland"
+        },
+        {
+          "name": "Paul P. van der Werf",
+          "arxiv:affiliation": "Leiden Observatory"
+        },
+        {
+          "name": "Sylvain Veilleux",
+          "arxiv:affiliation": "University of Maryland"
+        },
+        {
+          "name": "Vicente Villanueva",
+          "arxiv:affiliation": "Universidad Diego Portales Instituto de Estudios Astrofísicos, Millennium Nucleus for Galaxies"
+        },
+        {
+          "name": "Rachel Cionitti",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Joseph Havens",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Maleah Rhem",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Nathan Shaw",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Kai Smith",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Hazel B. Wright",
+          "arxiv:affiliation": "University of Kansas"
+        },
+        {
+          "name": "Md. Abdullah Al Zaman",
+          "arxiv:affiliation": "University of Kansas"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.15211v1",
+      "title": "Results on young stellar clusters with the WEAVE LIFU",
+      "updated": "2026-09-14T08:33:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.15211v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.15211v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the first results of two Spanish TAC programs using the WEAVE LIFU that have been obtaining data since October 2023. The first one is obtaining high-resolution multi-epoch spectroscopy of the nine stellar clusters that contain a minimum number of 3 O-type stars (and many more B stars) within the field of view of the WEAVE LIFU and that are accessible from La Palma with the purpose of studying the spectroscopic multiplicity of the OB stars. The second program is obtaining single-shot low-resolution spectroscopy of as many stellar clusters with OB stars as possible with the purpose of characterizing the OB-star population in those regions that are too crowded to be properly studied with the guaranteed time SCIP program. That program has already observed 54 clusters in a wide range of environments, from H II regions to gas-free clusters, and distances, from clusters in the solar neighbourhood to (nearby) extragalactic systems. We also present the tools developed for this program, which include a data cube processing and visualisation utility and UNWIND, a code that fits and subtracts the ISM signature in the observed spectra.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-14T08:33:01Z",
+      "arxiv:comment": "To appear in Highlights of Spanish Astrophysics XIII, Proceedings of the XVII Scientific Meeting of the Spanish Astronomical Society held on 13-17 July 2026, in Tarragona, Spain",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "J. Maíz Apellániz"
+        },
+        {
+          "name": "G. Holgado"
+        },
+        {
+          "name": "C. Fariña"
+        },
+        {
+          "name": "S. R. Berlanas"
+        }
+      ],
+      "score": 9.5
+    },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
       "title": "The internal kinematics and chemistry of 20 Milky Way strings",
@@ -69,7 +285,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 7.1
+      "score": 5.6
     },
     {
       "id": "http://arxiv.org/abs/2609.09618v1",
@@ -138,7 +354,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9f58",
-      "score": 3.5
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -199,7 +415,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 12.8
+      "score": 10.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -299,7 +515,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 9.5
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -445,7 +661,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 7.5
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -506,47 +722,7 @@
           "name": "Akhil Krishna R"
         }
       ],
-      "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.05179v1",
-      "title": "The dispersal law of young star clusters: free expansion -- A Gaia/eROSITA census of Orion and Sco--Cen",
-      "updated": "2026-09-04T14:16:33Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.05179v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.05179v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We measure how young star clusters disperse over time in the two nearest star-forming complexes. Our sample comprises 44 \\texttt{SigMA}-\\textit{Gaia}-defined clusters in Orion and 31 in Sco--Cen, with isochronal ages of 2--25\\,Myr. We extend each cluster's census with \\textit{eROSITA}-selected young stars that share its parallax and motion and lie within the distance they could have traveled ballistically since birth. By 10--30\\,Myr, about one in three former cluster stars lies outside the cluster's cataloged boundary. Across both complexes and the full age range, we find that (1) the half-member radius increases linearly with age, $\\rfifty \\simeq \\sigbirth t$, (2) the velocity dispersion shows no measurable evolution, and (3) all studied clusters are unbound. These results support free expansion. Young clusters in Orion and Sco-Cen emerge unbound from their birth clouds and coast at their birth velocity dispersion without significant relaxation or a characteristic dispersal timescale. We further show that memberships defined by density contrast preferentially omit the fastest stars, making the same clusters appear to expand more slowly ($\\propto t^{0.6}$), cool with age, and approach equilibrium.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-04T14:16:33Z",
-      "arxiv:comment": "Submitted to A&A. Comments are welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "João Alves"
-        },
-        {
-          "name": "Stefan Meingast"
-        },
-        {
-          "name": "Alena Rottensteiner"
-        }
-      ],
-      "score": 1.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -595,7 +771,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 10.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -635,7 +811,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 4.0
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -687,135 +863,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 5.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.27359v1",
-      "title": "$N$-body simulations of the open cluster population in the Milky Way and the impact of GMC encounters",
-      "updated": "2026-08-27T16:57:41Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.27359v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.27359v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate the population of open clusters in the Solar Neighbourhood and model the effect of encounters with giant molecular clouds (GMCs) over the last 1 Gyr. We combine a Galactic model with $N$-body simulations of 20692 unique clusters in the mass range $[50-24000]$ $\\mathrm{M}_{\\odot}$. Each cluster is simulated twice: with and without tidal forces from the GMCs. We find that an initial cluster mass function truncated at $\\sim 9000$ $\\mathrm{M}_{\\odot}$ best reproduces the observed mass function evolution. For the age function, the observations show a decline in clusters for ages older than $\\sim 1$ Myr, whereas our simulated clusters show a decline after $\\sim 50$ Myr. The observed early disruption suggests that some clusters form supervirial, whereas our simulated clusters are created in virial equilibrium. Low-mass ($<600 \\, \\mathrm{M}_{\\odot}$) clusters are most sensitive to GMC encounters, which accelerate their disruption in the first $\\sim 200$ Myr. After $\\sim 500$ Myr, the impact of GMCs becomes irrelevant since the clusters will have been destroyed regardless of whether they experience GMC encounters or not. The survival of intermediate-mass ($600-6000\\, \\mathrm{M}_{\\odot}$) clusters is significantly reduced by GMCs at ages up to 1 Gyr. High-mass ($>6000 \\, \\mathrm{M}_{\\odot}$) clusters survive to 1 Gyr with minimal disruption with or without GMCs. We find that clusters that have had strong GMC encounters within the last $20$ Myr should have tidal tails that are randomly orientated with respect to the Galactic centre.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-27T16:57:41Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Timmi G. Jørgensen"
-        },
-        {
-          "name": "Ross P. Church"
-        }
-      ],
-      "score": 1.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.24321v1",
-      "title": "Synchrotron filaments in radio galaxies: rarity, stability, and environmental influences from LOFAR and ROSAT observations",
-      "updated": "2026-08-25T09:47:19Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.24321v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.24321v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a systematic investigation of filamentary synchrotron structures in radio galaxies, using deep 144 MHz observations from the LOFAR Two-Metre Sky Survey (LoTSS) in combination with archival ROSAT X-ray data. These narrow, collimated features, linking radio lobes and often aligned with jet axes, are rare: our visual inspection of 548 cluster-associated sources identified 12 candidates (~2.2%), of which three exhibit clearly resolved filaments suitable for detailed X-ray and synchrotron minimum pressure analysis. Minimum pressures in these filaments are consistently lower than the ambient thermal pressure derived from X-ray measurements. This disparity implies a role for external confinement in filament stability, aligning with theoretical predictions of thermal pressure support and potentially toroidal magnetic field configurations. We discuss filament formation scenarios, including relic AGN outflows, magnetic draping, and plasma instabilities. Our findings highlight the utility of filamentary structures as probes of intracluster magnetic field topology and AGN feedback, and demonstrate the need for high-resolution, multi-frequency studies to constrain their origin and evolution.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-08-25T09:47:19Z",
-      "arxiv:comment": "12 pages, 4 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Geoffrey Ong'alo"
-        },
-        {
-          "name": "Martin J. Hardcastle"
-        },
-        {
-          "name": "Willice Obonyo"
-        },
-        {
-          "name": "Marcus Brüggen"
-        },
-        {
-          "name": "Paul Baki"
-        }
-      ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.13313v1",
-      "title": "Differential Reddening and Extinction Law Analyses of Galactic Open Clusters",
-      "updated": "2026-08-13T14:37:57Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2608.13313v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2608.13313v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Extinction significantly affects open cluster parameters and their use in studies of Galactic structure, yet homogeneous large sample measurements of open cluster extinction properties remain limited. Using Gaia-era open cluster member samples combined with multi-band photometry and stellar parameters, we derive color excesses of member stars and provide the homogeneous characterization of the mean reddening, differential reddening, and color excess ratio (CER) at the cluster scale. Differential reddening increases systematically with mean reddening, with highly reddened clusters near the Galactic plane showing stronger extinction variations. Star-by-star reddening corrections narrow color--magnitude diagram (CMD) sequences in 369 of 435 clusters (85%) with reliable CMD-width measurements, and cluster color excess maps reveal small-scale extinction structures. The median CER is compatible with the standard diffuse interstellar medium extinction curve, while the broad CER distribution and its large-scale variations across the Galactic disk likely reflect differences in the dominant dust environments sampled along different Galactic sight lines.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-08-13T14:37:57Z",
-      "arxiv:comment": "15 pages, 9 figures, 1 table, Accepted for publication in AJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Xiaohan Chen"
-        },
-        {
-          "name": "Shu Wang"
-        },
-        {
-          "name": "Xiaodian Chen"
-        }
-      ],
-      "score": 7.0
+      "score": 3.8
     }
   ]
 }
