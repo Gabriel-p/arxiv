@@ -1,172 +1,75 @@
 {
-  "fetched_at": "2026-09-16T16:27:14.060245",
+  "fetched_at": "2026-09-17T04:08:08.914357",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2609.16190v1",
-      "title": "JWST Observations of Starbursts: A Young Bubble in NGC 253's Central Starburst",
-      "updated": "2026-09-14T18:24:35Z",
+      "id": "http://arxiv.org/abs/2609.17673v1",
+      "title": "Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field",
+      "updated": "2026-09-15T18:00:10Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2609.16190v1",
+          "@href": "https://arxiv.org/abs/2609.17673v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2609.16190v1",
+          "@href": "https://arxiv.org/pdf/2609.17673v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "We present a multi-wavelength analysis of a young bubble in the nuclear starburst of NGC 253 using new JWST MIRI-MRS observations together with archival ALMA (100, 350, 690 GHz) and Chandra data. The MIRI maps reveal a prominent bubble-like structure in both ionized and molecular emission lines. The bubble is spatially coincident with one of the least embedded massive young clusters detected with ALMA, suggesting that the cluster is driving the expansion. We measure a radius of $\\sim 11.5 \\pm 3.4$ pc and an expansion velocity of $\\sim 90 \\pm 44$ km s$^{-1}$, implying a dynamical age of $\\sim 0.1 \\pm 0.1$ Myr. Using RADEX modeling of multiple CO transitions, we infer a molecular mass in the range of $(1.3 \\pm 0.3) \\times 10^4$ to $(2.8 \\pm 0.8) \\times 10^5$ $M_\\odot$. We derive a kinetic energy of order $10^{51}$-$10^{52}$ erg, consistent with mechanical input from Wolf-Rayet stellar winds or supernovae in a $\\sim 10^6$ $M_\\odot$ cluster. The existence of a large population of Wolf-Rayet stars or past supernovae is supported by the presence of coincident X-ray emission. Our results provide direct evidence that individual clusters in a nuclear environment can carve out coherent structures on parsec scales and inject significant energy and momentum into the surrounding interstellar medium, which can contribute to the nuclear outflow in NGC 253.",
+      "summary": "In the first paper of the Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES), we present an ultradeep 2 Ms X-ray survey of the Abell 2744 field constructed from 101 archival Chandra ACIS-I observations. With an exposure comparable to the Chandra Deep Fields and further boosted by strong-lensing magnification from the Abell 2744 cluster at $z=0.3$, this field represents the third deepest extragalactic X-ray survey of the sky and also has rich synergy with extensive coverage by the Hubble Space Telescope and James Webb Space Telescope. We present the Chandra data reduction and detect sources in the soft (0.5-2 keV), hard (2-7 keV), and full (0.5-7 keV) bands over a total area of $369~\\mathrm{arcmin^2}$. We perform dedicated image fitting with Chandra point spread functions to optimize point-source detections and improve X-ray positions and further screen the detections to address the impact of the central bright, structured intracluster medium. A total of 327 X-ray point sources are detected and cataloged, including their X-ray photometry and basic spectral properties. Detailed simulations are also conducted, based on which the expected 50% flux completeness reaches $6.3\\times10^{-16}$, $2.8\\times10^{-16}$, and $4.9\\times10^{-16}~\\mathrm{erg~cm^{-2}~s^{-1}}$ in the full, soft, and hard bands, respectively. The source number density as a function of flux is consistent with those in blank-field surveys within a factor of $\\approx2$, with a slight excess above $\\approx10^{-14}~\\mathrm{erg~cm^{-2}~s^{-1}}$. All X-ray data products are publicly released, including the catalog, X-ray images, exposure maps, background maps, and sensitivity maps.",
       "category": {
         "@term": "astro-ph.GA",
         "@scheme": "http://arxiv.org/schemas/atom"
       },
-      "published": "2026-09-14T18:24:35Z",
-      "arxiv:comment": "24 pages, 12 figures, 4 tables. Accepted for publication in the Astronomical Journal",
+      "published": "2026-09-15T18:00:10Z",
+      "arxiv:comment": "27 pages, 16 figures, 3 tables, submitted",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "Kaitlyn E. Sheriff",
-          "arxiv:affiliation": "University of Kansas"
+          "name": "Shouyi Wang"
         },
         {
-          "name": "Elisabeth A. C. Mills",
-          "arxiv:affiliation": "University of Kansas"
+          "name": "Fan Zou"
         },
         {
-          "name": "Xinyu Mai",
-          "arxiv:affiliation": "University of Kansas"
+          "name": "Elena Gallo"
         },
         {
-          "name": "Utsav Siwakoti",
-          "arxiv:affiliation": "University of Kansas"
+          "name": "Bin Luo"
         },
         {
-          "name": "Sara E. Duval",
-          "arxiv:affiliation": "University of Toledo"
+          "name": "W. N. Brandt"
         },
         {
-          "name": "Alberto D. Bolatto",
-          "arxiv:affiliation": "University of Maryland"
+          "name": "Yuxuan Pang"
         },
         {
-          "name": "Rebecca C. Levy",
-          "arxiv:affiliation": "Space Telescope Science Institute"
+          "name": "Tommaso Treu"
         },
         {
-          "name": "Jia Wei Teh",
-          "arxiv:affiliation": "Heidelberg University"
+          "name": "Xue-Bing Wu"
         },
         {
-          "name": "Torsten Böker",
-          "arxiv:affiliation": "European Space Agency"
+          "name": "Dieu D. Nguyen"
         },
         {
-          "name": "Serena A. Cronin",
-          "arxiv:affiliation": "University of Maryland"
+          "name": "Guido Roberts-Borsani"
         },
         {
-          "name": "Daniel A. Dale",
-          "arxiv:affiliation": "University of Wyoming"
+          "name": "Shengzhe Wang"
         },
         {
-          "name": "Keaton Donaghue",
-          "arxiv:affiliation": "University of Maryland"
+          "name": "Weiwei Xu"
         },
         {
-          "name": "Kimberly Emig",
-          "arxiv:affiliation": "National Radio Astronomy Observatory"
-        },
-        {
-          "name": "Simon C. O. Glover",
-          "arxiv:affiliation": "Heidelberg University"
-        },
-        {
-          "name": "Rodrigo Herrera-Camus",
-          "arxiv:affiliation": "University of Concepción, Millennium Nucleus for Galaxies"
-        },
-        {
-          "name": "Ralf S. Klessen",
-          "arxiv:affiliation": "Heidelberg University"
-        },
-        {
-          "name": "Thomas S. -Y Lai",
-          "arxiv:affiliation": "California Institute of Technology"
-        },
-        {
-          "name": "Ashley E. Lieber",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Laura Lenkić",
-          "arxiv:affiliation": "California Institute of Technology"
-        },
-        {
-          "name": "Sebastian Lopez",
-          "arxiv:affiliation": "The Ohio State University"
-        },
-        {
-          "name": "David S. Meier",
-          "arxiv:affiliation": "New Mexico Institute of Mining and Technology"
-        },
-        {
-          "name": "Jüergen Ott",
-          "arxiv:affiliation": "National Radio Astronomy Observatory"
-        },
-        {
-          "name": "J. D. T. Smith",
-          "arxiv:affiliation": "University of Toledo"
-        },
-        {
-          "name": "Yu-Hsuan Teng",
-          "arxiv:affiliation": "University of Maryland"
-        },
-        {
-          "name": "Paul P. van der Werf",
-          "arxiv:affiliation": "Leiden Observatory"
-        },
-        {
-          "name": "Sylvain Veilleux",
-          "arxiv:affiliation": "University of Maryland"
-        },
-        {
-          "name": "Vicente Villanueva",
-          "arxiv:affiliation": "Universidad Diego Portales Instituto de Estudios Astrofísicos, Millennium Nucleus for Galaxies"
-        },
-        {
-          "name": "Rachel Cionitti",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Joseph Havens",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Maleah Rhem",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Nathan Shaw",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Kai Smith",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Hazel B. Wright",
-          "arxiv:affiliation": "University of Kansas"
-        },
-        {
-          "name": "Md. Abdullah Al Zaman",
-          "arxiv:affiliation": "University of Kansas"
+          "name": "Zihao Zuo"
         }
       ],
-      "score": 0.5
+      "score": 45.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -354,7 +257,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9f58",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -415,7 +318,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 10.8
+      "score": 10.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -515,7 +418,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -661,7 +564,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -811,7 +714,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
