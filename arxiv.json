@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T04:08:08.914357",
+  "fetched_at": "2026-09-17T16:34:10.379319",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -118,7 +118,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
@@ -188,7 +188,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 5.1
+      "score": 4.6
     },
     {
       "id": "http://arxiv.org/abs/2609.09618v1",
@@ -625,7 +625,7 @@
           "name": "Akhil Krishna R"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -674,7 +674,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -766,7 +766,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 3.3
+      "score": 2.8
     }
   ]
 }
