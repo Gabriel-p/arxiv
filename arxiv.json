@@ -1,6 +1,187 @@
 {
-  "fetched_at": "2026-09-17T16:34:10.379319",
+  "fetched_at": "2026-09-18T03:53:58.066889",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.19847v1",
+      "title": "On the Constancy of Binary Star Fractions in Local Star Clusters",
+      "updated": "2026-09-17T07:59:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.19847v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.19847v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We investigate the unresolved binary-star fraction in a complete sample of 376 open clusters located within 1 kpc of the Sun using Gaia DR3 and ASteCA based synthetic colour magnitude diagram modelling. The binary fraction is a global photometric quantity, sensitive primarily to unresolved binaries that produce measurable broadening above the single-star main sequence. We find that the median binary fraction of the sample is nearly constant, $0.29\\pm 0.03$, with no clear dependence on cluster age, core radius, limiting radius or median mass. This apparent constancy suggests that the global binary content of nearby open clusters is regulated by competing dynamical processes, including disruption of soft binaries, survival and hardening of close binaries, mass segregation, evaporation of single stars, and long-term cluster dissolution. The result is consistent with theoretical expectations and previous observational studies indicating that cluster binary populations can evolve internally while maintaining a relatively stable global binary fraction. Our findings provide an observational constraint for models of open-cluster formation and dynamical evolution and highlight the need for future work combining photometric, astrometric, spectroscopic, and N-body approaches to distinguish between primordial and dynamically formed binary populations.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-17T07:59:46Z",
+      "arxiv:comment": "Accepted for publication in the Bulletin of the Royal Society of Sciences of Liege",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Priya Hasan"
+        },
+        {
+          "name": "Mohammed Saifuddin"
+        }
+      ],
+      "score": 18.8
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.19732v1",
+      "title": "Kinematics of the System of Young Open Clusters based on Gaia DR3 Data",
+      "updated": "2026-09-17T05:49:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.19732v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.19732v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We use a kinematical model including circular rotation of the Milky-Way disk incorporating effects produced by a spiral density wave with constant radial and vertical components of the velocity dispersion tensor and adopted solar Galactocentric distance R_0=8.277kpc (inferred by GRAVITY collaboration in 2022) to derive the velocity field parameters for a sample of 2384 open clusters from the Hunt and Reffert (2024) catalog having ages no greater than 100 Myr almost all of which reside at Galactoaxial distances between 5 and 14 kpc. We estimate the velocity-field parameters using maximum-likelyhood method and the affine-invariant variant of the Markov chain Monte-Carlo method proposed by Goodman and Weare (2010) with both methods yieilding almost identical parameter values. The inferred rotation curve, on the whole, is consistent with the results based on our kinematical analysis of a sample of Galactic masers. We find the linear rotation velocity at the solar distance to be V=242.3+/-1.1~km/s; it reaches its maximum V~244 km/s at Galactoaxial distance of about R_g~7 kpc followed by a slow and smooth decline with V~227 km/s at R_g=14 kpc. The inferred radial and vertical components of the velocity dispersion tensor are (sigma U_0, sigma W_0)~(10.63+/-0.15, 4.56+/-0.15) km/s. We find the pitch angle and the phase of the Sun for a four-armed spiral pattern to be i~-11.7+/-0.3 degrees and chi_0~138+/-5 degrees, respectively, and the amplitudes of radial and tangential perturbations, f_R=-3.0+/-0.4 and f_{theta}=-3.1+/-0.4 km/s, respectively.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-17T05:49:06Z",
+      "arxiv:comment": "11 pages, 6 figures, Accepted to Astrophysical Bulletin",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "A. K. Dambis"
+        },
+        {
+          "name": "A. S. Rastorguev"
+        }
+      ],
+      "score": 58.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.19653v1",
+      "title": "The Contribution of Starspots to the Lithium Spread in NGC 2264",
+      "updated": "2026-09-17T03:50:09Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.19653v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.19653v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Star clusters with ages of a few Myr have a previously unexplained dispersion in the lithium equivalent widths. In this work, we show that much of the lithium spread of the young cluster NGC 2264 can be attributed to the observational presence of starspots. We demonstrate that the equivalent width of Li I 6708 Angstrom changes with observed spot coverage, using a sample of 15 Weak-Lined T Tauri Stars (WTTSs) with multi-epoch high-resolution ESPaDOnS spectra and photometry. To quantify the contribution of starspots, we construct an empirical two-component starspot model. When differences in visible spot coverage are taken into account, 68% of the WTTSs fall within the model-predicted EW(Li) dispersion for a range from 0-90% visible spot coverage. We find no correlation between the age spread or gravity and Li I equivalent width in NGC 2264. Our results suggest that invoking starspots can explain much of the apparent lithium spread in NGC 2264 and reduces but does not fully eliminate the need to invoke rotation-driven lithium depletion or other non-standard explanations at such young ages. Future simultaneous measurements of lithium and beryllium in young stars may provide an independent test of this scenario.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-17T03:50:09Z",
+      "arxiv:comment": "Accepted for publication in The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Yan Luo"
+        },
+        {
+          "name": "Gregory J. Herczeg"
+        },
+        {
+          "name": "Min Fang"
+        },
+        {
+          "name": "Qinghui Sun"
+        },
+        {
+          "name": "Xiaoting Fu"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.19486v1",
+      "title": "Honoring Paris Pişmiş' Legacy: Uniform Astrophysical Properties of 14 Understudied Clusters from Gaia DR3",
+      "updated": "2026-09-16T23:00:40Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.19486v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.19486v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are fundamental tracers of the chemical and dynamical evolution of the Galactic disc. This study presents a systematic characterisation of 14 understudied open clusters from the Pismis catalogue, selected for a well-defined stellar sequence in Gaia DR3 and spanning a wide range of ages and distances. Using high-precision Gaia DR3 astrometry, we provide a high-fidelity modernisation of these historical discoveries while testing our analytical framework across diverse stellar populations. Membership probabilities were determined via the unsupervised UPMASK algorithm using Gaia DR3 positions, proper motions, and parallaxes. To ensure high sample purity, the member samples entering the isochrone fits were restricted to P >= 0.90, with astrophysical parameters calculated through membership-weighted likelihoods. Fundamental properties -- age, distance, reddening, and metallicity -- were derived using a Bayesian Nested Sampling approach to isochrone fitting, chosen for its robustness against the parameter degeneracies typical of dense Galactic fields. The 14 systems exhibit a broad range of properties, with ages from approximately 11 Myr to 1.5 Gyr and distances spanning approximately 690 to 5445 pc. These refined, uniform parameters reconcile historical observations with the precision era of modern astrophysics, providing a homogeneous baseline for systems that large-scale automated surveys recover only partially. A direct cross-match against widely used automated catalogues shows that they typically contain only about a third of the members identified here, and substantially less in the most crowded fields, underscoriecific analysis. This workcontributes to a more complete census of the Galactic disc and sets out a reproducible, per-cluster licable to the manycomparable low-latitude systems still to be characterised.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-16T23:00:40Z",
+      "arxiv:comment": "29 pages, 6 figures. Accepted for publication in PASP. Abstract abbreviated to meet arXiv's character limit",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Seliz Koç"
+        },
+        {
+          "name": "Neslihan Alan"
+        },
+        {
+          "name": "Furkan Akbaba"
+        },
+        {
+          "name": "Olcay Plevne"
+        }
+      ],
+      "score": 3.5
+    },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
       "title": "Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field",
@@ -19,10 +200,16 @@
         }
       ],
       "summary": "In the first paper of the Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES), we present an ultradeep 2 Ms X-ray survey of the Abell 2744 field constructed from 101 archival Chandra ACIS-I observations. With an exposure comparable to the Chandra Deep Fields and further boosted by strong-lensing magnification from the Abell 2744 cluster at $z=0.3$, this field represents the third deepest extragalactic X-ray survey of the sky and also has rich synergy with extensive coverage by the Hubble Space Telescope and James Webb Space Telescope. We present the Chandra data reduction and detect sources in the soft (0.5-2 keV), hard (2-7 keV), and full (0.5-7 keV) bands over a total area of $369~\\mathrm{arcmin^2}$. We perform dedicated image fitting with Chandra point spread functions to optimize point-source detections and improve X-ray positions and further screen the detections to address the impact of the central bright, structured intracluster medium. A total of 327 X-ray point sources are detected and cataloged, including their X-ray photometry and basic spectral properties. Detailed simulations are also conducted, based on which the expected 50% flux completeness reaches $6.3\\times10^{-16}$, $2.8\\times10^{-16}$, and $4.9\\times10^{-16}~\\mathrm{erg~cm^{-2}~s^{-1}}$ in the full, soft, and hard bands, respectively. The source number density as a function of flux is consistent with those in blank-field surveys within a factor of $\\approx2$, with a slight excess above $\\approx10^{-14}~\\mathrm{erg~cm^{-2}~s^{-1}}$. All X-ray data products are publicly released, including the catalog, X-ray images, exposure maps, background maps, and sensitivity maps.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
       "published": "2026-09-15T18:00:10Z",
       "arxiv:comment": "27 pages, 16 figures, 3 tables, submitted",
       "arxiv:primary_category": {
@@ -69,7 +256,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 45.5
+      "score": 45.0
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -257,7 +444,7 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae9f58",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -318,7 +505,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -418,7 +605,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -564,7 +751,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -714,7 +901,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
