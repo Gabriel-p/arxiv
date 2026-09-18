@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T03:53:58.066889",
+  "fetched_at": "2026-09-18T16:04:50.332861",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -42,7 +42,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 18.8
+      "score": 18.3
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -79,7 +79,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 58.0
+      "score": 57.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19653v1",
@@ -305,7 +305,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
@@ -375,7 +375,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 4.6
+      "score": 4.1
     },
     {
       "id": "http://arxiv.org/abs/2609.09618v1",
@@ -812,7 +812,7 @@
           "name": "Akhil Krishna R"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -861,7 +861,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2609.01709v1",
@@ -953,7 +953,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     }
   ]
 }
