@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T16:04:50.332861",
+  "fetched_at": "2026-09-19T03:53:16.855149",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -131,7 +131,7 @@
           "name": "Xiaoting Fu"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19486v1",
@@ -180,7 +180,7 @@
           "name": "Olcay Plevne"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -256,7 +256,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 45.0
+      "score": 44.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -378,75 +378,6 @@
       "score": 4.1
     },
     {
-      "id": "http://arxiv.org/abs/2609.09618v1",
-      "title": "Planetary Nebula Central Stars as Tracers of Planetary Nebula-Star Cluster Associations in the Galaxy",
-      "updated": "2026-09-09T02:22:30Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.09618v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.09618v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/1538-4357/ae9f58",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Planetary nebulae (PNe) that are physically associated with star clusters are rare but crucial for stellar evolution studies because they allow their initial and final stellar properties to be determined independently, contributing to constraints on the initial-to-final-mass relation (IFMR), which traces stellar mass loss. Although the identification of such pairs is essential, most reported cases have been identified incidentally rather than through systematic searches. Here, we attempt to uncover new such associations in our Galaxy employing literature PN central stars (CSs) and star cluster catalogues. Exploring relevant angular positions on the sky and kinematic Gaia DR3 data, we identify 38 candidate CS-cluster pairs. The components of eight of these pairs present consistent interstellar extinctions, and their CS properties are compatible with stellar evolution models. Two of these candidate pairs are already reported in the literature as true associations. We evaluate separately the remaining six pairs using literature PN observational data, assessing the likelihood of each pair being a true association. The initial and final masses of our best candidates are mostly consistent with the latest IFMR predictions and confirmed cluster-PNe points. An additional 46 CS-cluster pairs have components with compatible angular positions but lack kinematic CS data and are thus presented separately. More data are needed for a precise estimation of the physical parameters of most of our candidates and to confirm these associations, which will be addressed in future studies.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-09T02:22:30Z",
-      "arxiv:comment": "19 pages, 2 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Vasiliki Fragkou",
-          "arxiv:affiliation": "Observatório do Valongo, Universidade Federal do Rio de Janeiro"
-        },
-        {
-          "name": "Luis Lomelí-Núñez",
-          "arxiv:affiliation": "Observatório do Valongo, Universidade Federal do Rio de Janeiro"
-        },
-        {
-          "name": "Dante Minniti",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica, Depto. de. Física y Astronomía, Facultad de Ciencias Exactas, Universidad Andrés Bello",
-            "Vatican Observatory"
-          ]
-        },
-        {
-          "name": "Arianna Cortesi",
-          "arxiv:affiliation": [
-            "Observatório do Valongo, Universidade Federal do Rio de Janeiro",
-            "Instituto de Física, Universidade Federal do Rio de Janeiro"
-          ]
-        },
-        {
-          "name": "Denise R. Gonçalves",
-          "arxiv:affiliation": "Observatório do Valongo, Universidade Federal do Rio de Janeiro"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae9f58",
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2609.09122v1",
       "title": "The fading hierarchy of Galactic open clusters",
       "updated": "2026-09-08T17:48:47Z",
@@ -505,7 +436,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 9.8
+      "score": 9.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -605,7 +536,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -751,7 +682,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -901,7 +832,7 @@
           "name": "Deniz Cennet Çınar"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
