@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T15:37:27.792427",
+  "fetched_at": "2026-09-20T04:07:36.596335",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -131,7 +131,7 @@
           "name": "Xiaoting Fu"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19486v1",
@@ -180,7 +180,7 @@
           "name": "Olcay Plevne"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -256,7 +256,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 44.5
+      "score": 44.0
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -436,7 +436,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 9.3
+      "score": 8.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -536,7 +536,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -682,7 +682,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05272v1",
@@ -793,46 +793,6 @@
         }
       ],
       "score": 6.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.01709v1",
-      "title": "The Comprehensive Investigations of the NGC 7419 Open Cluster and the New Perspective on Mass Populations",
-      "updated": "2026-09-01T18:00:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.01709v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.01709v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a structural, kinematic, and photometric analysis of the young, red supergiant- and Be star-rich open cluster NGC 7419 using Gaia DR3 and 2MASS data. Using the HDBSCAN algorithm and conservative membership criteria, we identify 734 high-probability cluster members, separating the cluster from the dense Perseus Arm background. Isochrone fitting to the Gaia DR3 color-magnitude diagram, treating classical Be stars separately to account for their circumstellar excess, yields an age of 15 +/- 2 Myr, a distance of 3161 +/- 261 pc, a distance modulus of 12.50 +/- 0.08 mag, and a color excess E(GBP-GRP) = 2.58 +/- 0.06 mag. An independent 2MASS analysis gives a consistent distance modulus of 12.53 mag and E(J-Ks) = 0.99 mag. The Be stars show a prominent infrared excess in J-Ks, consistent with free-free and bound-free emission from circumstellar disks. We derive mean proper motions of -2.738 +/- 0.115 and -1.604 +/- 0.149 mas yr^-1 and a mean parallax of 0.288 +/- 0.062 mas, corresponding to a trigonometric distance of 3316 +/- 317 pc. The photometric distance is adopted as the primary estimate. A generalized King profile gives a core radius of 1.53 +/- 0.08 arcmin and a limiting radius of 8.16 +/- 1.1 arcmin. The stellar mass distribution is best described by a three-component Gaussian model, which we interpret as three distinct mass populations. Their coexistence and incomplete mixing are consistent with the young dynamical state of NGC 7419. Hierarchical formation provides a plausible framework for their origin.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-01T18:00:01Z",
-      "arxiv:comment": "20 pages, 17 figures, 14 tables. Accepted for publication in Research in Astronomy and Astrophysics (RAA)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Nasser M. Ahmed"
-        },
-        {
-          "name": "Remziye Canbay"
-        },
-        {
-          "name": "Deniz Cennet Çınar"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
