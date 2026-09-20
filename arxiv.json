@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T04:07:36.596335",
+  "fetched_at": "2026-09-20T15:43:02.824189",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -42,7 +42,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 17.8
+      "score": 17.3
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -79,7 +79,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 57.0
+      "score": 56.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19653v1",
@@ -305,7 +305,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
@@ -375,7 +375,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 3.6
+      "score": 3.1
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -685,67 +685,6 @@
       "score": 3.5
     },
     {
-      "id": "http://arxiv.org/abs/2609.05272v1",
-      "title": "ROCKETS I: Investigating the Impact of the Rocket Effect on Two Nearby Young Open Clusters Encased in Infrared Bubbles",
-      "updated": "2026-09-04T15:27:54Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.05272v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.05272v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We introduce ROCKETS (Rocket-driven Cluster Kinematics & Triggered Star-formation), a Gaia based programme investigating kinematic fingerprints of stellar feedback or rocket effect in young star forming regions. We analyse two young clusters with O-type stars enclosed by mid-infrared bubbles, Collinder 69 and IC 1396 as a methodological demonstration on two nearby benchmark regions. Co-moving candidates are selected within an astrometric ellipse defined by the median and median absolute deviation of Class I/II YSOs with Gaia data. For each star, we compute a relative proper-motion angle (RPMA) relative to the ionising source. In both regions the RPMA distribution shows a strong excess at RPMA $<15^{\\circ}$, corresponding to sources moving away from the respective ionising sources. We quantify this using the Rocket Effect Index (REI), finding $\\mathrm{REI}\\simeq 1.1$ for Collinder 69 and $\\mathrm{REI}\\simeq 1.7$ for IC 1396. When considering only Class I/II YSOs, the REI of both regions increases to $\\mathrm{REI}\\gtrsim 10$. Velocity-structure analysis of the sample shows that the RPMA $<15^\\circ$ subset has stronger positive pairwise expansion than the full co-moving population, providing additional support for the rocket effect. The outward-moving stars are not uniformly distributed; instead, their position angles are strongly anisotropic and preferentially aligned towards the bright-rimmed clouds. Gaia colour-magnitude diagrams show no strong age offset between sources moving outward and literature cluster members. The observed kinematic signatures support feedback-driven acceleration of gas and triggered star formation preferentially towards higher density regions of expanding bubbles due to the rocket effect.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-04T15:27:54Z",
-      "arxiv:comment": "13 Pages, 10 Figures, 1 Table, accepted for publication in Publications of the Astronomical Society of Australia",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "R. Arun"
-        },
-        {
-          "name": "G. Maheswar"
-        },
-        {
-          "name": "Annapurni Subramaniam"
-        },
-        {
-          "name": "Piyali Saha"
-        },
-        {
-          "name": "T. P. Sudheesh"
-        },
-        {
-          "name": "B. Shridharan"
-        },
-        {
-          "name": "Blesson Mathew"
-        },
-        {
-          "name": "Akhil Krishna R"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2609.04857v1",
       "title": "Membership Determination of 45 Open Clusters Beyond 3 kpc",
       "updated": "2026-09-04T08:13:16Z",
@@ -792,7 +731,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -844,7 +783,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 1.8
+      "score": 1.3
     }
   ]
 }
