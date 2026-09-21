@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-09-20T15:43:02.824189",
+  "fetched_at": "2026-09-21T04:04:53.909732",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.21928v1",
+      "title": "Stellar ages from [C/N] in giant stars: applicability and limitations",
+      "updated": "2026-09-18T15:49:49Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.21928v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.21928v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The [C/N] abundance ratio is a powerful age indicator for giant stars, enabling age estimates for spectroscopic samples where traditional methods are limited. We calibrate a multivariate [C/N]-age-[Fe/H] relationship using 9,122 giant stars observed by Kepler, with asteroseismic ages and APOGEE DR17 abundances. The calibration is performed separately for lower red giant branch (LRGB), upper RGB (URGB), and red clump (RC) stars. We validate the relationships using independent samples from K2, TESS, and open clusters, finding good agreement with reference ages, particularly for LRGB stars, with typical precision of ~30% for ages between ~2 - 10 Gyr. The performance degrades for URGB and RC stars and low metallicities, likely due to extra mixing processes, for young (<2 Gyr) and old (>10 Gyr) stars, where the [C/N]-age correlation weakens. We show that the [C/N]-based ages reproduce known Milky Way features, including the age distribution across the [alpha/Fe]-[Fe/H] plane and the flaring of the Galactic disc. Compared to other chemical clocks, [C/N] provides more robust and precise age estimates within its domain of validity. Our results demonstrate that [C/N], combined with metallicity, is an effective empirical tool for deriving stellar ages of giant stars from spectroscopic surveys, particularly for LRGB stars with [Fe/H] > -1, enabling Galactic archaeology studies beyond the reach of current asteroseismic samples.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-18T15:49:49Z",
+      "arxiv:comment": "Paper accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Giada Casali"
+        },
+        {
+          "name": "Luca Casagrande"
+        },
+        {
+          "name": "Fiorenzo Vincenzo"
+        },
+        {
+          "name": "Andrea Miglio"
+        },
+        {
+          "name": "Melissa Ness"
+        },
+        {
+          "name": "Grazina Tautvaišiene"
+        },
+        {
+          "name": "Laura Magrini"
+        },
+        {
+          "name": "Sven Buder"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
       "title": "On the Constancy of Binary Star Fractions in Local Star Clusters",
@@ -82,58 +143,6 @@
       "score": 56.5
     },
     {
-      "id": "http://arxiv.org/abs/2609.19653v1",
-      "title": "The Contribution of Starspots to the Lithium Spread in NGC 2264",
-      "updated": "2026-09-17T03:50:09Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.19653v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.19653v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Star clusters with ages of a few Myr have a previously unexplained dispersion in the lithium equivalent widths. In this work, we show that much of the lithium spread of the young cluster NGC 2264 can be attributed to the observational presence of starspots. We demonstrate that the equivalent width of Li I 6708 Angstrom changes with observed spot coverage, using a sample of 15 Weak-Lined T Tauri Stars (WTTSs) with multi-epoch high-resolution ESPaDOnS spectra and photometry. To quantify the contribution of starspots, we construct an empirical two-component starspot model. When differences in visible spot coverage are taken into account, 68% of the WTTSs fall within the model-predicted EW(Li) dispersion for a range from 0-90% visible spot coverage. We find no correlation between the age spread or gravity and Li I equivalent width in NGC 2264. Our results suggest that invoking starspots can explain much of the apparent lithium spread in NGC 2264 and reduces but does not fully eliminate the need to invoke rotation-driven lithium depletion or other non-standard explanations at such young ages. Future simultaneous measurements of lithium and beryllium in young stars may provide an independent test of this scenario.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-17T03:50:09Z",
-      "arxiv:comment": "Accepted for publication in The Astrophysical Journal",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Yan Luo"
-        },
-        {
-          "name": "Gregory J. Herczeg"
-        },
-        {
-          "name": "Min Fang"
-        },
-        {
-          "name": "Qinghui Sun"
-        },
-        {
-          "name": "Xiaoting Fu"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2609.19486v1",
       "title": "Honoring Paris Pişmiş' Legacy: Uniform Astrophysical Properties of 14 Understudied Clusters from Gaia DR3",
       "updated": "2026-09-16T23:00:40Z",
@@ -180,7 +189,7 @@
           "name": "Olcay Plevne"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -256,7 +265,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 44.0
+      "score": 43.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -436,7 +445,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 8.8
+      "score": 8.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -536,7 +545,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -682,7 +691,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
