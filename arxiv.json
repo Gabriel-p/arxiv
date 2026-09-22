@@ -1,66 +1,218 @@
 {
-  "fetched_at": "2026-09-21T18:01:37.548281",
+  "fetched_at": "2026-09-22T16:34:54.333163",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2609.21928v1",
-      "title": "Stellar ages from [C/N] in giant stars: applicability and limitations",
-      "updated": "2026-09-18T15:49:49Z",
+      "id": "http://arxiv.org/abs/2609.24811v1",
+      "title": "A Newly Discovered VVVX Star Cluster Surfing the Galactic Disk",
+      "updated": "2026-09-21T16:03:44Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2609.21928v1",
+          "@href": "https://arxiv.org/abs/2609.24811v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2609.21928v1",
+          "@href": "https://arxiv.org/pdf/2609.24811v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "The [C/N] abundance ratio is a powerful age indicator for giant stars, enabling age estimates for spectroscopic samples where traditional methods are limited. We calibrate a multivariate [C/N]-age-[Fe/H] relationship using 9,122 giant stars observed by Kepler, with asteroseismic ages and APOGEE DR17 abundances. The calibration is performed separately for lower red giant branch (LRGB), upper RGB (URGB), and red clump (RC) stars. We validate the relationships using independent samples from K2, TESS, and open clusters, finding good agreement with reference ages, particularly for LRGB stars, with typical precision of ~30% for ages between ~2 - 10 Gyr. The performance degrades for URGB and RC stars and low metallicities, likely due to extra mixing processes, for young (<2 Gyr) and old (>10 Gyr) stars, where the [C/N]-age correlation weakens. We show that the [C/N]-based ages reproduce known Milky Way features, including the age distribution across the [alpha/Fe]-[Fe/H] plane and the flaring of the Galactic disc. Compared to other chemical clocks, [C/N] provides more robust and precise age estimates within its domain of validity. Our results demonstrate that [C/N], combined with metallicity, is an effective empirical tool for deriving stellar ages of giant stars from spectroscopic surveys, particularly for LRGB stars with [Fe/H] > -1, enabling Galactic archaeology studies beyond the reach of current asteroseismic samples.",
+      "summary": "We report the discovery of Garro 04, a previously unidentified stellar cluster toward the Galactic disc, uncovered as part of the ESO/KMOS VVVX-GalCen Spectroscopic Survey. This object was serendipitously confirmed as a stellar overdensity in the VISTA Variables in the Vía Láctea eXtended (VVVX) survey footprint and subsequently confirmed through medium-resolution $K$-band spectroscopy obtained with the K-band Multi Object Spectrograph (KMOS) at the ESO Very Large Telescope. The combined photometric and spectroscopic analysis reveals a coherent stellar population with common radial velocities and chemical properties, supporting its classification as a genuine star cluster rather than a statistical fluctuation of the disk field. We derive the fundamental properties of Garro 04, including its structural parameters, distance, kinematics, and compute its orbital properties, finding that its motion remains confined to the Galactic disk region. Finally, our analysis suggests that Garro~04 is likely an old open cluster, or an object straddling the boundary between the canonical globular and open cluster classifications, with an estimated Age $ = 5 \\pm 2$ Gyr and a metallicity of $\\mathrm{[Fe/H]} = -0.5 \\pm 0.2$, finding an excellent agreement between the photometric and spectroscopic determinations.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-21T16:03:44Z",
+      "arxiv:comment": "14 pages, 7 figures, 4 tables. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Elisa R. Garro"
+        },
+        {
+          "name": "José G. Fernández-Trincado"
+        },
+        {
+          "name": "Casmir O. Obasi"
+        },
+        {
+          "name": "Dante Minniti"
+        },
+        {
+          "name": "Matías Gómez"
+        },
+        {
+          "name": "Roberto K. Saito"
+        },
+        {
+          "name": "Javier Alonso-García"
+        },
+        {
+          "name": "Alonso Luna"
+        },
+        {
+          "name": "Valentin D. Ivanov"
+        },
+        {
+          "name": "Maria Gabriela Navarro"
+        },
+        {
+          "name": "Sara Federle"
+        },
+        {
+          "name": "Bernardo P. L. Pereira"
+        },
+        {
+          "name": "Beatriz Barbuy"
+        },
+        {
+          "name": "Devika Bhadrakumar Sindhu"
+        },
+        {
+          "name": "Bruno Dias"
+        },
+        {
+          "name": "Tali Palma"
+        },
+        {
+          "name": "Ilaria Petralia"
+        },
+        {
+          "name": "Sasi Saroon"
+        }
+      ],
+      "score": 8.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.23890v1",
+      "title": "The protostar FU Orionis may not be bursting: dramatic accretion suppression in embedded young eccentric binaries",
+      "updated": "2026-09-20T21:51:44Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.23890v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.23890v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "In 1936, the protostar FU Orionis began to brighten. Two years later, it was 100 times brighter and has not dimmed since. This object defined the class of FUor-type accretion bursts in protostars. Previous attempts to model FUors simulate isolated protostellar discs, thereby limiting the mass available to drive the burst and shortening its duration. However, these protostars are embedded within the interstellar medium, from which they actively accrete via accretion streamers. This work seeks the origin of FUors starting at interstellar medium scales. An unbiased search of star particles from a 25AU resolution star cluster formation simulation was performed to find FUor candidates. Most candidates were low-mass secondary stars in highly eccentric binaries, like FU Orionis. Zoom-in simulations down to 0.79AU resolution found candidates experience dramatic accretion suppression and bursts at the closest binary separation at periastron. Approaching periastron, the candidate's orbital speed becomes supersonic striping away nearby gas. After periastron, the orbital speed decreases allowing gas to accrete onto the candidate rapidly via Bondi-Hoyle-Lyttleton (BHL) accretion. BHL accretion tails form behind the candidate and appear as accretion streamers. This dramatic suppression and burst near periastron is a physical mechanism for strong variable accretion in embedded young eccentric binaries. This mechanism also implies that FU Orionis returned to its former accretion rate.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-20T21:51:44Z",
+      "arxiv:comment": "In Review at MNRASL. Responding the referee report. Comments welcome. 5 Pages, 4 Figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": {
+        "name": "Rajika L. Kuruwita"
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.23515v1",
+      "title": "XMST II: The spatial and kinematic structure of Galactic OB associations in Gaia DR3",
+      "updated": "2026-09-20T10:07:35Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.23515v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.23515v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.5281/zenodo.22830657",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Stellar associations are difficult clustering targets because position, kinematics and extinction carry different physical units, different uncertainties and different discriminatory power. We extend the Extended Minimum Spanning Tree (XMST) framework without forcing these observables into a single metric. Three-dimensional spatial connectivity first defines candidate parent structures (XMST-S1), transverse kinematics then tests those parents for dynamically distinct populations (XMST-S3), and visual extinction provides a final reddening refinement (XMST-S2). Across 1000 Monte Carlo realisations, XMST-S1 produced a better purity--completeness balance than the eight predefined three-dimensional HDBSCAN configurations tested, although neither method reliably separated a deliberately superimposed pair using spatial information alone. Applying kinematics before reddening increased mean Jaccard similarity to 0.8354 and resolved the overlapping pair in 98.6 per cent of realisations. The S3 null experiment produced only five accepted subdivisions among 106,265 tested groups. Across 1000 paired reddening-uncertainty realisations, increasing uncertainty reduced the mean number of accepted S2 subdivisions from 4.224 to 1.982, while mean Jaccard similarity changed only from 0.8074 to 0.7993. Direct XMST-S3 uncertainty tests showed negligible practical degradation for transverse-velocity errors up to $0.5~\\mathrm{km\\,s^{-1}}$ per component, with larger errors progressively suppressing kinematic refinement. In a label-blind repartition of 2,551 stars from 56 published OB associations, median best-match Jaccard similarity increased from 0.6535 after spatial clustering to 0.8861 after complete refinement, with 22 associations recovered identically. The main result is that physically different observables can refine an existing spatial hierarchy without redefining its me",
       "category": [
         {
           "@term": "astro-ph.GA",
           "@scheme": "http://arxiv.org/schemas/atom"
         },
         {
-          "@term": "astro-ph.SR",
+          "@term": "astro-ph.IM",
           "@scheme": "http://arxiv.org/schemas/atom"
         }
       ],
-      "published": "2026-09-18T15:49:49Z",
-      "arxiv:comment": "Paper accepted for publication in MNRAS",
+      "published": "2026-09-20T10:07:35Z",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
-      "author": [
+      "author": {
+        "name": "Mark Gallaway"
+      },
+      "arxiv:doi": "10.5281/zenodo.22830657",
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.22516v1",
+      "title": "An Open Cluster Origin for Most Solar-Type Binaries in the Solar Neighborhood and Implications for Primordial Planet Stability",
+      "updated": "2026-09-18T19:23:38Z",
+      "link": [
         {
-          "name": "Giada Casali"
+          "@href": "https://arxiv.org/abs/2609.22516v1",
+          "@rel": "alternate",
+          "@type": "text/html"
         },
         {
-          "name": "Luca Casagrande"
-        },
-        {
-          "name": "Fiorenzo Vincenzo"
-        },
-        {
-          "name": "Andrea Miglio"
-        },
-        {
-          "name": "Melissa Ness"
-        },
-        {
-          "name": "Grazina Tautvaišiene"
-        },
-        {
-          "name": "Laura Magrini"
-        },
-        {
-          "name": "Sven Buder"
+          "@href": "https://arxiv.org/pdf/2609.22516v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
         }
       ],
-      "score": 0.5
+      "summary": "We present the first Gaia-calibrated estimate of the contribution of dynamically processed open clusters (OCs) to the nearby solar-type field binary population and investigate the implications for primordial planet stability. We combine Gaia DR3 observations, empirical models of cluster formation and dissolution, and direct N-body simulations to constrain the fraction of field FGK-type binaries within 1 kpc that originated in OCs over the past 5 Gyr. We find that at least ~53% of solar-type field binaries formed in OCs with initial masses > 200 M_Sun, where dynamical processing becomes significant. We quantify the effects of stellar encounters and binary orbital evolution on the stability of both circumbinary and circumstellar planets by deriving empirical prescriptions for circumbinary planet destabilization as a function of binary separation and for the fractional reduction of stable circumstellar coplanar phase space. These results provide a framework for evaluating how OC dynamical evolution may influence the stability of planets in binary systems and therefore contribute to observed exoplanet demographics.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.EP",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-18T19:23:38Z",
+      "arxiv:comment": "7 pages, 3 figures, accepted for publication in ApJL",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Anna C. Childs"
+        },
+        {
+          "name": "Aaron M. Geller"
+        }
+      ],
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -103,7 +255,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 16.8
+      "score": 16.3
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -140,7 +292,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 56.0
+      "score": 55.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19486v1",
@@ -189,7 +341,7 @@
           "name": "Olcay Plevne"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -314,7 +466,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2609.10147v1",
@@ -384,7 +536,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 2.6
+      "score": 2.1
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -691,7 +843,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -740,7 +892,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2608.29637v1",
@@ -792,7 +944,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     }
   ]
 }
