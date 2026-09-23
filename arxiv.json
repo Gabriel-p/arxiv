@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-09-22T16:34:54.333163",
+  "fetched_at": "2026-09-23T03:58:55.517359",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.26626v1",
+      "title": "Misaligned tidal tails in open clusters: a signature of the local spiral arm resonance",
+      "updated": "2026-09-22T16:02:38Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.26626v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.26626v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Tidal tails of open clusters are traditionally expected to align with their orbital motion due to Galactic shear. However, recent observations suggest that a significant population of clusters exhibits misaligned tails, the origin of which remains poorly understood. I investigate the structural properties of tidal tails for a sample of 155 nearby open clusters within 1 kpc of the Sun to characterize the influence of non-axisymmetric Galactic perturbers on stellar stripping geometry.Using high-precision Gaia DR3 astrometry and the probabilistic membership, I trace the primary orientation and physical length of tidal tails. I distinguish between local and global perturbations by analyzing the spatial distribution of misalignment (DeltaPA) relative to the boundaries of the Local Arm and comparing results with recent test-particle simulations of barred and spiral potentials. I identify three distinct dynamical regimes. While the majority of the population is shear-aligned, a significant subset exhibits a spatially indifferent background misalignment (10deg < DeltaPA < 30deg) consistent with global Galactic bar torques. In contrast, a population of nascent tails (< 0.3 kpc) exhibits larger misalignments (DeltaPA > 40deg) with a unique spatial specificity, occurring exclusively within the inter-arm gaps (|d_arm| > 0.2 kpc). These significant misalignments could represent a transient dynamical phase occurring within the corotation resonance's zero-shear zone, where the radial gravitational forcing of the spiral potential dominates stellar exit trajectories by rotating the eigenvectors of the tidal tensor. This could identify nascent tidal tails as uniquely sensitive high-resolution tracers of the non-axisymmetric Galactic potential.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-22T16:02:38Z",
+      "arxiv:comment": "9 pages, 6 figures. Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": {
+        "name": "Andrés E. Piatti"
+      },
+      "score": 10.0
+    },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
       "title": "A Newly Discovered VVVX Star Cluster Surfing the Galactic Disk",
@@ -85,44 +117,6 @@
         }
       ],
       "score": 8.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.23890v1",
-      "title": "The protostar FU Orionis may not be bursting: dramatic accretion suppression in embedded young eccentric binaries",
-      "updated": "2026-09-20T21:51:44Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.23890v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.23890v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In 1936, the protostar FU Orionis began to brighten. Two years later, it was 100 times brighter and has not dimmed since. This object defined the class of FUor-type accretion bursts in protostars. Previous attempts to model FUors simulate isolated protostellar discs, thereby limiting the mass available to drive the burst and shortening its duration. However, these protostars are embedded within the interstellar medium, from which they actively accrete via accretion streamers. This work seeks the origin of FUors starting at interstellar medium scales. An unbiased search of star particles from a 25AU resolution star cluster formation simulation was performed to find FUor candidates. Most candidates were low-mass secondary stars in highly eccentric binaries, like FU Orionis. Zoom-in simulations down to 0.79AU resolution found candidates experience dramatic accretion suppression and bursts at the closest binary separation at periastron. Approaching periastron, the candidate's orbital speed becomes supersonic striping away nearby gas. After periastron, the orbital speed decreases allowing gas to accrete onto the candidate rapidly via Bondi-Hoyle-Lyttleton (BHL) accretion. BHL accretion tails form behind the candidate and appear as accretion streamers. This dramatic suppression and burst near periastron is a physical mechanism for strong variable accretion in embedded young eccentric binaries. This mechanism also implies that FU Orionis returned to its former accretion rate.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-20T21:51:44Z",
-      "arxiv:comment": "In Review at MNRASL. Responding the referee report. Comments welcome. 5 Pages, 4 Figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": {
-        "name": "Rajika L. Kuruwita"
-      },
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.23515v1",
@@ -212,7 +206,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -341,7 +335,7 @@
           "name": "Olcay Plevne"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -417,7 +411,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 43.0
+      "score": 42.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -597,7 +591,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 7.8
+      "score": 7.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -697,7 +691,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -843,7 +837,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
