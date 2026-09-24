@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T16:25:55.012582",
+  "fetched_at": "2026-09-24T03:55:25.013422",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -206,7 +206,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -335,7 +335,7 @@
           "name": "Olcay Plevne"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -411,7 +411,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 42.5
+      "score": 42.0
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -591,7 +591,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 7.3
+      "score": 6.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -691,7 +691,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -837,7 +837,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
