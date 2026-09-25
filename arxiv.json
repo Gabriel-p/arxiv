@@ -1,6 +1,55 @@
 {
-  "fetched_at": "2026-09-24T16:46:55.614489",
+  "fetched_at": "2026-09-25T04:08:50.019827",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.28753v1",
+      "title": "Cluster Membership Probabilities: A Review of Methods and Gaia Applications",
+      "updated": "2026-09-23T19:52:34Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.28753v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.28753v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Reliable stellar-cluster membership is essential for deriving cluster ages, distances, reddenings, metallicities, mass functions, dynamical parameters, and Galactic-structure tracers. The Gaia era has produced a proliferation of membership and cluster-detection methods, but the resulting catalogues are not interchangeable. We review the historical development of membership assignment, compare the statistical assumptions of major methods, and explicitly examine the practical consequences of methodological choices on real Gaia data. We consider spatial, proper-motion, maximum-likelihood, photometric, UPMASK, density-based, machine-learning, Bayesian, and bootstrap membership approaches. We add three case studies: a direct comparison of \\citet{CantatGaudinAnders2020}, \\citet{HuntReffert2023}, and \\citet{Perren2023} for common clusters; a Pleiades astrometric comparison; and a critical examination of low-trust candidates in the Unified Cluster Catalogue (UCC), including CWNU, CWWDL, and CKCWDM objects. The literature shows that disagreement is not simply a consequence of Gaia measurement errors. Different definitions of a cluster, different magnitude limits, different treatment of uncertainties, different spatial priors, and different tolerances for extended or low-density populations can lead to substantially different member lists. \\citet{Perren2023} reported an average member-list overlap of roughly 75--80\\% with \\citet{CantatGaudinAnders2020} and 70--75\\% with \\citet{HuntReffert2023} at bright magnitudes, with the HUNT23 overlap decreasing to about 35\\% at $G=20$. The UCC also flags many newly reported candidates as low-trust objects when their member distribution is sparse, their literature support is weak, or they have strong duplicate/non-cluster indicators.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-23T19:52:34Z",
+      "arxiv:comment": "10 pages; 5 figure; 5 tables; submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Tahereh Ramezani"
+        },
+        {
+          "name": "Johana Balciráková"
+        },
+        {
+          "name": "Prapti Mondal"
+        },
+        {
+          "name": "Katerina Neumannova"
+        },
+        {
+          "name": "Ernst Paunzen"
+        },
+        {
+          "name": "Gabriel Szász"
+        }
+      ],
+      "score": 5.0
+    },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
       "title": "Misaligned tidal tails in open clusters: a signature of the local spiral arm resonance",
@@ -206,7 +255,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -289,55 +338,6 @@
       "score": 54.5
     },
     {
-      "id": "http://arxiv.org/abs/2609.19486v1",
-      "title": "Honoring Paris Pişmiş' Legacy: Uniform Astrophysical Properties of 14 Understudied Clusters from Gaia DR3",
-      "updated": "2026-09-16T23:00:40Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.19486v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.19486v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters are fundamental tracers of the chemical and dynamical evolution of the Galactic disc. This study presents a systematic characterisation of 14 understudied open clusters from the Pismis catalogue, selected for a well-defined stellar sequence in Gaia DR3 and spanning a wide range of ages and distances. Using high-precision Gaia DR3 astrometry, we provide a high-fidelity modernisation of these historical discoveries while testing our analytical framework across diverse stellar populations. Membership probabilities were determined via the unsupervised UPMASK algorithm using Gaia DR3 positions, proper motions, and parallaxes. To ensure high sample purity, the member samples entering the isochrone fits were restricted to P >= 0.90, with astrophysical parameters calculated through membership-weighted likelihoods. Fundamental properties -- age, distance, reddening, and metallicity -- were derived using a Bayesian Nested Sampling approach to isochrone fitting, chosen for its robustness against the parameter degeneracies typical of dense Galactic fields. The 14 systems exhibit a broad range of properties, with ages from approximately 11 Myr to 1.5 Gyr and distances spanning approximately 690 to 5445 pc. These refined, uniform parameters reconcile historical observations with the precision era of modern astrophysics, providing a homogeneous baseline for systems that large-scale automated surveys recover only partially. A direct cross-match against widely used automated catalogues shows that they typically contain only about a third of the members identified here, and substantially less in the most crowded fields, underscoriecific analysis. This workcontributes to a more complete census of the Galactic disc and sets out a reproducible, per-cluster licable to the manycomparable low-latitude systems still to be characterised.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-16T23:00:40Z",
-      "arxiv:comment": "29 pages, 6 figures. Accepted for publication in PASP. Abstract abbreviated to meet arXiv's character limit",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Seliz Koç"
-        },
-        {
-          "name": "Neslihan Alan"
-        },
-        {
-          "name": "Furkan Akbaba"
-        },
-        {
-          "name": "Olcay Plevne"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2609.17673v1",
       "title": "Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field",
       "updated": "2026-09-15T18:00:10Z",
@@ -411,7 +411,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 42.0
+      "score": 41.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -591,7 +591,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 6.8
+      "score": 6.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -691,7 +691,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.05722v2",
@@ -837,7 +837,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
