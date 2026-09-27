@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T16:02:38.990981",
+  "fetched_at": "2026-09-27T04:28:22.317971",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.28753v1",
@@ -48,7 +48,7 @@
           "name": "Gabriel Szász"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -165,7 +165,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2609.23515v1",
@@ -255,7 +255,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -411,7 +411,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 41.0
+      "score": 40.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -591,7 +591,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 5.8
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -691,153 +691,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.05722v2",
-      "title": "Unresolved triple systems in the aged open cluster Trumpler 19: Discovery, confirmation, and implications",
-      "updated": "2026-09-10T15:13:58Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.05722v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.05722v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1051/0004-6361/202661278",
-          "@title": "doi"
-        }
-      ],
-      "summary": "It is difficult to identify unresolved triple and higher-order systems beyond the solar vicinity. Star clusters yield controlled environments with known physical parameters, providing a way to explore homogeneous stellar samples. Combining modern optical and near-IR surveys, our main goal is to explore the region of the color-magnitude diagrams located above the sequence of equal-mass binaries, which is inhabited by unresolved triple and quadruple systems. Specifically, here we aim to discover and characterize the presence of multiple systems in the aged open star cluster Trumpler 19. We selected cluster members using Gaia astrometry and photometry from the VVVX and DECAPS2 surveys. We made optical and near-IR color-magnitude diagrams to select stars located >0.75 mag above the cluster main sequence, including suitable unresolved triple and quadruple systems. We confirm previous results that there is a sizable sequence of unresolved binaries in Trumpler 19. We also report the discovery of a sequence of unresolved multiple systems in this cluster, and confirm some of these multiple systems via radial velocities measured by the ESO KMOS VVVX-GalCen spectroscopic survey. The fraction of multiple stars in this cluster is comparable to that of the solar neighborhood, with the caveat that the local sample probes deeper down the main sequence. The fraction of unresolved triples and quadruples is also three times higher than that of the open cluster M 67, which is of a similar age and chemical composition. The discovery of unresolved triple systems in Trumpler 19 leads to our main conclusion that these systems were able to survive within the cluster for nearly 4 Gyr. In addition, this cluster contains more multiple systems than M 67, which has a similar total present mass. Further investigations are needed to unveil if this is a primordial feature or the result of dynamical evolution.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-04T21:05:19Z",
-      "arxiv:comment": "8 pages, 6 figures. Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "arxiv:journal_ref": "A&A, forthcoming article (2026)",
-      "author": [
-        {
-          "name": "D. Minniti"
-        },
-        {
-          "name": "R. K. Saito"
-        },
-        {
-          "name": "V. D. Ivanov"
-        },
-        {
-          "name": "C. O. Obasi"
-        },
-        {
-          "name": "M. Gómez"
-        },
-        {
-          "name": "P. W. Lucas"
-        },
-        {
-          "name": "J. G. Fernández-Trincado"
-        },
-        {
-          "name": "J. Alonso-García"
-        },
-        {
-          "name": "E. R. Garro"
-        },
-        {
-          "name": "J. Corral-Santana"
-        },
-        {
-          "name": "A. Luna"
-        },
-        {
-          "name": "Z. Guo"
-        },
-        {
-          "name": "R. Kurtev"
-        },
-        {
-          "name": "J. Borissova"
-        },
-        {
-          "name": "V. Fermiano"
-        },
-        {
-          "name": "J. Osses"
-        },
-        {
-          "name": "C. Morris"
-        },
-        {
-          "name": "B. Dias"
-        },
-        {
-          "name": "C. Cáceres"
-        },
-        {
-          "name": "S. Saroon"
-        },
-        {
-          "name": "J. B. Pullen"
-        },
-        {
-          "name": "P. Rodriguez"
-        },
-        {
-          "name": "M. Lad"
-        },
-        {
-          "name": "S. Federle"
-        },
-        {
-          "name": "I. Petralia"
-        },
-        {
-          "name": "D. Bhadrakumar"
-        },
-        {
-          "name": "P. Esteves"
-        },
-        {
-          "name": "M. G. Navarro"
-        },
-        {
-          "name": "T. Palma"
-        },
-        {
-          "name": "L. Baravalle"
-        },
-        {
-          "name": "D. Galdeano"
-        },
-        {
-          "name": "M. V. Alonso"
-        },
-        {
-          "name": "J. L. Nilo Castellon"
-        },
-        {
-          "name": "A. N. Chené"
-        }
-      ],
-      "arxiv:doi": "10.1051/0004-6361/202661278",
-      "score": 0.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
