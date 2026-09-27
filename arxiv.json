@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T04:28:22.317971",
+  "fetched_at": "2026-09-27T16:39:41.702014",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.28753v1",
@@ -80,7 +80,7 @@
       "author": {
         "name": "Andrés E. Piatti"
       },
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
@@ -165,7 +165,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2609.23515v1",
@@ -208,7 +208,7 @@
         "name": "Mark Gallaway"
       },
       "arxiv:doi": "10.5281/zenodo.22830657",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.22516v1",
@@ -298,7 +298,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 14.3
+      "score": 13.8
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -335,7 +335,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 53.5
+      "score": 53.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -460,77 +460,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 4.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.10147v1",
-      "title": "The internal kinematics and chemistry of 20 Milky Way strings",
-      "updated": "2026-09-09T13:24:32Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.10147v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.10147v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1051/0004-6361/202660934",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Context: the recent discovery of filamentary stellar structures in the Milky Way disk raises the question of their formation in the context of the Galaxy evolution. Aims: in this work, we aim to kinematically and chemically characterize several filamentary stellar structures by looking for clues about their origin and formation mechanism. Methods: recent works using machine-learning techniques and $Gaia$ data have identified many previously unknown Galactic strings. We cross-matched such data with the kinematics derived from the most recent Gaia DR3 catalog as well as chemical data provided by the Galactic Archaeology with HERMES (GALAH) survey. Results: we found that most strings contain one or more open clusters and are kinematically hotter than open clusters (with internal velocity dispersions in the 1--7 km/s range) but cooler than field stars. 18 objects appear chemically homogeneous ($σ_{[Fe/H]}$ <= 0.1 dex), while two strings have a broad [Fe/H] distribution similar to the field stars but exhibit a different mean metallicity, which may identify them as migrating stellar structures. For seven objects the GALAH observations focus on the embedded open clusters; therefore, the chemical abundances are not representative of the whole structure. An object shows clues of chemical gradients along its extension in Galactic longitude. Conclusions: these objects may be evaporating or disrupted open clusters in which the chemical homogeneity is preserved in an unbound and expanding cloud of stars or co-moving stars belonging to a former and now disrupting star formation hub. In a few cases they appear to be moving groups with no chemical homogeneity, likely formed by the dynamical action of the Galactic bar or spiral arms. More data are needed to confirm such hypotheses.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-09T13:24:32Z",
-      "arxiv:comment": "15 pages, 10 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "C. Boeche"
-        },
-        {
-          "name": "A. Vallenari"
-        },
-        {
-          "name": "J. Alonso-Santiago"
-        },
-        {
-          "name": "A. Bragaglia"
-        },
-        {
-          "name": "R. Carrera"
-        },
-        {
-          "name": "E. Dalessandro"
-        },
-        {
-          "name": "E. Carretta"
-        },
-        {
-          "name": "E. Franciosini"
-        },
-        {
-          "name": "A. Frasca"
-        },
-        {
-          "name": "S. Lucatello"
-        },
-        {
-          "name": "G. Andreuzzi"
-        }
-      ],
-      "arxiv:doi": "10.1051/0004-6361/202660934",
-      "score": 0.1
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -740,7 +670,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     }
   ]
 }
