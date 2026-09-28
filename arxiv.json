@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T04:29:24.805399",
+  "fetched_at": "2026-09-28T19:25:30.130845",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
@@ -57,7 +57,7 @@
           "name": "Wouter H. T. Vlemmings"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2609.28753v1",
@@ -138,7 +138,7 @@
       "author": {
         "name": "Andrés E. Piatti"
       },
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
@@ -223,50 +223,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 6.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.23515v1",
-      "title": "XMST II: The spatial and kinematic structure of Galactic OB associations in Gaia DR3",
-      "updated": "2026-09-20T10:07:35Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.23515v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.23515v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.5281/zenodo.22830657",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Stellar associations are difficult clustering targets because position, kinematics and extinction carry different physical units, different uncertainties and different discriminatory power. We extend the Extended Minimum Spanning Tree (XMST) framework without forcing these observables into a single metric. Three-dimensional spatial connectivity first defines candidate parent structures (XMST-S1), transverse kinematics then tests those parents for dynamically distinct populations (XMST-S3), and visual extinction provides a final reddening refinement (XMST-S2). Across 1000 Monte Carlo realisations, XMST-S1 produced a better purity--completeness balance than the eight predefined three-dimensional HDBSCAN configurations tested, although neither method reliably separated a deliberately superimposed pair using spatial information alone. Applying kinematics before reddening increased mean Jaccard similarity to 0.8354 and resolved the overlapping pair in 98.6 per cent of realisations. The S3 null experiment produced only five accepted subdivisions among 106,265 tested groups. Across 1000 paired reddening-uncertainty realisations, increasing uncertainty reduced the mean number of accepted S2 subdivisions from 4.224 to 1.982, while mean Jaccard similarity changed only from 0.8074 to 0.7993. Direct XMST-S3 uncertainty tests showed negligible practical degradation for transverse-velocity errors up to $0.5~\\mathrm{km\\,s^{-1}}$ per component, with larger errors progressively suppressing kinematic refinement. In a label-blind repartition of 2,551 stars from 56 published OB associations, median best-match Jaccard similarity increased from 0.6535 after spatial clustering to 0.8861 after complete refinement, with 22 associations recovered identically. The main result is that physically different observables can refine an existing spatial hierarchy without redefining its me",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-20T10:07:35Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Mark Gallaway"
-      },
-      "arxiv:doi": "10.5281/zenodo.22830657",
-      "score": 0.5
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.22516v1",
@@ -313,7 +270,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -356,7 +313,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 13.8
+      "score": 13.3
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -393,7 +350,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 53.0
+      "score": 52.5
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -469,7 +426,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 40.0
+      "score": 39.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -518,7 +475,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -579,7 +536,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 4.8
+      "score": 4.3
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -679,7 +636,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -728,7 +685,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     }
   ]
 }
