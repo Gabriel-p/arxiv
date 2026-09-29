@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T04:58:29.812531",
+  "fetched_at": "2026-09-29T17:52:17.419125",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.34741v1",
@@ -51,7 +51,7 @@
           "name": "P. Sanhueza"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31925v1",
@@ -341,7 +341,7 @@
           "name": "Wouter H. T. Vlemmings"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2609.28753v1",
@@ -422,7 +422,7 @@
       "author": {
         "name": "Andrés E. Piatti"
       },
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
@@ -507,7 +507,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2609.22516v1",
@@ -597,7 +597,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 13.3
+      "score": 12.8
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -634,7 +634,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 52.5
+      "score": 52.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -759,7 +759,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -820,7 +820,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     },
     {
       "id": "http://arxiv.org/abs/2609.09026v2",
@@ -920,7 +920,7 @@
         }
       ],
       "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.04857v1",
@@ -969,7 +969,7 @@
           "name": "Yan Jiang"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     }
   ]
 }
