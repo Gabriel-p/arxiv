@@ -1,6 +1,290 @@
 {
-  "fetched_at": "2026-09-28T19:25:30.130845",
+  "fetched_at": "2026-09-29T04:58:29.812531",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.34741v1",
+      "title": "Before fragmentation: from uniform clouds to stellar clusters",
+      "updated": "2026-09-28T09:34:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.34741v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.34741v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Our study of the early stages of fragmentation in massive clumps has revealed a striking anomaly: $\\sim15\\%$ of the CoCoA sample exhibit no fragmentation at all. These sources could represent the initial conditions before core formation. We investigate whether these sources are indeed at the onset of core formation, and whether gravity or turbulence dominates their early fragmentation. We study the transition from uniform gas to active cluster formation, and compare contrasting predictions of turbulence- and gravity-dominated models of clump fragmentation through ALMA observations of three massive clumps spanning this phase. The fragmented source exhibits higher average $n$(H$_2$) and a core-to-envelope density contrast 5-6 times larger than the minimally fragmented sources. All sources display pc-scale velocity differences comparable to their linewidths and gravitational velocities. This suggests that the linewidth is dominated by the large-scale motions, and that the latter are driven by gravity. The high CH$_3$OH abundances and the mass build-up timescales align with astrochemical models where complex molecules form at intermediate densities before the appearance of cores. All independent diagnostics in our analysis are consistent with the minimally fragmented clumps being an early evolutionary phase, potentially marking the onset of core fragmentation. If turbulence were the primary driver of fragmentation, sources with comparable Mach numbers should exhibit similar structural properties. Instead, we observe significant variations in density contrast and fragmentation. These findings challenge turbulence-supported models and lend support to hierarchical, gravity-driven models of clump fragmentation, where large-scale ordered motions account for a significant fraction of the observed linewidths and drive the evolution of the clump toward increasingly dense and fragmented states.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-28T09:34:05Z",
+      "arxiv:comment": "A&A, accepted for publication",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "A. Giannetti"
+        },
+        {
+          "name": "T. Pillai"
+        },
+        {
+          "name": "J. Kauffmann"
+        },
+        {
+          "name": "A. Palau"
+        },
+        {
+          "name": "E. Vazquez-Semadeni"
+        },
+        {
+          "name": "K. Morii"
+        },
+        {
+          "name": "P. Sanhueza"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.31925v1",
+      "title": "Dynamical Evolution of The Open Clusters Collinder 110 and NGC 2477",
+      "updated": "2026-09-25T19:18:37Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.31925v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.31925v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.18038/estubtda.1847213",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Using Gaia DR3 photometric and astrometric data, we identified the likely members of the open clusters Collinder 110 and NGC 2477, and derived their astrophysical and dynamical parameters. We obtained reddening values of $E(B-V) = 0.43 \\pm 0.05$ and $0.33 \\pm 0.04$, and ages of $1.82 \\pm 0.10$ Gyr and $1.05 \\pm 0.10$ Gyr for Collinder 110 and NGC 2477, respectively. Within the uncertainties, the distances derived from the color-magnitude diagrams ($2.09 \\pm 0.06$ and $1.38 \\pm 0.04$ kpc) are consistent with those obtained from Gaia DR3 parallaxes ($2.08 \\pm 0.31$ and $1.45 \\pm 0.11$ kpc). Both clusters exhibit large core and limiting radii. The core radius ($R_c$) of Collinder 110 does not follow the expected decreasing trend with increasing evolutionary parameter ($\\logτ_2$). In addition to losing part of its low-mass stellar content, its relatively large $R_c$ may reflect primordial conditions and/or the presence of a possible stellar-mass black hole. The relatively large $R_c/R_h$ ratios, together with their advanced dynamical evolution ($\\logτ_2 = 1.24$ and $1.34$), indicate that significant two-body relaxation and mass segregation have occurred within their central regions. The small values of $R_h/R_j$ ($0.32$ and $0.16$) suggest that low-mass stars have dynamically redistributed within the comparatively large Jacobi radii under the combined influence of internal and external processes. However, their large $R_t/R_j$ ratios ($1.60$ and $1.23$) imply that both clusters are tidally affected and have likely lost part of their low-mass stellar populations to the Galactic field. Despite these effects, their locations in the third Galactic quadrant, where giant molecular clouds are relatively scarce, may explain their survival to their present ages of $1.82$ and $1.05$ Gyr, respectively.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-25T19:18:37Z",
+      "arxiv:comment": "14 Figures, 6 Tables, Published in ESKİŞEHİR TECHNICAL UNIVERSITY JOURNAL OF SCIENCE AND TECHNOLOGY",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Zahra Al"
+        },
+        {
+          "name": "Yüksel Karataş"
+        },
+        {
+          "name": "Forough Rajaei"
+        }
+      ],
+      "arxiv:doi": "10.18038/estubtda.1847213",
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.31838v1",
+      "title": "Quantifying the decline in CO(2-1) intensity around PHANGS-HST star clusters: Constraints on molecular gas dispersal, stellar feedback, and cluster formation efficiency",
+      "updated": "2026-09-25T18:00:04Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.31838v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.31838v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We combine the largest survey of star clusters in nearby galaxies to-date, PHANGS-HST, with maps of molecular gas maps from PHANGS-ALMA to constrain the efficiency of cluster formation and the typical timescales over which clusters become dis-associated from their natal molecular gas. We analyse 29,233 clusters in 36 galaxies using CO maps at 150 pc resolution. For each star cluster with stellar mass $\\geq 10^{3.5}$ M$_\\odot$, we measure the radial profiles of CO(2-1) integrated intensity and obtain local background-subtracted CO intensity, $I_{\\rm CO}^{\\rm bkgsub}$, at cluster centre. We group the clusters by age and mass to quantify the dependence of $I_{\\rm CO}^{\\rm bkgsub}$ and corresponding molecular gas mass, $M_{\\rm mol}$, on these cluster properties. To account for the cluster mass ($M_{\\rm SC}$) dependence, we also calculate the normalised mass ratio of $(M_{\\rm mol}/M_{\\rm SC})$. We find that CO intensity varies systematically with cluster age and mass. Clusters that are spatially associated with H$α$ emission exhibit the highest $I_{\\rm CO}^{\\rm bkgsub}$ of 7.4 K km s$^{-1}$, corresponding to a $M_{\\rm mol}/M_{\\rm SC}$ ratio of 82 and implying a cluster formation efficiency ($ε_{\\rm obs}$) of $\\sim 1.2\\%$. Young clusters without associated H$α$ emission show lower and age-dependent $I_{\\rm CO}^{\\rm bkgsub}$ and $M_{\\rm mol}/M_{\\rm SC}$, decreasing from 1.3 K km s$^{-1}$ and 15 for clusters with age 1-3 Myr, to a level $\\approx$ 0 for clusters older than 9--10 Myr. Clusters older than 10 Myr show no statistical excess of CO intensity. We use the clusters with H$α$ association as initial conditions to model the impact of cluster drift and demonstrate that this is unlikely to drive the observed cluster-gas spatial disassociation on short timescales of 4-6 Myr. Instead, early stellar feedback seems likely to be the main driver.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-25T18:00:04Z",
+      "arxiv:comment": "26 pages, 20 figures, submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Hao He",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Adam K. Leroy",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Erik Rosolowsky",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Janice Lee",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Brad Whitmore",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "David Thilker",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Daniel A. Dale",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Frank Bigiel",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Annie Hughes",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Jiayi Sun",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Gagandeep Anand",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Ashley T. Barnes",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Zein Bazzi",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Médéric Boquien",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Rupali Chandar",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Dario Colombo",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Sinan Deger",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Simthembile Dlamini",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Hamid Hassani",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Stephan Hannon",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Ralf S. Klessen",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Simon C. O. Glover",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Kathryn Grasha",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Ivan Grasimov",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Remy Indebetouw",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Kirsten Larson",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Lukas Neumann",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Elias K. Oakes",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Hsi-An Pan",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Miguel Querejeta",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Lise Ramambason",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "M. Jimena Rodríguez",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Sumit K. Sarbadhicary",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Eva Schinnerer",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Qiushi",
+          "arxiv:affiliation": "Chris"
+        },
+        {
+          "name": "Tian"
+        },
+        {
+          "name": "Leonardo Úbeda"
+        },
+        {
+          "name": "Antonio Usero"
+        },
+        {
+          "name": "Thomas G. Williams"
+        },
+        {
+          "name": "Jianwen Zhou"
+        }
+      ],
+      "score": 56.1
+    },
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
       "title": "The Molecular Circumstellar Environments of Red Supergiants in Galactic Open Clusters",
@@ -106,7 +390,7 @@
           "name": "Gabriel Szász"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
