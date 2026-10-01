@@ -1,6 +1,163 @@
 {
-  "fetched_at": "2026-09-30T04:45:16.216729",
+  "fetched_at": "2026-10-01T04:57:38.648550",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2609.39925v1",
+      "title": "High-Priority Compact-Object Candidates in Young Clusters from the \\textit{Gaia} DR3 Non-Single-Star Catalog",
+      "updated": "2026-09-30T15:12:33Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.39925v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.39925v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.3847/2041-8213/aea3eb",
+          "@title": "doi"
+        }
+      ],
+      "summary": "The search for massive compact objects such as black holes (BHs) or neutron stars (NSs) in star clusters is longstanding challenge in astrophysics, yet no definitive identification of such compact objects in young clusters has been reported. In this Letter, we construct a sample of high-priority candidates for follow-up investigation. By cross-matching the cluster catalog with the Gaia Non-Single-Star database and estimating companion masses, we identify 13 systems with companion masses exceeding 1.4~$M_{\\odot}$, three of which have masses above 2.1~$M_{\\odot}$. Applying our newly developed Astrometric Mass-Ratio Function (AMRF) classification based on cluster-specific isochrones, we identify three systems whose companions cannot readily be explained by a single main-sequence star or an unresolved close binary. These systems have inferred companion masses exceeding 2.1~$M_{\\odot}$, suggesting that they may be high-mass compact-object candidates. Joint Gaia and radial velocity orbit fitting for a comparison subset yields companion masses broadly consistent with the astrometric estimates, supporting the use of our framework for target prioritization. These unconfirmed systems are valuable targets for multi-epoch spectroscopy, high-resolution imaging, and future Gaia epoch astrometry.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-30T15:12:33Z",
+      "arxiv:comment": "16 pages, 7 figures. Published in ApJL",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Dejian Liu"
+        },
+        {
+          "name": "Kangteng Chang"
+        },
+        {
+          "name": "Yao Huang"
+        },
+        {
+          "name": "Yingjie Li"
+        },
+        {
+          "name": "Xianjin Shen"
+        },
+        {
+          "name": "Zehao Lin"
+        },
+        {
+          "name": "Jingjing Li"
+        },
+        {
+          "name": "Zhenyu Wu"
+        },
+        {
+          "name": "Jianrong Shi"
+        },
+        {
+          "name": "Ye Xu"
+        }
+      ],
+      "arxiv:doi": "10.3847/2041-8213/aea3eb",
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.38937v1",
+      "title": "The impact of the turbulent Mach number on star formation and the initial mass function",
+      "updated": "2026-09-30T04:12:41Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.38937v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.38937v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Turbulence regulates star formation by influencing the density structure and fragmentation of molecular clouds, and therefore it is expected to play a key role in setting the initial mass function (IMF). We study how the strength of the turbulent shocks affects star formation and the IMF by comparing a series of magnetohydrodynamical (MHD) simulations of star cluster formation in clouds with three different rms Mach number values, $M=2.5, 5$, and $10$, but otherwise the same Alfvén Mach number ($M_\\mathrm{A}\\sim3$) and virial parameter ($α_\\mathrm{vir}\\sim0.5$). All three simulations include stellar feedback in the form of protostellar jets/outflows and accretion heating. We find that the star formation rate per freefall time ($\\mathrm{SFR_{ff}}$) for the $M=10$ model is higher by a factor of $\\sim3$ compared to the $M=2.5$ and $5$ cases, which have similar $\\mathrm{SFR_{ff}}$. In terms of the IMF, the $M=5$ and $10$ models produce almost similar distributions, resembling typical observed IMFs. The $M=2.5$ model, on the other hand, produces a bimodal IMF with a primary peak at supersolar masses ($\\sim 2\\, \\mathrm{M_\\odot}$) and a secondary peak in the substellar regime ($< 0.1\\, \\mathrm{M_\\odot}$). The $M=2.5$ and $5$ simulations producing significantly different IMFs while having similar $\\mathrm{SFR_{ff}}$, suggest that a distinct set of physical processes governs the SFR and IMF. Through a resolution study for the $M=2.5$ case, we find our base models have reached near numerical convergence, potentially only slightly underestimating close-binary formation. We also see signatures of bimodality in the $M=2.5$ model for the multiplicity fraction and stellar angular momentum distribution.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-09-30T04:12:41Z",
+      "arxiv:comment": "11 pages, 8 Figures, 3 Tables, MNRAS accepted",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Sajay Sunny Mathew"
+        },
+        {
+          "name": "Christoph Federrath"
+        },
+        {
+          "name": "Amit Seta"
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2609.38550v1",
+      "title": "A triple-induced merger in T Ori C, solves the proplyd lifetime problem and the curiously young shell of M42",
+      "updated": "2026-09-29T21:09:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2609.38550v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2609.38550v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "There has long been a tension between the stellar ages in the Orion Nebula Cluster and the rapid external photoevaporation of its protoplanetary discs. Recently, the shell of the Orion Nebula has similarly been found to be dynamically younger than the stars. We propose a new scenario to resolve both age problems. In our scenario the ONC's most massive star, $θ^1$~Ori~C1, formed from the merger between two binary stars induced by vZLK oscillations due to the present-day binary companion $θ^1$~Ori~C2. This merger, happening between the last episode of star formation and today, resulted in an increased luminosity, leading to stronger external photoevaporation and accelerated expansion of the shell. {We use Monte Carlo simulations to explore both whether a sudden brightening of $θ^1$~Ori~C1 could reconcile the stellar ages and shell expansion, and whether triple progenitors to $θ^1$~Ori~C\\, could result in stellar mergers on the relevant timescale. A sudden brightening of $θ^1$~Ori~C1 a few hundred thousand years ago can reproduce today's shell while maintaining a system age close to the stellar age. However, the required increase in stellar wind luminosity is greater than a simple merger can explain. At lower luminosity, the mixing of a relatively greater amount of cool photoevaporative wind material into the hot bubble could result in the required increase, and we identify a lower limit on the required strength of this effect. Additionally, we find that progenitor triples merge readily, on timescales even shorter than the scenario would require. These mergers could be deferred by increased pre-main sequence tidal effects, rotation, and perturbing encounters with other cluster members. Our proposed scenario with a merger driven by von Zeipel-Lidov-Kozai evolution solves two problems; the Orion Nebula's proplyd problem and the shell lifetime problems.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-29T21:09:46Z",
+      "arxiv:comment": "Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Maite Wilhelm"
+        },
+        {
+          "name": "Alessandro Alberto Trani"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2609.35945v1",
       "title": "GA-NIFS view of LAP1: Assembly of Pop~III stellar clusters during EoR",
@@ -123,7 +280,7 @@
           "name": "A. Zanella"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.34741v1",
@@ -175,7 +332,7 @@
           "name": "P. Sanhueza"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.31925v1",
@@ -221,7 +378,7 @@
         }
       ],
       "arxiv:doi": "10.18038/estubtda.1847213",
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -407,7 +564,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 55.6
+      "score": 55.1
     },
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
@@ -465,7 +622,7 @@
           "name": "Wouter H. T. Vlemmings"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2609.28753v1",
@@ -514,7 +671,7 @@
           "name": "Gabriel Szász"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -546,7 +703,7 @@
       "author": {
         "name": "Andrés E. Piatti"
       },
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
@@ -631,7 +788,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2609.22516v1",
@@ -678,7 +835,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -721,7 +878,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 12.8
+      "score": 12.3
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -758,7 +915,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 52.0
+      "score": 51.5
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -834,7 +991,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 39.0
+      "score": 38.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -883,7 +1040,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
@@ -944,107 +1101,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 3.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.09026v2",
-      "title": "Open Clusters as Laboratories for Cool Star Evolution: Highlights from the Cool Stars 23 Splinter Session",
-      "updated": "2026-09-10T15:08:14Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.09026v2",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.09026v2",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.5281/zenodo.22663067",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Open clusters remain among the most powerful laboratories for calibrating how fundamental stellar properties such as rotation, magnetic activity, surface chemistry, and internal structure evolve over the pre-main-sequence to main-sequence and post-main-sequence stellar lifetime. Because cluster members share a common age, galactic environment, and initial composition, they provide empirical anchors upon which age-dating techniques such as gyrochronology, activity-age relations, and chemical clocks are built. This paper summarizes the Cool Stars 23 splinter session - Open Clusters as Laboratories for Cool Star Evolution, held on 15 June 2026 in Tokyo, Japan. The session comprised one invited review, ten contributed talks, and ten poster pop-up presentations, organized around three themes: the evolution of rotation, magnetic activity, and chemical abundances (Li-depletion, [C/N], [Y/Mg], and neutron-capture elements). We close with a summary of the open questions identified in the panel discussion and the observational and theoretical work that new surveys (e.g. Gaia DR4, 4MOST, WEAVE) and missions (e.g. PLATO, Roman) will enable over the coming years. Together, these efforts will help assess the current state of the field and shape its future directions.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-08T16:56:27Z",
-      "arxiv:comment": "13 pages, 3 figures",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Deepak Chahal"
-        },
-        {
-          "name": "Beatrice Caccherano"
-        },
-        {
-          "name": "Edward Gillen"
-        },
-        {
-          "name": "Dario J. Fritzewski"
-        },
-        {
-          "name": "Robin D. Jeffries"
-        },
-        {
-          "name": "Kevin R. Covey"
-        },
-        {
-          "name": "Andrew Boyle"
-        },
-        {
-          "name": "Lyra Cao"
-        },
-        {
-          "name": "Federica Chiti"
-        },
-        {
-          "name": "Alexander Hughes"
-        },
-        {
-          "name": "Leslie Moranta"
-        },
-        {
-          "name": "Natalie R. Myers"
-        },
-        {
-          "name": "Emily K. Pass"
-        },
-        {
-          "name": "Phil Van-Lane"
-        },
-        {
-          "name": "Fábio C. Wanderley"
-        },
-        {
-          "name": "Mackenna L. Wood"
-        },
-        {
-          "name": "Stephanie T. Douglas"
-        },
-        {
-          "name": "David Montes"
-        },
-        {
-          "name": "Loredana Prisinzano"
-        }
-      ],
-      "arxiv:doi": "10.5281/zenodo.22663067",
-      "score": 0.5
+      "score": 3.3
     }
   ]
 }
