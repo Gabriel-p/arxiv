@@ -1,6 +1,70 @@
 {
-  "fetched_at": "2026-10-01T18:13:20.152357",
+  "fetched_at": "2026-10-02T04:47:59.027101",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.00481v1",
+      "title": "The star formation history of Orion is structured and episodic",
+      "updated": "2026-09-30T18:00:12Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.00481v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.00481v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The propagation of star formation throughout a molecular cloud complex can tell us much about its physical drivers and the importance of environmental versus intrinsic processes. We reconstruct the star formation history (SFH) of the Orion star-forming complex using the highest-resolution age map currently available. It comprises 47 co-spatial and co-moving groups identified by the SigMA clustering algorithm, with homogeneously derived ages and group memberships. We find four periods of increased star formation, separated by ~5 Myr each. The two periods of highest increase, at 6.4 and 11.3 Myr, can be statistically localized, together hold ca. 59% of all stars, and are robust against resampling and changes to the age fitting. The two older, smaller increases at 16.2 and 21.4 Myr can be identified in the age distribution, but cannot be shown to be robust at this point. The ~5 Myr spacing between the episodes of increased star formation is the same as found for the nearby Scorpius-Centaurus (Sco-Cen) star-forming region. We find no methodological bias that could produce the SFH structure. We identify spatio-temporally connected structures, including three cluster-chain candidates. We conclude that star formation in Orion seems to occur on the same timescales but with a different pattern than in Sco-Cen. The cause of the ~5 Myr separations remains a mystery, and its detection in two distinct star-forming regions needs further investigation.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-09-30T18:00:12Z",
+      "arxiv:comment": "4 pages, 9 figures, 5 pages appendix. Submitted to A&A Letters. Comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Alena Rottensteiner"
+        },
+        {
+          "name": "João Alves"
+        },
+        {
+          "name": "Stefan Meingast"
+        },
+        {
+          "name": "Sebastian Hutschenreuter"
+        },
+        {
+          "name": "Núria Miret-Roig"
+        },
+        {
+          "name": "Josefa Großschedl"
+        },
+        {
+          "name": "Cameren Swiggum"
+        },
+        {
+          "name": "Sebastian Ratzenböck"
+        },
+        {
+          "name": "Monika G. Petr-Gotzens"
+        }
+      ],
+      "score": 0.1
+    },
     {
       "id": "http://arxiv.org/abs/2609.39925v1",
       "title": "High-Priority Compact-Object Candidates in Young Clusters from the \\textit{Gaia} DR3 Non-Single-Star Catalog",
@@ -67,96 +131,6 @@
       ],
       "arxiv:doi": "10.3847/2041-8213/aea3eb",
       "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.38937v1",
-      "title": "The impact of the turbulent Mach number on star formation and the initial mass function",
-      "updated": "2026-09-30T04:12:41Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.38937v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.38937v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Turbulence regulates star formation by influencing the density structure and fragmentation of molecular clouds, and therefore it is expected to play a key role in setting the initial mass function (IMF). We study how the strength of the turbulent shocks affects star formation and the IMF by comparing a series of magnetohydrodynamical (MHD) simulations of star cluster formation in clouds with three different rms Mach number values, $M=2.5, 5$, and $10$, but otherwise the same Alfvén Mach number ($M_\\mathrm{A}\\sim3$) and virial parameter ($α_\\mathrm{vir}\\sim0.5$). All three simulations include stellar feedback in the form of protostellar jets/outflows and accretion heating. We find that the star formation rate per freefall time ($\\mathrm{SFR_{ff}}$) for the $M=10$ model is higher by a factor of $\\sim3$ compared to the $M=2.5$ and $5$ cases, which have similar $\\mathrm{SFR_{ff}}$. In terms of the IMF, the $M=5$ and $10$ models produce almost similar distributions, resembling typical observed IMFs. The $M=2.5$ model, on the other hand, produces a bimodal IMF with a primary peak at supersolar masses ($\\sim 2\\, \\mathrm{M_\\odot}$) and a secondary peak in the substellar regime ($< 0.1\\, \\mathrm{M_\\odot}$). The $M=2.5$ and $5$ simulations producing significantly different IMFs while having similar $\\mathrm{SFR_{ff}}$, suggest that a distinct set of physical processes governs the SFR and IMF. Through a resolution study for the $M=2.5$ case, we find our base models have reached near numerical convergence, potentially only slightly underestimating close-binary formation. We also see signatures of bimodality in the $M=2.5$ model for the multiplicity fraction and stellar angular momentum distribution.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-30T04:12:41Z",
-      "arxiv:comment": "11 pages, 8 Figures, 3 Tables, MNRAS accepted",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Sajay Sunny Mathew"
-        },
-        {
-          "name": "Christoph Federrath"
-        },
-        {
-          "name": "Amit Seta"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.38550v1",
-      "title": "A triple-induced merger in T Ori C, solves the proplyd lifetime problem and the curiously young shell of M42",
-      "updated": "2026-09-29T21:09:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.38550v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.38550v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "There has long been a tension between the stellar ages in the Orion Nebula Cluster and the rapid external photoevaporation of its protoplanetary discs. Recently, the shell of the Orion Nebula has similarly been found to be dynamically younger than the stars. We propose a new scenario to resolve both age problems. In our scenario the ONC's most massive star, $θ^1$~Ori~C1, formed from the merger between two binary stars induced by vZLK oscillations due to the present-day binary companion $θ^1$~Ori~C2. This merger, happening between the last episode of star formation and today, resulted in an increased luminosity, leading to stronger external photoevaporation and accelerated expansion of the shell. {We use Monte Carlo simulations to explore both whether a sudden brightening of $θ^1$~Ori~C1 could reconcile the stellar ages and shell expansion, and whether triple progenitors to $θ^1$~Ori~C\\, could result in stellar mergers on the relevant timescale. A sudden brightening of $θ^1$~Ori~C1 a few hundred thousand years ago can reproduce today's shell while maintaining a system age close to the stellar age. However, the required increase in stellar wind luminosity is greater than a simple merger can explain. At lower luminosity, the mixing of a relatively greater amount of cool photoevaporative wind material into the hot bubble could result in the required increase, and we identify a lower limit on the required strength of this effect. Additionally, we find that progenitor triples merge readily, on timescales even shorter than the scenario would require. These mergers could be deferred by increased pre-main sequence tidal effects, rotation, and perturbing encounters with other cluster members. Our proposed scenario with a merger driven by von Zeipel-Lidov-Kozai evolution solves two problems; the Orion Nebula's proplyd problem and the shell lifetime problems.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-29T21:09:46Z",
-      "arxiv:comment": "Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Maite Wilhelm"
-        },
-        {
-          "name": "Alessandro Alberto Trani"
-        },
-        {
-          "name": "Simon Portegies Zwart"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.35945v1",
@@ -378,7 +352,7 @@
         }
       ],
       "arxiv:doi": "10.18038/estubtda.1847213",
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -671,7 +645,7 @@
           "name": "Gabriel Szász"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -835,7 +809,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
