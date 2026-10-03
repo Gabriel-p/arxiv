@@ -1,70 +1,6 @@
 {
-  "fetched_at": "2026-10-02T17:38:51.936071",
+  "fetched_at": "2026-10-03T04:30:19.762788",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2610.00481v1",
-      "title": "The star formation history of Orion is structured and episodic",
-      "updated": "2026-09-30T18:00:12Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.00481v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.00481v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The propagation of star formation throughout a molecular cloud complex can tell us much about its physical drivers and the importance of environmental versus intrinsic processes. We reconstruct the star formation history (SFH) of the Orion star-forming complex using the highest-resolution age map currently available. It comprises 47 co-spatial and co-moving groups identified by the SigMA clustering algorithm, with homogeneously derived ages and group memberships. We find four periods of increased star formation, separated by ~5 Myr each. The two periods of highest increase, at 6.4 and 11.3 Myr, can be statistically localized, together hold ca. 59% of all stars, and are robust against resampling and changes to the age fitting. The two older, smaller increases at 16.2 and 21.4 Myr can be identified in the age distribution, but cannot be shown to be robust at this point. The ~5 Myr spacing between the episodes of increased star formation is the same as found for the nearby Scorpius-Centaurus (Sco-Cen) star-forming region. We find no methodological bias that could produce the SFH structure. We identify spatio-temporally connected structures, including three cluster-chain candidates. We conclude that star formation in Orion seems to occur on the same timescales but with a different pattern than in Sco-Cen. The cause of the ~5 Myr separations remains a mystery, and its detection in two distinct star-forming regions needs further investigation.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-30T18:00:12Z",
-      "arxiv:comment": "4 pages, 9 figures, 5 pages appendix. Submitted to A&A Letters. Comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Alena Rottensteiner"
-        },
-        {
-          "name": "João Alves"
-        },
-        {
-          "name": "Stefan Meingast"
-        },
-        {
-          "name": "Sebastian Hutschenreuter"
-        },
-        {
-          "name": "Núria Miret-Roig"
-        },
-        {
-          "name": "Josefa Großschedl"
-        },
-        {
-          "name": "Cameren Swiggum"
-        },
-        {
-          "name": "Sebastian Ratzenböck"
-        },
-        {
-          "name": "Monika G. Petr-Gotzens"
-        }
-      ],
-      "score": 0.1
-    },
     {
       "id": "http://arxiv.org/abs/2609.39925v1",
       "title": "High-Priority Compact-Object Candidates in Young Clusters from the \\textit{Gaia} DR3 Non-Single-Star Catalog",
@@ -352,7 +288,7 @@
         }
       ],
       "arxiv:doi": "10.18038/estubtda.1847213",
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -538,7 +474,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 54.6
+      "score": 54.1
     },
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
@@ -645,7 +581,7 @@
           "name": "Gabriel Szász"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -809,7 +745,7 @@
           "name": "Aaron M. Geller"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -965,7 +901,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 38.0
+      "score": 37.5
     },
     {
       "id": "http://arxiv.org/abs/2609.15211v1",
@@ -1075,7 +1011,7 @@
           "name": "Cameren Swiggum"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     }
   ]
 }
