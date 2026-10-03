@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T04:30:19.762788",
+  "fetched_at": "2026-10-03T15:56:53.749989",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.39925v1",
@@ -66,7 +66,7 @@
         }
       ],
       "arxiv:doi": "10.3847/2041-8213/aea3eb",
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.35945v1",
@@ -242,7 +242,7 @@
           "name": "P. Sanhueza"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31925v1",
@@ -532,7 +532,7 @@
           "name": "Wouter H. T. Vlemmings"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.28753v1",
@@ -788,7 +788,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 11.3
+      "score": 10.8
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -825,7 +825,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 50.5
+      "score": 50.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -950,7 +950,7 @@
           "name": "S. R. Berlanas"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.09122v1",
