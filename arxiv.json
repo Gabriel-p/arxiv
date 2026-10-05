@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T16:39:03.720806",
+  "fetched_at": "2026-10-05T04:47:52.941852",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2609.39925v1",
@@ -190,7 +190,7 @@
           "name": "A. Zanella"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.31925v1",
@@ -236,7 +236,7 @@
         }
       ],
       "arxiv:doi": "10.18038/estubtda.1847213",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -422,7 +422,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 53.6
+      "score": 53.1
     },
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
@@ -481,55 +481,6 @@
         }
       ],
       "score": 3.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.28753v1",
-      "title": "Cluster Membership Probabilities: A Review of Methods and Gaia Applications",
-      "updated": "2026-09-23T19:52:34Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.28753v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.28753v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Reliable stellar-cluster membership is essential for deriving cluster ages, distances, reddenings, metallicities, mass functions, dynamical parameters, and Galactic-structure tracers. The Gaia era has produced a proliferation of membership and cluster-detection methods, but the resulting catalogues are not interchangeable. We review the historical development of membership assignment, compare the statistical assumptions of major methods, and explicitly examine the practical consequences of methodological choices on real Gaia data. We consider spatial, proper-motion, maximum-likelihood, photometric, UPMASK, density-based, machine-learning, Bayesian, and bootstrap membership approaches. We add three case studies: a direct comparison of \\citet{CantatGaudinAnders2020}, \\citet{HuntReffert2023}, and \\citet{Perren2023} for common clusters; a Pleiades astrometric comparison; and a critical examination of low-trust candidates in the Unified Cluster Catalogue (UCC), including CWNU, CWWDL, and CKCWDM objects. The literature shows that disagreement is not simply a consequence of Gaia measurement errors. Different definitions of a cluster, different magnitude limits, different treatment of uncertainties, different spatial priors, and different tolerances for extended or low-density populations can lead to substantially different member lists. \\citet{Perren2023} reported an average member-list overlap of roughly 75--80\\% with \\citet{CantatGaudinAnders2020} and 70--75\\% with \\citet{HuntReffert2023} at bright magnitudes, with the HUNT23 overlap decreasing to about 35\\% at $G=20$. The UCC also flags many newly reported candidates as low-trust objects when their member distribution is sparse, their literature support is weak, or they have strong duplicate/non-cluster indicators.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-23T19:52:34Z",
-      "arxiv:comment": "10 pages; 5 figure; 5 tables; submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Tahereh Ramezani"
-        },
-        {
-          "name": "Johana Balciráková"
-        },
-        {
-          "name": "Prapti Mondal"
-        },
-        {
-          "name": "Katerina Neumannova"
-        },
-        {
-          "name": "Ernst Paunzen"
-        },
-        {
-          "name": "Gabriel Szász"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -647,53 +598,6 @@
         }
       ],
       "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.22516v1",
-      "title": "An Open Cluster Origin for Most Solar-Type Binaries in the Solar Neighborhood and Implications for Primordial Planet Stability",
-      "updated": "2026-09-18T19:23:38Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.22516v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.22516v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the first Gaia-calibrated estimate of the contribution of dynamically processed open clusters (OCs) to the nearby solar-type field binary population and investigate the implications for primordial planet stability. We combine Gaia DR3 observations, empirical models of cluster formation and dissolution, and direct N-body simulations to constrain the fraction of field FGK-type binaries within 1 kpc that originated in OCs over the past 5 Gyr. We find that at least ~53% of solar-type field binaries formed in OCs with initial masses > 200 M_Sun, where dynamical processing becomes significant. We quantify the effects of stellar encounters and binary orbital evolution on the stability of both circumbinary and circumstellar planets by deriving empirical prescriptions for circumbinary planet destabilization as a function of binary separation and for the fractional reduction of stable circumstellar coplanar phase space. These results provide a framework for evaluating how OC dynamical evolution may influence the stability of planets in binary systems and therefore contribute to observed exoplanet demographics.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.EP",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-18T19:23:38Z",
-      "arxiv:comment": "7 pages, 3 figures, accepted for publication in ApJL",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Anna C. Childs"
-        },
-        {
-          "name": "Aaron M. Geller"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -849,68 +753,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 37.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.09122v1",
-      "title": "The fading hierarchy of Galactic open clusters",
-      "updated": "2026-09-08T17:48:47Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.09122v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.09122v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Galactic open clusters provide a record of both hierarchical star formation and the subsequent dynamical evolution of the Milky Way disk. We use the two-point correlation function to characterize the spatial and kinematic clustering of open clusters in the solar neighborhood, considering their three-dimensional (3D) distributions and their projections onto the Galactic plane, as well as subsamples divided by age, mass, and survey volume. We quantify the clustering through fractal dimensions and characteristic correlation scales. We find that the youngest clusters have fractal dimensions comparable to those measured in the interstellar medium, suggesting that they retain part of the hierarchical structure of their natal molecular clouds. The clustering strength then decreases systematically with age and becomes weak on a characteristic timescale of order 100 Myr. This evolution is scale dependent: the excess correlation at tens of parsecs fades more rapidly than the weaker correlation at hundreds of parsecs. By contrast, we find only a weak dependence of the clustering properties on cluster mass and volume. Using the same cluster sample, we derive an empirical mapping between projected and 3D fractal dimensions, providing an observational calibration for comparing the Milky Way with studies of external galaxies, where only projected measurements are available. The open-cluster population exhibits characteristic spatial and kinematic clustering scales of approximately 370 pc and 11 km/s, respectively. These results support a picture in which young open clusters inherit a spatial hierarchy from star formation and progressively lose their spatial correlations through subsequent evolution.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-08T17:48:47Z",
-      "arxiv:comment": "Submitted to A&A. Comments are welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Guimei Liu"
-        },
-        {
-          "name": "João Alves"
-        },
-        {
-          "name": "Yu Zhang"
-        },
-        {
-          "name": "Emily L. Hunt"
-        },
-        {
-          "name": "Ruqiu Lin"
-        },
-        {
-          "name": "Josefa E. Großschedl"
-        },
-        {
-          "name": "Efrem Maconi"
-        },
-        {
-          "name": "Nora Wagner"
-        },
-        {
-          "name": "Lilly Kormann"
-        },
-        {
-          "name": "Cameren Swiggum"
-        }
-      ],
-      "score": 1.8
+      "score": 36.5
     }
   ]
 }
