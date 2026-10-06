@@ -1,6 +1,43 @@
 {
-  "fetched_at": "2026-10-05T04:47:52.941852",
+  "fetched_at": "2026-10-06T05:34:50.468536",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.05192v1",
+      "title": "Spatio-temporal progression of star formation in the Carina OB1 association",
+      "updated": "2026-10-04T13:05:03Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.05192v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.05192v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The Carina OB1 association, harboring the famous Carina Nebula near its center, is the most massive, well-studied OB association in our Galaxy. Containing several massive star clusters with different ages, it shows a complex spatio-temporal structure. We explore the formation history and kinematic evolution of the eight most massive clusters in Car OB1. We determine the cluster ages, stellar populations, the initial massive star content, and the number of supernova explosions since the time of each cluster's formation. Using Gaia DR3 astrometry, we determine the 3D configuration of the association and perform a traceback analysis of the cluster positions over the last 13 Myr. The traceback analysis places the birth location of the oldest (13 Myr) cluster, NGC 3293, in the Carina spiral arm. Approximately four Myr later, a series of 11 supernova explosions started in NGC 3293. We construct a possible scenario in which the expanding bubble driven by these supernova explosions interacted with the southern part of the original cloud complex and led to the sequential formation of the younger clusters in the central Carina Nebula. Our scenario suggests that the sequence of 16+/-4 supernova explosions in the association during the last 10 Myr played an important role in creating the massive clusters in Car OB1. However, the supernova feedback does not dominate the large-scale expansion of the association; the general expansion rather seems to reflect the initial kinematics of the original unbound cloud complex.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-10-04T13:05:03Z",
+      "arxiv:comment": "16 pages, 10 figures, accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "C. Göppl"
+        },
+        {
+          "name": "T. Preibisch"
+        }
+      ],
+      "score": 1.3
+    },
     {
       "id": "http://arxiv.org/abs/2609.39925v1",
       "title": "High-Priority Compact-Object Candidates in Young Clusters from the \\textit{Gaia} DR3 Non-Single-Star Catalog",
@@ -66,7 +103,7 @@
         }
       ],
       "arxiv:doi": "10.3847/2041-8213/aea3eb",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.35945v1",
@@ -190,52 +227,6 @@
           "name": "A. Zanella"
         }
       ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.31925v1",
-      "title": "Dynamical Evolution of The Open Clusters Collinder 110 and NGC 2477",
-      "updated": "2026-09-25T19:18:37Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.31925v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.31925v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.18038/estubtda.1847213",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Using Gaia DR3 photometric and astrometric data, we identified the likely members of the open clusters Collinder 110 and NGC 2477, and derived their astrophysical and dynamical parameters. We obtained reddening values of $E(B-V) = 0.43 \\pm 0.05$ and $0.33 \\pm 0.04$, and ages of $1.82 \\pm 0.10$ Gyr and $1.05 \\pm 0.10$ Gyr for Collinder 110 and NGC 2477, respectively. Within the uncertainties, the distances derived from the color-magnitude diagrams ($2.09 \\pm 0.06$ and $1.38 \\pm 0.04$ kpc) are consistent with those obtained from Gaia DR3 parallaxes ($2.08 \\pm 0.31$ and $1.45 \\pm 0.11$ kpc). Both clusters exhibit large core and limiting radii. The core radius ($R_c$) of Collinder 110 does not follow the expected decreasing trend with increasing evolutionary parameter ($\\logτ_2$). In addition to losing part of its low-mass stellar content, its relatively large $R_c$ may reflect primordial conditions and/or the presence of a possible stellar-mass black hole. The relatively large $R_c/R_h$ ratios, together with their advanced dynamical evolution ($\\logτ_2 = 1.24$ and $1.34$), indicate that significant two-body relaxation and mass segregation have occurred within their central regions. The small values of $R_h/R_j$ ($0.32$ and $0.16$) suggest that low-mass stars have dynamically redistributed within the comparatively large Jacobi radii under the combined influence of internal and external processes. However, their large $R_t/R_j$ ratios ($1.60$ and $1.23$) imply that both clusters are tidally affected and have likely lost part of their low-mass stellar populations to the Galactic field. Despite these effects, their locations in the third Galactic quadrant, where giant molecular clouds are relatively scarce, may explain their survival to their present ages of $1.82$ and $1.05$ Gyr, respectively.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-25T19:18:37Z",
-      "arxiv:comment": "14 Figures, 6 Tables, Published in ESKİŞEHİR TECHNICAL UNIVERSITY JOURNAL OF SCIENCE AND TECHNOLOGY",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Zahra Al"
-        },
-        {
-          "name": "Yüksel Karataş"
-        },
-        {
-          "name": "Forough Rajaei"
-        }
-      ],
-      "arxiv:doi": "10.18038/estubtda.1847213",
       "score": 0.5
     },
     {
@@ -422,7 +413,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 53.1
+      "score": 52.6
     },
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
@@ -480,7 +471,7 @@
           "name": "Wouter H. T. Vlemmings"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -512,7 +503,7 @@
       "author": {
         "name": "Andrés E. Piatti"
       },
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
@@ -597,7 +588,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -640,7 +631,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -677,7 +668,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 49.5
+      "score": 49.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -753,7 +744,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 36.5
+      "score": 36.0
     }
   ]
 }
