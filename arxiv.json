@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T05:04:49.842493",
+  "fetched_at": "2026-10-07T18:39:26.615598",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.07487v1",
@@ -98,74 +98,7 @@
           "name": "T. Preibisch"
         }
       ],
-      "score": 0.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.39925v1",
-      "title": "High-Priority Compact-Object Candidates in Young Clusters from the \\textit{Gaia} DR3 Non-Single-Star Catalog",
-      "updated": "2026-09-30T15:12:33Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.39925v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.39925v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.3847/2041-8213/aea3eb",
-          "@title": "doi"
-        }
-      ],
-      "summary": "The search for massive compact objects such as black holes (BHs) or neutron stars (NSs) in star clusters is longstanding challenge in astrophysics, yet no definitive identification of such compact objects in young clusters has been reported. In this Letter, we construct a sample of high-priority candidates for follow-up investigation. By cross-matching the cluster catalog with the Gaia Non-Single-Star database and estimating companion masses, we identify 13 systems with companion masses exceeding 1.4~$M_{\\odot}$, three of which have masses above 2.1~$M_{\\odot}$. Applying our newly developed Astrometric Mass-Ratio Function (AMRF) classification based on cluster-specific isochrones, we identify three systems whose companions cannot readily be explained by a single main-sequence star or an unresolved close binary. These systems have inferred companion masses exceeding 2.1~$M_{\\odot}$, suggesting that they may be high-mass compact-object candidates. Joint Gaia and radial velocity orbit fitting for a comparison subset yields companion masses broadly consistent with the astrometric estimates, supporting the use of our framework for target prioritization. These unconfirmed systems are valuable targets for multi-epoch spectroscopy, high-resolution imaging, and future Gaia epoch astrometry.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-30T15:12:33Z",
-      "arxiv:comment": "16 pages, 7 figures. Published in ApJL",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Dejian Liu"
-        },
-        {
-          "name": "Kangteng Chang"
-        },
-        {
-          "name": "Yao Huang"
-        },
-        {
-          "name": "Yingjie Li"
-        },
-        {
-          "name": "Xianjin Shen"
-        },
-        {
-          "name": "Zehao Lin"
-        },
-        {
-          "name": "Jingjing Li"
-        },
-        {
-          "name": "Zhenyu Wu"
-        },
-        {
-          "name": "Jianrong Shi"
-        },
-        {
-          "name": "Ye Xu"
-        }
-      ],
-      "arxiv:doi": "10.3847/2041-8213/aea3eb",
-      "score": 0.5
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -351,7 +284,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 52.1
+      "score": 51.6
     },
     {
       "id": "http://arxiv.org/abs/2609.31362v1",
@@ -409,7 +342,7 @@
           "name": "Wouter H. T. Vlemmings"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -441,7 +374,7 @@
       "author": {
         "name": "Andrés E. Piatti"
       },
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.24811v1",
@@ -526,7 +459,7 @@
           "name": "Sasi Saroon"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -569,7 +502,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 9.3
+      "score": 8.8
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -606,7 +539,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 48.5
+      "score": 48.0
     },
     {
       "id": "http://arxiv.org/abs/2609.17673v1",
@@ -682,7 +615,7 @@
           "name": "Zihao Zuo"
         }
       ],
-      "score": 35.5
+      "score": 35.0
     }
   ]
 }
