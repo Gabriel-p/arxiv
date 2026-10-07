@@ -1,6 +1,68 @@
 {
-  "fetched_at": "2026-10-06T18:06:16.349264",
+  "fetched_at": "2026-10-07T05:04:49.842493",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.07487v1",
+      "title": "Barium and europium abundances from the Gaia-ESO Survey using The Cannon",
+      "updated": "2026-10-05T22:50:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.07487v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.07487v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        },
+        {
+          "@rel": "related",
+          "@href": "https://doi.org/10.1051/0004-6361/202660092",
+          "@title": "doi"
+        }
+      ],
+      "summary": "Neutron-capture element abundances encode the time-dependent interplay between slow (s-) and rapid (r-) nucleosynthetic processes and provide critical constraints on Galactic chemical evolution. In particular, barium and europium provide important tracers of s-process and r-process nucleosynthetic enrichment, respectively. Large spectroscopic surveys enable robust statistical studies of these elements; however, determining reliable elemental abundances at intermediate spectral resolution remains challenging. Our aim was to derive homogeneous and statistically well-characterised stellar parameters and chemical abundances of Ba and Eu (hereafter collectively referred to as stellar labels) for the Gaia-ESO Survey HR15N dataset. We applied The Cannon to 36,263 FLAMES/GIRAFFE HR15N spectra (R~19,200), using a model trained on 782 stars with high-quality reference stellar labels drawn from the Gaia-ESO DR5 homogenised catalogue. The model infers Teff, log g, [Fe/H], v sin i, A(Ba), and A(Eu); its reliability was quantified through multi-dimensional quality flags and detection strength of the Ba and Eu features. Our final catalogue contains stellar parameters for 36,263 spectra, with ~21,000 and ~400 reliable Ba and Eu abundances, respectively, satisfying multiple flagging criteria. We obtained median uncertainties of ~38 K in Teff, ~0.08 dex in log g, ~0.04 dex in [Fe/H], ~0.06 dex in A(Ba), and ~0.02 dex in A(Eu). External validation against the Gaia Benchmark Stars, GALAH DR4, and multiple open clusters shows good agreement across independent reference datasets. The resulting catalogue includes newly determined Ba and Eu abundances that complement those available from previous analyses, thereby enabling investigations of neutron-capture enrichment patterns in open clusters. The model framework can readily be adapted to upcoming wide-field spectroscopic surveys such as 4MOST, WEAVE, and WST.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-05T22:50:19Z",
+      "arxiv:comment": "Published in A&A; 17 pages, 10 figures, 6 tables. The final catalogue is available via the VizieR catalogue service at https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/713/A148",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "arxiv:journal_ref": "Astronomy & Astrophysics, 713, A148 (2026)",
+      "author": [
+        {
+          "name": "Pradosh Barun Das"
+        },
+        {
+          "name": "Francesca Primas"
+        },
+        {
+          "name": "Gayandhi De Silva"
+        },
+        {
+          "name": "Guillaume Guiglion"
+        },
+        {
+          "name": "Daniel B. Zucker"
+        },
+        {
+          "name": "Melissa Ness"
+        }
+      ],
+      "arxiv:doi": "10.1051/0004-6361/202660092",
+      "score": 3.5
+    },
     {
       "id": "http://arxiv.org/abs/2610.05192v1",
       "title": "Spatio-temporal progression of star formation in the Carina OB1 association",
