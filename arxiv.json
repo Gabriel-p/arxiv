@@ -1,6 +1,60 @@
 {
-  "fetched_at": "2026-10-07T18:39:26.615598",
+  "fetched_at": "2026-10-08T05:15:28.587382",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.09979v1",
+      "title": "On the origin of the short-period Blue Straggler Stars in Collinder 261: a binary evolution approach",
+      "updated": "2026-10-07T12:46:18Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.09979v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.09979v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Building on the recent publication of a fresh catalog of blue straggler stars in Galactic open clusters using Gaia DR3, we conduct a study focusing on the blue straggler stars with short-period photometric variability found in the open cluster Collinder 261: nine eclipsing or ellipsoidal binaries and five SX Phe pulsator candidates. Our investigation delves into the potential of mass transfer in binary systems to account for the presence and properties of these stars. We first measure their photometric periods and classify the variables into eclipsing/ellipsoidal binaries, SX Phe pulsator candidates, and instrumental aliases or blends. Subsequently, we perform a set of simulations based on comprehensive calculations of the structure of both stars within the binary system, as well as their orbital evolution and mass transfer rates. To compare with observations, we solved the atmospheric structure of each stellar component and computed filter-weighted integrated fluxes in the Gaia DR3 passbands, obtaining a combined evolutionary sequence that accounts for the unresolved flux of both stars as seen photometrically. Our investigation includes the study of several parameters, such as the initial mass of both stars, the initial orbital period, and the efficiency of mass transfer. The aim is to identify potential progenitor candidates matching color-magnitude diagram observations at the same age as that determined for Collinder 261. We find that binary evolution serves as a viable mechanism for producing these eclipsing blue stragglers and that the efficiency of mass transfer plays a key role in accurately matching the fainter objects.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-07T12:46:18Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "M. Echeveste"
+        },
+        {
+          "name": "M. J. Rain"
+        },
+        {
+          "name": "G. Carraro"
+        },
+        {
+          "name": "O. G. Benvenuto"
+        },
+        {
+          "name": "J. A. Panei"
+        },
+        {
+          "name": "M. A. De Vito"
+        }
+      ],
+      "score": 4.0
+    },
     {
       "id": "http://arxiv.org/abs/2610.07487v1",
       "title": "Barium and europium abundances from the Gaia-ESO Survey using The Cannon",
@@ -61,7 +115,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660092",
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2610.05192v1",
