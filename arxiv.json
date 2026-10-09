@@ -1,6 +1,247 @@
 {
-  "fetched_at": "2026-10-08T18:38:00.858899",
+  "fetched_at": "2026-10-09T05:18:24.898946",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.12398v1",
+      "title": "ACORN I. Massive Black Hole Seeding and Tidal Disruption Events from Star Clusters in Cosmological Simulations",
+      "updated": "2026-10-08T17:41:37Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.12398v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.12398v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "JWST has revealed massive star clusters at $z\\gtrsim 6$, which provide promising environments for massive black hole (MBH) seed formation. We introduce a new MBH seeding model for cosmological simulations, physically motivated by the runaway collisions in star clusters. Subgrid star clusters are generated according to the local ISM and evolved through stellar evolution and two-body relaxation. The masses of MBH seeds formed through runaway collisions are determined by the properties of their host clusters, including the effects of metallicity-dependent stellar winds. We further follow tidal disruption events (TDEs) with the evolving clusters, which can be enhanced in MBH binaries, and account for gravitational-wave (GW) recoil following MBH mergers. We implement this model in a constrained simulation of a 5$σ$ overdense region, where seeds of $10^{3}-10^{5.6}\\,M_\\odot$ form in clusters with $10^{4}\\leq m_{\\rm SC}\\leq 10^{8}\\,M_\\odot$. Because both the seed abundance and mass are directly connected to the local environment, we have a more physical $M_{\\rm BH}\\!-\\!M_{\\rm galaxy}$ scaling for low-mass galaxies ($M_{\\rm galaxy}\\sim10^{6-9}\\,M_\\odot$), a regime poorly described by previous seeding models. Multiple MBHs are naturally allowed to form in-situ within individual halos, producing a spatially clustered population. This increases the MBH merger rate by $\\sim100$ relative to other seeding models, significantly enhancing the expected LISA event rate. TDEs can dominate the growth of $10^{3-4}\\,M_\\odot$ MBHs and produce luminous flares of $L_{\\rm peak}\\sim 10^{42-43}\\,{\\rm erg\\,s^{-1}}$, increasing the observability of low-mass seeds. This seeding prescription accelerates early MBH growth at $z\\gtrsim 8$, while subsequent self-regulated gas accretion drives the central MBH toward similar masses $\\sim10^{8.6}\\, M_\\odot$ by $z=6$ across different seeding models.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-08T17:41:37Z",
+      "arxiv:comment": "32 pages, 24 figures. Comments are welcome!",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yihao Zhou"
+        },
+        {
+          "name": "Tiziana Di Matteo"
+        },
+        {
+          "name": "Claire E. Williams"
+        },
+        {
+          "name": "Aklant Kumar Bhowmick"
+        },
+        {
+          "name": "Marta Reina-Campos"
+        },
+        {
+          "name": "Carl L. Rodriguez"
+        },
+        {
+          "name": "Elena González Prieto"
+        },
+        {
+          "name": "Laura Blecha"
+        },
+        {
+          "name": "Rupert Croft"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.12117v1",
+      "title": "EWOCS-XI: Anisotropic expansion and shear in the cluster Westerlund 1. A 2D kinematic analysis with Gaia DR3",
+      "updated": "2026-10-08T15:12:40Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.12117v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.12117v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Westerlund 1 (Wd1) is one of the Milky Way's most massive young clusters, in which heavy extinction and field contamination have historically hampered its kinematic characterization. We aim to assess Wd1's internal kinematics, dynamical state, and formation scenario. Using a robust 5D clustering approach, we identified 559 bona fide members. We modeled their proper motions via a 2D first-order Taylor expansion to derive the velocity gradient tensor, mapping expansion, rotation, and shear. Restricting the kinematic analysis to 524 stars with proper motion uncertainties $<0.5~\\mathrm{mas\\,yr^{-1}}$, we find at least 103 gravitationally unbound members, including 14 walkaway stars. The 2D analysis reveals a statistically significant divergence (>4$σ$) highlighting preferred expansion along the Galactic latitude (position angle $164^\\circ\\pm10.1^\\circ$). A detected cross-gradient ($\\partial v_b / \\partial l = -0.41 \\pm 0.08$ km s$^{-1}$ pc$^{-1}$) provides a clear signature of shear on the plane of the sky. Wd1 does not behave as a single cohesive population, but comprises two decoupled subsystems: a stable, bound core in dynamical equilibrium and an escaping, unbound envelope. This prominent anisotropic expansion perpendicular to the Galactic plane has a kinematic timescale ($Δt_{\\mathrm{kin}} = 2.08 \\pm 0.44$ Myr) matching the independent orbital mid-plane crossing time ($Δt_{\\mathrm{orbit}} = 2.10 \\pm 0.05$ Myr). This temporal alignment indicates the expansion onset coincided with Wd1's Galactic disk passage, triggered either by internal dynamics (e.g., early supernova feedback) or external tidal perturbations. Finally, the robust unbound population demonstrates that active cluster dissolution is underway, driven by discrete dynamical ejection events rather than long-term stellar evaporation.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-08T15:12:40Z",
+      "arxiv:comment": "19 pages, 13 figures, Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "L. Prisinzano"
+        },
+        {
+          "name": "F. Damiani"
+        },
+        {
+          "name": "C. Ordenes-Huanca"
+        },
+        {
+          "name": "M. Tarantino"
+        },
+        {
+          "name": "S. Sciortino"
+        },
+        {
+          "name": "N. J. Wright"
+        },
+        {
+          "name": "V. Almendros-Abad"
+        },
+        {
+          "name": "M. Andersen"
+        },
+        {
+          "name": "A. Bayo"
+        },
+        {
+          "name": "R. Bonito"
+        },
+        {
+          "name": "V. Cusimano"
+        },
+        {
+          "name": "M. Haberle"
+        },
+        {
+          "name": "K. Mužic"
+        },
+        {
+          "name": "I. Negueruela"
+        },
+        {
+          "name": "E. Sabbi"
+        },
+        {
+          "name": "A. Winter"
+        },
+        {
+          "name": "M. G. Guarcello"
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.10699v1",
+      "title": "Atypical White Dwarfs in Open Clusters",
+      "updated": "2026-10-07T18:00:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.10699v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.10699v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are powerful laboratories for investigating the formation and evolution of white dwarfs (WDs), as their well-constrained ages link WDs to their progenitor stars. This is particularly valuable for atypical WDs, including magnetic WDs and those with non-hydrogen-dominated spectra, whose origins can be difficult to disentangle in the field. We assemble the largest sample to date of atypical WDs in open clusters: eight non-magnetic WDs with helium-dominated spectra, five with featureless spectra, and five magnetic WDs showing hydrogen or helium lines. We find no significant difference between the initial--final mass relations of hydrogen- and helium-atmosphere WDs, nor robust spatial or kinematic differences. The strongest difference from the field is a deficit of non-DAs between $0.8$ and $1.0\\,\\mathrm{M}_\\odot$, where the field predicts $6.0^{+0.8}_{-0.7}$ WDs, yet none are observed, with a probability of only $0.37\\%$. Massive magnetic WDs show a similar deficit: only one of 20 cluster WDs with $M_{\\mathrm{WD}}\\geq1.0\\,\\mathrm{M}_\\odot$ and $T_{\\mathrm{eff}}\\geq20{,}000\\,{\\rm K}$ is magnetic, compared with 10 of 16 in the field. Together, these deficits are consistent with an additional field population of massive merger remnants, particularly high-mass magnetic WDs and warm/hot DQs. Such objects may be underrepresented in clusters because young systems provide limited time for certain classes of delayed mergers, while older clusters lose members or dissolve; the field accumulates binary evolution products over Galactic timescales. Magnetic cluster WDs consistent with single-star evolution further suggest mass-dependent magnetic-field emergence, with fields appearing early in some massive WDs while young lower-mass WDs remain consistent with delayed emergence.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-07T18:00:06Z",
+      "arxiv:comment": "25 pages, 17 figures, 4 tables. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "David R. Miller"
+        },
+        {
+          "name": "Ilaria Caiazzo"
+        },
+        {
+          "name": "Jeremy Heyl"
+        },
+        {
+          "name": "Pier-Emmanuel Tremblay"
+        }
+      ],
+      "score": 14.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.10683v1",
+      "title": "A Multi-dimensional Analysis of the Open Clusters NGC 2423 and NGC 2482 with Gaia DR3",
+      "updated": "2026-10-07T18:00:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.10683v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.10683v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a homogeneous photometric, astrometric, and kinematic study of the Hyades-like open clusters NGC 2423 and NGC 2482 based on Gaia DR3 data. Cluster memberships are determined using the UPMASK algorithm in the multi-dimensional parameter space of (alpha, delta, parallax, mu_alpha cos(delta), mu_delta), with radial velocities incorporated when available. Gaussian modelling of the astrometric distributions yields mean trigonometric parallaxes of 1.060 +/- 0.035 mas and 0.735 +/- 0.061 mas, corresponding to astrometric distances of 944 +/- 31 pc and 1361 +/- 113 pc for NGC 2423 and NGC 2482, respectively. Fundamental parameters are derived through PARSEC isochrone fitting, resulting in ages of 1250 +/- 100 Myr and 445 +/- 50 Myr, observed distance moduli (m-M)_obs = 9.90 +/- 0.10 and 10.80 +/- 0.20 mag, and reddening values E(G_BP-G_RP) = 0.07 +/- 0.01 and 0.10 +/- 0.02 mag, equivalent to E(B-V) = 0.054 and 0.078. The corresponding photometric distances are 892 +/- 50 pc and 1311 +/- 146 pc. We further investigate the internal and global kinematics of both clusters using velocity-ellipsoid parameters, the convergent-point method, and action-angular-momentum diagnostics. The derived kinematic properties show that NGC 2482 closely matches the velocity-space characteristics of the Hyades stream, while NGC 2423 shares the characteristic rotational velocity and angular momentum of the Hyades-like population but is offset in its U component. Both clusters occupy the angular-momentum range associated in the literature with Hyades-like clusters and bar-related resonances, although this association is based on their present-day kinematics and action-space locations rather than a direct dynamical demonstration of resonance trapping.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-10-07T18:00:02Z",
+      "arxiv:comment": "25 pages, including 15 figures and 7 tables, accepted for publication in the Journal of Astrophysics and Astronomy",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "W. H. Elsanhoury"
+        },
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "A. Ahmed"
+        }
+      ],
+      "score": 7.5
+    },
     {
       "id": "http://arxiv.org/abs/2610.09979v1",
       "title": "On the origin of the short-period Blue Straggler Stars in Collinder 261: a binary evolution approach",
@@ -115,7 +356,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660092",
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
