@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T05:06:37.704312",
+  "fetched_at": "2026-10-12T21:04:24.681124",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.12398v1",
@@ -63,95 +63,7 @@
           "name": "Rupert Croft"
         }
       ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.12117v1",
-      "title": "EWOCS-XI: Anisotropic expansion and shear in the cluster Westerlund 1. A 2D kinematic analysis with Gaia DR3",
-      "updated": "2026-10-08T15:12:40Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.12117v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.12117v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Westerlund 1 (Wd1) is one of the Milky Way's most massive young clusters, in which heavy extinction and field contamination have historically hampered its kinematic characterization. We aim to assess Wd1's internal kinematics, dynamical state, and formation scenario. Using a robust 5D clustering approach, we identified 559 bona fide members. We modeled their proper motions via a 2D first-order Taylor expansion to derive the velocity gradient tensor, mapping expansion, rotation, and shear. Restricting the kinematic analysis to 524 stars with proper motion uncertainties $<0.5~\\mathrm{mas\\,yr^{-1}}$, we find at least 103 gravitationally unbound members, including 14 walkaway stars. The 2D analysis reveals a statistically significant divergence (>4$σ$) highlighting preferred expansion along the Galactic latitude (position angle $164^\\circ\\pm10.1^\\circ$). A detected cross-gradient ($\\partial v_b / \\partial l = -0.41 \\pm 0.08$ km s$^{-1}$ pc$^{-1}$) provides a clear signature of shear on the plane of the sky. Wd1 does not behave as a single cohesive population, but comprises two decoupled subsystems: a stable, bound core in dynamical equilibrium and an escaping, unbound envelope. This prominent anisotropic expansion perpendicular to the Galactic plane has a kinematic timescale ($Δt_{\\mathrm{kin}} = 2.08 \\pm 0.44$ Myr) matching the independent orbital mid-plane crossing time ($Δt_{\\mathrm{orbit}} = 2.10 \\pm 0.05$ Myr). This temporal alignment indicates the expansion onset coincided with Wd1's Galactic disk passage, triggered either by internal dynamics (e.g., early supernova feedback) or external tidal perturbations. Finally, the robust unbound population demonstrates that active cluster dissolution is underway, driven by discrete dynamical ejection events rather than long-term stellar evaporation.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-08T15:12:40Z",
-      "arxiv:comment": "19 pages, 13 figures, Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "L. Prisinzano"
-        },
-        {
-          "name": "F. Damiani"
-        },
-        {
-          "name": "C. Ordenes-Huanca"
-        },
-        {
-          "name": "M. Tarantino"
-        },
-        {
-          "name": "S. Sciortino"
-        },
-        {
-          "name": "N. J. Wright"
-        },
-        {
-          "name": "V. Almendros-Abad"
-        },
-        {
-          "name": "M. Andersen"
-        },
-        {
-          "name": "A. Bayo"
-        },
-        {
-          "name": "R. Bonito"
-        },
-        {
-          "name": "V. Cusimano"
-        },
-        {
-          "name": "M. Haberle"
-        },
-        {
-          "name": "K. Mužic"
-        },
-        {
-          "name": "I. Negueruela"
-        },
-        {
-          "name": "E. Sabbi"
-        },
-        {
-          "name": "A. Winter"
-        },
-        {
-          "name": "M. G. Guarcello"
-        }
-      ],
-      "score": 0.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2610.10699v1",
@@ -200,7 +112,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 13.0
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -240,7 +152,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2610.09979v1",
@@ -294,7 +206,7 @@
           "name": "M. A. De Vito"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2610.07487v1",
@@ -542,39 +454,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 49.6
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.26626v1",
-      "title": "Misaligned tidal tails in open clusters: a signature of the local spiral arm resonance",
-      "updated": "2026-09-22T16:02:38Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.26626v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.26626v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Tidal tails of open clusters are traditionally expected to align with their orbital motion due to Galactic shear. However, recent observations suggest that a significant population of clusters exhibits misaligned tails, the origin of which remains poorly understood. I investigate the structural properties of tidal tails for a sample of 155 nearby open clusters within 1 kpc of the Sun to characterize the influence of non-axisymmetric Galactic perturbers on stellar stripping geometry.Using high-precision Gaia DR3 astrometry and the probabilistic membership, I trace the primary orientation and physical length of tidal tails. I distinguish between local and global perturbations by analyzing the spatial distribution of misalignment (DeltaPA) relative to the boundaries of the Local Arm and comparing results with recent test-particle simulations of barred and spiral potentials. I identify three distinct dynamical regimes. While the majority of the population is shear-aligned, a significant subset exhibits a spatially indifferent background misalignment (10deg < DeltaPA < 30deg) consistent with global Galactic bar torques. In contrast, a population of nascent tails (< 0.3 kpc) exhibits larger misalignments (DeltaPA > 40deg) with a unique spatial specificity, occurring exclusively within the inter-arm gaps (|d_arm| > 0.2 kpc). These significant misalignments could represent a transient dynamical phase occurring within the corotation resonance's zero-shear zone, where the radial gravitational forcing of the spiral potential dominates stellar exit trajectories by rotating the eigenvectors of the tidal tensor. This could identify nascent tidal tails as uniquely sensitive high-resolution tracers of the non-axisymmetric Galactic potential.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-22T16:02:38Z",
-      "arxiv:comment": "9 pages, 6 figures. Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": {
-        "name": "Andrés E. Piatti"
-      },
-      "score": 0.5
+      "score": 49.1
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -617,7 +497,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 6.8
+      "score": 6.3
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
@@ -654,7 +534,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 46.0
+      "score": 45.5
     }
   ]
 }
