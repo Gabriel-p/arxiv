@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T17:31:08.958396",
+  "fetched_at": "2026-10-12T05:06:37.704312",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.12398v1",
@@ -63,7 +63,7 @@
           "name": "Rupert Croft"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2610.12117v1",
@@ -200,7 +200,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 13.5
+      "score": 13.0
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -240,7 +240,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2610.09979v1",
@@ -356,7 +356,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660092",
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -542,7 +542,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 50.1
+      "score": 49.6
     },
     {
       "id": "http://arxiv.org/abs/2609.26626v1",
@@ -655,82 +655,6 @@
         }
       ],
       "score": 46.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.17673v1",
-      "title": "Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field",
-      "updated": "2026-09-15T18:00:10Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.17673v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.17673v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "In the first paper of the Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES), we present an ultradeep 2 Ms X-ray survey of the Abell 2744 field constructed from 101 archival Chandra ACIS-I observations. With an exposure comparable to the Chandra Deep Fields and further boosted by strong-lensing magnification from the Abell 2744 cluster at $z=0.3$, this field represents the third deepest extragalactic X-ray survey of the sky and also has rich synergy with extensive coverage by the Hubble Space Telescope and James Webb Space Telescope. We present the Chandra data reduction and detect sources in the soft (0.5-2 keV), hard (2-7 keV), and full (0.5-7 keV) bands over a total area of $369~\\mathrm{arcmin^2}$. We perform dedicated image fitting with Chandra point spread functions to optimize point-source detections and improve X-ray positions and further screen the detections to address the impact of the central bright, structured intracluster medium. A total of 327 X-ray point sources are detected and cataloged, including their X-ray photometry and basic spectral properties. Detailed simulations are also conducted, based on which the expected 50% flux completeness reaches $6.3\\times10^{-16}$, $2.8\\times10^{-16}$, and $4.9\\times10^{-16}~\\mathrm{erg~cm^{-2}~s^{-1}}$ in the full, soft, and hard bands, respectively. The source number density as a function of flux is consistent with those in blank-field surveys within a factor of $\\approx2$, with a slight excess above $\\approx10^{-14}~\\mathrm{erg~cm^{-2}~s^{-1}}$. All X-ray data products are publicly released, including the catalog, X-ray images, exposure maps, background maps, and sensitivity maps.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-15T18:00:10Z",
-      "arxiv:comment": "27 pages, 16 figures, 3 tables, submitted",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Shouyi Wang"
-        },
-        {
-          "name": "Fan Zou"
-        },
-        {
-          "name": "Elena Gallo"
-        },
-        {
-          "name": "Bin Luo"
-        },
-        {
-          "name": "W. N. Brandt"
-        },
-        {
-          "name": "Yuxuan Pang"
-        },
-        {
-          "name": "Tommaso Treu"
-        },
-        {
-          "name": "Xue-Bing Wu"
-        },
-        {
-          "name": "Dieu D. Nguyen"
-        },
-        {
-          "name": "Guido Roberts-Borsani"
-        },
-        {
-          "name": "Shengzhe Wang"
-        },
-        {
-          "name": "Weiwei Xu"
-        },
-        {
-          "name": "Zihao Zuo"
-        }
-      ],
-      "score": 33.5
     }
   ]
 }
