@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T21:04:24.681124",
+  "fetched_at": "2026-10-13T06:07:21.350842",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.12398v1",
@@ -268,7 +268,7 @@
         }
       ],
       "arxiv:doi": "10.1051/0004-6361/202660092",
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -534,7 +534,7 @@
           "name": "A. S. Rastorguev"
         }
       ],
-      "score": 45.5
+      "score": 45.0
     }
   ]
 }
