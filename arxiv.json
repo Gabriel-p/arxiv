@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T06:07:21.350842",
+  "fetched_at": "2026-10-13T19:02:54.238882",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.12398v1",
@@ -63,7 +63,7 @@
           "name": "Rupert Croft"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2610.10699v1",
@@ -112,7 +112,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 12.5
+      "score": 12.0
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -152,7 +152,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2610.09979v1",
@@ -206,7 +206,7 @@
           "name": "M. A. De Vito"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2610.07487v1",
@@ -454,7 +454,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 49.1
+      "score": 48.6
     },
     {
       "id": "http://arxiv.org/abs/2609.19847v1",
@@ -497,7 +497,7 @@
           "name": "Mohammed Saifuddin"
         }
       ],
-      "score": 6.3
+      "score": 5.8
     },
     {
       "id": "http://arxiv.org/abs/2609.19732v1",
