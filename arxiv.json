@@ -1,6 +1,107 @@
 {
-  "fetched_at": "2026-10-13T19:02:54.238882",
+  "fetched_at": "2026-10-14T16:48:42.337194",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.18644v1",
+      "title": "Anchoring the Chromospheric Activity$-$Rotation Relation: A Study of the Pleiades and Group X",
+      "updated": "2026-10-13T16:10:57Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.18644v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.18644v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a study of the rotation and the chromospheric H$α$ activity of low-mass stars in the $\\approx$120 Myr-old Pleiades and the $\\approx$400 Myr-old Group X open clusters. We combine published and new rotation periods ($P_\\mathrm{rot}$) from TESS and ZTF, and use LAMOST, SDSS, and MDM spectra to measure H$α$ equivalent widths (EWs). While overall the Group X distributions of $P_\\mathrm{rot}$ and EWs are as expected, detailed comparisons to the Pleiades and to the 700-Myr-old benchmark Praesepe produce some surprises. For F through mid K stars, the Group X color$-$period sequence lies between those of the Pleiades and of Praesepe, as expected. But the $P_\\mathrm{rot}$ for its late K and early M dwarfs and the Praesepe slow-rotator sequence overlap, indicating that the 700 Myr-old stars have not spun down significantly despite being nearly twice as old as their Group X counterparts. In the Rossby number$-L_\\mathrm{Hα}/L_\\mathrm{bol}$ plane, rapid rotators in Group X are saturated, as is seen in older clusters, whereas the rapid rotators in the Pleiades show a weak but measurable dependence of $L_\\mathrm{Hα}/L_\\mathrm{bol}$ on rotation. This implies that the chromospheric activity$-$rotation relation attains its mature form between 120 and 400 Myr. Dividing the sample by color reveals that K, M0, and M1 dwarfs are no longer saturated by $\\approx$120 Myr, M2 and M3 dwarfs become unsaturated between $\\approx$400 and $\\approx$700 Myr, and later M dwarfs remain largely saturated through field ages even as their saturated $L_\\mathrm{Hα}/L_\\mathrm{bol}$ levels decline, indicating that chromospheric evolution is not determined by rotation period alone.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-13T16:10:57Z",
+      "arxiv:comment": "Accepted for publication in the AAS Journals",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "A. Núñez"
+        },
+        {
+          "name": "M. A. Agüeros"
+        },
+        {
+          "name": "J. L. Curtis"
+        },
+        {
+          "name": "C. A. Ospinal Achicanoy"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.14166v1",
+      "title": "A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS",
+      "updated": "2026-10-09T18:00:00Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.14166v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.14166v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Gaia has substantially expanded the sample of candidate white dwarfs (WDs) in open clusters, but many remain without spectroscopic characterization. We leverage the increasingly extensive archives of large public spectroscopic surveys to identify 62 candidate cluster WDs with available spectra from DESI, LAMOST, and SDSS. After discarding sources with very low S/N and unreliable host clusters, 44 candidates remain, including 37 non-magnetic DA WDs, of which 15 had not previously been characterized in the literature for cluster studies. We find that nine are consistent with single-star origins in their proposed host clusters, increasing the combined cluster DA initial--final mass relation (IFMR) sample to 132 WDs. All lie within $2σ$ of the best-fit IFMR from the most comprehensive recent cluster WD sample, suggesting these additions do not require recalibrating the empirical IFMR. One is a likely Hyades tidal-tail WD, providing further evidence that dynamical dispersal helps explain the long-standing WD deficit in the nearest cluster. We further compare WDs with spectra from multiple surveys. Among seven Praesepe WDs observed by both DESI and SDSS, DESI gives higher WD masses in six cases, with a mean difference of $0.067\\,\\mathrm{M}_\\odot$, while the inferred progenitor masses differ by as much as $0.459\\,\\mathrm{M}_\\odot$. More broadly, nine of ten single-star cluster DAs with DESI spectra lie above the empirical IFMR, with a mean final-mass residual of $0.06\\pm0.04\\,\\mathrm{M}_\\odot$. These results show that survey-dependent differences can strongly affect cluster WD parameters, and should be considered when combining heterogeneous spectroscopy in empirical IFMR studies.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-09T18:00:00Z",
+      "arxiv:comment": "14 pages, 5 figures, 4 tables. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "David R. Miller"
+        },
+        {
+          "name": "Jeremy Heyl"
+        },
+        {
+          "name": "Huahui Yan"
+        },
+        {
+          "name": "Chengyuan Li"
+        },
+        {
+          "name": "Pier-Emmanuel Tremblay"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2610.12398v1",
       "title": "ACORN I. Massive Black Hole Seeding and Tidal Disruption Events from Star Clusters in Cosmological Simulations",
@@ -206,68 +307,6 @@
           "name": "M. A. De Vito"
         }
       ],
-      "score": 1.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.07487v1",
-      "title": "Barium and europium abundances from the Gaia-ESO Survey using The Cannon",
-      "updated": "2026-10-05T22:50:19Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.07487v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.07487v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        },
-        {
-          "@rel": "related",
-          "@href": "https://doi.org/10.1051/0004-6361/202660092",
-          "@title": "doi"
-        }
-      ],
-      "summary": "Neutron-capture element abundances encode the time-dependent interplay between slow (s-) and rapid (r-) nucleosynthetic processes and provide critical constraints on Galactic chemical evolution. In particular, barium and europium provide important tracers of s-process and r-process nucleosynthetic enrichment, respectively. Large spectroscopic surveys enable robust statistical studies of these elements; however, determining reliable elemental abundances at intermediate spectral resolution remains challenging. Our aim was to derive homogeneous and statistically well-characterised stellar parameters and chemical abundances of Ba and Eu (hereafter collectively referred to as stellar labels) for the Gaia-ESO Survey HR15N dataset. We applied The Cannon to 36,263 FLAMES/GIRAFFE HR15N spectra (R~19,200), using a model trained on 782 stars with high-quality reference stellar labels drawn from the Gaia-ESO DR5 homogenised catalogue. The model infers Teff, log g, [Fe/H], v sin i, A(Ba), and A(Eu); its reliability was quantified through multi-dimensional quality flags and detection strength of the Ba and Eu features. Our final catalogue contains stellar parameters for 36,263 spectra, with ~21,000 and ~400 reliable Ba and Eu abundances, respectively, satisfying multiple flagging criteria. We obtained median uncertainties of ~38 K in Teff, ~0.08 dex in log g, ~0.04 dex in [Fe/H], ~0.06 dex in A(Ba), and ~0.02 dex in A(Eu). External validation against the Gaia Benchmark Stars, GALAH DR4, and multiple open clusters shows good agreement across independent reference datasets. The resulting catalogue includes newly determined Ba and Eu abundances that complement those available from previous analyses, thereby enabling investigations of neutron-capture enrichment patterns in open clusters. The model framework can readily be adapted to upcoming wide-field spectroscopic surveys such as 4MOST, WEAVE, and WST.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-05T22:50:19Z",
-      "arxiv:comment": "Published in A&A; 17 pages, 10 figures, 6 tables. The final catalogue is available via the VizieR catalogue service at https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/713/A148",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "arxiv:journal_ref": "Astronomy & Astrophysics, 713, A148 (2026)",
-      "author": [
-        {
-          "name": "Pradosh Barun Das"
-        },
-        {
-          "name": "Francesca Primas"
-        },
-        {
-          "name": "Gayandhi De Silva"
-        },
-        {
-          "name": "Guillaume Guiglion"
-        },
-        {
-          "name": "Daniel B. Zucker"
-        },
-        {
-          "name": "Melissa Ness"
-        }
-      ],
-      "arxiv:doi": "10.1051/0004-6361/202660092",
       "score": 0.5
     },
     {
@@ -455,86 +494,6 @@
         }
       ],
       "score": 48.6
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.19847v1",
-      "title": "On the Constancy of Binary Star Fractions in Local Star Clusters",
-      "updated": "2026-09-17T07:59:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.19847v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.19847v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We investigate the unresolved binary-star fraction in a complete sample of 376 open clusters located within 1 kpc of the Sun using Gaia DR3 and ASteCA based synthetic colour magnitude diagram modelling. The binary fraction is a global photometric quantity, sensitive primarily to unresolved binaries that produce measurable broadening above the single-star main sequence. We find that the median binary fraction of the sample is nearly constant, $0.29\\pm 0.03$, with no clear dependence on cluster age, core radius, limiting radius or median mass. This apparent constancy suggests that the global binary content of nearby open clusters is regulated by competing dynamical processes, including disruption of soft binaries, survival and hardening of close binaries, mass segregation, evaporation of single stars, and long-term cluster dissolution. The result is consistent with theoretical expectations and previous observational studies indicating that cluster binary populations can evolve internally while maintaining a relatively stable global binary fraction. Our findings provide an observational constraint for models of open-cluster formation and dynamical evolution and highlight the need for future work combining photometric, astrometric, spectroscopic, and N-body approaches to distinguish between primordial and dynamically formed binary populations.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-09-17T07:59:46Z",
-      "arxiv:comment": "Accepted for publication in the Bulletin of the Royal Society of Sciences of Liege",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Priya Hasan"
-        },
-        {
-          "name": "Mohammed Saifuddin"
-        }
-      ],
-      "score": 5.8
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.19732v1",
-      "title": "Kinematics of the System of Young Open Clusters based on Gaia DR3 Data",
-      "updated": "2026-09-17T05:49:06Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.19732v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.19732v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We use a kinematical model including circular rotation of the Milky-Way disk incorporating effects produced by a spiral density wave with constant radial and vertical components of the velocity dispersion tensor and adopted solar Galactocentric distance R_0=8.277kpc (inferred by GRAVITY collaboration in 2022) to derive the velocity field parameters for a sample of 2384 open clusters from the Hunt and Reffert (2024) catalog having ages no greater than 100 Myr almost all of which reside at Galactoaxial distances between 5 and 14 kpc. We estimate the velocity-field parameters using maximum-likelyhood method and the affine-invariant variant of the Markov chain Monte-Carlo method proposed by Goodman and Weare (2010) with both methods yieilding almost identical parameter values. The inferred rotation curve, on the whole, is consistent with the results based on our kinematical analysis of a sample of Galactic masers. We find the linear rotation velocity at the solar distance to be V=242.3+/-1.1~km/s; it reaches its maximum V~244 km/s at Galactoaxial distance of about R_g~7 kpc followed by a slow and smooth decline with V~227 km/s at R_g=14 kpc. The inferred radial and vertical components of the velocity dispersion tensor are (sigma U_0, sigma W_0)~(10.63+/-0.15, 4.56+/-0.15) km/s. We find the pitch angle and the phase of the Sun for a four-armed spiral pattern to be i~-11.7+/-0.3 degrees and chi_0~138+/-5 degrees, respectively, and the amplitudes of radial and tangential perturbations, f_R=-3.0+/-0.4 and f_{theta}=-3.1+/-0.4 km/s, respectively.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-17T05:49:06Z",
-      "arxiv:comment": "11 pages, 6 figures, Accepted to Astrophysical Bulletin",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "A. K. Dambis"
-        },
-        {
-          "name": "A. S. Rastorguev"
-        }
-      ],
-      "score": 45.0
     }
   ]
 }
