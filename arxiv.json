@@ -1,6 +1,197 @@
 {
-  "fetched_at": "2026-10-15T16:34:37.422019",
+  "fetched_at": "2026-10-16T03:47:30.581956",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.21661v1",
+      "title": "Tracking the flow of interstellar gas across scales: from galaxies to star clusters",
+      "updated": "2026-10-15T10:44:52Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.21661v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.21661v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "While the baryon cycle of the interstellar medium - and its ability to form stars - plays a key role in galaxy evolution, unravelling the physical processes driving its evolution remains a critical challenge, given that present-day observing facilities are unable to map entire galactic ecosystems down to the scales of individual star-forming clumps. Here, we outline the technical requirements that would enable, for the first time, to connect the small (pc) scale physics of star formation, to the large (tens-of-kpc) scales of galaxies, enabling an effective tracking of the flows of matter and energy across a vast range of environments, and answering the long-standing question of what regulates star formation across cosmic time.",
+      "category": [
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-15T10:44:52Z",
+      "arxiv:comment": "Part of the ALMA2040 White Paper Series",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.IM"
+      },
+      "author": [
+        {
+          "name": "Ana Duarte-Cabral"
+        },
+        {
+          "name": "Maxime Valeille-Manet"
+        },
+        {
+          "name": "Mathilde Bouvier"
+        },
+        {
+          "name": "Miguel Querejeta"
+        },
+        {
+          "name": "Jan Forbrich"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Cecilia Bacchini"
+        },
+        {
+          "name": "Frédérique Motte"
+        },
+        {
+          "name": "Maria J. Jimenez-Donaire"
+        },
+        {
+          "name": "Bruce G. Elmegreen"
+        },
+        {
+          "name": "Dieu D. Nguyen"
+        },
+        {
+          "name": "Alessio Traficante"
+        },
+        {
+          "name": "Alvaro Hacar"
+        },
+        {
+          "name": "Nicolas Peretto"
+        },
+        {
+          "name": "Francesco Salvestrini"
+        },
+        {
+          "name": "Laura Colzi"
+        },
+        {
+          "name": "Thomas G. Williams"
+        },
+        {
+          "name": "Timothy A. Davis"
+        },
+        {
+          "name": "Tony Wong"
+        },
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "Eva Durán-Camacho"
+        },
+        {
+          "name": "Victor M. Rivilla"
+        },
+        {
+          "name": "Kate Pattle"
+        },
+        {
+          "name": "Sean T. Linden"
+        },
+        {
+          "name": "Rosita Paladino"
+        },
+        {
+          "name": "Ilaria Ruffa"
+        },
+        {
+          "name": "Shih-Ping Lai"
+        },
+        {
+          "name": "Elias Brinks"
+        },
+        {
+          "name": "Eva Schinnerer"
+        },
+        {
+          "name": "Drew Lapeer"
+        },
+        {
+          "name": "Theotokis Georgatos"
+        },
+        {
+          "name": "Miguel Pereira-Santaella"
+        },
+        {
+          "name": "Ivanna Langan"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.20819v1",
+      "title": "The optical colors of hidden spiral-like features in nine Virgo early--type dwarfs",
+      "updated": "2026-10-14T19:05:24Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.20819v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.20819v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Dwarf early-type galaxies (ETGs) are abundant in nearby clusters and provide a key laboratory for studying environmentally driven galaxy transformation. Although dwarf ETGs were once considered structurally simple, deep imaging has revealed embedded spiral-like features (e.g., bars and spiral arms) in some of them, contributing only a small fraction of the total light. Their origin at dwarf scales remains uncertain. As a pilot study, we investigate spiral-like features in nine Virgo dwarf ETGs with clear embedded arms, using optical colors to test whether these features differ from the surrounding diffuse component, which would constrain their formation pathways. Using deep g- and i-band NGVS images, we apply a residual-based method to separate excess light associated with the spiral-like component from the diffuse host. The residual images define arm and interarm regions, enabling direct measurements of light fractions and g-i colors for both components. The spiral-like features contribute only a few percent of the total light (about 1.5-5.5% in i and 1.7-3.7% in g). We find a diverse range of colors across the sample: four galaxies host spiral-like features redder than their interarm regions, four show no robust arm-interarm color difference, and one exhibits a distinctly bluer spiral-like component. The latter is consistent with a recently quenched transition object, while the redder and color-uniform features are consistent with older or more metal-rich stellar populations. Spiral-like features in Virgo dwarf ETGs thus exhibit a surprising diversity in their photometric properties, implying multiple evolutionary channels rather than a single one. This pilot analysis also demonstrates readiness for the much larger NGVS sample of dwarfs with potential spiral-like features.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-10-14T19:05:24Z",
+      "arxiv:comment": "Accepted for publication in Astronomy and Astrophysics",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Mauricio Gracia"
+        },
+        {
+          "name": "Rory Smith"
+        },
+        {
+          "name": "Anna Pasquali"
+        },
+        {
+          "name": "Laura Ferrarese"
+        },
+        {
+          "name": "Patrick Côté"
+        },
+        {
+          "name": "Hyowon Kim"
+        },
+        {
+          "name": "Paula Calderón-Castillo"
+        },
+        {
+          "name": "Kirsi Pohl"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2610.18644v1",
       "title": "Anchoring the Chromospheric Activity$-$Rotation Relation: A Study of the Pleiades and Group X",
@@ -51,58 +242,6 @@
       "score": 1.0
     },
     {
-      "id": "http://arxiv.org/abs/2610.14166v1",
-      "title": "A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS",
-      "updated": "2026-10-09T18:00:00Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.14166v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.14166v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Gaia has substantially expanded the sample of candidate white dwarfs (WDs) in open clusters, but many remain without spectroscopic characterization. We leverage the increasingly extensive archives of large public spectroscopic surveys to identify 62 candidate cluster WDs with available spectra from DESI, LAMOST, and SDSS. After discarding sources with very low S/N and unreliable host clusters, 44 candidates remain, including 37 non-magnetic DA WDs, of which 15 had not previously been characterized in the literature for cluster studies. We find that nine are consistent with single-star origins in their proposed host clusters, increasing the combined cluster DA initial--final mass relation (IFMR) sample to 132 WDs. All lie within $2σ$ of the best-fit IFMR from the most comprehensive recent cluster WD sample, suggesting these additions do not require recalibrating the empirical IFMR. One is a likely Hyades tidal-tail WD, providing further evidence that dynamical dispersal helps explain the long-standing WD deficit in the nearest cluster. We further compare WDs with spectra from multiple surveys. Among seven Praesepe WDs observed by both DESI and SDSS, DESI gives higher WD masses in six cases, with a mean difference of $0.067\\,\\mathrm{M}_\\odot$, while the inferred progenitor masses differ by as much as $0.459\\,\\mathrm{M}_\\odot$. More broadly, nine of ten single-star cluster DAs with DESI spectra lie above the empirical IFMR, with a mean final-mass residual of $0.06\\pm0.04\\,\\mathrm{M}_\\odot$. These results show that survey-dependent differences can strongly affect cluster WD parameters, and should be considered when combining heterogeneous spectroscopy in empirical IFMR studies.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-09T18:00:00Z",
-      "arxiv:comment": "14 pages, 5 figures, 4 tables. Submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "David R. Miller"
-        },
-        {
-          "name": "Jeremy Heyl"
-        },
-        {
-          "name": "Huahui Yan"
-        },
-        {
-          "name": "Chengyuan Li"
-        },
-        {
-          "name": "Pier-Emmanuel Tremblay"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2610.10699v1",
       "title": "Atypical White Dwarfs in Open Clusters",
       "updated": "2026-10-07T18:00:06Z",
@@ -149,7 +288,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -189,7 +328,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -375,7 +514,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 48.1
+      "score": 47.6
     }
   ]
 }
