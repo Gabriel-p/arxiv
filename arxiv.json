@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T16:19:33.492106",
+  "fetched_at": "2026-10-17T15:13:50.964998",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.21661v1",
@@ -135,62 +135,7 @@
           "name": "Ivanna Langan"
         }
       ],
-      "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.20819v1",
-      "title": "The optical colors of hidden spiral-like features in nine Virgo early--type dwarfs",
-      "updated": "2026-10-14T19:05:24Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.20819v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.20819v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Dwarf early-type galaxies (ETGs) are abundant in nearby clusters and provide a key laboratory for studying environmentally driven galaxy transformation. Although dwarf ETGs were once considered structurally simple, deep imaging has revealed embedded spiral-like features (e.g., bars and spiral arms) in some of them, contributing only a small fraction of the total light. Their origin at dwarf scales remains uncertain. As a pilot study, we investigate spiral-like features in nine Virgo dwarf ETGs with clear embedded arms, using optical colors to test whether these features differ from the surrounding diffuse component, which would constrain their formation pathways. Using deep g- and i-band NGVS images, we apply a residual-based method to separate excess light associated with the spiral-like component from the diffuse host. The residual images define arm and interarm regions, enabling direct measurements of light fractions and g-i colors for both components. The spiral-like features contribute only a few percent of the total light (about 1.5-5.5% in i and 1.7-3.7% in g). We find a diverse range of colors across the sample: four galaxies host spiral-like features redder than their interarm regions, four show no robust arm-interarm color difference, and one exhibits a distinctly bluer spiral-like component. The latter is consistent with a recently quenched transition object, while the redder and color-uniform features are consistent with older or more metal-rich stellar populations. Spiral-like features in Virgo dwarf ETGs thus exhibit a surprising diversity in their photometric properties, implying multiple evolutionary channels rather than a single one. This pilot analysis also demonstrates readiness for the much larger NGVS sample of dwarfs with potential spiral-like features.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-10-14T19:05:24Z",
-      "arxiv:comment": "Accepted for publication in Astronomy and Astrophysics",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Mauricio Gracia"
-        },
-        {
-          "name": "Rory Smith"
-        },
-        {
-          "name": "Anna Pasquali"
-        },
-        {
-          "name": "Laura Ferrarese"
-        },
-        {
-          "name": "Patrick Côté"
-        },
-        {
-          "name": "Hyowon Kim"
-        },
-        {
-          "name": "Paula Calderón-Castillo"
-        },
-        {
-          "name": "Kirsi Pohl"
-        }
-      ],
-      "score": 0.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2610.18644v1",
@@ -288,7 +233,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -328,7 +273,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -514,7 +459,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 47.6
+      "score": 47.1
     }
   ]
 }
