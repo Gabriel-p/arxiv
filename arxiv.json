@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T15:13:50.964998",
+  "fetched_at": "2026-10-18T03:44:10.863677",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.21661v1",
@@ -138,55 +138,6 @@
       "score": 2.0
     },
     {
-      "id": "http://arxiv.org/abs/2610.18644v1",
-      "title": "Anchoring the Chromospheric Activity$-$Rotation Relation: A Study of the Pleiades and Group X",
-      "updated": "2026-10-13T16:10:57Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.18644v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.18644v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a study of the rotation and the chromospheric H$α$ activity of low-mass stars in the $\\approx$120 Myr-old Pleiades and the $\\approx$400 Myr-old Group X open clusters. We combine published and new rotation periods ($P_\\mathrm{rot}$) from TESS and ZTF, and use LAMOST, SDSS, and MDM spectra to measure H$α$ equivalent widths (EWs). While overall the Group X distributions of $P_\\mathrm{rot}$ and EWs are as expected, detailed comparisons to the Pleiades and to the 700-Myr-old benchmark Praesepe produce some surprises. For F through mid K stars, the Group X color$-$period sequence lies between those of the Pleiades and of Praesepe, as expected. But the $P_\\mathrm{rot}$ for its late K and early M dwarfs and the Praesepe slow-rotator sequence overlap, indicating that the 700 Myr-old stars have not spun down significantly despite being nearly twice as old as their Group X counterparts. In the Rossby number$-L_\\mathrm{Hα}/L_\\mathrm{bol}$ plane, rapid rotators in Group X are saturated, as is seen in older clusters, whereas the rapid rotators in the Pleiades show a weak but measurable dependence of $L_\\mathrm{Hα}/L_\\mathrm{bol}$ on rotation. This implies that the chromospheric activity$-$rotation relation attains its mature form between 120 and 400 Myr. Dividing the sample by color reveals that K, M0, and M1 dwarfs are no longer saturated by $\\approx$120 Myr, M2 and M3 dwarfs become unsaturated between $\\approx$400 and $\\approx$700 Myr, and later M dwarfs remain largely saturated through field ages even as their saturated $L_\\mathrm{Hα}/L_\\mathrm{bol}$ levels decline, indicating that chromospheric evolution is not determined by rotation period alone.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-13T16:10:57Z",
-      "arxiv:comment": "Accepted for publication in the AAS Journals",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "A. Núñez"
-        },
-        {
-          "name": "M. A. Agüeros"
-        },
-        {
-          "name": "J. L. Curtis"
-        },
-        {
-          "name": "C. A. Ospinal Achicanoy"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2610.10699v1",
       "title": "Atypical White Dwarfs in Open Clusters",
       "updated": "2026-10-07T18:00:06Z",
@@ -233,7 +184,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -273,7 +224,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -459,7 +410,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 47.1
+      "score": 46.6
     }
   ]
 }
