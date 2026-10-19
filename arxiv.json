@@ -1,6 +1,92 @@
 {
-  "fetched_at": "2026-10-18T15:35:31.937019",
+  "fetched_at": "2026-10-19T03:53:43.153645",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.22946v1",
+      "title": "$N$-body simulations of the open cluster M67 -- I: global cluster properties",
+      "updated": "2026-10-16T05:14:14Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.22946v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.22946v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The most recent Gaia data releases have seen the construction of many open cluster catalogues containing thousands of open clusters. Simulations of these clusters are needed in order to interpret observations, both existing and upcoming. M67 is an ideal open cluster to calibrate these simulations due to its advanced age and large, diverse binary populations. Moreover it is one of the most extensively observed open clusters with observations in several wavelengths. We aim to reproduce the global cluster properties of M67 with modern $N$-body simulations, as well as comparing its observed properties in the largest homogeneous open cluster catalogue with other available observations. We carry out several NBODY6++GPU simulations with varying initial conditions, including metallicity, half-mass radius, and the distribution of orbital binary parameters. Our models broadly reproduce the observed global properties of M67, and we are able to recreate the cluster's surface brightness profile, radial mass profile, and colour-magnitude diagram. Our favoured model indicates an initial half-mass radius of around 1.6 pc, although its total observable cluster mass may be too high. Further simulations are planned for a subsequent study, with a focus on recreating the present-day binary populations of M67.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-16T05:14:14Z",
+      "arxiv:comment": "14 pages, 11 figures. Submitted to MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Jasmine S. M. Anderson-Baldwin"
+        },
+        {
+          "name": "Jarrod R. Hurley"
+        }
+      ],
+      "score": 17.3
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.22492v1",
+      "title": "Let Sleeping Stars Li: Mapping Turnoff Lithium, the Lithium Dip, & Testing Standard Model Predictions in GALAH DR4 Subgiants",
+      "updated": "2026-10-15T18:00:17Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.22492v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.22492v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Lithium is an excellent tracer of stellar mixing. We reconstruct the end of the main sequence lithium depletion pattern using the GALAH DR4 3D-NLTE lithium dataset for 22,442 stars, complemented by masses and subgiant lithium dilution factors inferred from YREC stellar models. We recover the two canonical features seen in clusters: a cool plateau ($\\mathrm{M_{[Fe/H]_{\\odot}}} \\sim 1.2 \\mathrm{M_\\odot}$) with a median $A(Li) = 2.42$, and a steep plunge into the lithium dip ($\\mathrm{M_{[Fe/H]_{\\odot}}} \\sim 1.35 \\mathrm{M_\\odot}$) dominated by upper limits at $A(Li) < 1.5$. Above the dip, our data reveal a striking new pattern with a wide range of abundances. We argue this reflects severe rotationally induced mixing in most stars, with lithium preserved in a minority where gravitational settling suppresses mixing. Lithium depletion with intrinsic dispersion is universal across the sample. Predicted and observed dilution trends agree well below the dip. For higher-mass stars, dilution corrections agree with standard models, but our upper envelope lies below open cluster values. We attribute this to a shallower lithium preservation zone and further evidence for gravitational settling and radiative levitation. We detect lithium in $\\approx25\\%$ of dip stars, whereas clusters show none; neither blurring of a narrow mass feature nor binary contamination fully explains this. The cool plateau is 0.8 dex below the solar meteoritic value across a wide range of $[Fe/H]$. After accounting for pre-main sequence depletion, the plateau is elevated at $\\geq [Fe/H]_{\\odot}$, possibly evidence for lithium production.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-15T18:00:17Z",
+      "arxiv:comment": "37 Pages; 15 Figures; Submitted to ApJ; Data available upon request (smedile.1@osu.edu); comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Vincent A. Smedile"
+        },
+        {
+          "name": "Marc H. Pinsonneault"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2610.21661v1",
       "title": "Tracking the flow of interstellar gas across scales: from galaxies to star clusters",
@@ -184,7 +270,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -224,7 +310,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2609.31838v1",
@@ -410,7 +496,7 @@
           "name": "Jianwen Zhou"
         }
       ],
-      "score": 46.6
+      "score": 46.1
     }
   ]
 }
