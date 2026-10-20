@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-10-19T18:31:59.306119",
+  "fetched_at": "2026-10-20T04:05:59.502337",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.25200v1",
+      "title": "IMF-aware N-body forward modelling of membership selection functions for young open clusters",
+      "updated": "2026-10-18T11:41:04Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.25200v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.25200v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present an IMF-aware N-body forward-modelling framework, in which the stellar initial mass function (IMF) is an explicit input, to quantify the membership selection functions of open clusters, namely completeness and contamination as functions of magnitude. Accurate derivation of the IMF requires correcting for these selection effects, which otherwise distort the inferred present-day mass function. Our framework simulates clusters with IMF slopes $α_2 = -2.7, -2.3, -1.9$, converts them into synthetic Gaia observations, adds mock field populations, and recovers members with HDBSCAN to mimic observational membership selection. Applying this framework to 35 young open clusters (ages $\\lesssim100$ Myr, distances $\\lesssim600$ pc), we find declining completeness towards the faint limit; older, more expanded, and more diffuse models have lower completeness and higher contamination. For a given cluster, models with flatter IMFs yield modestly but systematically lower global completeness and higher contamination, despite initial cluster masses calibrated to the same observed member count. These models undergo more stellar evolution mass loss and expand more, resulting in lower projected stellar densities; their lower completeness is consistent with more diffuse clusters being harder to separate from field stars. Corrections derived from a mismatched IMF largely recover the total star counts but leave a larger distortion in the shape of the present-day luminosity function than those derived with the correct IMF. Because membership recovery is tied to a cluster's structural evolution and the specific membership algorithm used, our findings emphasize that selection functions should be inferred jointly with the IMF rather than assumed in advance.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-18T11:41:04Z",
+      "arxiv:comment": "20 pages, 8 figures, 2 tables. Under revision at MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Yue-Yue Shen"
+        },
+        {
+          "name": "Chao Liu"
+        },
+        {
+          "name": "Zepeng Zheng"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Xiaoying Pang"
+        },
+        {
+          "name": "Bo Zhang"
+        },
+        {
+          "name": "Hao Tian"
+        },
+        {
+          "name": "Yang Xiang"
+        }
+      ],
+      "score": 9.5
+    },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
       "title": "$N$-body simulations of the open cluster M67 -- I: global cluster properties",
