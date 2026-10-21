@@ -1,6 +1,44 @@
 {
-  "fetched_at": "2026-10-20T16:33:56.891609",
+  "fetched_at": "2026-10-21T03:54:46.598929",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.27113v1",
+      "title": "20,000 Rotation Periods in Nearby Open Clusters and Moving Groups from ZTF and ASAS-SN",
+      "updated": "2026-10-19T18:12:24Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.27113v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.27113v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters provide uniquely powerful laboratories for studying stellar evolution because their members share a common age and chemical composition. Stellar rotation of low-mass GKM dwarfs in open clusters provides direct empirical constraints on magnetic braking, with implications for stellar interiors, magnetic activity, and star--planet interactions. However, existing cluster rotation samples are dominated by space-based observations, whose limited spatial coverage and short observing baselines can make it difficult to construct an unbiased sample. Long-baseline ground-based time-domain surveys therefore provide an important complement to space-based photometry. I present a catalog of $\\sim$20,000 periodic photometric signals, including stellar rotations, eclipsing-binaries, and classical pulsators, measured from the Zwicky Transient Facility (ZTF) and the All-Sky Automated Survey for Supernovae (ASAS-SN) for members of nearby open clusters and moving groups within 1.5 kpc. This catalog provides a new empirical foundation for studying the mass, chemical composition, and age dependence of stellar angular-momentum evolution and for testing models of magnetic braking across a broad range of stellar masses and evolutionary states.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-19T18:12:24Z",
+      "arxiv:comment": "Data file included in .zip. Comments are welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": {
+        "name": "Yuxi Lu"
+      },
+      "score": 13.9
+    },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
       "title": "IMF-aware N-body forward modelling of membership selection functions for young open clusters",
@@ -288,7 +326,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -328,193 +366,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2609.31838v1",
-      "title": "Quantifying the decline in CO(2-1) intensity around PHANGS-HST star clusters: Constraints on molecular gas dispersal, stellar feedback, and cluster formation efficiency",
-      "updated": "2026-09-25T18:00:04Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2609.31838v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2609.31838v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We combine the largest survey of star clusters in nearby galaxies to-date, PHANGS-HST, with maps of molecular gas maps from PHANGS-ALMA to constrain the efficiency of cluster formation and the typical timescales over which clusters become dis-associated from their natal molecular gas. We analyse 29,233 clusters in 36 galaxies using CO maps at 150 pc resolution. For each star cluster with stellar mass $\\geq 10^{3.5}$ M$_\\odot$, we measure the radial profiles of CO(2-1) integrated intensity and obtain local background-subtracted CO intensity, $I_{\\rm CO}^{\\rm bkgsub}$, at cluster centre. We group the clusters by age and mass to quantify the dependence of $I_{\\rm CO}^{\\rm bkgsub}$ and corresponding molecular gas mass, $M_{\\rm mol}$, on these cluster properties. To account for the cluster mass ($M_{\\rm SC}$) dependence, we also calculate the normalised mass ratio of $(M_{\\rm mol}/M_{\\rm SC})$. We find that CO intensity varies systematically with cluster age and mass. Clusters that are spatially associated with H$α$ emission exhibit the highest $I_{\\rm CO}^{\\rm bkgsub}$ of 7.4 K km s$^{-1}$, corresponding to a $M_{\\rm mol}/M_{\\rm SC}$ ratio of 82 and implying a cluster formation efficiency ($ε_{\\rm obs}$) of $\\sim 1.2\\%$. Young clusters without associated H$α$ emission show lower and age-dependent $I_{\\rm CO}^{\\rm bkgsub}$ and $M_{\\rm mol}/M_{\\rm SC}$, decreasing from 1.3 K km s$^{-1}$ and 15 for clusters with age 1-3 Myr, to a level $\\approx$ 0 for clusters older than 9--10 Myr. Clusters older than 10 Myr show no statistical excess of CO intensity. We use the clusters with H$α$ association as initial conditions to model the impact of cluster drift and demonstrate that this is unlikely to drive the observed cluster-gas spatial disassociation on short timescales of 4-6 Myr. Instead, early stellar feedback seems likely to be the main driver.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-09-25T18:00:04Z",
-      "arxiv:comment": "26 pages, 20 figures, submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Hao He",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Adam K. Leroy",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Erik Rosolowsky",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Janice Lee",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Brad Whitmore",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "David Thilker",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Daniel A. Dale",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Frank Bigiel",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Annie Hughes",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Jiayi Sun",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Gagandeep Anand",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Ashley T. Barnes",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Zein Bazzi",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Médéric Boquien",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Rupali Chandar",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Dario Colombo",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Sinan Deger",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Simthembile Dlamini",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Hamid Hassani",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Stephan Hannon",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Ralf S. Klessen",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Simon C. O. Glover",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Kathryn Grasha",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Ivan Grasimov",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Remy Indebetouw",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Kirsten Larson",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Lukas Neumann",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Elias K. Oakes",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Hsi-An Pan",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Miguel Querejeta",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Lise Ramambason",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "M. Jimena Rodríguez",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Sumit K. Sarbadhicary",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Eva Schinnerer",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Qiushi",
-          "arxiv:affiliation": "Chris"
-        },
-        {
-          "name": "Tian"
-        },
-        {
-          "name": "Leonardo Úbeda"
-        },
-        {
-          "name": "Antonio Usero"
-        },
-        {
-          "name": "Thomas G. Williams"
-        },
-        {
-          "name": "Jianwen Zhou"
-        }
-      ],
-      "score": 45.6
+      "score": 1.5
     }
   ]
 }
