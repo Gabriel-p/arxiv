@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T03:54:46.598929",
+  "fetched_at": "2026-10-21T16:51:55.660276",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -98,7 +98,7 @@
           "name": "Yang Xiang"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
@@ -141,143 +141,7 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 16.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.21661v1",
-      "title": "Tracking the flow of interstellar gas across scales: from galaxies to star clusters",
-      "updated": "2026-10-15T10:44:52Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.21661v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.21661v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "While the baryon cycle of the interstellar medium - and its ability to form stars - plays a key role in galaxy evolution, unravelling the physical processes driving its evolution remains a critical challenge, given that present-day observing facilities are unable to map entire galactic ecosystems down to the scales of individual star-forming clumps. Here, we outline the technical requirements that would enable, for the first time, to connect the small (pc) scale physics of star formation, to the large (tens-of-kpc) scales of galaxies, enabling an effective tracking of the flows of matter and energy across a vast range of environments, and answering the long-standing question of what regulates star formation across cosmic time.",
-      "category": [
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-15T10:44:52Z",
-      "arxiv:comment": "Part of the ALMA2040 White Paper Series",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.IM"
-      },
-      "author": [
-        {
-          "name": "Ana Duarte-Cabral"
-        },
-        {
-          "name": "Maxime Valeille-Manet"
-        },
-        {
-          "name": "Mathilde Bouvier"
-        },
-        {
-          "name": "Miguel Querejeta"
-        },
-        {
-          "name": "Jan Forbrich"
-        },
-        {
-          "name": "Daniela Calzetti"
-        },
-        {
-          "name": "Cecilia Bacchini"
-        },
-        {
-          "name": "Frédérique Motte"
-        },
-        {
-          "name": "Maria J. Jimenez-Donaire"
-        },
-        {
-          "name": "Bruce G. Elmegreen"
-        },
-        {
-          "name": "Dieu D. Nguyen"
-        },
-        {
-          "name": "Alessio Traficante"
-        },
-        {
-          "name": "Alvaro Hacar"
-        },
-        {
-          "name": "Nicolas Peretto"
-        },
-        {
-          "name": "Francesco Salvestrini"
-        },
-        {
-          "name": "Laura Colzi"
-        },
-        {
-          "name": "Thomas G. Williams"
-        },
-        {
-          "name": "Timothy A. Davis"
-        },
-        {
-          "name": "Tony Wong"
-        },
-        {
-          "name": "Helena Faustino Vieira"
-        },
-        {
-          "name": "Eva Durán-Camacho"
-        },
-        {
-          "name": "Victor M. Rivilla"
-        },
-        {
-          "name": "Kate Pattle"
-        },
-        {
-          "name": "Sean T. Linden"
-        },
-        {
-          "name": "Rosita Paladino"
-        },
-        {
-          "name": "Ilaria Ruffa"
-        },
-        {
-          "name": "Shih-Ping Lai"
-        },
-        {
-          "name": "Elias Brinks"
-        },
-        {
-          "name": "Eva Schinnerer"
-        },
-        {
-          "name": "Drew Lapeer"
-        },
-        {
-          "name": "Theotokis Georgatos"
-        },
-        {
-          "name": "Miguel Pereira-Santaella"
-        },
-        {
-          "name": "Ivanna Langan"
-        }
-      ],
-      "score": 0.5
+      "score": 15.8
     },
     {
       "id": "http://arxiv.org/abs/2610.10699v1",
