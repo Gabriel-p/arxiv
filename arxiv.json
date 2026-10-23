@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T16:52:00.291749",
+  "fetched_at": "2026-10-23T03:58:32.754418",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.29683v1",
@@ -1023,57 +1023,6 @@
       "score": 0.3
     },
     {
-      "id": "http://arxiv.org/abs/2610.28727v1",
-      "title": "Arepo-CD: Coupling Collisional $N$-Body Dynamics with Moving-Mesh Magnetohydrodynamics",
-      "updated": "2026-10-20T18:00:01Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.28727v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.28727v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Star formation is a hierarchical, clustered process in turbulent giant molecular clouds (GMCs), where close stellar encounters can strongly affect cluster evolution and feedback. However, gravitational softening in many hydrodynamic simulations of GMCs limits the treatment of these encounters. We present Arepo-CD (Collisional Dynamics), a framework that couples star-by-star collisional $N$-body dynamics to the moving-mesh magnetohydrodynamics (MHD) code Arepo. Star-star interactions use unsoftened gravity, while interactions involving gas or collisionless components remain softened. Compact stellar subsystems are identified on the fly and evolved with a fourth-order forward symplectic integrator and slow-down algorithmic regularization coupled to the native Arepo timestep hierarchy. Benchmark tests against the collisional $N$-body code PeTar show good agreement in cluster core collapse and subsequent expansion, radial density profiles, and stellar velocity distributions. Coupled to the Rigel star formation and feedback model, Arepo-CD follows cluster formation and early evolution in radiation MHD simulations of a $10^5~M_\\odot$ turbulent molecular cloud. In the fiducial GMC comparison, the collisional and softened-gravity runs yield similar star formation histories and integrated star formation efficiencies. Nevertheless, close gravitational encounters during the embedded phase generate a substantial runaway population, with a velocity tail extending beyond 100 km/s. Ejected massive stars redistribute radiative feedback into the surrounding lower-density medium and produce a more extended distribution of heated gas. Arepo-CD provides a practical and computationally efficient framework for studying collisional stellar dynamics and its coupling to gas evolution and feedback during star cluster formation in realistic galactic environments.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-20T18:00:01Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Chuizheng Kong"
-        },
-        {
-          "name": "Hui Li"
-        },
-        {
-          "name": "Long Wang"
-        },
-        {
-          "name": "Yunwei Deng"
-        },
-        {
-          "name": "Elizabeth Moreno-Hilario"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2610.27113v1",
       "title": "20,000 Rotation Periods in Nearby Open Clusters and Moving Groups from ZTF and ASAS-SN",
       "updated": "2026-10-19T18:12:24Z",
@@ -1109,7 +1058,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 13.4
+      "score": 12.9
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -1262,7 +1211,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2610.10683v1",
@@ -1302,7 +1251,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     }
   ]
 }
