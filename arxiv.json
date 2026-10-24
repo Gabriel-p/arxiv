@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T03:57:09.106079",
+  "fetched_at": "2026-10-24T15:36:51.243558",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -98,7 +98,7 @@
           "name": "Yang Xiang"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
@@ -141,7 +141,56 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 14.8
+      "score": 14.3
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.10699v1",
+      "title": "Atypical White Dwarfs in Open Clusters",
+      "updated": "2026-10-07T18:00:06Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.10699v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.10699v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters are powerful laboratories for investigating the formation and evolution of white dwarfs (WDs), as their well-constrained ages link WDs to their progenitor stars. This is particularly valuable for atypical WDs, including magnetic WDs and those with non-hydrogen-dominated spectra, whose origins can be difficult to disentangle in the field. We assemble the largest sample to date of atypical WDs in open clusters: eight non-magnetic WDs with helium-dominated spectra, five with featureless spectra, and five magnetic WDs showing hydrogen or helium lines. We find no significant difference between the initial--final mass relations of hydrogen- and helium-atmosphere WDs, nor robust spatial or kinematic differences. The strongest difference from the field is a deficit of non-DAs between $0.8$ and $1.0\\,\\mathrm{M}_\\odot$, where the field predicts $6.0^{+0.8}_{-0.7}$ WDs, yet none are observed, with a probability of only $0.37\\%$. Massive magnetic WDs show a similar deficit: only one of 20 cluster WDs with $M_{\\mathrm{WD}}\\geq1.0\\,\\mathrm{M}_\\odot$ and $T_{\\mathrm{eff}}\\geq20{,}000\\,{\\rm K}$ is magnetic, compared with 10 of 16 in the field. Together, these deficits are consistent with an additional field population of massive merger remnants, particularly high-mass magnetic WDs and warm/hot DQs. Such objects may be underrepresented in clusters because young systems provide limited time for certain classes of delayed mergers, while older clusters lose members or dissolve; the field accumulates binary evolution products over Galactic timescales. Magnetic cluster WDs consistent with single-star evolution further suggest mass-dependent magnetic-field emergence, with fields appearing early in some massive WDs while young lower-mass WDs remain consistent with delayed emergence.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-07T18:00:06Z",
+      "arxiv:comment": "25 pages, 17 figures, 4 tables. Submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "David R. Miller"
+        },
+        {
+          "name": "Ilaria Caiazzo"
+        },
+        {
+          "name": "Jeremy Heyl"
+        },
+        {
+          "name": "Pier-Emmanuel Tremblay"
+        }
+      ],
+      "score": 7.0
     }
   ]
 }
