@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T15:47:25.896371",
+  "fetched_at": "2026-10-26T03:56:01.412849",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -37,7 +37,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 11.9
+      "score": 11.4
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -190,7 +190,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     }
   ]
 }
