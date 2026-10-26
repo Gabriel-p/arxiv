@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T03:56:01.412849",
+  "fetched_at": "2026-10-26T18:27:59.145147",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -37,7 +37,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 11.4
+      "score": 10.9
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -98,7 +98,7 @@
           "name": "Yang Xiang"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
@@ -141,7 +141,7 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 13.8
+      "score": 13.3
     },
     {
       "id": "http://arxiv.org/abs/2610.10699v1",
@@ -190,7 +190,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     }
   ]
 }
