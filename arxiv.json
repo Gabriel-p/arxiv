@@ -1,6 +1,49 @@
 {
-  "fetched_at": "2026-10-26T18:27:59.145147",
+  "fetched_at": "2026-10-27T04:22:15.934905",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.35805v1",
+      "title": "The Impact of Flyby Interactions on the Rotation of Open Clusters",
+      "updated": "2026-10-26T17:36:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.35805v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.35805v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The Gaia astrometric mission has provided the first evidence for the bulk rotation of open clusters. While this rotation may arise from residual spin inherited from a cluster's parent molecular cloud, it is unclear whether this explanation always suffices, as angular momentum is carried away by escaping stars on the timescale of two-body relaxation. In particular, the recent observance of significant rotation ($v_{\\rm rot} = 0.81 \\pm 0.06$ km s$^{-1}$) in the dynamically old ($\\approx 4$ Gyr) open cluster M67 motivates a study of another potential source of spin for Solar neighborhood clusters: tidal torquing from gravitational encounters with passing giant molecular clouds (GMCs). We derive an analytic estimate for the change in angular momentum of a cluster due to an impulsive interaction with a passing GMC, and verify this expectation by performing $N$-body simulations over a range of encounter parameters using REBOUND. For highly energetic encounters, significant angular momentum can be transferred, but the stars that receive the most angular momentum are ejected, leaving the cluster remnant with negligible net rotation. Even when considering a random walk of many GMC-cluster encounters, the integrated effects of these interactions cannot explain observations of dynamically old rotating open clusters. However, we find that within $\\sim 5$ Myr post-encounter, some disrupted clusters could be confused as rotating clusters while their stars are still dispersing. Using the local density of GMCs, we estimate that up to $\\approx 1\\%$ of open clusters in the Milky Way may carry this faux-rotation signal.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-26T17:36:46Z",
+      "arxiv:comment": "17 pages, 6 figures, submitted for publication in ApJ, comments welcome",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Kyle R. Tregoning"
+        },
+        {
+          "name": "Jeff J. Andrews"
+        }
+      ],
+      "score": 14.0
+    },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
       "title": "20,000 Rotation Periods in Nearby Open Clusters and Moving Groups from ZTF and ASAS-SN",
