@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2026-10-27T17:42:48.952736",
+  "fetched_at": "2026-10-28T04:47:20.838647",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.36897v1",
+      "title": "Topological Centrality in Gaia Open Clusters",
+      "updated": "2026-10-27T09:30:51Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.36897v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.36897v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Open clusters exhibit diverse spatial structures that provide insight into their formation and dynamical evolution. We investigate the relationship between stellar mass segregation, network topology, and dynamical age in 871 dynamically unevolved open clusters ($τ= t/t_{\\rm rh} \\leq 1$) from Gaia-based catalogs. We construct three-dimensional k-nearest-neighbor graphs and measure Degree Centrality (DC), Closeness Centrality (CL), and Betweenness Centrality (BC). For each measure, we define a network-based mass segregation ratio (MSR) by comparing the mean centrality of the most massive stars with that of all cluster members. We test the stability of these measures across connectivity parameters $k=5$--20 and compare them with the classical 3D MSR, $Λ_{\\rm MSR,3D}$, and dynamical age. All three network ratios show positive correlations with $Λ_{\\rm MSR,3D}$, strongest for closeness centrality, while their correlations with dynamical age are weak. These results demonstrate that network analysis provides a complementary approach to studying stellar structure and mass segregation in open clusters.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-10-27T09:30:51Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Marat Zaidyn"
+        },
+        {
+          "name": "Aknur Sakan"
+        },
+        {
+          "name": "Atilkhan Nodyarov"
+        },
+        {
+          "name": "Aigerim Akniyazova"
+        },
+        {
+          "name": "Alisher Zhunuskanov"
+        },
+        {
+          "name": "Nurzhan Ussipov"
+        }
+      ],
+      "score": 13.0
+    },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
       "title": "The Impact of Flyby Interactions on the Rotation of Open Clusters",
@@ -80,7 +128,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 10.9
+      "score": 10.4
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -233,7 +281,7 @@
           "name": "Pier-Emmanuel Tremblay"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     }
   ]
 }
