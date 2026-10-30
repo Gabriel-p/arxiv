@@ -1,6 +1,198 @@
 {
-  "fetched_at": "2026-10-29T18:13:14.120783",
+  "fetched_at": "2026-10-30T04:58:09.510454",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2610.38923v1",
+      "title": "Detailed chemo-dynamical characterization of four elusive Milky Way star clusters",
+      "updated": "2026-10-28T21:16:33Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.38923v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.38923v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A variety of faint and observationally challenging stellar systems has been discovered in the Milky Way in the last decades. Unveiling their kinematic and chemical properties is crucial to understand their nature and to assess their role in the history of our Galaxy. In this paper, we present a chemo-dynamical analysis of four elusive stellar systems (BH 140, Garro 01, BLISS 1, and Kim 3) using spectra collected with the X-shooter medium-resolution spectrograph at the VLT. We derived precise line-of-sight velocities and chemical abundances for all targets. Specifically, we provide the first spectroscopic characterization of metallicity and α-element content for BH 140, the first comprehensive chemical characterization for BLISS 1 and Garro 01, and the first spectroscopic metallicity determination for Kim 3. BH 140, Garro 01 and BLISS 1 are relatively metal-rich systems with [Fe/H] ~ -0.7 dex and have enhanced α-element abundances, whereas Kim 3 is notably metal-poor with [Fe/H] ~ -1.8 dex. We also performed an orbital analysis to investigate their origin as accreted or in situ systems. We found that Garro 01 and BH 140 have orbits confined within < 1.5 kpc from the Galactic plane, the former having also a remarkably circular orbit. They were likely born in situ, although the high orbital eccentricity of BH 140 and its mild deficiency in α-elements leave other possibilities open. Although undoubtedly accreted, BLISS 1 does not exhibit a clear dynamical association with any known progenitor, lying in a high energy (E) - high vertical angular momentum (LZ ) prograde orbit reaching a maximum height from the Galactic plane of zmax ~ 8 kpc. Its chemical properties seem to favor an in situ origin, which might be connected with the Aleph sub-structure. Finally, we tentatively link the high energy and low LZ orbit of Kim 3 to the Elqui stream.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-10-28T21:16:33Z",
+      "arxiv:comment": "Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "D. A. Alvarez Garay"
+        },
+        {
+          "name": "E. Ceccarelli"
+        },
+        {
+          "name": "D. Massari"
+        },
+        {
+          "name": "M. Bellazzini"
+        },
+        {
+          "name": "A. Mucciarelli"
+        },
+        {
+          "name": "M. Libralato"
+        },
+        {
+          "name": "E. Pancino"
+        },
+        {
+          "name": "A. Avdeeva"
+        },
+        {
+          "name": "M. Echeveste"
+        },
+        {
+          "name": "E. I. Leitinger"
+        },
+        {
+          "name": "S. Nedhath"
+        },
+        {
+          "name": "S. Rani"
+        },
+        {
+          "name": "E. Reggiani"
+        },
+        {
+          "name": "N. Sanna"
+        },
+        {
+          "name": "S. Saracino"
+        },
+        {
+          "name": "L. Steinbauer"
+        },
+        {
+          "name": "A. Turchi"
+        },
+        {
+          "name": "E. Dodd"
+        },
+        {
+          "name": "E. R. Garro"
+        },
+        {
+          "name": "C. Zerbinati"
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.38654v1",
+      "title": "Chemodynamical Study and Evidence for Hot Compact Companions to Blue Straggler Stars in Berkeley 31",
+      "updated": "2026-10-28T18:34:19Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.38654v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.38654v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a detailed study of the open cluster Berkeley 31 using Gaia DR3 astrometry, Gaia-ESO Survey DR5.1 spectroscopy, and multi-wavelength photometry. We identify 329 probable cluster members from their proper motions and trigonometric parallaxes and use them to examine the cluster's fundamental parameters, stellar populations, and Galactic orbit. The cluster is located at a distance of $6024 \\pm 181$ pc, with a color excess of $E(B-V)=0.148 \\pm 0.047$ mag, and has a mean metallicity of [Fe/H] $=-0.36 \\pm 0.04$ dex and $\\langle [α/{\\rm Fe}] \\rangle=0.21 \\pm 0.04$ dex. Isochrone fitting gives an age of $3.7 \\pm 0.2$ Gyr, consistent with the independent chemical-clock estimate of $3.72 \\pm 1.42$ Gyr. The systemic radial velocity is $57.89 \\pm 0.08$ km s$^{-1}$. We find that about 38% of the MS stars are unresolved binary candidates with $q \\gtrsim 0.5$. We identify 62 BSSs and 2 YSS candidates, including 48 BSSs and both YSSs not previously reported in the literature. We constructed multi-wavelength SEDs for these stars, including Swift/UVOT data for 28 BSSs. Two BSSs show clear ultraviolet excesses and are consistent with compact hot companions, one with a hot WD and the other with a pre-ELM WD. The present orbital parameters give a guiding radius of $12.29 \\pm 0.29$ kpc and an eccentricity of $0.11 \\pm 0.01$. Comparison with the estimated chemical birth radius indicates a moderate outward shift of the guiding center, with the present orbital position also contributing to the radial displacement. These results consistently describe Berkeley 31 as an intermediate-age, metal-poor outer-disk cluster and place its stellar populations in the context of its Galactic dynamical history.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-10-28T18:34:19Z",
+      "arxiv:comment": "27 pages, including 14 figures and 4 tables, accepted for publication in the The Astrophysical Journal (ApJ)",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ing-Guey Jiang"
+        },
+        {
+          "name": "K. Belwal"
+        },
+        {
+          "name": "Selçuk Bilir"
+        }
+      ],
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2610.38235v1",
+      "title": "Age-Resolved Vertical Motions in the Milky Way Warp: A Localized Enhancement in Intermediate-Age Populations",
+      "updated": "2026-10-28T03:37:13Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2610.38235v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2610.38235v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Determining how the Milky Way warp evolves provides constraints on the formation and dynamical evolution of galactic disks. Using Apache Point Observatory Galactic Evolution Experiment Data Release 19 (APOGEE DR19) spectroscopy, we estimate ages for 222,355 red giants. With Gaia astrometry and geometric distances, we analyze 168,824 of these stars in five age bins spanning $0$--$10$ Gyr. The warp-related radial vertical-velocity ($V_Z$) profile of young red giants ($0$--$2$ Gyr) is broadly consistent with those of classical Cepheids and young open clusters. Over $9\\leq R<12$ kpc, we find that the mean $V_Z$ values of the intermediate-age red giants ($2$--$4$ and $4$--$6$ Gyr) are $1.48\\pm0.46$ and $1.49\\pm0.52$ km s$^{-1}$ higher than that of the young population, respectively. By contrast, at $R\\simeq12$--$13$ kpc, the $V_Z$ profiles of the $0$--$6$ Gyr red giants are consistent within their uncertainties. The intermediate-age enhancement persists across our robustness tests and may reflect smaller effective kinematic warp onset radii for the intermediate-age populations. The observed velocity differences may arise from the combined effects of earlier perturbations and the present-day warp, or from differences in vertical structure among stellar populations.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-10-28T03:37:13Z",
+      "arxiv:comment": "13 pages, 6 figures, 1 table, accepted for publication in ApJL. Online Dataset: https://doi.org/10.5281/zenodo.23308202",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Xiaoyue Zhou"
+        },
+        {
+          "name": "Xiaodian Chen"
+        },
+        {
+          "name": "Haifeng Wang"
+        },
+        {
+          "name": "Shu Wang"
+        },
+        {
+          "name": "Zhihong He"
+        },
+        {
+          "name": "Licai Deng"
+        }
+      ],
+      "score": 1.0
+    },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
       "title": "Topological Centrality in Gaia Open Clusters",
