@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T17:01:03.911111",
+  "fetched_at": "2026-11-01T05:07:08.923040",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.40656v1",
@@ -69,7 +69,7 @@
           "name": "Mykyta Kliapets"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2610.38923v1",
@@ -166,7 +166,7 @@
           "name": "C. Zerbinati"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2610.38654v1",
@@ -212,56 +212,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 3.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.38235v1",
-      "title": "Age-Resolved Vertical Motions in the Milky Way Warp: A Localized Enhancement in Intermediate-Age Populations",
-      "updated": "2026-10-28T03:37:13Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.38235v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.38235v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Determining how the Milky Way warp evolves provides constraints on the formation and dynamical evolution of galactic disks. Using Apache Point Observatory Galactic Evolution Experiment Data Release 19 (APOGEE DR19) spectroscopy, we estimate ages for 222,355 red giants. With Gaia astrometry and geometric distances, we analyze 168,824 of these stars in five age bins spanning $0$--$10$ Gyr. The warp-related radial vertical-velocity ($V_Z$) profile of young red giants ($0$--$2$ Gyr) is broadly consistent with those of classical Cepheids and young open clusters. Over $9\\leq R<12$ kpc, we find that the mean $V_Z$ values of the intermediate-age red giants ($2$--$4$ and $4$--$6$ Gyr) are $1.48\\pm0.46$ and $1.49\\pm0.52$ km s$^{-1}$ higher than that of the young population, respectively. By contrast, at $R\\simeq12$--$13$ kpc, the $V_Z$ profiles of the $0$--$6$ Gyr red giants are consistent within their uncertainties. The intermediate-age enhancement persists across our robustness tests and may reflect smaller effective kinematic warp onset radii for the intermediate-age populations. The observed velocity differences may arise from the combined effects of earlier perturbations and the present-day warp, or from differences in vertical structure among stellar populations.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-10-28T03:37:13Z",
-      "arxiv:comment": "13 pages, 6 figures, 1 table, accepted for publication in ApJL. Online Dataset: https://doi.org/10.5281/zenodo.23308202",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Xiaoyue Zhou"
-        },
-        {
-          "name": "Xiaodian Chen"
-        },
-        {
-          "name": "Haifeng Wang"
-        },
-        {
-          "name": "Shu Wang"
-        },
-        {
-          "name": "Zhihong He"
-        },
-        {
-          "name": "Licai Deng"
-        }
-      ],
-      "score": 0.5
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -352,7 +303,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 12.0
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -390,7 +341,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 8.9
+      "score": 8.4
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
