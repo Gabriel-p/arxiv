@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T05:07:45.767788",
+  "fetched_at": "2026-11-02T21:34:57.080956",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2610.40656v1",
@@ -69,7 +69,7 @@
           "name": "Mykyta Kliapets"
         }
       ],
-      "score": 1.3
+      "score": 0.8
     },
     {
       "id": "http://arxiv.org/abs/2610.38923v1",
@@ -166,7 +166,7 @@
           "name": "C. Zerbinati"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2610.38654v1",
@@ -212,7 +212,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -260,7 +260,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -303,7 +303,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -341,7 +341,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 7.9
+      "score": 7.4
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -402,7 +402,7 @@
           "name": "Yang Xiang"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
@@ -445,7 +445,7 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 10.3
+      "score": 9.8
     }
   ]
 }
