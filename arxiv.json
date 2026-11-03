@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-11-02T21:34:57.080956",
+  "fetched_at": "2026-11-03T19:15:56.827475",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.03172v1",
+      "title": "Statistical Modeling of Foreground Galactic Cirrus for Diffuse Halo Light Measurement",
+      "updated": "2026-11-02T14:09:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.03172v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.03172v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Galactic cirrus, the diffuse Milky Way starlight scattered by interstellar dust, has become a major source of systematic uncertainty in measurements of extragalactic diffuse emission at ultra-low surface brightness levels. Proper modeling and correction of this foreground is crucial to unlock the full potential of next-generation deep imaging surveys for studies of faint diffuse emission such as galactic stellar halos, ultra-diffuse galaxies, and intracluster light (ICL). We develop a statistical approach to reconstruct the 2D distribution of the Galactic cirrus while preserving the underlying diffuse extragalactic emission from stellar halos. We combine the broad dust morphology traced by far-infrared emission with multiscale structural information extracted from the optical images. The method synthesizes plausible cirrus structures through iteratively refining the foreground, the smooth diffuse light model, and the residual sky. The performance is assessed through injection--recovery experiments using Euclid VIS observations of the Abell 2390 cluster, which show substantial improvements in recovered stellar halo photometry, although residual biases depend on the local foreground structure and sky estimation. We apply the method to the central Abell 2390 field to correct for a prominent cirrus complex near its brightest cluster galaxy (BCG), revealing a smoother BCG+ICL distribution with a steeper outer light profile and reduced contamination in the integrated light. Our results demonstrate the potential of statistical modeling of Galactic cirrus to improve diffuse light photometry in deep wide-field imaging surveys.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.IM",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-02T14:09:46Z",
+      "arxiv:comment": "17 pages, 12 figures; submitted to A&A",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Qing Liu"
+        },
+        {
+          "name": "Henk Hoekstra"
+        },
+        {
+          "name": "Amaël Ellien"
+        }
+      ],
+      "score": 39.5
+    },
     {
       "id": "http://arxiv.org/abs/2610.40656v1",
       "title": "The $δ$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3",
@@ -69,7 +115,7 @@
           "name": "Mykyta Kliapets"
         }
       ],
-      "score": 0.8
+      "score": 0.3
     },
     {
       "id": "http://arxiv.org/abs/2610.38923v1",
@@ -212,7 +258,7 @@
           "name": "Selçuk Bilir"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -260,7 +306,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -303,7 +349,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 10.5
+      "score": 10.0
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -341,7 +387,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 7.4
+      "score": 6.9
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -402,7 +448,7 @@
           "name": "Yang Xiang"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
@@ -445,7 +491,7 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 9.8
+      "score": 9.3
     }
   ]
 }
