@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T19:15:56.827475",
+  "fetched_at": "2026-11-04T05:29:17.929555",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -116,103 +116,6 @@
         }
       ],
       "score": 0.3
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.38923v1",
-      "title": "Detailed chemo-dynamical characterization of four elusive Milky Way star clusters",
-      "updated": "2026-10-28T21:16:33Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.38923v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.38923v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "A variety of faint and observationally challenging stellar systems has been discovered in the Milky Way in the last decades. Unveiling their kinematic and chemical properties is crucial to understand their nature and to assess their role in the history of our Galaxy. In this paper, we present a chemo-dynamical analysis of four elusive stellar systems (BH 140, Garro 01, BLISS 1, and Kim 3) using spectra collected with the X-shooter medium-resolution spectrograph at the VLT. We derived precise line-of-sight velocities and chemical abundances for all targets. Specifically, we provide the first spectroscopic characterization of metallicity and α-element content for BH 140, the first comprehensive chemical characterization for BLISS 1 and Garro 01, and the first spectroscopic metallicity determination for Kim 3. BH 140, Garro 01 and BLISS 1 are relatively metal-rich systems with [Fe/H] ~ -0.7 dex and have enhanced α-element abundances, whereas Kim 3 is notably metal-poor with [Fe/H] ~ -1.8 dex. We also performed an orbital analysis to investigate their origin as accreted or in situ systems. We found that Garro 01 and BH 140 have orbits confined within < 1.5 kpc from the Galactic plane, the former having also a remarkably circular orbit. They were likely born in situ, although the high orbital eccentricity of BH 140 and its mild deficiency in α-elements leave other possibilities open. Although undoubtedly accreted, BLISS 1 does not exhibit a clear dynamical association with any known progenitor, lying in a high energy (E) - high vertical angular momentum (LZ ) prograde orbit reaching a maximum height from the Galactic plane of zmax ~ 8 kpc. Its chemical properties seem to favor an in situ origin, which might be connected with the Aleph sub-structure. Finally, we tentatively link the high energy and low LZ orbit of Kim 3 to the Elqui stream.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-28T21:16:33Z",
-      "arxiv:comment": "Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "D. A. Alvarez Garay"
-        },
-        {
-          "name": "E. Ceccarelli"
-        },
-        {
-          "name": "D. Massari"
-        },
-        {
-          "name": "M. Bellazzini"
-        },
-        {
-          "name": "A. Mucciarelli"
-        },
-        {
-          "name": "M. Libralato"
-        },
-        {
-          "name": "E. Pancino"
-        },
-        {
-          "name": "A. Avdeeva"
-        },
-        {
-          "name": "M. Echeveste"
-        },
-        {
-          "name": "E. I. Leitinger"
-        },
-        {
-          "name": "S. Nedhath"
-        },
-        {
-          "name": "S. Rani"
-        },
-        {
-          "name": "E. Reggiani"
-        },
-        {
-          "name": "N. Sanna"
-        },
-        {
-          "name": "S. Saracino"
-        },
-        {
-          "name": "L. Steinbauer"
-        },
-        {
-          "name": "A. Turchi"
-        },
-        {
-          "name": "E. Dodd"
-        },
-        {
-          "name": "E. R. Garro"
-        },
-        {
-          "name": "C. Zerbinati"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2610.38654v1",
@@ -491,7 +394,7 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 9.3
+      "score": 8.8
     }
   ]
 }
