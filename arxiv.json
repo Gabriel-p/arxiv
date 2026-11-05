@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T05:49:39.633231",
+  "fetched_at": "2026-11-05T19:41:36.119902",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -45,53 +45,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 39.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.38654v1",
-      "title": "Chemodynamical Study and Evidence for Hot Compact Companions to Blue Straggler Stars in Berkeley 31",
-      "updated": "2026-10-28T18:34:19Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.38654v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.38654v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present a detailed study of the open cluster Berkeley 31 using Gaia DR3 astrometry, Gaia-ESO Survey DR5.1 spectroscopy, and multi-wavelength photometry. We identify 329 probable cluster members from their proper motions and trigonometric parallaxes and use them to examine the cluster's fundamental parameters, stellar populations, and Galactic orbit. The cluster is located at a distance of $6024 \\pm 181$ pc, with a color excess of $E(B-V)=0.148 \\pm 0.047$ mag, and has a mean metallicity of [Fe/H] $=-0.36 \\pm 0.04$ dex and $\\langle [α/{\\rm Fe}] \\rangle=0.21 \\pm 0.04$ dex. Isochrone fitting gives an age of $3.7 \\pm 0.2$ Gyr, consistent with the independent chemical-clock estimate of $3.72 \\pm 1.42$ Gyr. The systemic radial velocity is $57.89 \\pm 0.08$ km s$^{-1}$. We find that about 38% of the MS stars are unresolved binary candidates with $q \\gtrsim 0.5$. We identify 62 BSSs and 2 YSS candidates, including 48 BSSs and both YSSs not previously reported in the literature. We constructed multi-wavelength SEDs for these stars, including Swift/UVOT data for 28 BSSs. Two BSSs show clear ultraviolet excesses and are consistent with compact hot companions, one with a hot WD and the other with a pre-ELM WD. The present orbital parameters give a guiding radius of $12.29 \\pm 0.29$ kpc and an eccentricity of $0.11 \\pm 0.01$. Comparison with the estimated chemical birth radius indicates a moderate outward shift of the guiding center, with the present orbital position also contributing to the radial displacement. These results consistently describe Berkeley 31 as an intermediate-age, metal-poor outer-disk cluster and place its stellar populations in the context of its Galactic dynamical history.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-10-28T18:34:19Z",
-      "arxiv:comment": "27 pages, including 14 figures and 4 tables, accepted for publication in the The Astrophysical Journal (ApJ)",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Deniz Cennet Çınar"
-        },
-        {
-          "name": "D. Bisht"
-        },
-        {
-          "name": "Ing-Guey Jiang"
-        },
-        {
-          "name": "K. Belwal"
-        },
-        {
-          "name": "Selçuk Bilir"
-        }
-      ],
-      "score": 0.5
+      "score": 38.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -139,7 +93,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 9.0
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -182,7 +136,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -220,7 +174,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 6.4
+      "score": 5.9
     },
     {
       "id": "http://arxiv.org/abs/2610.25200v1",
@@ -281,7 +235,7 @@
           "name": "Yang Xiang"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
