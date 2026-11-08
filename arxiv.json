@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T17:36:39.104356",
+  "fetched_at": "2026-11-08T05:13:06.261035",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.08181v1",
@@ -235,7 +235,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -273,7 +273,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 5.4
+      "score": 4.9
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
