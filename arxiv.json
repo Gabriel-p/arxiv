@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T05:24:52.739886",
+  "fetched_at": "2026-11-09T22:05:10.034380",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.09875v1",
@@ -135,7 +135,7 @@
           "name": "Leonardo Ubeda"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2611.09039v1",
@@ -194,7 +194,7 @@
           "name": "Junichiro Makino"
         }
       ],
-      "score": 2.0
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -246,58 +246,6 @@
       "score": 16.5
     },
     {
-      "id": "http://arxiv.org/abs/2611.08181v1",
-      "title": "G92.4+5.0: A Perseus Arm superbubble associated with the H II region CTB 102",
-      "updated": "2026-11-05T15:35:37Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.08181v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.08181v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Superbubbles are vast hot cavities carved out by the stellar winds and supernovae of clusters of high-mass stars. We investigate G92.4+5.0 (the CTB 102 superbubble), a Perseus Arm superbubble associated with the HII region CTB 102. We use new and archival radio observations (total intensity, rotation measure, and HI spectral line) from the Dominion Radio Astrophysical Observatory Synthesis Telescope, combined with single-antenna data from the Effelsberg Medium Latitude Survey, the Global Magneto-Ionic Medium Survey, and the HI4PI survey to provide data on large structures. The upper region of the superbubble is faint in HI. In order to detect its full extent, we supplement our observations with H-alpha data from the Wisconsin H-Alpha Mapper Survey and the Ziegenbalg Survey, and observe H-alpha emission in the upper region. We measure the CTB 102 superbubble to be at least ~170 pc wide and ~420 pc tall, with an expansion rate of ~12 km/s in the lower regions of the superbubble and ~22.5 km/s in the upper regions. The elongated structure and increasing expansion rate with height are consistent with the evolutionary properties of a superbubble described by the Kompaneets model. We fit the Kompaneets model to the CTB 102 superbubble and obtain an estimated age of 1-6 Myr. This supports a possible scenario in which the stellar cluster currently ionizing CTB 102 is the expansion energy source for the superbubble. Alternatively, if the superbubble expanded under the power of a previous generation of stars, the current CTB 102 stellar cluster may have formed in the walls of the superbubble.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-05T15:35:37Z",
-      "arxiv:comment": "Submitted to the Astrophysical Journal; comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Rebecca A. Booth"
-        },
-        {
-          "name": "Jo-Anne Brown"
-        },
-        {
-          "name": "Tom Landecker"
-        },
-        {
-          "name": "Roland Kothes"
-        },
-        {
-          "name": "Tyler Foster"
-        },
-        {
-          "name": "Anna Ordog"
-        },
-        {
-          "name": "Alex Schwaner Hill"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2611.07609v1",
       "title": "A Large-Sample Study of Interstellar Reddening in Galactic Star Clusters",
       "updated": "2026-11-05T07:55:03Z",
@@ -342,7 +290,7 @@
           "name": "Teja Begari"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -388,7 +336,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 37.0
+      "score": 36.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -436,7 +384,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -479,7 +427,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 7.5
+      "score": 7.0
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -517,7 +465,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 4.4
+      "score": 3.9
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
