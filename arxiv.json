@@ -1,6 +1,250 @@
 {
-  "fetched_at": "2026-11-08T17:46:22.071841",
+  "fetched_at": "2026-11-09T05:24:52.739886",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.09875v1",
+      "title": "SN 2026ahvu in NGC 1433 May Be a Prompt Type Ia Supernova with a Delay Time Under 100 Myr",
+      "updated": "2026-11-06T18:52:29Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.09875v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.09875v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "SN 2026ahvu is a Type Ia supernova (SN) that occurred in the nearby galaxy NGC 1433. Using archival Hubble and JWST imaging from the PHANGS survey, we show that the SN lies within 0.19$''$ and 0.26$''$ of two UV-bright star clusters. This $0.19/0.26''$ separation corresponds to $8/11$ pc ($17/24$ pc) at the reported distances of $9.1$ and $18.9$ Mpc, respectively. The probability of finding an unrelated Type Ia SN this close to a cataloged star cluster by chance is only $\\sim$0.4 %. Thus, SN 2026ahvu is likely the first Type Ia SN that can be associated with relatively young star clusters in a nearby galaxy. From spectral energy distribution fitting using HST+JWST (or HST-only) data, we find that the clusters have age estimates of $37_{-5}^{+3}$ ($57_{-9}^{+14}$) Myr and $95_{-13}^{+15}$ ($88_{-12}^{+14}$) Myr. Association with either cluster would mean that SN 2026ahvu should be considered a prompt SN Ia and provide one of the most concrete measurements to date of a prompt Ia delay time. The median age of the younger star cluster is close to the minimum possible delay time for SN Ia progenitors. If the SN is indeed associated with the younger cluster, it would imply that Type Ia SNe can occur almost immediately after white dwarf formation. If the SN is associated with the older cluster, this discovery still presents the first example of a prompt Type Ia SN with delay time under 100 Myr.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-06T18:52:29Z",
+      "arxiv:comment": "10 pages, 2 figures, 1 table. Submitted to ApJL",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Sumit K. Sarbadhicary"
+        },
+        {
+          "name": "Kiana Henny"
+        },
+        {
+          "name": "Adam Leroy"
+        },
+        {
+          "name": "Karin Sandstrom"
+        },
+        {
+          "name": "Kirsten L. Larson"
+        },
+        {
+          "name": "David A. Thilker"
+        },
+        {
+          "name": "Gagandeep S. Anand"
+        },
+        {
+          "name": "Ashley T. Barnes"
+        },
+        {
+          "name": "Laura A. Lopez"
+        },
+        {
+          "name": "Daniel Maschmann"
+        },
+        {
+          "name": "Marco Troncoso"
+        },
+        {
+          "name": "Hwihyun Kim"
+        },
+        {
+          "name": "Janice C. Lee"
+        },
+        {
+          "name": "Frank Bigiel"
+        },
+        {
+          "name": "Médéric Boquien"
+        },
+        {
+          "name": "Rupali Chandar"
+        },
+        {
+          "name": "Ryan Chown"
+        },
+        {
+          "name": "Daniel A. Dale"
+        },
+        {
+          "name": "Sinan Deger"
+        },
+        {
+          "name": "Oleg V. Egorov"
+        },
+        {
+          "name": "Simon C. O. Glover"
+        },
+        {
+          "name": "Oleg Y. Gnedin"
+        },
+        {
+          "name": "Jay González Lobos"
+        },
+        {
+          "name": "Hao He"
+        },
+        {
+          "name": "Rebecca J. Houghton"
+        },
+        {
+          "name": "Debosmita Pathak"
+        },
+        {
+          "name": "M. Jimena Rodriguez"
+        },
+        {
+          "name": "Eva Schinnerer"
+        },
+        {
+          "name": "Michael Tucker"
+        },
+        {
+          "name": "Tony D. Weinbeck"
+        },
+        {
+          "name": "Thomas G. Williams"
+        },
+        {
+          "name": "Bradley C. Whitmore"
+        },
+        {
+          "name": "Leonardo Ubeda"
+        }
+      ],
+      "score": 3.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.09039v1",
+      "title": "Dynamical formation of Gaia neutron star binaries in star clusters as a phase-dependent process",
+      "updated": "2026-11-06T06:13:02Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.09039v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.09039v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Gaia has discovered dormant compact-object binaries in which the compact object shows no observable interaction with its luminous companion. These systems, hereafter Gaia BHs and Gaia NSs for black hole (BH) and neutron star (NS) companions, provide a new probe of compact-object binary formation. These detached systems are difficult to produce through standard isolated binary evolution alone, and their formation pathways remain unclear. Previous $N$-body studies have shown that Gaia BH-like objects are formed efficiently in star clusters, while Gaia NS-like objects are not. This has been attributed to the BH subsystem dominating the cluster core. We performed direct $N$-body simulations of $10^4 \\mathrm{M}_\\odot$ star clusters in a Galactic tidal field and investigated how NS-main-sequence (NS-MS) binaries form during the late BH-depleted phase. We found that NS-MS binaries satisfying Gaia-sensitive criteria form only after BH depletion. NSs are present in the core throughout the evolution, but the strong encounters there are monopolized by the BH subsystem until it is depleted. Our results show that the dynamical formation of Gaia-sensitive NS-MS systems is not prevented in star clusters, but delayed relative to Gaia BH-like systems.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.HE",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-06T06:13:02Z",
+      "arxiv:comment": "14 pages, 6 figures, 1 table. Accepted for publication in ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Ryutaro Iwakura"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Ataru Tanikawa"
+        },
+        {
+          "name": "Takayuki R. Saitoh"
+        },
+        {
+          "name": "Yoko Funato"
+        },
+        {
+          "name": "Junichiro Makino"
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.08925v1",
+      "title": "Tidal Braking Does Not Dominate Open-Cluster Slow Rotators",
+      "updated": "2026-11-06T03:16:26Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.08925v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.08925v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Extended main-sequence turn-offs (eMSTOs) observed in open clusters younger than $2~\\mathrm{Gyr}$ are commonly attributed to a spread in stellar rotation rates. Tidal synchronization in close binary systems has been proposed as a possible mechanism for producing slowly rotating stars. To test this hypothesis, we measured the radial-velocity (RV) dispersions of slow-rotator samples associated with the eMSTOs of eight open clusters using ESO VLT/GIRAFFE and SALT/RSS spectroscopy. We extended the analysis to 40 open clusters using Gaia DR3 RV measurements. The observed cluster RV dispersions are generally substantially smaller than those predicted for binary populations dominated by close systems with orbital periods for which tidal synchronization is expected to be effective. In particular, all 40 clusters in the Gaia sample have RV dispersions below the prediction of the $P=10$ d binary-population model. These results suggest that close, tidally synchronized binaries are unlikely to be the dominant origin of slow-rotator populations in young and intermediate-age open clusters, although a contribution from undetected or wider binary systems cannot be excluded.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-06T03:16:26Z",
+      "arxiv:comment": "14 pages, 7 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Zixun Zhan"
+        },
+        {
+          "name": "Chenyu He"
+        },
+        {
+          "name": "Weijia Sun"
+        },
+        {
+          "name": "Chengyuan Li"
+        }
+      ],
+      "score": 16.5
+    },
     {
       "id": "http://arxiv.org/abs/2611.08181v1",
       "title": "G92.4+5.0: A Perseus Arm superbubble associated with the H II region CTB 102",
@@ -273,7 +517,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 4.9
+      "score": 4.4
     },
     {
       "id": "http://arxiv.org/abs/2610.22946v1",
@@ -316,7 +560,7 @@
           "name": "Jarrod R. Hurley"
         }
       ],
-      "score": 6.8
+      "score": 6.3
     }
   ]
 }
