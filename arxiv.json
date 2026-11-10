@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-11-09T22:05:10.034380",
+  "fetched_at": "2026-11-10T19:28:30.873282",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.12594v1",
+      "title": "Investigating the timescales traced by dynamical ages in young stellar systems",
+      "updated": "2026-11-09T15:43:34Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.12594v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.12594v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Stars form in clustered environments, and then the stars may congregate into star clusters. The timescale on which individual stars form is not necessarily the same as the timescale on which star clusters assemble. Therefore, developing methods to probe these different timescales is a crucial part of understanding star cluster assembly and early evolution. Dynamical ages can be constructed from the kinematics of individual stars in clusters in the solar neighborhood using Gaia data. Using a star formation simulation, we test five different dynamical age methods. We divide dynamical ages into two approaches: methods which trace the size evolution of the cluster, and methods which trace the trajectories of individual stars. We confirm that size methods cannot accurately derive ages in bound clusters whereas methods tracing individual stars can be applied to both bound and unbound systems. We find that different dynamical age methods trace different epochs of star cluster formation and assembly: The method using stars with the oldest traceback ages provides an upper limit on stellar ages and the method using the median traceback ages is the best proxy for isochronal ages. Methods which trace the size evolution of the cluster best trace the onset of cluster expansion. Our work suggests that the median traceback time of stars moving away from the cluster provides the most reliable proxy for isochronal age, and that this method can be applied to any expanding system.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-09T15:43:34Z",
+      "arxiv:comment": "Accepted for publication in ApJ. 15 pages, 8 figures",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Isabella Armstrong"
+        },
+        {
+          "name": "Alison Sills"
+        },
+        {
+          "name": "Claude Cournoyer-Cloutier"
+        }
+      ],
+      "score": 3.5
+    },
     {
       "id": "http://arxiv.org/abs/2611.09875v1",
       "title": "SN 2026ahvu in NGC 1433 May Be a Prompt Type Ia Supernova with a Delay Time Under 100 Myr",
@@ -135,7 +181,7 @@
           "name": "Leonardo Ubeda"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2611.09039v1",
@@ -194,7 +240,7 @@
           "name": "Junichiro Makino"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -243,7 +289,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 16.5
+      "score": 16.0
     },
     {
       "id": "http://arxiv.org/abs/2611.07609v1",
@@ -290,7 +336,7 @@
           "name": "Teja Begari"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -336,7 +382,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 36.5
+      "score": 36.0
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -384,7 +430,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 6.5
+      "score": 6.0
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -427,7 +473,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -465,50 +511,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 3.9
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.22946v1",
-      "title": "$N$-body simulations of the open cluster M67 -- I: global cluster properties",
-      "updated": "2026-10-16T05:14:14Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.22946v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.22946v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The most recent Gaia data releases have seen the construction of many open cluster catalogues containing thousands of open clusters. Simulations of these clusters are needed in order to interpret observations, both existing and upcoming. M67 is an ideal open cluster to calibrate these simulations due to its advanced age and large, diverse binary populations. Moreover it is one of the most extensively observed open clusters with observations in several wavelengths. We aim to reproduce the global cluster properties of M67 with modern $N$-body simulations, as well as comparing its observed properties in the largest homogeneous open cluster catalogue with other available observations. We carry out several NBODY6++GPU simulations with varying initial conditions, including metallicity, half-mass radius, and the distribution of orbital binary parameters. Our models broadly reproduce the observed global properties of M67, and we are able to recreate the cluster's surface brightness profile, radial mass profile, and colour-magnitude diagram. Our favoured model indicates an initial half-mass radius of around 1.6 pc, although its total observable cluster mass may be too high. Further simulations are planned for a subsequent study, with a focus on recreating the present-day binary populations of M67.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-16T05:14:14Z",
-      "arxiv:comment": "14 pages, 11 figures. Submitted to MNRAS",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Jasmine S. M. Anderson-Baldwin"
-        },
-        {
-          "name": "Jarrod R. Hurley"
-        }
-      ],
-      "score": 6.3
+      "score": 3.4
     }
   ]
 }
