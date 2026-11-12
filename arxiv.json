@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T06:26:41.942209",
+  "fetched_at": "2026-11-12T19:41:19.051203",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.13825v1",
@@ -36,7 +36,7 @@
           "name": "Renyue Cen"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2611.13123v1",
@@ -85,7 +85,7 @@
           "name": "G. Carraro"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.12594v1",
@@ -131,7 +131,7 @@
           "name": "Claude Cournoyer-Cloutier"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2611.09875v1",
@@ -267,7 +267,7 @@
           "name": "Leonardo Ubeda"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -363,7 +363,7 @@
           "name": "Teja Begari"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -409,7 +409,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 35.5
+      "score": 35.0
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -457,7 +457,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -500,7 +500,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 6.0
+      "score": 5.5
     },
     {
       "id": "http://arxiv.org/abs/2610.27113v1",
@@ -538,7 +538,7 @@
       "author": {
         "name": "Yuxi Lu"
       },
-      "score": 2.9
+      "score": 2.4
     }
   ]
 }
