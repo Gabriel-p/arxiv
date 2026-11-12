@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T19:23:53.912950",
+  "fetched_at": "2026-11-12T06:26:41.942209",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.13825v1",
@@ -270,65 +270,6 @@
       "score": 1.5
     },
     {
-      "id": "http://arxiv.org/abs/2611.09039v1",
-      "title": "Dynamical formation of Gaia neutron star binaries in star clusters as a phase-dependent process",
-      "updated": "2026-11-06T06:13:02Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.09039v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.09039v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Gaia has discovered dormant compact-object binaries in which the compact object shows no observable interaction with its luminous companion. These systems, hereafter Gaia BHs and Gaia NSs for black hole (BH) and neutron star (NS) companions, provide a new probe of compact-object binary formation. These detached systems are difficult to produce through standard isolated binary evolution alone, and their formation pathways remain unclear. Previous $N$-body studies have shown that Gaia BH-like objects are formed efficiently in star clusters, while Gaia NS-like objects are not. This has been attributed to the BH subsystem dominating the cluster core. We performed direct $N$-body simulations of $10^4 \\mathrm{M}_\\odot$ star clusters in a Galactic tidal field and investigated how NS-main-sequence (NS-MS) binaries form during the late BH-depleted phase. We found that NS-MS binaries satisfying Gaia-sensitive criteria form only after BH depletion. NSs are present in the core throughout the evolution, but the strong encounters there are monopolized by the BH subsystem until it is depleted. Our results show that the dynamical formation of Gaia-sensitive NS-MS systems is not prevented in star clusters, but delayed relative to Gaia BH-like systems.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.HE",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-11-06T06:13:02Z",
-      "arxiv:comment": "14 pages, 6 figures, 1 table. Accepted for publication in ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "Ryutaro Iwakura"
-        },
-        {
-          "name": "Long Wang"
-        },
-        {
-          "name": "Ataru Tanikawa"
-        },
-        {
-          "name": "Takayuki R. Saitoh"
-        },
-        {
-          "name": "Yoko Funato"
-        },
-        {
-          "name": "Junichiro Makino"
-        }
-      ],
-      "score": 0.5
-    },
-    {
       "id": "http://arxiv.org/abs/2611.08925v1",
       "title": "Tidal Braking Does Not Dominate Open-Cluster Slow Rotators",
       "updated": "2026-11-06T03:16:26Z",
@@ -375,7 +316,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 15.5
+      "score": 15.0
     },
     {
       "id": "http://arxiv.org/abs/2611.07609v1",
