@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T05:46:18.031909",
+  "fetched_at": "2026-11-13T19:23:24.889412",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -60,7 +60,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 8.3
+      "score": 7.8
     },
     {
       "id": "http://arxiv.org/abs/2611.13825v1",
@@ -97,56 +97,7 @@
           "name": "Renyue Cen"
         }
       ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2611.13123v1",
-      "title": "Signatures of mass transfer in open-cluster blue straggler stars. I. Collinder 261: Evidence from rotation, binarity, and chemical abundances",
-      "updated": "2026-11-09T19:11:35Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.13123v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.13123v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present the first dedicated $v\\sin i$ survey of blue straggler stars (BSS) in the old open cluster Collinder 261 ($t=6.7$ Gyr), based on VLT/FLAMES-GIRAFFE spectroscopy of 40 BSS and 42 turn-off/subgiant (TO/SGB) reference stars. Seventeen of the 39 BSS entering the statistics (44%) rotate faster than 40 km/s, whereas all TO/SGB reference stars are slow rotators; fast rotation is strongly linked to spectroscopic binarity. TESS light curves identify seven eclipsing or ellipsoidal binaries with $P_{orb}=0.5$-2.1 d, all rotating at the velocity set by tidal synchronisation, so in these systems the fast rotation is maintained by a close post-mass-transfer orbit and does not date the formation event. Differential C, O, Ba, and Fe abundances for the 22 slow rotators reveal that 62% carry the surface-pollution signature of mass transfer, in two distinct patterns separated by an empty ~1 dex gap in [Ba/Fe]: a Ba-rich group tracing AGB donors and a C/O-enhanced, Ba-normal group tracing donors below the $s$-process activation mass. The BSS iron abundance is consistent with the cluster value; the few apparent Fe excesses are partly explained by differential reddening and do not affect the abundance pattern. The correlated C-O enrichment is opposite to the depletion seen in globular-cluster BSS, indicating binaries wide enough for donors to reach the AGB. With $A^+_{r_h}=0.171\\pm0.034$ and $f_{FR-BSS}=44\\pm8$%, Collinder 261 extends the globular-cluster rotation-density trends into the open-cluster regime: its BSS were assembled by a continuously operating binary channel, and their chemistry records the dynamical environment of the host cluster.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-11-09T19:11:35Z",
-      "arxiv:comment": "26 pages, 14 figures, 5 tables",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": [
-        {
-          "name": "M. J. Rain"
-        },
-        {
-          "name": "L. Monaco"
-        },
-        {
-          "name": "S. Villanova"
-        },
-        {
-          "name": "G. Carraro"
-        }
-      ],
-      "score": 0.5
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2611.12594v1",
@@ -192,7 +143,7 @@
           "name": "Claude Cournoyer-Cloutier"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2611.09875v1",
@@ -328,7 +279,7 @@
           "name": "Leonardo Ubeda"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -424,7 +375,7 @@
           "name": "Teja Begari"
         }
       ],
-      "score": 3.5
+      "score": 3.0
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -470,7 +421,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 35.0
+      "score": 34.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -518,7 +469,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 5.0
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -561,7 +512,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 5.5
+      "score": 5.0
     }
   ]
 }
