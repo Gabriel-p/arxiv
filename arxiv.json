@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-11-12T19:41:19.051203",
+  "fetched_at": "2026-11-13T05:46:18.031909",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.15740v1",
+      "title": "Euclid DR1 Legacy Science on Ultracool Dwarfs: Brown Dwarfs in the Blanco 1 Open Cluster",
+      "updated": "2026-11-11T17:20:53Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.15740v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.15740v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "A 35.6\\,deg$^2$ field of Euclid Data Release~1 that covers part of the corona and tidal tails of the young (100--130\\,Myr) nearby (234\\,pc) open cluster Blanco~1 is presented. We select 22 ultracool dwarfs from Euclid photometry and slitless spectra, and measure proper motions over a median baseline of 13\\,yr by combining Euclid astrometry with VIKING, KiDS and Rubin positions. Ten objects are comoving late-M and L dwarf candidates with membership probabilities of at least 0.5 under two field models. Nine of them are typed from their Euclid spectra, and the tenth is a candidate only if its colour-based type is adopted. Brown dwarf evolutionary models give masses of 0.03--0.06\\,$M_\\odot$ for the cluster age. The substellar population is about twice that predicted by a lognormal mass function scaled to the cluster's Gaia members. The remaining 12 objects are classified as late-M, L and T dwarfs with low probability of membership in the cluster. Using the Euclid sample to calibrate a search over 246\\,deg$^2$ of VIKING and KiDS photometry and motions, we identify 60 ultracool candidates, with about seven expected by chance. In the core region of Blanco 1 archival Subaru Hyper Suprime-Cam images and motions over 2011--2025 yield 35 candidates of types M7 or later, at least 20 of which are kinematic members at 95\\% confidence. These results extend the spectroscopic sequence of Blanco 1 into the L-type brown dwarfs and the list of candidate members over the outskirts and tidal tails of the cluster.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-11T17:20:53Z",
+      "arxiv:comment": "59 pages, 23 figures, submitted to The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Eduardo L. Martín"
+        },
+        {
+          "name": "Ramarao Tata"
+        },
+        {
+          "name": "Marusa Zerjal"
+        },
+        {
+          "name": "Javier Olivares Romero"
+        },
+        {
+          "name": "Nafise Sedighi"
+        },
+        {
+          "name": "Styliani Tsilia"
+        },
+        {
+          "name": "Nicolas Lodieu"
+        },
+        {
+          "name": "Nikola Vitas"
+        }
+      ],
+      "score": 8.3
+    },
     {
       "id": "http://arxiv.org/abs/2611.13825v1",
       "title": "On the Existence of an Equilibrium Density Profile for Massive Collisional Star Clusters",
@@ -316,7 +377,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 15.0
+      "score": 14.5
     },
     {
       "id": "http://arxiv.org/abs/2611.07609v1",
@@ -501,44 +562,6 @@
         }
       ],
       "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.27113v1",
-      "title": "20,000 Rotation Periods in Nearby Open Clusters and Moving Groups from ZTF and ASAS-SN",
-      "updated": "2026-10-19T18:12:24Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.27113v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.27113v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters provide uniquely powerful laboratories for studying stellar evolution because their members share a common age and chemical composition. Stellar rotation of low-mass GKM dwarfs in open clusters provides direct empirical constraints on magnetic braking, with implications for stellar interiors, magnetic activity, and star--planet interactions. However, existing cluster rotation samples are dominated by space-based observations, whose limited spatial coverage and short observing baselines can make it difficult to construct an unbiased sample. Long-baseline ground-based time-domain surveys therefore provide an important complement to space-based photometry. I present a catalog of $\\sim$20,000 periodic photometric signals, including stellar rotations, eclipsing-binaries, and classical pulsators, measured from the Zwicky Transient Facility (ZTF) and the All-Sky Automated Survey for Supernovae (ASAS-SN) for members of nearby open clusters and moving groups within 1.5 kpc. This catalog provides a new empirical foundation for studying the mass, chemical composition, and age dependence of stellar angular-momentum evolution and for testing models of magnetic braking across a broad range of stellar masses and evolutionary states.",
-      "category": [
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-19T18:12:24Z",
-      "arxiv:comment": "Data file included in .zip. Comments are welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.SR"
-      },
-      "author": {
-        "name": "Yuxi Lu"
-      },
-      "score": 2.4
     }
   ]
 }
