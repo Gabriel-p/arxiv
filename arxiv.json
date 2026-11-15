@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T05:34:48.988130",
+  "fetched_at": "2026-11-15T18:38:07.789580",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -60,7 +60,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 7.3
+      "score": 6.8
     },
     {
       "id": "http://arxiv.org/abs/2611.13825v1",
@@ -97,7 +97,7 @@
           "name": "Renyue Cen"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.12594v1",
@@ -143,7 +143,7 @@
           "name": "Claude Cournoyer-Cloutier"
         }
       ],
-      "score": 1.5
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -239,7 +239,7 @@
           "name": "Teja Begari"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -285,7 +285,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 34.0
+      "score": 33.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -333,7 +333,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 4.0
+      "score": 3.5
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -376,7 +376,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 4.5
+      "score": 4.0
     }
   ]
 }
