@@ -1,6 +1,140 @@
 {
-  "fetched_at": "2026-11-16T21:46:59.912180",
+  "fetched_at": "2026-11-17T07:13:47.067666",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.21400v1",
+      "title": "OGHReS: Discovery of a giant hub-filament system at the edge of the Galactic molecular disc",
+      "updated": "2026-11-16T16:52:41Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.21400v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.21400v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present the discovery and characterisation of G195.65$-$0.10 (also known as the $λ$-complex), a giant hub-filament system identified by the Outer Galaxy High Resolution Survey (OGHReS). The complex contains 61 spatially and kinematically coherent HiGAL clumps with a mean velocity of $V_{\\rm LSR}=32.85$ km/s and a velocity dispersion between clumps of 1.97 km/s. A $Gaia$ parallax measurement of the central emission-line star MWC 137 associated with an embedded cluster gives a heliocentric distance of 5.2$^{+0.8}_{-0.6}$ kpc, placing the complex at a Galactocentric radius of 13.2 kpc. The molecular structure spans approximately $35\\times63$ pc and contains $\\sim 1.6\\times10^{5}$ M$_\\odot$ of molecular gas, including $\\sim 5 \\times 10^{4}$ M$_\\odot$ in dense clumps. The molecular emission is organised into three prominent velocity-coherent filaments that converge on a dense central hub. Of the associated clumps, 16 are protostellar and 45 are gravitationally bound but currently starless. The protostellar clumps are significantly more concentrated towards the hub than the starless population, with median projected offsets of 6.65 and 15.83 pc, respectively. Moreover, the luminosity-to-mass ratio of the protostellar clumps decreases significantly with increasing distance from the hub, indicating that the most evolutionarily advanced sources are preferentially located in the central region. These results reveal a systematic concentration of dense gas and increasingly evolved star formation towards the hub, with organised large-scale gas motions throughout the filamentary network. The $λ$-complex therefore provides an unprecedented laboratory to understand hierarchical and high-mass star formation in the outer Galactic disc.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-11-16T16:52:41Z",
+      "arxiv:comment": "Accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "J. S. Urquhart",
+          "arxiv:affiliation": "Kent"
+        },
+        {
+          "name": "A. Y. Yang",
+          "arxiv:affiliation": "NAOC"
+        },
+        {
+          "name": "M. A. Thompson",
+          "arxiv:affiliation": [
+            "Leeds",
+            "INAF-Catania"
+          ]
+        },
+        {
+          "name": "C. Koenig",
+          "arxiv:affiliation": "MPIfR"
+        },
+        {
+          "name": "D. Colombo",
+          "arxiv:affiliation": [
+            "Argelander-Institut",
+            "MPIfR",
+            "INAF-Cagliari",
+            "Cologne-DYNAVERSE"
+          ]
+        },
+        {
+          "name": "W. -J. Kim",
+          "arxiv:affiliation": "MPIfR"
+        },
+        {
+          "name": "A. Giannetti",
+          "arxiv:affiliation": "INAF-Bologna"
+        },
+        {
+          "name": "A. Karska",
+          "arxiv:affiliation": "MPIfR"
+        },
+        {
+          "name": "F. Wyrowski",
+          "arxiv:affiliation": "MPIfR"
+        },
+        {
+          "name": "M. Figueira",
+          "arxiv:affiliation": "National Centre for Nuclear Research, Poland"
+        },
+        {
+          "name": "T. J. T. Moore",
+          "arxiv:affiliation": "LJMU"
+        },
+        {
+          "name": "L. K. Morgan",
+          "arxiv:affiliation": "NRAO Green Bank Observatory"
+        },
+        {
+          "name": "Enrique Vázquez-Semadeni",
+          "arxiv:affiliation": "Instituto de Radioastronomía y Astrofísica - Mexico"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.19391v1",
+      "title": "Lindblad and Corotation Resonances as the Common Origin of Moving Groups, Diagonal Ridges, and Velocity Waves in the Milky Way Disc",
+      "updated": "2026-11-14T12:55:46Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.19391v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.19391v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The Galactic disc is a complex dynamical system showing various kinematic structures, including moving groups (MGs), diagonal ridges (DRs), and velocity waves. To investigate their possible dynamical connection, we analyzed the phase-space distribution of stars from the extit{Gaia} DR3 catalog. We used angular momentum $L_z$ as a key dynamical tracer and examined stellar densities and velocities as functions of $L_z$. We identified stellar groups at specific $L_z$-values and associated them with extrema in the median radial velocity $\\left<V_R ight>$, known as a velocity wave. By cross-matching the extrema of the $\\left<V_R ight>$-wave with structures in the $V_R$--$L_z$ and $R$--$L_z$ planes, we established a clear connection between the velocity wave, the main MGs, and the DRs. A similar connection was partially identified for corrugations in the median vertical velocity $\\left<V_z ight>$. Both velocity waves are strongest near the Galactic mid-plane and decrease in amplitude with increasing vertical distance. Our results demonstrate that MGs, DRs, and velocity waves in the solar neighborhood are different projections of the same dynamical structures associated with Lindblad and corotation resonances. These resonances arise from coupling between the radial and azimuthal stellar motions and are particularly prominent in the thin Galactic disc. Numerical simulations including perturbations from the Galactic bar and spiral arms confirm these conclusions. Our findings indicate that the local stellar disc is currently evolving in a state of dynamical equilibrium. We also show that in-plane velocity oscillations must be considered when interpreting vertical stellar distributions, as they may produce artifacts in vertical profiles.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-11-14T12:55:46Z",
+      "arxiv:comment": "accepted in ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Tatiana A. Michtchenko"
+        },
+        {
+          "name": "Willian Y. Nacafucasaco"
+        },
+        {
+          "name": "Wilton S. Dias"
+        },
+        {
+          "name": "Douglas A. Barros"
+        }
+      ],
+      "score": 1.4
+    },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
       "title": "Euclid DR1 Legacy Science on Ultracool Dwarfs: Brown Dwarfs in the Blanco 1 Open Cluster",
@@ -155,7 +289,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 13.0
+      "score": 12.5
     },
     {
       "id": "http://arxiv.org/abs/2611.07609v1",
