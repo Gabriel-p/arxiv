@@ -1,93 +1,127 @@
 {
-  "fetched_at": "2026-11-17T20:38:14.360615",
+  "fetched_at": "2026-11-18T20:10:38.036137",
   "entries": [
     {
-      "id": "http://arxiv.org/abs/2611.21400v1",
-      "title": "OGHReS: Discovery of a giant hub-filament system at the edge of the Galactic molecular disc",
-      "updated": "2026-11-16T16:52:41Z",
+      "id": "http://arxiv.org/abs/2611.22091v1",
+      "title": "Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars",
+      "updated": "2026-11-17T02:20:44Z",
       "link": [
         {
-          "@href": "https://arxiv.org/abs/2611.21400v1",
+          "@href": "https://arxiv.org/abs/2611.22091v1",
           "@rel": "alternate",
           "@type": "text/html"
         },
         {
-          "@href": "https://arxiv.org/pdf/2611.21400v1",
+          "@href": "https://arxiv.org/pdf/2611.22091v1",
           "@rel": "related",
           "@type": "application/pdf",
           "@title": "pdf"
         }
       ],
-      "summary": "We present the discovery and characterisation of G195.65$-$0.10 (also known as the $λ$-complex), a giant hub-filament system identified by the Outer Galaxy High Resolution Survey (OGHReS). The complex contains 61 spatially and kinematically coherent HiGAL clumps with a mean velocity of $V_{\\rm LSR}=32.85$ km/s and a velocity dispersion between clumps of 1.97 km/s. A $Gaia$ parallax measurement of the central emission-line star MWC 137 associated with an embedded cluster gives a heliocentric distance of 5.2$^{+0.8}_{-0.6}$ kpc, placing the complex at a Galactocentric radius of 13.2 kpc. The molecular structure spans approximately $35\\times63$ pc and contains $\\sim 1.6\\times10^{5}$ M$_\\odot$ of molecular gas, including $\\sim 5 \\times 10^{4}$ M$_\\odot$ in dense clumps. The molecular emission is organised into three prominent velocity-coherent filaments that converge on a dense central hub. Of the associated clumps, 16 are protostellar and 45 are gravitationally bound but currently starless. The protostellar clumps are significantly more concentrated towards the hub than the starless population, with median projected offsets of 6.65 and 15.83 pc, respectively. Moreover, the luminosity-to-mass ratio of the protostellar clumps decreases significantly with increasing distance from the hub, indicating that the most evolutionarily advanced sources are preferentially located in the central region. These results reveal a systematic concentration of dense gas and increasingly evolved star formation towards the hub, with organised large-scale gas motions throughout the filamentary network. The $λ$-complex therefore provides an unprecedented laboratory to understand hierarchical and high-mass star formation in the outer Galactic disc.",
+      "summary": "Using APOGEE red clump stars and open clusters with precise ages, we investigate the age--metallicity relation (AMR) across the Galactic disk as a function of Galactocentric radius $R$ and vertical height $|Z|$. For stars older than $\\sim$6--8 Gyr, the AMR shows little dependence on either $R$ or $|Z|$ within the uncertainties, suggesting rapid and well-mixed chemical evolution in the early disk. In contrast, younger populations exhibit a clear negative radial metallicity gradient, with the inner disk being more metal-rich than the outer disk, consistent with inside-out disk growth since $\\sim$6--8 Gyr ago. Most importantly, at fixed location, the AMR for ages $\\lesssim6$--8 Gyr is non-monotonic: [Fe/H] decreases toward younger ages, reaches a minimum at intermediate ages, and then rises again. Beyond $R\\sim11$\\,kpc, the relation becomes even more complex, exhibiting an additional reversal and a distinct metallicity peak at an age of $\\sim2$\\,Gyr. Such complex behavior cannot be explained by continuous local enrichment alone, but instead points to the combined effects of a multi-phase gas-accretion history and radial migration. Episodes of metal-poor gas inflow can dilute the interstellar medium and reset its chemical evolution, while subsequent enrichment raises the metallicity again; radial migration further reshapes the observed AMR by mixing stellar populations formed at different radii and metallicities. A toy model incorporating inside-out growth, two gas-inflow episodes, and radial migration qualitatively reproduces the observed trends, highlighting the combined roles of episodic gas accretion and radial migration in shaping the chemical evolution of the Galactic disk.",
       "category": {
         "@term": "astro-ph.GA",
         "@scheme": "http://arxiv.org/schemas/atom"
       },
-      "published": "2026-11-16T16:52:41Z",
-      "arxiv:comment": "Accepted for publication in MNRAS",
+      "published": "2026-11-17T02:20:44Z",
+      "arxiv:comment": "15 pages, 6 figures, accepted for publication in ApJ",
       "arxiv:primary_category": {
         "@term": "astro-ph.GA"
       },
       "author": [
         {
-          "name": "J. S. Urquhart",
-          "arxiv:affiliation": "Kent"
+          "name": "Chun Wang"
         },
         {
-          "name": "A. Y. Yang",
-          "arxiv:affiliation": "NAOC"
+          "name": "Yang Huang"
         },
         {
-          "name": "M. A. Thompson",
-          "arxiv:affiliation": [
-            "Leeds",
-            "INAF-Catania"
-          ]
+          "name": "Haibo Yuan"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.22007v1",
+      "title": "The interplay between ionized and warm molecular gas in the turbulent intragroup medium of Stephan's Quintet",
+      "updated": "2026-11-16T23:41:11Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.22007v1",
+          "@rel": "alternate",
+          "@type": "text/html"
         },
         {
-          "name": "C. Koenig",
-          "arxiv:affiliation": "MPIfR"
+          "@href": "https://arxiv.org/pdf/2611.22007v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Using JWST MIRI spectroscopy, we explore the multi-phase intergalactic gas in the hot halo of the Stephan's Quintet compact group. Unlike the coolest H2 emission, which commonly shows double- peaked profiles corresponding to the velocity of the intruder and the intragroup gas, the ionized Neon emission-lines are often systematically shifted redwards in radial velocity away from the lowest H2 peak, and into the region corresponding to gas decelerated by the collision of the intruder galaxy with intragroup gas. The majority of the brightest clumps of ionized gas are spatially correlated with the brightest H2 clumps, suggesting they are coherent structures caught up in the opposing gas flows. Gas that is progressively heated, is shifted in velocity further from the velocity of the coldest H2 peaks. Larger and larger shifts in velocity are seen as one progresses from cool to warm molecular hydrogen, to lower-excitation (Neon lines) ionized and strongly shocked heated ionized gas (gas-phase Iron). The majority of the ionized Neon in the intergalactic medium is consistent with excitation in low-velocity shocks. We suggest that this behavior is the result of gas of progressively lower densities being shocked and accelerated by the interaction of pre-existing clouds with a hot flow created by the blast-wave from the collision between the intruder and the intragroup gas. One exception is the extragalactic star forming region, SQ-A, which shows higher-excitation ionized emission lines consistent with heating from a young starburst, consistent with previous photometry of young star clusters in the region.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-11-16T23:41:11Z",
+      "arxiv:comment": "21 pages, 7 figures: Accepted for publication in the Astrophysical Journal, November 2026",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Philip Appleton"
         },
         {
-          "name": "D. Colombo",
-          "arxiv:affiliation": [
-            "Argelander-Institut",
-            "MPIfR",
-            "INAF-Cagliari",
-            "Cologne-DYNAVERSE"
-          ]
+          "name": "Pierre Guillard"
         },
         {
-          "name": "W. -J. Kim",
-          "arxiv:affiliation": "MPIfR"
+          "name": "Ute Lisenfeld"
         },
         {
-          "name": "A. Giannetti",
-          "arxiv:affiliation": "INAF-Bologna"
+          "name": "C. Kevin Xu"
         },
         {
-          "name": "A. Karska",
-          "arxiv:affiliation": "MPIfR"
+          "name": "Francois Boulanger"
         },
         {
-          "name": "F. Wyrowski",
-          "arxiv:affiliation": "MPIfR"
+          "name": "Jonathan Braine"
         },
         {
-          "name": "M. Figueira",
-          "arxiv:affiliation": "National Centre for Nuclear Research, Poland"
+          "name": "Aditya Togi"
         },
         {
-          "name": "T. J. T. Moore",
-          "arxiv:affiliation": "LJMU"
+          "name": "Sarah Gallagher"
         },
         {
-          "name": "L. K. Morgan",
-          "arxiv:affiliation": "NRAO Green Bank Observatory"
+          "name": "Pathayappura Aromal"
         },
         {
-          "name": "Enrique Vázquez-Semadeni",
-          "arxiv:affiliation": "Instituto de Radioastronomía y Astrofísica - Mexico"
+          "name": "Bjorn Emonts"
+        },
+        {
+          "name": "Loreto Barcos Munoz"
+        },
+        {
+          "name": "Pierre-Alain Duc"
+        },
+        {
+          "name": "Benjamin Godard"
+        },
+        {
+          "name": "George Helou"
+        },
+        {
+          "name": "Patrick Ogle"
+        },
+        {
+          "name": "Ewan O'Sullivan"
+        },
+        {
+          "name": "William Reach"
+        },
+        {
+          "name": "Tanio Diaz Santos"
         }
       ],
       "score": 0.5
@@ -133,7 +167,7 @@
           "name": "Douglas A. Barros"
         }
       ],
-      "score": 0.9
+      "score": 0.4
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -194,7 +228,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 5.8
+      "score": 5.3
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -243,7 +277,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 12.5
+      "score": 12.0
     },
     {
       "id": "http://arxiv.org/abs/2611.07609v1",
@@ -290,7 +324,7 @@
           "name": "Teja Begari"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -336,7 +370,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 32.5
+      "score": 32.0
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -384,7 +418,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 2.5
+      "score": 2.0
     },
     {
       "id": "http://arxiv.org/abs/2610.35805v1",
@@ -427,7 +461,7 @@
           "name": "Jeff J. Andrews"
         }
       ],
-      "score": 3.0
+      "score": 2.5
     }
   ]
 }
