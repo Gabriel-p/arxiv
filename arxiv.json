@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T20:10:38.036137",
+  "fetched_at": "2026-11-19T20:13:32.798986",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.22091v1",
@@ -39,135 +39,7 @@
           "name": "Haibo Yuan"
         }
       ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2611.22007v1",
-      "title": "The interplay between ionized and warm molecular gas in the turbulent intragroup medium of Stephan's Quintet",
-      "updated": "2026-11-16T23:41:11Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.22007v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.22007v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Using JWST MIRI spectroscopy, we explore the multi-phase intergalactic gas in the hot halo of the Stephan's Quintet compact group. Unlike the coolest H2 emission, which commonly shows double- peaked profiles corresponding to the velocity of the intruder and the intragroup gas, the ionized Neon emission-lines are often systematically shifted redwards in radial velocity away from the lowest H2 peak, and into the region corresponding to gas decelerated by the collision of the intruder galaxy with intragroup gas. The majority of the brightest clumps of ionized gas are spatially correlated with the brightest H2 clumps, suggesting they are coherent structures caught up in the opposing gas flows. Gas that is progressively heated, is shifted in velocity further from the velocity of the coldest H2 peaks. Larger and larger shifts in velocity are seen as one progresses from cool to warm molecular hydrogen, to lower-excitation (Neon lines) ionized and strongly shocked heated ionized gas (gas-phase Iron). The majority of the ionized Neon in the intergalactic medium is consistent with excitation in low-velocity shocks. We suggest that this behavior is the result of gas of progressively lower densities being shocked and accelerated by the interaction of pre-existing clouds with a hot flow created by the blast-wave from the collision between the intruder and the intragroup gas. One exception is the extragalactic star forming region, SQ-A, which shows higher-excitation ionized emission lines consistent with heating from a young starburst, consistent with previous photometry of young star clusters in the region.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-16T23:41:11Z",
-      "arxiv:comment": "21 pages, 7 figures: Accepted for publication in the Astrophysical Journal, November 2026",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Philip Appleton"
-        },
-        {
-          "name": "Pierre Guillard"
-        },
-        {
-          "name": "Ute Lisenfeld"
-        },
-        {
-          "name": "C. Kevin Xu"
-        },
-        {
-          "name": "Francois Boulanger"
-        },
-        {
-          "name": "Jonathan Braine"
-        },
-        {
-          "name": "Aditya Togi"
-        },
-        {
-          "name": "Sarah Gallagher"
-        },
-        {
-          "name": "Pathayappura Aromal"
-        },
-        {
-          "name": "Bjorn Emonts"
-        },
-        {
-          "name": "Loreto Barcos Munoz"
-        },
-        {
-          "name": "Pierre-Alain Duc"
-        },
-        {
-          "name": "Benjamin Godard"
-        },
-        {
-          "name": "George Helou"
-        },
-        {
-          "name": "Patrick Ogle"
-        },
-        {
-          "name": "Ewan O'Sullivan"
-        },
-        {
-          "name": "William Reach"
-        },
-        {
-          "name": "Tanio Diaz Santos"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2611.19391v1",
-      "title": "Lindblad and Corotation Resonances as the Common Origin of Moving Groups, Diagonal Ridges, and Velocity Waves in the Milky Way Disc",
-      "updated": "2026-11-14T12:55:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.19391v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.19391v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The Galactic disc is a complex dynamical system showing various kinematic structures, including moving groups (MGs), diagonal ridges (DRs), and velocity waves. To investigate their possible dynamical connection, we analyzed the phase-space distribution of stars from the extit{Gaia} DR3 catalog. We used angular momentum $L_z$ as a key dynamical tracer and examined stellar densities and velocities as functions of $L_z$. We identified stellar groups at specific $L_z$-values and associated them with extrema in the median radial velocity $\\left<V_R ight>$, known as a velocity wave. By cross-matching the extrema of the $\\left<V_R ight>$-wave with structures in the $V_R$--$L_z$ and $R$--$L_z$ planes, we established a clear connection between the velocity wave, the main MGs, and the DRs. A similar connection was partially identified for corrugations in the median vertical velocity $\\left<V_z ight>$. Both velocity waves are strongest near the Galactic mid-plane and decrease in amplitude with increasing vertical distance. Our results demonstrate that MGs, DRs, and velocity waves in the solar neighborhood are different projections of the same dynamical structures associated with Lindblad and corotation resonances. These resonances arise from coupling between the radial and azimuthal stellar motions and are particularly prominent in the thin Galactic disc. Numerical simulations including perturbations from the Galactic bar and spiral arms confirm these conclusions. Our findings indicate that the local stellar disc is currently evolving in a state of dynamical equilibrium. We also show that in-plane velocity oscillations must be considered when interpreting vertical stellar distributions, as they may produce artifacts in vertical profiles.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-14T12:55:46Z",
-      "arxiv:comment": "accepted in ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Tatiana A. Michtchenko"
-        },
-        {
-          "name": "Willian Y. Nacafucasaco"
-        },
-        {
-          "name": "Wilton S. Dias"
-        },
-        {
-          "name": "Douglas A. Barros"
-        }
-      ],
-      "score": 0.4
+      "score": 1.0
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -228,7 +100,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 5.3
+      "score": 4.8
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -277,54 +149,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 12.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2611.07609v1",
-      "title": "A Large-Sample Study of Interstellar Reddening in Galactic Star Clusters",
-      "updated": "2026-11-05T07:55:03Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.07609v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.07609v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The interstellar reddening (extinction or absorption) is caused mainly by the dust grains of different sizes and compounds. All astrophysical observations are somehow affected by this effect, depending on the wavelength and location of the observed object. Different methods and techniques have been developed over the last nearly one hundred years to determine the reddening and to map the solar neighbourhood. The members of open clusters are a consistent population of stars formed together with a homogeneous metallicity. Therefore, the reddening can be estimated in a statistical way, avoiding all problems of single stars and spectral-energy-distribution fitting, for example. Other than for most available works, we can also use more massive upper main-sequence stars for the analysis. We used classical colour-colour diagrams (also known as the Q-method) for (B-V), (BP-RP), (U-B), (U-BP), (U-RP), and (U-G) to determine consistent mean reddening values and their errors. The corresponding standard lines for the fitting are independent of the age and metallicity. We determined colour excesses for 5377 Galactic open clusters covering Galactocentric distances from two to twenty kpc, respectively. The derived values were checked with existing dust and extinction maps. In general, we found good agreement. The solar neighbourhood of +-1500 pc shows a very patchy structure of the dust composition. Our results lay the foundations for constructing a new map of the reddening (dust) distribution and estimating clusters' metallicities by isochrone fitting, keeping the distances and reddening values fixed.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.IM",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-11-05T07:55:03Z",
-      "arxiv:comment": "11 pages, 9 figures, 1 table, submitted to A&A",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Ernst Paunzen"
-        },
-        {
-          "name": "Teja Begari"
-        }
-      ],
-      "score": 0.5
+      "score": 11.5
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -370,7 +195,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 32.0
+      "score": 31.5
     },
     {
       "id": "http://arxiv.org/abs/2610.36897v1",
@@ -418,50 +243,7 @@
           "name": "Nurzhan Ussipov"
         }
       ],
-      "score": 2.0
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.35805v1",
-      "title": "The Impact of Flyby Interactions on the Rotation of Open Clusters",
-      "updated": "2026-10-26T17:36:46Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.35805v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.35805v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The Gaia astrometric mission has provided the first evidence for the bulk rotation of open clusters. While this rotation may arise from residual spin inherited from a cluster's parent molecular cloud, it is unclear whether this explanation always suffices, as angular momentum is carried away by escaping stars on the timescale of two-body relaxation. In particular, the recent observance of significant rotation ($v_{\\rm rot} = 0.81 \\pm 0.06$ km s$^{-1}$) in the dynamically old ($\\approx 4$ Gyr) open cluster M67 motivates a study of another potential source of spin for Solar neighborhood clusters: tidal torquing from gravitational encounters with passing giant molecular clouds (GMCs). We derive an analytic estimate for the change in angular momentum of a cluster due to an impulsive interaction with a passing GMC, and verify this expectation by performing $N$-body simulations over a range of encounter parameters using REBOUND. For highly energetic encounters, significant angular momentum can be transferred, but the stars that receive the most angular momentum are ejected, leaving the cluster remnant with negligible net rotation. Even when considering a random walk of many GMC-cluster encounters, the integrated effects of these interactions cannot explain observations of dynamically old rotating open clusters. However, we find that within $\\sim 5$ Myr post-encounter, some disrupted clusters could be confused as rotating clusters while their stars are still dispersing. Using the local density of GMCs, we estimate that up to $\\approx 1\\%$ of open clusters in the Milky Way may carry this faux-rotation signal.",
-      "category": [
-        {
-          "@term": "astro-ph.GA",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        },
-        {
-          "@term": "astro-ph.SR",
-          "@scheme": "http://arxiv.org/schemas/atom"
-        }
-      ],
-      "published": "2026-10-26T17:36:46Z",
-      "arxiv:comment": "17 pages, 6 figures, submitted for publication in ApJ, comments welcome",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Kyle R. Tregoning"
-        },
-        {
-          "name": "Jeff J. Andrews"
-        }
-      ],
-      "score": 2.5
+      "score": 1.5
     }
   ]
 }
