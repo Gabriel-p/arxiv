@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T06:24:56.852469",
+  "fetched_at": "2026-11-20T19:46:23.778614",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.25804v1",
@@ -51,71 +51,7 @@
           "name": "Kun Wang"
         }
       ],
-      "score": 1.2
-    },
-    {
-      "id": "http://arxiv.org/abs/2611.25084v1",
-      "title": "Kinetic Tomography with Diffuse Interstellar Bands in APOGEE DR17",
-      "updated": "2026-11-18T19:22:16Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.25084v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.25084v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Context: Mapping gas flows in the interstellar medium is key to understanding the formation of structure in our Milky Way. Methods that simultaneously reconstruct clouds' distances and line-of-sight velocities are called kinetic tomography (KT). Diffuse interstellar bands (DIBs) are powerful tracers for such maps because they trace the integrated dust density and the dust-weighted velocity. Previous DIB-KT works had small samples with coarse kpc-scale resolution and could not capture vertical disk structure. Aims: Make 4D (3D position + radial velocity) maps of the Milky Way from new, high-quality 15,273 Å DIB detections in APOGEE DR17. Methods: We combine variational inference and Gaussian processes with a mixture likelihood for low signal-to-noise detections and marginalization over distance uncertainties. We calibrate the model on mock fields and spectral injection tests and validate the map against independent tracers of the dust density (3D dust maps) and velocity substructure (masers and young stellar clusters). Results: We recover a posterior distribution over 3D maps of the density and velocity structure of the 15,273 Å DIB within 6 kpc of the Sun. We measure the large-scale structure of the DIB disk (scale length, height and flare) and detect vertical distortions consistent with the warp. On smaller scales, the map resolves distance ambiguities in gas longitude-velocity diagrams. From the second-order velocity structure function, we measure a slope (0.64 $\\pm$ 0.04) consistent with Kolmogorov turbulence, amplitude consistent with expectations for molecular clouds, and a preliminary ratio of compressive-to-solenoidal modes. Conclusions: With larger DIB catalogs expected from SDSS-V, this framework should resolve kinematic substructure at the scales needed to constrain the formation and dynamics of individual clouds and voids. (abridged)",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-18T19:22:16Z",
-      "arxiv:comment": "25 pages, 17 Figures, submitted to A&A. Maps are publicly available at doi:10.5281/zenodo.24136276",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Philipp Frank"
-        },
-        {
-          "name": "Andrew K. Saydjari"
-        },
-        {
-          "name": "Catherine Zucker"
-        },
-        {
-          "name": "Susan E. Clark"
-        },
-        {
-          "name": "Douglas Finkbeiner"
-        },
-        {
-          "name": "Torsten Enßlin"
-        },
-        {
-          "name": "Andrew R. Casey"
-        },
-        {
-          "name": "Alexandre Roman-Lopes"
-        },
-        {
-          "name": "José G. Fernández-Trincado"
-        },
-        {
-          "name": "Dhanesh Krishnarao"
-        },
-        {
-          "name": "John C. Wilson"
-        }
-      ],
-      "score": 0.5
+      "score": 0.7
     },
     {
       "id": "http://arxiv.org/abs/2611.22091v1",
@@ -216,7 +152,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 4.8
+      "score": 4.3
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -311,7 +247,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 31.5
+      "score": 31.0
     }
   ]
 }
