@@ -1,6 +1,122 @@
 {
-  "fetched_at": "2026-11-19T20:13:32.798986",
+  "fetched_at": "2026-11-20T06:24:56.852469",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.25804v1",
+      "title": "The non-equilibrium state of the Galactic disk $-$ new insights from GALAH DR4",
+      "updated": "2026-11-19T09:26:39Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.25804v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.25804v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The non-equilibrium state of the Galactic disk has drawn extensive attention since ESA's \\textit{Gaia} launch. Complex structure appears across a multi-parameter space of stellar abundances, ages, and kinematics. Using GALAH DR4, we investigate ridge and phase-spiral structures in chemical-abundance, phase ($v_i,x_i$), action--angle ($J_i,θ_i$), and frequency--action ($Ω_i,J_i$) spaces ($i=R,φ,z$). Our sample includes 333,412 disk stars with reliable chemodynamical data. In the $R$--$v_φ$ plane, ridges trace near-constant $J_φ$ tracks and show coherent variations in $θ_R$ and $θ_φ$. In $J_φ$--$J_R$, ridges are most prominent when encoded by $z_{\\rm max}$ and preferentially associate with metal-rich, low-$α$ populations. In the solar neighbourhood ($R=7.2$--$9.2$\\,kpc), we recover a clear phase spiral in $z$--$v_z$. Encoded in $v_φ$, $Ω_R$, or $Ω_φ$, one-armed spirals appear, whereas the $v_R$-encoded map shows a two-armed spiral. Projecting actions onto $z$--$v_z$ reveals residual spiral signatures in $J_R$ and $J_φ$, indicating that the phase spiral encodes in-plane orbital information. Both structures depend on age: ridges remain at similar locations with varying contrast, while the phase spiral is more tightly wound in younger and more loosely wound in older populations. Several ridges correspond in $J_φ$ to known moving groups, and excluding stars in all six moving-group regions makes the phase spiral less distinct in mean radial velocity maps. These links support interpreting ridges, phase spirals, and moving groups within a common phase-space dynamical framework. Combined with trends in orbital properties, age, and abundance, these findings suggest a common dynamical origin and distinct chemodynamical responses of a perturbed Galactic disk.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-11-19T09:26:39Z",
+      "arxiv:comment": "22 pages; 14 figures; The abstract has been shortened and rephrased to meet the arXiv requirements",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Peng Yang"
+        },
+        {
+          "name": "Hai-Feng Wang"
+        },
+        {
+          "name": "Joss Bland-Hawthorn"
+        },
+        {
+          "name": "Guo-Jun Cheng"
+        },
+        {
+          "name": "Yu-Zheng Wang"
+        },
+        {
+          "name": "Yang-Ping Luo"
+        },
+        {
+          "name": "Kun Wang"
+        }
+      ],
+      "score": 1.2
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.25084v1",
+      "title": "Kinetic Tomography with Diffuse Interstellar Bands in APOGEE DR17",
+      "updated": "2026-11-18T19:22:16Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.25084v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.25084v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Context: Mapping gas flows in the interstellar medium is key to understanding the formation of structure in our Milky Way. Methods that simultaneously reconstruct clouds' distances and line-of-sight velocities are called kinetic tomography (KT). Diffuse interstellar bands (DIBs) are powerful tracers for such maps because they trace the integrated dust density and the dust-weighted velocity. Previous DIB-KT works had small samples with coarse kpc-scale resolution and could not capture vertical disk structure. Aims: Make 4D (3D position + radial velocity) maps of the Milky Way from new, high-quality 15,273 Å DIB detections in APOGEE DR17. Methods: We combine variational inference and Gaussian processes with a mixture likelihood for low signal-to-noise detections and marginalization over distance uncertainties. We calibrate the model on mock fields and spectral injection tests and validate the map against independent tracers of the dust density (3D dust maps) and velocity substructure (masers and young stellar clusters). Results: We recover a posterior distribution over 3D maps of the density and velocity structure of the 15,273 Å DIB within 6 kpc of the Sun. We measure the large-scale structure of the DIB disk (scale length, height and flare) and detect vertical distortions consistent with the warp. On smaller scales, the map resolves distance ambiguities in gas longitude-velocity diagrams. From the second-order velocity structure function, we measure a slope (0.64 $\\pm$ 0.04) consistent with Kolmogorov turbulence, amplitude consistent with expectations for molecular clouds, and a preliminary ratio of compressive-to-solenoidal modes. Conclusions: With larger DIB catalogs expected from SDSS-V, this framework should resolve kinematic substructure at the scales needed to constrain the formation and dynamics of individual clouds and voids. (abridged)",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-11-18T19:22:16Z",
+      "arxiv:comment": "25 pages, 17 Figures, submitted to A&A. Maps are publicly available at doi:10.5281/zenodo.24136276",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Philipp Frank"
+        },
+        {
+          "name": "Andrew K. Saydjari"
+        },
+        {
+          "name": "Catherine Zucker"
+        },
+        {
+          "name": "Susan E. Clark"
+        },
+        {
+          "name": "Douglas Finkbeiner"
+        },
+        {
+          "name": "Torsten Enßlin"
+        },
+        {
+          "name": "Andrew R. Casey"
+        },
+        {
+          "name": "Alexandre Roman-Lopes"
+        },
+        {
+          "name": "José G. Fernández-Trincado"
+        },
+        {
+          "name": "Dhanesh Krishnarao"
+        },
+        {
+          "name": "John C. Wilson"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2611.22091v1",
       "title": "Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars",
@@ -39,7 +155,7 @@
           "name": "Haibo Yuan"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -149,7 +265,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 11.5
+      "score": 11.0
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
@@ -196,54 +312,6 @@
         }
       ],
       "score": 31.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.36897v1",
-      "title": "Topological Centrality in Gaia Open Clusters",
-      "updated": "2026-10-27T09:30:51Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2610.36897v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2610.36897v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Open clusters exhibit diverse spatial structures that provide insight into their formation and dynamical evolution. We investigate the relationship between stellar mass segregation, network topology, and dynamical age in 871 dynamically unevolved open clusters ($τ= t/t_{\\rm rh} \\leq 1$) from Gaia-based catalogs. We construct three-dimensional k-nearest-neighbor graphs and measure Degree Centrality (DC), Closeness Centrality (CL), and Betweenness Centrality (BC). For each measure, we define a network-based mass segregation ratio (MSR) by comparing the mean centrality of the most massive stars with that of all cluster members. We test the stability of these measures across connectivity parameters $k=5$--20 and compare them with the classical 3D MSR, $Λ_{\\rm MSR,3D}$, and dynamical age. All three network ratios show positive correlations with $Λ_{\\rm MSR,3D}$, strongest for closeness centrality, while their correlations with dynamical age are weak. These results demonstrate that network analysis provides a complementary approach to studying stellar structure and mass segregation in open clusters.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-10-27T09:30:51Z",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Marat Zaidyn"
-        },
-        {
-          "name": "Aknur Sakan"
-        },
-        {
-          "name": "Atilkhan Nodyarov"
-        },
-        {
-          "name": "Aigerim Akniyazova"
-        },
-        {
-          "name": "Alisher Zhunuskanov"
-        },
-        {
-          "name": "Nurzhan Ussipov"
-        }
-      ],
-      "score": 1.5
     }
   ]
 }
