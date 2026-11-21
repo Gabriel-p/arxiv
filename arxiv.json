@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T19:46:23.778614",
+  "fetched_at": "2026-11-21T06:15:45.577832",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.25804v1",
@@ -52,46 +52,6 @@
         }
       ],
       "score": 0.7
-    },
-    {
-      "id": "http://arxiv.org/abs/2611.22091v1",
-      "title": "Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars",
-      "updated": "2026-11-17T02:20:44Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.22091v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.22091v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "Using APOGEE red clump stars and open clusters with precise ages, we investigate the age--metallicity relation (AMR) across the Galactic disk as a function of Galactocentric radius $R$ and vertical height $|Z|$. For stars older than $\\sim$6--8 Gyr, the AMR shows little dependence on either $R$ or $|Z|$ within the uncertainties, suggesting rapid and well-mixed chemical evolution in the early disk. In contrast, younger populations exhibit a clear negative radial metallicity gradient, with the inner disk being more metal-rich than the outer disk, consistent with inside-out disk growth since $\\sim$6--8 Gyr ago. Most importantly, at fixed location, the AMR for ages $\\lesssim6$--8 Gyr is non-monotonic: [Fe/H] decreases toward younger ages, reaches a minimum at intermediate ages, and then rises again. Beyond $R\\sim11$\\,kpc, the relation becomes even more complex, exhibiting an additional reversal and a distinct metallicity peak at an age of $\\sim2$\\,Gyr. Such complex behavior cannot be explained by continuous local enrichment alone, but instead points to the combined effects of a multi-phase gas-accretion history and radial migration. Episodes of metal-poor gas inflow can dilute the interstellar medium and reset its chemical evolution, while subsequent enrichment raises the metallicity again; radial migration further reshapes the observed AMR by mixing stellar populations formed at different radii and metallicities. A toy model incorporating inside-out growth, two gas-inflow episodes, and radial migration qualitatively reproduces the observed trends, highlighting the combined roles of episodic gas accretion and radial migration in shaping the chemical evolution of the Galactic disk.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-17T02:20:44Z",
-      "arxiv:comment": "15 pages, 6 figures, accepted for publication in ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Chun Wang"
-        },
-        {
-          "name": "Yang Huang"
-        },
-        {
-          "name": "Haibo Yuan"
-        }
-      ],
-      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -201,7 +161,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 11.0
+      "score": 10.5
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
