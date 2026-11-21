@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T06:15:45.577832",
+  "fetched_at": "2026-11-21T18:52:20.385134",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.25804v1",
@@ -51,7 +51,7 @@
           "name": "Kun Wang"
         }
       ],
-      "score": 0.7
+      "score": 0.2
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -112,7 +112,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 4.3
+      "score": 3.8
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -207,7 +207,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 31.0
+      "score": 30.5
     }
   ]
 }
