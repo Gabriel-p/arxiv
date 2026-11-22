@@ -1,58 +1,6 @@
 {
-  "fetched_at": "2026-11-22T05:48:54.751819",
+  "fetched_at": "2026-11-22T19:13:52.446930",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2611.25804v1",
-      "title": "The non-equilibrium state of the Galactic disk $-$ new insights from GALAH DR4",
-      "updated": "2026-11-19T09:26:39Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.25804v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.25804v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "The non-equilibrium state of the Galactic disk has drawn extensive attention since ESA's \\textit{Gaia} launch. Complex structure appears across a multi-parameter space of stellar abundances, ages, and kinematics. Using GALAH DR4, we investigate ridge and phase-spiral structures in chemical-abundance, phase ($v_i,x_i$), action--angle ($J_i,θ_i$), and frequency--action ($Ω_i,J_i$) spaces ($i=R,φ,z$). Our sample includes 333,412 disk stars with reliable chemodynamical data. In the $R$--$v_φ$ plane, ridges trace near-constant $J_φ$ tracks and show coherent variations in $θ_R$ and $θ_φ$. In $J_φ$--$J_R$, ridges are most prominent when encoded by $z_{\\rm max}$ and preferentially associate with metal-rich, low-$α$ populations. In the solar neighbourhood ($R=7.2$--$9.2$\\,kpc), we recover a clear phase spiral in $z$--$v_z$. Encoded in $v_φ$, $Ω_R$, or $Ω_φ$, one-armed spirals appear, whereas the $v_R$-encoded map shows a two-armed spiral. Projecting actions onto $z$--$v_z$ reveals residual spiral signatures in $J_R$ and $J_φ$, indicating that the phase spiral encodes in-plane orbital information. Both structures depend on age: ridges remain at similar locations with varying contrast, while the phase spiral is more tightly wound in younger and more loosely wound in older populations. Several ridges correspond in $J_φ$ to known moving groups, and excluding stars in all six moving-group regions makes the phase spiral less distinct in mean radial velocity maps. These links support interpreting ridges, phase spirals, and moving groups within a common phase-space dynamical framework. Combined with trends in orbital properties, age, and abundance, these findings suggest a common dynamical origin and distinct chemodynamical responses of a perturbed Galactic disk.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-19T09:26:39Z",
-      "arxiv:comment": "22 pages; 14 figures; The abstract has been shortened and rephrased to meet the arXiv requirements",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Peng Yang"
-        },
-        {
-          "name": "Hai-Feng Wang"
-        },
-        {
-          "name": "Joss Bland-Hawthorn"
-        },
-        {
-          "name": "Guo-Jun Cheng"
-        },
-        {
-          "name": "Yu-Zheng Wang"
-        },
-        {
-          "name": "Yang-Ping Luo"
-        },
-        {
-          "name": "Kun Wang"
-        }
-      ],
-      "score": 0.2
-    },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
       "title": "Euclid DR1 Legacy Science on Ultracool Dwarfs: Brown Dwarfs in the Blanco 1 Open Cluster",
@@ -112,7 +60,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 3.8
+      "score": 3.3
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -207,7 +155,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 30.5
+      "score": 30.0
     }
   ]
 }
