@@ -1,6 +1,66 @@
 {
-  "fetched_at": "2026-11-22T19:13:52.446930",
+  "fetched_at": "2026-11-23T06:35:19.912178",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.27680v1",
+      "title": "Characterisation of B-type stars in four young Galactic open clusters. II. Photometric variability with TESS and identification of pulsating stars",
+      "updated": "2026-11-20T14:52:05Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.27680v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.27680v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "Pulsations and binarity are important properties of massive stars and influence their structure and evolution. Young open clusters are ideal laboratories to study massive stars, since they are mostly coeval and chemically homogeneous. We analyse 82 B-type stars in the Galactic open clusters $h$ and $χ$ Persei, NGC 457, NGC 581, and NGC 1960, which have ages between 15 and 30 Myr. We extract light curves using both simple aperture photometry and a point-spread-function-based method that minimises contamination from crowded fields in full-frame images from the Transiting Exoplanet Survey Satellite (TESS) mission. We successfully extract light curves for 63 stars. The majority have photometric variability caused by pulsations, showing how pulsations are a common property of young B-type stars in clusters. We classify stars into different pulsator types based on their spectral type and frequency spectrum. The most common pulsator class are beta Cephei stars, with 29 stars in total, and we discover pulsation modes in almost all stars with a spectral type of B2 or earlier. All Be stars show pulsations, which supports the consensus of the ubiquity of pulsations in these stars. Finally, we confirm that the majority of early B-type stars are in binary systems, except for two pulsating Be stars and a star with rotational modulation. This indicates that pulsations do not significantly bias the spectroscopic detection of short-period binaries, except for Be stars where the spectroscopic radial velocity variability threshold should be higher than the typical value of 20 km s$^{-1}$.",
+      "category": [
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-20T14:52:05Z",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.SR"
+      },
+      "author": [
+        {
+          "name": "Federica Nardini"
+        },
+        {
+          "name": "Dominic M. Bowman"
+        },
+        {
+          "name": "Julia Bodensteiner"
+        },
+        {
+          "name": "Pieterjan Van Daele"
+        },
+        {
+          "name": "Laura J. A. Scott"
+        },
+        {
+          "name": "Keegan Thomson-Paressant"
+        },
+        {
+          "name": "Jan Henneco"
+        },
+        {
+          "name": "Hugues Sana"
+        }
+      ],
+      "score": 9.0
+    },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
       "title": "Euclid DR1 Legacy Science on Ultracool Dwarfs: Brown Dwarfs in the Blanco 1 Open Cluster",
@@ -109,7 +169,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 10.0
+      "score": 9.5
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
