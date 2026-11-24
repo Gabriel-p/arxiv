@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T09:06:48.745354",
+  "fetched_at": "2026-11-24T22:05:25.401950",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2611.30384v1",
@@ -45,7 +45,7 @@
           "name": "Eros Vanzella"
         }
       ],
-      "score": 1.0
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2611.29413v1",
@@ -106,7 +106,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2611.29181v1",
@@ -218,7 +218,7 @@
           "name": "Hugues Sana"
         }
       ],
-      "score": 8.5
+      "score": 8.0
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -279,7 +279,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 2.8
+      "score": 2.3
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -374,7 +374,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 29.5
+      "score": 29.0
     }
   ]
 }
