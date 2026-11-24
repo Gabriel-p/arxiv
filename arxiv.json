@@ -1,6 +1,165 @@
 {
-  "fetched_at": "2026-11-23T23:35:47.329555",
+  "fetched_at": "2026-11-24T09:06:48.745354",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2611.30384v1",
+      "title": "Deep UV Spectroscopy of an Extremely Metal-Poor Galaxy at z = 5.725",
+      "updated": "2026-11-23T09:46:31Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.30384v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.30384v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present deep X-shooter follow-up spectroscopy of AMORE6, an exceptionally metal-poor galaxy at z = 5.725. The new spectrum provides stringent upper limits on rest-frame ultraviolet metal lines, including NV, CIV, NIV], NIII], and OIII]. The non-detection of CIV breaks the density-metallicity degeneracy present in previous analyses based on the [OIII]/Hbeta ratio, excluding the high-density, chemically enriched gas scenario and strengthening the evidence for an extremely metal-poor environment. The X-shooter spectrum also reveals a narrow Lyman-alpha line with a velocity dispersion sigma_v = 23.2 +/- 0.5 km/s and a nearly symmetric profile centered at the systemic redshift measured from Hbeta. Combining the Lyman-alpha line width with the measured source size, we infer a dynamical mass M_dyn = (1-22) x 10^7 Msun, assuming that the line width traces gravitational motions. Spectral energy distribution modeling using Pop III and Pop II stellar population libraries yields stellar masses (1-5) x 10^5 Msun. Although all models reproduce the observed blue UV continuum and Halpha equivalent width (EW), none simultaneously reproduces the Hbeta luminosity and EW, with the observed Hbeta luminosity exceeding the model predictions by up to 3.7 sigma. Possible explanations include departures from standard recombination conditions or limitations in the adopted stellar population models. We discuss possible interpretations of AMORE6, including massive-star formation in an atomic-cooling halo and a gravitationally bound star cluster.",
+      "category": {
+        "@term": "astro-ph.GA",
+        "@scheme": "http://arxiv.org/schemas/atom"
+      },
+      "published": "2026-11-23T09:46:31Z",
+      "arxiv:comment": "submitted to ApJ",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Takahiro Morishita"
+        },
+        {
+          "name": "Massimo Stiavelli"
+        },
+        {
+          "name": "Zhaoran Liu"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Eros Vanzella"
+        }
+      ],
+      "score": 1.0
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.29413v1",
+      "title": "Integrated Study of NGC 1662, NGC 1778, NGC 2422, and NGC 2437 Open Clusters: from Stellar Parameters to Orbital Trajectories Utilizing Gaia DR3 Archive",
+      "updated": "2026-11-22T11:33:58Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.29413v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.29413v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "We present a comprehensive photometric, astrometric, and dynamical study of four Galactic open clusters, NGC 1662, NGC 1778, NGC 2422, and NGC 2437, using Gaia DR3 data. Probable cluster members were identified through astrometric and photometric criteria. Radial density profiles were modelled with a King-type surface-density distribution to derive structural parameters. Mean parallaxes and proper motions yielded astrometric distances of 410 +/- 12 pc (NGC 1662), 1761 +/- 335 pc (NGC 1778), 477 +/- 18 pc (NGC 2422), and 1681 +/- 172 pc (NGC 2437). Fundamental astrophysical parameters were estimated through Bayesian isochrone fitting using PARSEC evolutionary models within an MCMC framework. The resulting ages (log(t/yr)) are 8.91 (-0.33/+0.24), 8.20 (-0.11/+0.18), 7.80 (-0.11/+0.06), and 8.56 (-0.34/+0.27), respectively. Luminosity functions were transformed into present-day mass functions using an isochrone-based mass-luminosity relation. The derived mass-function slopes are broadly consistent, within uncertainties, with the classical Salpeter form. Mean systemic radial velocities from Gaia DR3 and complementary spectroscopic surveys enabled the determination of Galactic space velocities (U, V, W) in the Local Standard of Rest frame. Backward orbital integrations over 3 Gyr were performed using galpy with the MWPotential2014 Galactic potential. The resulting orbits are nearly circular (e <= 0.106), with limited vertical excursions (Z_max < 0.3 kpc), consistent with thin-disc kinematics. Inferred birth radii suggest possible outward radial displacement for NGC 2422, NGC 2437, and NGC 1778, and inward displacement for NGC 1662. Overall, all four clusters appear to have evolved within relatively stable Galactic disc orbits.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-22T11:33:58Z",
+      "arxiv:comment": "25 pages, 16 figures, 7 tables. Accepted for publication in Advances in Space Research",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "R. Canbay"
+        },
+        {
+          "name": "W. H. Elsanhoury"
+        },
+        {
+          "name": "D. C. Çınar"
+        },
+        {
+          "name": "S. Taşdemir"
+        },
+        {
+          "name": "A. Haroon"
+        },
+        {
+          "name": "M. S. Alenazi"
+        },
+        {
+          "name": "M. I. Elashiry"
+        },
+        {
+          "name": "A. Ahmed"
+        }
+      ],
+      "score": 8.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2611.29181v1",
+      "title": "Identifying Distant and Highly Reddened Star Clusters: 486 Open Clusters and Candidates in the Dusty Galactic Disk",
+      "updated": "2026-11-22T03:20:01Z",
+      "link": [
+        {
+          "@href": "https://arxiv.org/abs/2611.29181v1",
+          "@rel": "alternate",
+          "@type": "text/html"
+        },
+        {
+          "@href": "https://arxiv.org/pdf/2611.29181v1",
+          "@rel": "related",
+          "@type": "application/pdf",
+          "@title": "pdf"
+        }
+      ],
+      "summary": "The Gaia mission has transformed the census of Galactic star clusters. Most discoveries were based on Gaia DR2 and EDR3, and the rate of new large cluster catalogues has declined since 2023. The distant and dusty part of the disk is still poorly sampled because optical data are strongly affected by extinction. We search for star clusters in the Galactic disk using Gaia DR3 astrometry and photometry, together with 2MASS near-infrared photometry. We scan trial cluster centers in Galactic position, proper motion, and parallax space, assign a Bayesian membership probability to each star, construct a relative density map, and use DBSCAN solely to separate neighboring peaks. We identify 486 clusters and candidates with astrometric quality comparable to that of previously reported clusters. Of these, 450 have no literature counterpart, while 36 are known clusters that were not recovered in earlier Gaia cluster searches. The median distance is 6.9 kpc, and 39% of the objects lie beyond 8 kpc. The median extinction is Av = 5.10 mag, and 16% of the objects have Av > 8mag. The new objects fill a sparsely sampled region of the distance--extinction plane. Their distribution reveals the north--south displacement of the Galactic warp, and high-latitude objects are on average farther, older, and less extincted. Gaia DR3 still offers room for distant, dust-obscured clusters, and this sample provides a baseline for Gaia DR4. All cluster parameters, member star information, spatial distribution maps, and color-magnitude diagrams can be downloaded from https://zenodo.org/records/24431850.",
+      "category": [
+        {
+          "@term": "astro-ph.GA",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        },
+        {
+          "@term": "astro-ph.SR",
+          "@scheme": "http://arxiv.org/schemas/atom"
+        }
+      ],
+      "published": "2026-11-22T03:20:01Z",
+      "arxiv:comment": "The 486 new cluster data can be downloaded from https://zenodo.org/records/24431850",
+      "arxiv:primary_category": {
+        "@term": "astro-ph.GA"
+      },
+      "author": [
+        {
+          "name": "Zhihong He"
+        },
+        {
+          "name": "Xiaoping Wang"
+        },
+        {
+          "name": "Qian Cui"
+        },
+        {
+          "name": "Yangping Luo"
+        },
+        {
+          "name": "Kun Wang"
+        }
+      ],
+      "score": 30.0
+    },
     {
       "id": "http://arxiv.org/abs/2611.27680v1",
       "title": "Characterisation of B-type stars in four young Galactic open clusters. II. Photometric variability with TESS and identification of pulsating stars",
@@ -169,7 +328,7 @@
           "name": "Chengyuan Li"
         }
       ],
-      "score": 9.5
+      "score": 9.0
     },
     {
       "id": "http://arxiv.org/abs/2611.03172v1",
