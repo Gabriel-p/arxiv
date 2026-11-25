@@ -1,52 +1,6 @@
 {
-  "fetched_at": "2026-11-25T07:41:28.970093",
+  "fetched_at": "2026-11-25T21:21:26.386729",
   "entries": [
-    {
-      "id": "http://arxiv.org/abs/2611.30384v1",
-      "title": "Deep UV Spectroscopy of an Extremely Metal-Poor Galaxy at z = 5.725",
-      "updated": "2026-11-23T09:46:31Z",
-      "link": [
-        {
-          "@href": "https://arxiv.org/abs/2611.30384v1",
-          "@rel": "alternate",
-          "@type": "text/html"
-        },
-        {
-          "@href": "https://arxiv.org/pdf/2611.30384v1",
-          "@rel": "related",
-          "@type": "application/pdf",
-          "@title": "pdf"
-        }
-      ],
-      "summary": "We present deep X-shooter follow-up spectroscopy of AMORE6, an exceptionally metal-poor galaxy at z = 5.725. The new spectrum provides stringent upper limits on rest-frame ultraviolet metal lines, including NV, CIV, NIV], NIII], and OIII]. The non-detection of CIV breaks the density-metallicity degeneracy present in previous analyses based on the [OIII]/Hbeta ratio, excluding the high-density, chemically enriched gas scenario and strengthening the evidence for an extremely metal-poor environment. The X-shooter spectrum also reveals a narrow Lyman-alpha line with a velocity dispersion sigma_v = 23.2 +/- 0.5 km/s and a nearly symmetric profile centered at the systemic redshift measured from Hbeta. Combining the Lyman-alpha line width with the measured source size, we infer a dynamical mass M_dyn = (1-22) x 10^7 Msun, assuming that the line width traces gravitational motions. Spectral energy distribution modeling using Pop III and Pop II stellar population libraries yields stellar masses (1-5) x 10^5 Msun. Although all models reproduce the observed blue UV continuum and Halpha equivalent width (EW), none simultaneously reproduces the Hbeta luminosity and EW, with the observed Hbeta luminosity exceeding the model predictions by up to 3.7 sigma. Possible explanations include departures from standard recombination conditions or limitations in the adopted stellar population models. We discuss possible interpretations of AMORE6, including massive-star formation in an atomic-cooling halo and a gravitationally bound star cluster.",
-      "category": {
-        "@term": "astro-ph.GA",
-        "@scheme": "http://arxiv.org/schemas/atom"
-      },
-      "published": "2026-11-23T09:46:31Z",
-      "arxiv:comment": "submitted to ApJ",
-      "arxiv:primary_category": {
-        "@term": "astro-ph.GA"
-      },
-      "author": [
-        {
-          "name": "Takahiro Morishita"
-        },
-        {
-          "name": "Massimo Stiavelli"
-        },
-        {
-          "name": "Zhaoran Liu"
-        },
-        {
-          "name": "Matteo Messa"
-        },
-        {
-          "name": "Eros Vanzella"
-        }
-      ],
-      "score": 0.5
-    },
     {
       "id": "http://arxiv.org/abs/2611.29413v1",
       "title": "Integrated Study of NGC 1662, NGC 1778, NGC 2422, and NGC 2437 Open Clusters: from Stellar Parameters to Orbital Trajectories Utilizing Gaia DR3 Archive",
@@ -106,7 +60,7 @@
           "name": "A. Ahmed"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2611.29181v1",
@@ -218,7 +172,7 @@
           "name": "Hugues Sana"
         }
       ],
-      "score": 8.0
+      "score": 7.5
     },
     {
       "id": "http://arxiv.org/abs/2611.15740v1",
@@ -279,7 +233,7 @@
           "name": "Nikola Vitas"
         }
       ],
-      "score": 2.3
+      "score": 1.8
     },
     {
       "id": "http://arxiv.org/abs/2611.08925v1",
@@ -374,7 +328,7 @@
           "name": "Amaël Ellien"
         }
       ],
-      "score": 29.0
+      "score": 28.5
     }
   ]
 }
